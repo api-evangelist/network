@@ -1,0 +1,20 @@
+---
+layout: none
+---
+[
+{% for org in site.data.organizations %}{
+	"id": "{{ org.id }}",
+	"name": "{{ org.name }}",
+	"website": "{{ org.website }}",
+	"twitter": "{{ org.twitter }}",
+	"github": "{{ org.github }}",
+	"portal_url": "{{ org.portal_url }}",
+	"base_url": "{{ org.base_url }}",
+	"blog": "{{ org.blog }}",
+	"blogrss": "{{ org.blogrss }}",
+	"logo": "{{ org.logo }}",
+	"logo_width": "{{ org.logo_width }}",
+	"screenshot": "{{ org.screenshot }}",
+	"tags": {{ org.tags }}
+{% endfor %}}{% if org.last != true %},{% endif %}
+]

@@ -1,0 +1,29 @@
+---
+layout: page
+title: 'Network APIs Tooling'
+---
+<h1>{{ site.title }} Tooling</h1>
+<p>{{ site.tools_desc }}</p>
+<table width="100%" border="0">
+  {% for tool in site.data.tools %}
+    {% if tool.tags contains 'Network' %}
+    <tr>
+      <td align="center" valign="middle" width="60">
+        <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="100" align="left" style="padding: 15px;" /></a>
+      </td>
+      <td align="left" width="75%">
+        <a href="{{ tool.url }}" style="color: #000;">
+          <strong>{{ tool.name }}</strong>
+        </a>
+        <p style="font-size: 11px;">{{ tool.details }}</p>
+      </td>
+      <td width="75" align="center" valign="middle">
+          <a href="{{ tool.url }}" target="_blank" title="Website">
+            <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="25" />
+          </a>
+      </td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+</table>
+<p>If there is an "open source tool" that should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues">submit as a Github Issue, and I will consider adding</a>.</p>

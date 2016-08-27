@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <header class="masthead">
+      <div class="masthead-inner" align="center">
+
+        <!-- Masthead Title -->
+        <h2><a href="{{ site.masthead_link }}" style="font-size: {{ site.masthead_font_size }}%;">{{ site.masthead_title }}</a></h2>
+
+        <!-- Feature -->
+        <a href="{{ site.feature_link }}" target="_blank" id="feature_project_link">
+          <img id="feature_project_image" src="{{ site.feature_image_source }}" width="{{ site.feature_image_width }}%" style="border: 1px solid #FFF;" title="{{ site.feature_title }}" />
+        </a>
+
+        <div class="colophon">
+          <ul class="colophon-links">
+            {% for nav in site.navigation %}
+            <li style="padding:{{ nav.padding }}px">
+              <a href="{{ nav.link1 }}" style="font-size: {{ nav.size1 }}%;">
+                {% if nav.decorate == 1 %} <span style="font-size: {{ nav.size1 }}">&#8668;</span>{% endif %}
+                {{ nav.label1 }}
+              </a>
+              {% if nav.extend == 1 %} <span style="font-size: {{ nav.size2 }}%;">(<a href="{{ nav.link2 }}">{{ nav.label2 }}</a>)</span>{% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <script id="parterListingTemplate" type="text/template">
+            {% raw  %}
+            <a href="{{url}}" target="_blank" title="{{title}}">
+           		<img src="{{logo}}" width="{{width}}" style="padding: 1px 1px {{paddingbottom}}px 1px;" />
+            </a>
+            {% endraw %}
+        </script>
+        <div id="partnerListingContainer" align="center" style="background-color:#FFF; margin-top: 20px; padding: 10px 10px 10px 10px; width: 60%; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #FFFFFF; margin-bottom: 15px;">
+
+      </div>
+    </header>
+
+    <div class="content container">
+
+      <p align="center"><a href="{{ site.url }}"><img src="{{ site.logo }}" align="center" width="{{ site.logo_width }}%" style="padding-bottom: {{ site.logo_bottom_padding }}px;" /></a></p>
+
+      {{ content }}
+
+      <!-- Footer1 -->
+      <p align="center"><a href="{{ site.url }}" target="_blank" id="footer_project_link"><img id="footer_project_image" src="{{ site.footer_image_source }}" width="{{ site.footer_image_width }}%" title="{{ site.footer_title }}" class="fbanner" /></a></p><br />
+
+      <div class="footer">
+        <ul>
+          {% for nav in site.footernavigation %}
+            <li><a href="{{ nav.link }}">{{ nav.label }}</a></li>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+
+  </div>
+
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-1119465-51']);
+	  _gaq.push(['_setDomainName', 'apievangelist.com']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+  <script type="text/javascript">
+
+      // project view log
+     $url = "http://project.api.kinlane.com/project/view/";
+     $vlog = $.post($url, function() {});
+
+      // List Sponsors
+      function listSponsors()
+          {
+          $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {
+              $.each(data['sponsors'], function(key, val) {
+              var template = $('#parterListingTemplate').html();
+              var html = Mustache.to_html(template, val);
+              $('#partnerListingContainer').append(html);
+              });
+          });
+        }
+      listSponsors();
+
+      // Feature Projects
+      function featureProjects()
+          {
+          $get_feature_project_url = "http://project.api.kinlane.com/project/feature/";
+          $.ajax({
+            url: $get_feature_project_url,
+            type:"GET",
+            success:function(data) {
+                $feature_title = data['feature_title'];
+                $feature_image = data['feature_image'];
+                $feature_url = data['feature_url'];
+                $("#feature_project_link").attr("href", $feature_url);
+                $("#feature_project_image").attr("src", $feature_image);
+                $("#feature_project_image").attr("title", $feature_title);
+              }
+          });
+          }
+      featureProjects();
+
+      // Footer Projects
+      function footerProjects()
+          {
+          $get_footer_project_url = "http://project.api.kinlane.com/project/footer/";
+
+          $.ajax({
+            url: $get_footer_project_url,
+            type:"GET",
+            success:function(data) {
+                $footer_title = data['footer_title'];
+                $footer_image = data['footer_image'];
+                $footer_url = data['footer_url'];
+                $("#footer_project_link").attr("href", $footer_url);
+                $("#footer_project_image").attr("src", $footer_image);
+                $("#footer_project_image").attr("title", $footer_title);
+              }
+            });
+          }
+      footerProjects();
+
+  </script>
+
+  </body>
+
+</html>
