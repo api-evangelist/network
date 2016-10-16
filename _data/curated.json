@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "ijvfxCB5lX123123116G9KU8VGZTym1116M123HKL78pp3sSD9MbppcVkhbB1KYb6xQaoTq5f09rv4XVCy6MfQTTIAeiotNg117117",
+		"item_date": "2016-10-15 00:00:00",
+		"title": "Verizon Offers PayasYouGo PopData",
+		"url": "http://www.pcmag.com/news/348706/verizon-offers-pay-as-you-go-popdata?source=SectionArticles",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "at4UZDxWH5eIU27e123xg3oVN123d8nqBMdPXcz44A123dI0zORZIcJ5UL43P40123bchULnOxKkU7XydMQnjXQssWlNxA117117",
+		"item_date": "2016-10-12 10:13:27",
+		"title": "Datazar API  Build a LocationBased Airport Wifi Finder in 49 Lines",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eUtzyWB7R5MFUdzldQJynDABDKWIcpcfjo9x116DvmmZvHxMip9dmFUUz1J116NBdEJzDDaqFaIyWc1f116kfSf9llcg117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "FCC to Vote on ISP Privacy Rules",
+		"url": "https://www.lawfareblog.com/fcc-vote-isp-privacy-rules",
+		"domain": "www.lawfareblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kD968qdSnVKkxSBB3FvcoVFlwCWP3Z13fAyyjneyClckkF4CpbONmR2sXHeKQXkuQkLnhZoGR7vsjZ8DiNA116MA117117",
+		"item_date": "2016-10-13 00:00:00",
+		"title": "Internet Routing Security Effort Gains Momentum",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/internet-routing-security-effort-gains-momentum/d/d-id/1327180",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e6b8u123VUSNzhUz28iK5Klc3Y9lv8AapUzRBaMG1233NoXFdC116xSBkOc2pGLVZ70Fk116X11ynKLRKodxU8b9dOVb9A117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "Verizon is now selling unlimited data in 30minute increments",
+		"url": "http://www.theverge.com/2016/10/14/13287700/verizon-unlimited-data-popdata-in-app-purchase",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SxAx123pXnKOIvtecSmMCsU1231G8MxnhxQ8gWWrNJ5d123JzE96IPfjFqzuPBZ5dzXfwtdcA123lNi123Bhjk4UEuvFv3tQ117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "FCC Moves to Let You Control How ISPs Use Your Data",
+		"url": "http://www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4oR3e123dE14BxxWUrqJ7QieB116WfjvOa0FKfrmLOt116UXEiLTfMA4WMFvlEVGU123p9LOJUp5kmZLP4Q2Sty91c4F3w117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "New undersea cable expands capacity for Google APAC customers and users",
+		"url": "https://cloudplatform.googleblog.com/2016/10/new-undersea-cable-expands-capacity-for-Google-APAC-customers-and-users.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WADoxqfX1236btrFMbh4ETwAgsdqKP1Cgac5FilcrTqrNU5LHjNfFkVDsDaFz663lsMcWQmCsTBNUaekXAmnIjEg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "LEGOs and modern network performance monitoring",
+		"url": "http://blogs.ca.com/2016/10/12/legos-modern-network-performance-monitoring/",
+		"domain": "blogs.ca.com",
+		"image": ""
+	},
+	{
 		"curated_id": "6DYbCHr485i7oeRYNB4W3x63jbAzkPdlIhToT6ISW1160gD2IIrWMOAsHAq5pOr14TFmCExJgFQDg5CymbKfamLg117117",
 		"item_date": "2016-10-08 00:00:00",
 		"title": "Animated map reveals the 550000 miles of cable hidden under the ocean that power the internet",
