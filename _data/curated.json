@@ -1,10 +1,74 @@
 [
 	{
+		"curated_id": "s4IYZFMtu3PjtyQsk1233taFrR9Uz9PGtzoZ116Fik2EP5Kps1c4ET9hltKp116NZkil2nxfqiYoMeHLa1zAm6vBhAmQ117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Facebook hits 20Gbps in testing for internet drone data transmission",
+		"url": "http://www.pcworld.com/article/3140748/networking/facebook-hits-20gbps-in-testing-for-internet-drone-data-transmission.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PFmmSq123QBGNxttO9123m116ixT5UwyLI1OAYnb47Xrd8RN5LRS11600CIjkBniDPt8RukuKi8g1KuX02116123116gLtM5ppZw117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Heres How President Trump Could Destroy Net Neutrality",
+		"url": "http://motherboard.vice.com/read/heres-how-president-trump-could-destroy-net-neutrality",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
 		"curated_id": "DSVv116Wqh98owpBzBF92nyPLZwkCX3UD5DntGLYBht66ifVqgQLMO1i2puxQLtWyGApaSa52J0fYzEe1E2ICE5w117117",
 		"item_date": "2016-11-11 00:00:00",
 		"title": "Preserve Your Data With ATT Stream Saver",
 		"url": "http://www.pcmag.com/news/349520/preserve-your-data-with-at-t-stream-saver?source=SectionArticles",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RvElboHgP0pVZcqd3QwiyzzZ8rslXkRd6ewOu5PMJmIZiAZ06sslklMG116Qst6123HIvuW8sNkxJBvU116fTUxJgSCQ117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Major Nutanix Software Update Expands Hyperconverged Infrastructure With New SDN Security Capabilities",
+		"url": "http://www.crn.com/news/networking/300082768/major-nutanix-software-update-expands-hyper-converged-infrastructure-with-new-sdn-security-capabilities.htm",
+		"domain": "www.crn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BWAEBsdH2mncmpj8V123JlpcnBJM6rGz116JI7m176bO69PX5ybM7E4116o2aN2b7zr4rlAv123S5gaaV507H7bDFJobzg117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Net neutrality is suddenly on the chopping block",
+		"url": "http://www.theverge.com/2016/11/9/13579800/net-neutrality-donald-trump-election-open-internet",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Trs8th1vqkn0d1165MiTDkDoGUbel12xN4VROv123mr4RQ0Nxn5nC63fP133ArX1T7UQcQJGhHMKgXZM2emo0dgayA117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "ATT and Colt develop API for SDNtoSDN interoperability",
+		"url": "http://www.fibre-systems.com/news/story/att-and-colt-develop-api-sdn-sdn-interoperability",
+		"domain": "www.fibre-systems.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BSvi9a54fS6UYZFaKwMhpU5BkpK3v83116A123ydRTAhkb0ff1L6klWG7p1V3osZDYv123cxDqHXmRfEvUjKqysSSswQ117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "ATT and Colt claim software defined networking SDN breakthrough",
+		"url": "http://www.cbronline.com/news/enterprise-it/att-colt-claim-software-defined-networking-sdn-breakthrough/",
+		"domain": "www.cbronline.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gT4r116oel7tPKUJzs43DbfRXCClXt6H0SPLjv6qfZoBMW9wQ1TtNZalHUrg1162Cfpiub1r123hMayBaGXKg5m3TcUA117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "4G Cellular Networks At Risk Of DoS Attacks",
+		"url": "http://www.darkreading.com/mobile/4g-cellular-networks-at-risk-of-dos-attacks/d/d-id/1327422",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RhFY7ZVL7o5TDxneRgzb19XWYJiUwYUcKAa1hINu8uKRnHF4Otj123b7nxwYz6mUpAXgXRwEgbWue0RBXd1234z5mg117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "US broadband privacy rules grant users control meaningful rights protections",
+		"url": "https://www.accessnow.org/u-s-broadband-privacy-rules-grant-users-control-meaningful-rights-protections/",
+		"domain": "www.accessnow.org",
 		"image": ""
 	},
 	{
