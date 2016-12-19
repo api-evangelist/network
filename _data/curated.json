@@ -1,5 +1,61 @@
 [
 	{
+		"curated_id": "qFxH4omuL7BpGAtjilCX715f116QDq1161163iXKC8stId123yRBlAnic0SLv123xPifqZp7j9CJaNVoQGJTgMKm1167evi0kQ117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Google Dissects Undersea Cable to Explain the Internet",
+		"url": "http://www.pcmag.com/news/350407/google-dissects-undersea-cable-to-explain-the-internet",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PpNdekATHYG15123cdL116KZP1Db3WIJclb3fbWO37Xa36xw5RXUPO1164116TXEOAK123YkN1mZqe1231pULU8r4OJeA2iCpQ117117",
+		"item_date": "2016-12-15 18:40:18",
+		"title": "Transition from TTY to RealTime Text Technology",
+		"url": "http://transition.fcc.gov/Daily_Releases/Daily_Business/2016/db1215/DOC-342624A5.pdf",
+		"domain": "transition.fcc.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "E116rrhYPkZMGs9emIxznMOefgc8s5ysBoAvXp9u3WknX62LKpnE3Sj9OyznazW1lxCLgd4llJ7xru7xv4JnogNQ117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "ATT and Verizon tell the FCC to back off on net neutrality complaints",
+		"url": "http://www.theverge.com/2016/12/16/13985110/att-verizon-fcc-sponsored-data-net-neutrality-response",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XPgr7INmZYTCl1k123Psja7VWDSwjK0LOnTyX4uu3TXLEfj55116Ewq2xbvIBr1123IQlxuiZ4lHl4Qp2fihidQnSTIw117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "As Tom Wheeler Departs ATT Tells the FCC to Take a Hike on ZeroRating",
+		"url": "http://motherboard.vice.com/read/as-tom-wheeler-departs-att-tells-the-fcc-to-take-a-hike-on-zero-rating",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "enqAzRrzEI8WXoACh8vFlIOBytzlj9Ku9V1vbaGXAdkXBrjGBjlMtX8HZ3tGP7j0IGUp0uRNuOBzR123I8E2aWJg117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Malvertising campaign targets routers and every device connected to router",
+		"url": "http://www.itsecurityguru.org/2016/12/15/malvertising-campaign-targets-routers-every-device-connected-router/",
+		"domain": "www.itsecurityguru.org",
+		"image": ""
+	},
+	{
+		"curated_id": "KL116FxEtbJ116XJYyRZ873jAd54tTnIjid116hKjcMMYlVnJJmWh0RFaqReXyMuA1QHEWj5WOeZCSe62vjIK7BlScAw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Free 4G means Jio users have little need for Wifi",
+		"url": "https://opensignal.com/blog/2016/12/15/free-4g-means-jio-users-have-little-need-for-wifi/",
+		"domain": "opensignal.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gDgjEZGs0vUXzRV1XcqrE6tk04K8116fa9cggiKMFee6sfMPgWQU9DwXN2nc45w13mGqgyovAUKZuIr116zdqGkCwg117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "It just got easier for Republicans to roll back the laws keeping the internet open",
+		"url": "http://www.businessinsider.com/fcc-tom-wheeler-leaving-net-neutrality-rules-trump-2016-12",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
 		"curated_id": "s4IYZFMtu3PjtyQsk1233taFrR9Uz9PGtzoZ116Fik2EP5Kps1c4ET9hltKp116NZkil2nxfqiYoMeHLa1zAm6vBhAmQ117117",
 		"item_date": "2016-11-10 00:00:00",
 		"title": "Facebook hits 20Gbps in testing for internet drone data transmission",
