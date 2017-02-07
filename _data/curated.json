@@ -19,8 +19,8 @@
 		"curated_id": "iMYeK5ZzN5qtKPzM116rYP60zowhjKN4YcImcd1kX518s1pekT3yXLbs2HvbG8pL6Uos01TrX0zIkbLaDzGOaVbw117117",
 		"item_date": "2017-02-03 00:00:00",
 		"title": "US telecommunications regulator closes sponsored data probe",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/T-nYUIPOIOA/us-usa-fcc-data-idUSKBN15I2UA",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-usa-fcc-data-idUSKBN15I2UA",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -37,6 +37,70 @@
 		"title": "How Data is Transforming Transport",
 		"url": "https://dzone.com/articles/how-data-is-transforming-transport",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xE9123yIs123lZsiYPZpTbHzrVMBhuUYO3kClNFvgDuiI4P00TaA58Np9OcNzU6qqT4fi5GspiBJVDwl4HLdWIhQ8w117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Trumps FCC May Let ISPs Sell Your Private Data Without Your Consent",
+		"url": "https://motherboard.vice.com/en_us/article/trumps-fcc-may-let-isps-sell-your-private-data-without-your-consent",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0VDDmn97ojNr9VcsWLbJln45IBwEiLrcHEI28116n9giGkOQIOyFbMohKEx2BJTgeHCxA0CpwLSRUmVucEraaKGg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "FCC Extends Net Neutrality Exemption for Small ISPs",
+		"url": "http://www.pcmag.com/news/351464/fcc-extends-net-neutrality-exemption-for-small-isps",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fePzUggk2RT6VXTFP4ri6gY3iPkQupGNkYBASUnrvC2cs9kZUfKxoe1etH5z70CR4yf116Z116TZG123vDOpCiMrH70A117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "Windows Server 2016 networking embraces SDN",
+		"url": "http://searchsdn.techtarget.com/podcast/Windows-Server-2016-networking-embraces-SDN",
+		"domain": "searchsdn.techtarget.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cpsvv123mOJkcTMK7qpvOz3fQrGsbXyNr0zo116116ZR9HgBS1116LHEDcCj123D1164FlOBY2116gQbLmHKPA1TUPCsI3K7osSw117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "New York sues Charter over slow internet speeds",
+		"url": "http://www.theverge.com/2017/2/1/14469818/new-york-sues-charter-spectrum-slow-internet-speeds",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "X2Eo3Onc6qVKjRvvkqkvT5kkq1231161DDN7PLuvNHXHrKYRQfYjV521239aqTrTZKs8nouU1S0tuidlUNwcM4JPChtw117117",
+		"item_date": "2017-02-01 00:00:00",
+		"title": "Now Cisco can even network your building systems",
+		"url": "http://www.pcworld.com/article/3164189/internet-of-things/now-cisco-can-even-network-your-building-systems.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Yf2gUlxLQmhf1D116CfXAXctbhmy0VMpGAskB1Q0116SOEmUQ83ah8Pi3znFVPlB7Zyw3msn5NKkTAnynn1TqVIWDg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Actualizing the Internet of Things all starts with wireless",
+		"url": "https://techcrunch.com/2017/01/31/actualizing-the-internet-of-things-all-starts-with-wireless/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Y8BYnft44yWYUibXvKoq3rI116iKd116xnjLTLqQa8aXFRzasJp116BA3LD123QbHnU9KkS7MfOiVKyGs116123GqCxxKxaGWg117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "New FCC chair vows to shrink industry regulations",
+		"url": "http://www.reuters.com/article/us-fcc-regulations-idUSKBN15F26Z",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Y11668s9oo56K5zCQwSYWQiKFJPnLz4o643bsGLFshRme3123116GM0pDrvFxObhUR3tEPgAb88dwLtC3ZCUHx6YnIpw117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Easytoexploit authentication bypass flaw puts Netgear routers at risk",
+		"url": "http://www.pcworld.com/article/3163242/security/easy-to-exploit-authentication-bypass-flaw-puts-netgear-routers-at-risk.html#tk.rss_all",
+		"domain": "www.pcworld.com",
 		"image": ""
 	},
 	{
