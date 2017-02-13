@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "PRpg0h6f3pPL59GCYtfHhF581230Po2SAxdjqiSgH9cnTvlE4RNk91WtEpn7nOIlgh263MBVHOjz48xsgiS1165kFA117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Bristol joins race to be test bed for ultrafast 5G technology",
+		"url": "http://www.bbc.co.uk/news/uk-england-bristol-38895307",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "Y9YJai77AF9mTo5Dq3shH1161w1BQcvFQyk41163klZqz9QVxdz3au116EgoYL8Uq3lDbKrqku1bA9PYo74Qb22jk6rQ117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "80211s Security and Google WiFi",
+		"url": "https://security.googleblog.com/2017/02/80211s-security-and-google-wifi.html",
+		"domain": "security.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "oOJE116Ws9xd285N9hwWmUWP7e4vdMqZ123Q123Ri4Re1239qAgBXJPFmotKd5N04xgrUXojz11687mgyGyrXLUGt7lZE2lA117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Basic Industrial Ethernet Network Troubleshooting",
+		"url": "http://blog.opto22.com/optoblog/basic-industrial-ethernet-network-troubleshooting",
+		"domain": "blog.opto22.com",
+		"image": ""
+	},
+	{
+		"curated_id": "er7UiExDZmzsraRulRoGJOC116VsZqb28ZptPAGDvo4123iWfrVXrNyxIbPy7DLrcd1168x11600BQ9U1r8I8GGfy5sgJw117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "Network Security Policy",
+		"url": "http://resources.infosecinstitute.com/network-security-policy-part-3/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SjQ5IIDaBcq8I2Z116fKiESUL116WgujIJXdmRO5hZ116GXbz81M8yb1PsMbbS116myNpri2WOcY33DSQ5tGLKoj116Om86Q117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "FCC Abandons ZeroRating Investigation and Moves Backward on Net Neutrality",
+		"url": "https://www.eff.org/deeplinks/2017/02/fcc-abandons-zero-rating-investigation-and-moves-backward-net-neutrality",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "SDknGhjKyqP123HjurPXjuO2dVxNHsdWyYQVhhNrUTU6wxsHu9Y2VzIakcZzI0VDj1231H6lzbmsnFe7EPCyITWVFQ117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Technology explained What is 5G",
+		"url": "http://www.bbc.co.uk/news/technology-38906565",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "12360SSQRjv44dZh116wO9o1169Gnw8LY6yMtNJhm7U6dT9m9YrmP9DmRzgjTkKlOaySxt1WogMG3P123GvFVu7ut2pD3Q117117",
+		"item_date": "2017-02-06 07:12:59",
+		"title": "The Web Bluetooth Security Model",
+		"url": "https://medium.com/@jyasskin/the-web-bluetooth-security-model-666b4e7eed2#.o6o38rqqb",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5U51123qQ6Lg1BZodmmvUmSf9Dy2HHQ7wGYZJ116AOoVZOkvHVHR5huyFHFMlA83jRfHSNjKkfUPP116116AzsJFBIMFCw117117",
+		"item_date": "2017-02-06 00:00:00",
+		"title": "FCC kills investigation into datafree plans",
+		"url": "http://www.siliconbeat.com/2017/02/06/fcc-kills-investigation-data-free-plans/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qFw7hFvKqonQkQa7BFrKVMhMQtLZLpPRdzjb6F116BlQzN1qWmrokmWa2FSbgown02Uf116OcBMuo1ndJ6xs4ZTUTA117117",
 		"item_date": "2017-02-03 00:00:00",
 		"title": "FCC performs midnight revocations of previous leaderships midnight regulations",
