@@ -1,5 +1,85 @@
 [
 	{
+		"curated_id": "wIqYvrhAbIP18123AOJ116LTMKGFC1230SsVJaxdPPamqVdnLywak12yjKAV90Eo91162grIHLPEqvwxZm60myMiSEF8kA117117",
+		"item_date": "2017-03-13 00:00:00",
+		"title": "Eagle Eye Networks Inc Releases Verizon MiFi Cellular Modem Integration",
+		"url": "https://www.eagleeyenetworks.com/eagle-eye-networks-inc-releases-verizon-mifi-cellular-modem-integration/",
+		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OBzZjEomZKFdiMr4s33toJ58Oi6v1164qnlWm91FZhFwtG123854ezT12383X2g123IAREyaKFQECip116X3Q0nbsu3LVBeQ117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "New York City Sues Verizon For Fiber Optic Bait And Switch",
+		"url": "https://www.techdirt.com/articles/20170314/04285036912/new-york-city-sues-verizon-fiber-optic-bait-switch.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hgW7reZCqfZfkWUE0QFXyyM8SdcJ123VsI0sFrGOqgeOAl47hIiDfvFtM1qAZtb116fHX1YfnGCoAMCyqHwf116RPuhg117117",
+		"item_date": "2017-03-14 00:00:00",
+		"title": "New York City sues Verizon for failing to provide fiber broadband to all households",
+		"url": "http://www.theverge.com/2017/3/14/14919380/new-york-city-verizon-lawsuit-fiber-broadband",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pmihUNbasctiQzzkpYAaaBjgpjcVBfezeCYiTL6zIYxNazumfWjRUiEJ3WnWQ116c2q6X0Go2vsBApar01xqpJjw117117",
+		"item_date": "2017-03-18 08:57:12",
+		"title": "Network Layer DDoS Attacks Hit Record Levels Imperva",
+		"url": "http://www.securityweek.com/network-layer-ddos-attacks-hit-record-levels-imperva",
+		"domain": "www.securityweek.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6rC7bMaHL123Oe3JF3s6D0K3ZbW2cUrsIdLk2Su9I4seS0i3sVvt647S116BcI2ej3HboSN1gPvohJ51ssVvoZxYcg117117",
+		"item_date": "2017-03-17 16:37:55",
+		"title": "Protocol to Access WhiteSpace PAWS Databases RFC 7545",
+		"url": "https://datatracker.ietf.org/doc/rfc7545/",
+		"domain": "datatracker.ietf.org",
+		"image": ""
+	},
+	{
+		"curated_id": "8Tq3imucsUTt2Dp116m4IvRF116AsnBHJiJ1162cPEuLG4ZSLF4uMf1CFZsbc51LQbhmePy85116eQArQcwWfO28dERlng117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "Embedded platform adds WiFi software MCUs tests",
+		"url": "http://www.eetasia.com/news/article/embedded-platform-adds-wi-fi-software-mcus-tests",
+		"domain": "www.eetasia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YvMRUjE6NEE0uW0116CWe0R9qowFqOJVyxwTnfqLACL2tUr2i69xTvYdED9J0FeFtssPDgUzfnxkTX6116UzkWJRDw117117",
+		"item_date": "2017-03-17 00:00:00",
+		"title": "Unlimited data plans propaganda and the art of brinkmanship",
+		"url": "https://disruptiveviews.com/unlimited-data-plans-brinkmanship/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s123qsdsqot0PLFTMyN6KM8JAZPmh74TYmQLBs123V116JaW2IZMeUelcmTMydFMjZQL0dAVA0YhBEw12371O1Wd6uLo116w117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "HughesNet Quadruples Satellite ISP Data Caps",
+		"url": "http://www.pcmag.com/news/352288/hughesnet-quadruples-satellite-isp-data-caps",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tYBhEA123bO1FezPZhy4k123a3CtiaUvQATnMv1fvIwa2qsIQTFsxvFH5rlHMnHIez116jleZDyZDjaPPUk9gEEBs0pQ117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "California Youth in Detention and Foster Care Deserve Internet Access",
+		"url": "https://www.eff.org/deeplinks/2017/03/california-youth-detention-and-foster-care-deserve-internet-access",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "QTeEXw3Q10123mVvDMBJBg9aE2GzwH9ggAqU2Uk9vJcAIik6ZJWcCQ899InvE7sZFbrRkHEoO3j00dtWKDaCdO5A117117",
+		"item_date": "2017-03-16 00:00:00",
+		"title": "The Technical Impacts of a Virtual Private Network",
+		"url": "http://resources.infosecinstitute.com/technical-impacts-virtual-private-network/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
 		"curated_id": "kgsN1Mydledl1167zRKfhwCwFsyY1168AkfYA8EYp5Bwgra3xAIX58Whr4DxAkouy4jeN5gTgubPqSEahdcW3123MRxg117117",
 		"item_date": "2017-03-07 00:00:00",
 		"title": "Congress Dont Let Internet Providers Sell Our Data to the Highest Bidder",
