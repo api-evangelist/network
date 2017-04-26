@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "x0YlNP2u3uppYRNimFjWSLJFpy3cKe63oDQNbX0oP5RJ8H7LkcIxTiB7M7BeGO35F116TxC59znlozlTsJP1oRnQ117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Facebook Really Wants to Beam Internet From Planes",
+		"url": "http://www.pcmag.com/news/353169/facebook-really-wants-to-beam-internet-from-planes",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UA7hU5XsLcIbZBY71gJwDoe44H4uvLoA6XDMtrGUbwC43OKARkI123sQckSt123hAppAuYFT1xW3XNEoYKblEN3116Nw117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Deploying OpenDaylight in AWS",
+		"url": "https://dzone.com/articles/deploying-opendaylight-in-aws",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1235Y5QctmujJiw81wd3123gBHJbKTPh55qanyYRsH116uDavTpw0J7yoF2uv116Ky2WaQU9lHWID55zCbBCtSOOlX1HaQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Facebook Helicopters To Deliver Internet In An Emergency",
+		"url": "http://www.cxotoday.com/story/facebook-looks-to-helicopters-to-deliver-internet/",
+		"domain": "www.cxotoday.com",
+		"image": ""
+	},
+	{
 		"curated_id": "5j8ZdGaRsd4mFGdlBWyur8V5r116S9H7lbFO09vyayiL9ahUPoZGDTJwPgcG123YBcZ9dBQ8SNvNWJBIUQO7wb1xsA117117",
 		"item_date": "2017-04-22 00:00:00",
 		"title": "Linksys Routers Vulnerable to DDoS Attacks",
@@ -13,6 +37,30 @@
 		"title": "Open APIs central to efforts in accelerating SDN development",
 		"url": "http://www.rcrwireless.com/20170419/software-defined-networking-sdn/open-apis-central-to-efforts-in-accelerating-sdn-development-tag2",
 		"domain": "www.rcrwireless.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FFmY5iLsigUPcaTOdiLH57v0JBPYvgwCXQHNTwjN6fKV1nVpMihCFNIp6hZy7EPfyOWBgJ7ueXZbReq1uUJYrw117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "FCC Moves To Make Life Easier For Business Broadband Monopolies",
+		"url": "https://www.techdirt.com/articles/20170419/06230937183/fcc-moves-to-make-life-easier-business-broadband-monopolies.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "12F29KuoCInoIaWPCeM123pf6KyptLTS91lL123zGin123rsP3F38btESZVydbKX2TiGlgnW3uSbkjxrDSgKi8adnLhQ117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "US FCC ends price caps on many business data lines",
+		"url": "http://www.pcworld.com/article/3191391/internet/us-fcc-ends-price-caps-on-many-business-data-lines.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SYreabCKfoJ9jJBuWpRjIfVjOKPsBNXJSw75mQhrqTW9eGnGT60CiI46cZPBuproSG5YJrzQZ3tmuJJ8DieICg117117",
+		"item_date": "2017-04-20 00:00:00",
+		"title": "Trumps FCC to Vote to Allow Broadband Rate Hikes for Schools and Libraries",
+		"url": "https://motherboard.vice.com/en_us/article/trumps-fcc-to-vote-to-allow-broadband-rate-hikes-for-schools-and-libraries",
+		"domain": "motherboard.vice.com",
 		"image": ""
 	},
 	{
