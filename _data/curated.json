@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "rL116MjqIlGBq1XJHxcssbKSFX1IEzdQe2EmeWsTIg9vxscDsUDfKCcp7H0h5qGTLMngf116uAbSZzcM2pBTCvk8CQ117117",
+		"item_date": "2017-05-01 00:00:00",
+		"title": "Limitations of ISP Data Pollution Tools",
+		"url": "https://www.eff.org/deeplinks/2017/05/limitations-isp-data-pollution-tools",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "kR65PuY9s4IarPNmNlWfCoC9ow1ekIPOVO2RbOgMzUS52udb8QvmH7no1231rz5bkI116WBiJXElh5qiUwTzcj41Lw117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "TMobile Announces LowBand 5G Network",
+		"url": "http://www.pcmag.com/news/353421/t-mobile-announces-low-band-5g-network",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lDPgXDgmnvAzvMipv123d123VOXC6xbojnMooQW58SpM123Re3UrPOqUFH8bH116vt116rAgW123GhX1Sc8FsRbK8dAKzoPrNg117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Maine The Latest State To Try And Let Giant Broadband Providers Write Shitty Protectionist State Law",
+		"url": "https://www.techdirt.com/articles/20170503/06115337293/maine-latest-state-to-try-let-giant-broadband-providers-write-shitty-protectionist-state-law.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YksnTQ1tuKpFTnG11163mN5XNhm6HlW7mSZR4WtM116Tiss21tdU2pXmWmfmzTm3n12331Jz4v8Am123116fAxM3Et0zziVA117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Actually Congress Did Undermine Our Internet Privacy RIghts",
+		"url": "https://www.eff.org/deeplinks/2017/05/congress-repealing-our-internet-privacy-rights-meant-congress-repealed-internet",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "sGgGTGBQI9ZeKi181j9JlCBg123WBvmBDq6EGsz116ObUYkZF7TxJcrO123mtlMRMIuSUZJTP1116PR123GbeEI2O5t2VqTQ117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "Ted Cruz Doubles Down On Being Wrong Pushes Yet Another Net Neutrality Killing Bill",
+		"url": "https://www.techdirt.com/blog/netneutrality/articles/20170503/08475137294/ted-cruz-doubles-down-being-wrong-pushes-yet-another-net-neutrality-killing-bill.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OroM5HZ116Hf123T58UMsrsyxaGr46HX116zzcaURf7yDRuP0R2p0MtMVwmHwu3XvmOCPBE0hFudZ4123y8IcWTWUMZylA117117",
+		"item_date": "2017-05-04 00:00:00",
+		"title": "SpaceX outlines plans to deliver broadband via satellite by 2019",
+		"url": "https://thenextweb.com/space/2017/05/04/spacex-outlines-plans-to-deliver-low-latency-broadband-via-satellite-by-2019/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NdCyFpUk2xoD3b49RyJhlkRE2rQci0YikuonH63mzov0yBS3EI89LYALwfPL3paQr8rvgs5yrkiL1160fL8n5ImQ117117",
+		"item_date": "2017-05-03 00:00:00",
+		"title": "How eero mesh WiFi routers connect to the cloud",
+		"url": "https://blog.cloudflare.com/eero-cloudflare/",
+		"domain": "blog.cloudflare.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EuoTf2o1puAQj76Lz2y8G123ozDMBpretZSPmAQGKJGmJJKp24UEyOpQR1Qk6123I6rPhSd6PQFXdJJs3116aSYDkGuQ117117",
+		"item_date": "2017-05-02 00:00:00",
+		"title": "iRobot adds WiFi connectivity to more home robots",
+		"url": "http://www.zdnet.com/article/irobot-adds-wi-fi-connectivity-to-more-home-robots/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "mNeufBcvmFFx4rD3A6byliwLP8dubqeoAdbxb3MnmksyI4c4YUuSx5qnibtBZrMpKeuvJz32Dv116NzBhxLk0l7Q117117",
 		"item_date": "2017-04-26 00:00:00",
 		"title": "Verizon Announces Unlimited Prepaid Plan",
