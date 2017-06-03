@@ -6,7 +6,7 @@ title: 'Network APIs News'
 <h3>{{ site.title }} News</h3>
 <p>{{ site.curated_desc }}</p>
 <ul style="padding: 0px 50px 0px 50px;">
-{% for curated in site.data.curated %}
+{% for curated in site.data.curated.index %}
 	<li>
 		<a href="{{ curated.url }}" title="{{ curated.title }}" style="color:#000; font-size: 12px;">{{ curated.title }}</a>
 		<span style="color:#000; font-size: 12px;">(&nbsp;<a href="http://{{ curated.domain }}" style="color:#000; font-size: 12px;"><i>{{ curated.item_date | date_to_string }}&nbsp;{% if curated.domain != null %}on&nbsp;{{ curated.domain }}{% endif %}</i></a>)</span>
