@@ -1,0 +1,3627 @@
+- view_sort: '0'
+  name: History of APIs
+  identifier: ''
+  url: 'http://history.apievangelist.com'
+  description: >-
+    This is my history of the web API space, covering the last 14 years of
+    evolution from early pioneers like Salesforce to current leaders like
+    Twilio. As the space matures, I keep adding other pillars that have defined
+    the space.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png'
+  imagewidth: ''
+  category: '101'
+  github_org: 'NULL'
+  github_repo: history
+- view_sort: '0'
+  name: API 101
+  identifier: ''
+  url: 'http://101.apievangelist.com'
+  description: >-
+    The basic API 101 series that has evolved from the home page of API
+    Evangelist. This project represents my highest level view of the API space,
+    meant for anyone looking to understand the space.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png'
+  imagewidth: ''
+  category: '101'
+  github_org: 'NULL'
+  github_repo: api-101
+- view_sort: '0'
+  name: OAuth 101
+  identifier: ''
+  url: oauth.apievangelist.com
+  description: >-
+    I'm working on preparing a 101 intro into oAuth for newbies. I'm working to
+    aggregate news, analysis, tools, companies, individuals, technologies and
+    the interesting things they are doing with API security using oAuth.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png'
+  imagewidth: ''
+  category: '101'
+  github_org: 'NULL'
+  github_repo: oauth-101
+- view_sort: '0'
+  name: Adopta Agency (Website)
+  identifier: ''
+  url: 'http://adopta.agency'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/adopta-agency/adopta-agency-logo-uppercase.png
+  imagewidth: ''
+  category: Adopta
+  github_org: adopta-agency
+  github_repo: master
+- view_sort: '0'
+  name: Adopta - US Federal Budget
+  identifier: ''
+  url: 'http://kinlane.github.io/us-federal-budget/'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-open-budget.png'
+  imagewidth: ''
+  category: Adopta
+  github_org: kinlane
+  github_repo: us-federal-budget
+- view_sort: '0'
+  name: Clinical Trials
+  identifier: ''
+  url: 'http://adopta-agency.github.io/clinical-trials/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Adopta Agency
+  github_org: adopta-agency
+  github_repo: clinical-trials
+- view_sort: '0'
+  name: Adopta Agency
+  identifier: ''
+  url: 'http://adopta-agency.github.io/open-referral-api/'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/adopta-agency/open-referral/openreferral-logo.png
+  imagewidth: ''
+  category: Adopta Agency
+  github_org: apistrat
+  github_repo: ''
+- view_sort: '0'
+  name: Open Eligibility Taxonomy API
+  identifier: ''
+  url: 'http://open.eligibility.adopta.agency/'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/adopta-agency/adopta-agency-primary.png
+  imagewidth: ''
+  category: Adopta Agency
+  github_org: adopta-agency
+  github_repo: open-eligibility
+- view_sort: '0'
+  name: GSA Index
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Adopta Agency
+  github_org: gsa-data
+  github_repo: index
+- view_sort: '0'
+  name: Algo Rotoscope
+  identifier: ''
+  url: 'http://algorithmic.rotoscope.work'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: AlgoRotoscope
+  github_org: kinlane
+  github_repo: algo.rotoscope.work
+- view_sort: '0'
+  name: teh jigz up
+  identifier: ''
+  url: 'https://kinlane.github.io/teh-jigz-up/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Alternate
+  github_org: kinlane
+  github_repo: teh-jigz-up
+- view_sort: '0'
+  name: Cybersecurity.Theater
+  identifier: ''
+  url: cybersecurity.theater
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Alternate
+  github_org: kinlane
+  github_repo: cybersecurity-theater
+- view_sort: '0'
+  name: API Commons
+  identifier: ''
+  url: 'http://apicommons.org'
+  description: >-
+    API Commons&amp;nbsp;is about providing a simple and transparent mechanism
+    for the copyright free sharing and collaborative design of API
+    specifications, interfaces and data models. When learning about API Commons
+    it can be easy to focus on the obvious technical deliverables of the
+    project, API definitions, data models, schemas and specifications.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+  imagewidth: ''
+  category: API Commons
+  github_org: 'NULL'
+  github_repo: api-commons
+- view_sort: '0'
+  name: API Questions
+  identifier: ''
+  url: 'http://api-questions.apievangelist.com'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-questions
+- view_sort: '0'
+  name: API Certification
+  identifier: ''
+  url: 'http://api-certification.apievangelist.com'
+  description: 'NULL'
+  image: 'NULL'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-certification
+- view_sort: '0'
+  name: API Pricing (api-plans)
+  identifier: ''
+  url: 'http://api-pricing.apievangelist.com/'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.jpg'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-pricing
+- view_sort: '0'
+  name: API Config
+  identifier: ''
+  url: 'http://api-config.apievangelist.com/'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-gear.png'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-config
+- view_sort: '0'
+  name: API Keys
+  identifier: ''
+  url: 'http://api-keys.apievangelist.com/'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-key.png'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-keys
+- view_sort: '0'
+  name: API Credits
+  identifier: ''
+  url: 'http://api-credits.apievangelist.com'
+  description: 'NULL'
+  image: 'NULL'
+  imagewidth: ''
+  category: API Commons
+  github_org: api-commons
+  github_repo: api-credits
+- view_sort: '0'
+  name: Swagger
+  identifier: ''
+  url: 'http://swagger.apievangelist.com'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-swagger-round.png'
+  imagewidth: ''
+  category: API Definitions
+  github_org: 'NULL'
+  github_repo: swagger
+- view_sort: '0'
+  name: API Blueprint
+  identifier: ''
+  url: 'http://api-blueprint.apievangelist.com'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-blueprint-icon.png
+  imagewidth: ''
+  category: API Definitions
+  github_org: 'NULL'
+  github_repo: api-blueprint
+- view_sort: '0'
+  name: Twilio
+  identifier: ''
+  url: twilio.stack.network
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: twilio-api-definition
+- view_sort: '0'
+  name: Stripe
+  identifier: ''
+  url: stripe.stack.network
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: stripe-api-definition
+- view_sort: '0'
+  name: Verizon Thingspace Develop
+  identifier: ''
+  url: 'http://verizon.stack.network'
+  description: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vzlogo_lg.png
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: verizon-api-definition
+- view_sort: '0'
+  name: Century Links Cloud API
+  identifier: ''
+  url: 'http://century.link.stack.network'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: century-link-api-definition
+- view_sort: '0'
+  name: Docomo API Stack
+  identifier: ''
+  url: 'http://docomo.stack.network/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: docomo-api-definition
+- view_sort: '0'
+  name: AngelList API Definition
+  identifier: ''
+  url: 'http://angellist.stack.network'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: angellist-api-definition
+- view_sort: '0'
+  name: Alchemy API Definition
+  identifier: ''
+  url: 'http://alchemy.stack.network'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: API Stack Definitions
+  github_org: api-stack
+  github_repo: alchemy-api-definition
+- view_sort: '0'
+  name: APIs.json
+  identifier: ''
+  url: 'http://apisjson.org'
+  description: >-
+    APIs.json is a machine readable JSON file that lives in the root of your
+    domain, and describes your APIs and its supporting API program. Think of
+    APIs.json as a&nbsp;<a href=\http://www.robotstxt.org/\">robots.txt</a>
+  image: ''
+  imagewidth: ''
+  category: APIs.json
+  github_org: ''
+  github_repo: ''
+- view_sort: '0'
+  name: APIStrat Austin
+  identifier: ''
+  url: 'http://austin2015.apistrat.com'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/apistrat-austin-logo.png
+  imagewidth: ''
+  category: APIStrat
+  github_org: apistrat
+  github_repo: apistrat-austin
+- view_sort: '0'
+  name: APIStrat Boston
+  identifier: ''
+  url: 'http://boston2015.apistrat.com'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/events/apistrat-boston-2016/apistrat-logo-boston-2016.jpg
+  imagewidth: ''
+  category: APIStrat
+  github_org: apistrat
+  github_repo: apistrat-boston
+- view_sort: '0'
+  name: APIStrat
+  identifier: ''
+  url: 'http://apistrat.com'
+  description: ''
+  image: 'http://apistrat.com/wp-content/uploads/2014/12/apisrtrat-logo.png'
+  imagewidth: ''
+  category: APIStrat
+  github_org: apistrat
+  github_repo: apistrat
+- view_sort: '0'
+  name: Federal Agency Dataset Adoption
+  identifier: ''
+  url: of a distributed government data adoption system that runs on Github.</p>"
+  description: >-
+    I've pulled references to over 5,000 datasets, from 22 federal agencies. I
+    wanted to create a way to \adopt\" any of these datasets
+  image: 'https://federal-agency-dataset-adoption.publicprivatesector.org'
+  imagewidth: ''
+  category: Archive
+  github_org: Public Private Sector
+  github_repo: >-
+    clean up and published alternative formats like JSON and CSV. &nbsp;This is
+    my proof of concept
+- view_sort: '0'
+  name: APIs.io
+  identifier: ''
+  url: 'http://apis.io/'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-io/apis-io.png
+  imagewidth: ''
+  category: Banner Partner
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: Backend as a Service
+  identifier: ''
+  url: 'http://baas.apievangelist.com/'
+  description: >-
+    My deep dive into the backend as a service (BaaS) providers that have
+    emerged since 2011, moving this research from trend to a solid part of API
+    consumption that I'm tracking on. I'm regularly aggregating&nbsp;all the
+    news, analysis, companies and technology I can find from the BaaS space.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/baas-trends.png
+  imagewidth: ''
+  category: BaaS
+  github_org: api-evangelist
+  github_repo: backend-as-a-service
+- view_sort: A
+  name: Definitions
+  identifier: ''
+  url: 'http://definitions.apievangelist.com'
+  description: >-
+    This is the most important research in my stack in my opinion, focusing on
+    the API definitions, schema, and standards that are being used across the
+    API sector to define every aspect of API operations. These definitions are
+    being used across every stop along this cycle as a sort of central truth,
+    and often providing a contract that defines operations.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-definitions.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: definitions
+- view_sort: AB
+  name: Design
+  identifier: ''
+  url: 'http://design.apievangelist.com'
+  description: >-
+    A toolkit where I gather all the news, analysis, companies and technology
+    when it comes to designing APIs.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-design-fiction.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: design
+- view_sort: AC
+  name: Hypermedia
+  identifier: ''
+  url: 'http://hypermedia.apievangelist.com'
+  description: >-
+    Hypermedia is the the latest trend in API design to pick up some serious
+    momentum. It is time for it to have its own research area on API Evangelist,
+    allowing me to curate news, tools, companies and individuals who are leading
+    in the space and start evolving my analysis and storytelling in the area of
+    hypermedia APIs.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-hypermedia.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: hypermedia
+- view_sort: AD
+  name: DNS
+  identifier: ''
+  url: 'http://dns.apievangelist.com'
+  description: >-
+    DNS is the front-line of web and API operations, and increasingly this area
+    of API operations is API driven, allowing it to be managed using APIs.
+    Making the the frontline of API operations configurable using APIs, making
+    this part of operations a much more agile, flexible, and powerful part of
+    how APIs are done.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: dns
+- view_sort: AE
+  name: Low Hanging Fruit
+  identifier: ''
+  url: 'http://low.hanging.fruit.apievangelist.com/'
+  description: >-
+    It can be difficult to get started with APIs, and I have an approach to
+    helping new organizations think about where the lowest hanging fruit is when
+    it comes to providing APis. There are usually two areas I look at as low
+    hanging fruit, involved what is already on the website, and available via
+    existing software systems. This is my work to track what is going on from
+    this area of the API lifecycle.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-grapes.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: low-hanging-fruit
+  github_repo: master
+- view_sort: AF
+  name: Scraping
+  identifier: ''
+  url: 'http://scraping.apievangelist.com'
+  description: >-
+    My research into the wonderful and often very controversial world of web
+    scraping and how this can be used to generate data, content and resources
+    for APIs. &nbsp;I'm tracking on news and companies in the space, but also
+    watching some of the politics and legalities around scraping.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-scraping.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: scraping
+- view_sort: AG
+  name: Database
+  identifier: ''
+  url: 'http://database.apievangelist.com'
+  description: >-
+    Many API implementations begin with a database. Often times APIs assume the
+    characteristics of the databases behind them. Making APIs available from
+    data that is stored in a central database is the number one way in which
+    folks are deploying APIs, so I wanted to take the time and consider the
+    database implications on the API lifecycle.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-database-new.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: database
+- view_sort: AH
+  name: Deployment
+  identifier: ''
+  url: 'http://deployment.apievangelist.com'
+  description: >-
+    A toolkit where I gather all the news, analysis, companies and technology
+    when it comes to deploying APIs.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-deployment.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: deployment
+- view_sort: AI
+  name: Microservices
+  identifier: ''
+  url: 'http://microservices.apievangelist.com'
+  description: >-
+    My work to cover the latest trend in the API space, and designing your APIs
+    in a very moduler, decoupled way, allowing APIs to do one thing, and do it
+    well, but play an important role in a larger strategy. I see microservices
+    as more philosophy and culture than it is technology, but nonetheless it is
+    an important aspect of API operation.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-microservice.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: microservices
+- view_sort: AJ
+  name: Algorithms
+  identifier: ''
+  url: 'http://algorithms.apievangelist.com'
+  description: >-
+    Many data are APIs, but when they are more programmatic, and algorithmic I
+    will track on details here. I am a big proponent of algorithmic transparency
+    using APIs, where the inputs and outputs of algorithms can be made available
+    via APIs--pulling back the curtain a little bit on the black box that is
+    often algorithms.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-algorithms.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: algorithms
+- view_sort: AK
+  name: Proxy
+  identifier: ''
+  url: 'http://proxy.apievangelist.com'
+  description: >-
+    Proxies and gateways play an important role in defining and deploying APIs,
+    but also help us better understand how clients are using APIs, what request
+    and reponses look like, and the other finer details of operations. This is
+    my work to understand the role proxies can play across the API lifecycle.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-proxy.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: proxy
+- view_sort: AL
+  name: Virtualization
+  identifier: ''
+  url: 'http://virtualization.apievangelist.com'
+  description: >-
+    Virtualizing APIs and the resources they serve up is an important part of
+    the API design, deployment, management, and testing environments. This is my
+    work to understand how APIs are being mocked and virtualized, as well as the
+    other aspects of API operations, like test data, or may resources for
+    training AI and machine learning. Virtualization is a pretty big umbrella,
+    but this is my research into sorting through exactly what it is.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: virtualization
+- view_sort: AM
+  name: Containers
+  identifier: ''
+  url: 'http://containers.apievangelist.com'
+  description: >-
+    My goal is to understand how APIs and containers work together, and as I do
+    with all of my research I setup a Github repo for tracking every piece of
+    container news I read that I feel is relevant, each company doing
+    interesting things containers, tools for working with containers, and
+    ultimately my analysis. Cloud computing will continue to be the lead driver
+    of innovation in the API space, and I feel the introduction of cloud
+    computing in 2006&ndash;2008 gave legitimacy to web APIs&mdash;you could now
+    deploy global infrastructure using web APIs, game on. I think
+    containerization will take API design, deployment, management and
+    integration to the next phase, and closer the early visions of a
+    programmable web we all started envisioning around 2005.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-shipping-container.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: containers
+- view_sort: AN
+  name: Management
+  identifier: ''
+  url: 'http://management.apievangelist.com/'
+  description: >-
+    This is the oldest area of my research, and the first aspect of APIs I
+    started studying in 2010. It has spawned every other area of the API
+    lifecycle I track on, so there are many overlaps and linkages to other stops
+    along the way. API management has matured to include service composition,
+    establishing analysis and awarness, as well as reporting and billing on top
+    of that activity. I'm looking to track on what is happening to API mangement
+    now that it is being commoditized.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: management
+- view_sort: AO
+  name: Serverless
+  identifier: ''
+  url: 'http://serverless.apievangelist.com'
+  description: >-
+    Another latest trend evolving out of cloud computing and the world of
+    microservices being led by Amazon Web Services with their Lambda service.
+    I'm tracking on how serverless is being leveraged to deploy simple, modular,
+    single purpose APIs that can be deployed in any cloud infrastructure, and
+    leveraged to not just build applicaitons, but also manage API infrastructure
+    that drives it.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-serverless.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: serverless
+- view_sort: AP
+  name: Portal
+  identifier: ''
+  url: 'http://api-portal.apievangelist.com'
+  description: >-
+    HTML and websites are for humans, and JSON and portals for developers and
+    the applications they are building on top of API resources. I've looked at
+    thousands of API portals, and have been aggregating the common building
+    blocks of the successful API portals I've come across, and aggregated them,
+    and even crafted a simple set of API and developer portal templates that
+    anyone can fork and put to use in their operations.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal.jpg'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: portal
+- view_sort: AQ
+  name: Getting Started
+  identifier: ''
+  url: 'http://getting-started.apievangelist.com'
+  description: >-
+    A getting started page for APIs is all about getting the new and potential
+    API consumer up to speed with what it takes to get started with an API. This
+    is my research to track on the different approaches, and aggregate into a
+    single approach I can apply to my own APIs, as well as share along the way.
+    I have started crafting an API to help me organize all of it, so stay tuned.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: getting-started
+- view_sort: ''
+  name: Stack
+  identifier: ''
+  url: 'http://theapistack.com'
+  description: >-
+    The API Stack is an interactive, published list of companies that I'm
+    watching in the API space. I regularly go through my list of companies in my
+    CRM and high grade them, and promote or demote them on my monitoring list.
+    The API Stack is meant to be a reflection of this research, published in a
+    way that others can browse, and fork.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-stacks.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: api-stack
+- view_sort: AR
+  name: Documentation
+  identifier: ''
+  url: 'http://documentation.apievangelist.com'
+  description: >-
+    Documentation is one of the most important building blocks for API
+    operations, and has be continually pointed out as being the biggest pain
+    point when it comes to API integration. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling I've aggregated here in this
+    research projects Github repository.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-documentation.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: documentation
+- view_sort: AS
+  name: Frequently Asked Questions
+  identifier: ''
+  url: 'http://frequently-asked-questions.apievangelist.com'
+  description: >-
+    No matter how well designed your API is, and easy it is to get up and
+    running, new users will always have questions. this is a research project,
+    API(s), and tooling to help manage the frequently asked questions that
+    surround API operations. It seems like a simple thing, but can go along way
+    in helping making learning what an API does a lot easier.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: frequently-asked-questions
+- view_sort: AT
+  name: Support
+  identifier: ''
+  url: 'http://support.apievangelist.com'
+  description: >-
+    I've been tracking on the ways that leading companies who are doing APis
+    handle their support for some time now. I've been formalizing my research,
+    and organizing it here. I will keep working to organize better, and produce
+    guides, and tooling. To help drive some of it I have also developed an API
+    that will help me manage my open APIs, as well as the support on others.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-support.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: support
+- view_sort: AU
+  name: Communications
+  identifier: ''
+  url: 'http://communications.apievangelist.com'
+  description: >-
+    When API efforts come out of developer and IT groups they often lack one
+    important component, communication. This is my work to track on the
+    successful API efforts and better understand how they are communicating with
+    developers, end users, and other stakeholders who are involved with an API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-chat.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: communications
+- view_sort: B
+  name: Road Map
+  identifier: ''
+  url: 'http://roadmap.apievangelist.com'
+  description: >-
+    This is a reserch area to understand how companies are publishing a road map
+    as part of their API operations. My goal is to better understand, and
+    aggregate this knowledge into a single place, so I can learn from, as well
+    share knowledge along the way. I have also published an API to help me
+    organize, and use across my API portals.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-roadmap.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: road-map
+- view_sort: BC
+  name: Issues
+  identifier: ''
+  url: 'http://issues.apievangelist.com'
+  description: >-
+    This is a reserch area to understand how companies are publishing a road map
+    as part of their API operations. My goal is to better understand, and
+    aggregate this knowledge into a single place, so I can learn from, as well
+    share knowledge along the way. I have also published an API to help me
+    organize, and use across my API portals.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bug.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: issues
+- view_sort: BD
+  name: Change Log
+  identifier: ''
+  url: 'http://change-log.apievangelist.com'
+  description: >-
+    A change log is a critical building block for helping build and keep trust
+    with API consumers. It is about providing enough information as you can
+    about what has changed with the platform. This research tracks on how
+    companies are employing and communicating around their API. I'm aggregating
+    the information, as well as deploying an API to help organize my change log
+    across my projects, as well as share with everyone here.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: change-log
+- view_sort: BE
+  name: Monitoring
+  identifier: ''
+  url: 'http://monitoring.apievangelist.com'
+  description: >-
+    This is my research to better understand how API providers are monitoring
+    their API operations, and what services and tooling they are using to
+    monitor a variety of API services. Monitoring might be as simple as seeing
+    if an API is up or down, or as complex as ensuring an API meets the
+    requirements of any SLA that is present as part of API operations.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-heart-monitor.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: monitoring
+- view_sort: BF
+  name: Testing
+  identifier: ''
+  url: 'http://testing.apievangelist.com'
+  description: >-
+    Augmenting my API monitoring research, I quickly saw that testing APIs was a
+    pretty large realm, and understanding how API testing is occurring would
+    take a considerable amount of work. This is my work to understand the
+    companies, services, tools, and the common building blocks that QA and API
+    developers are using to get their job done.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-testing.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: testing
+- view_sort: BG
+  name: Performance
+  identifier: ''
+  url: 'http://performance.apievangelist.com'
+  description: >-
+    Nobody like a slow website, and APIs are no different. This is my research
+    into understanding how API providers are measuring API performance, and what
+    services and tooling they are using to do this. This area definitely
+    overlaps with monitoring and testing, but is worthy of its own look to
+    understand performance across the sector.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-performance.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: performance
+- view_sort: BI
+  name: Reliability
+  identifier: ''
+  url: 'http://reliability.apievangelist.com'
+  description: >-
+    This is a research project to track on how API providers communicate and
+    demonstrate their platform reliabilitiy to their consumers. I'm tracking on
+    status pages to service level agreements (SLA), anything that helps
+    determine reliability. You can find news I've curated, organizations doing
+    interesting things, some of the common building blocks I've identified, and
+    open source tooling I've aggregated here in this research projects Github
+    repository.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-reliability.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: reliability
+- view_sort: BJ
+  name: Authentication
+  identifier: ''
+  url: 'http://authentication.apievangelist.com'
+  description: >-
+    This is my work to track on the standard approaches to providing
+    authentication for APIs. As I do with all my research areas, I aggregate the
+    approaches I find, and share the information here. REcently I am working to
+    standardize some of this, and apply to my open APIs, while sharing the
+    information tools, and APIs I create along the way.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: authentication
+- view_sort: BK
+  name: Encryption
+  identifier: ''
+  url: 'http://encryption.apievangelist.com'
+  description: >-
+    This is my research to better understand encryption, and understand how it
+    impacts APIs, and vice versa. This research project looks to keep an eye on
+    what API providers are doing when it comes to encryption, as well as keep an
+    eye on the features that API service providers are offering up services, and
+    tooling related to encryption.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-encryption.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: encryption
+- view_sort: BL
+  name: Vulnerabilities
+  identifier: ''
+  url: 'http://vulnerabilities.apievangelist.com'
+  description: >-
+    This is my research to better understand the types of vulnerabilities being
+    discovered out there. Not everything listed here is directly API related,
+    but I think the wider understand helps my work in this area. Right now it is
+    mostly curated news, but will be expanding information as I have time.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-vulnerabilities.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: vulnerabilities
+- view_sort: BM
+  name: Security
+  identifier: ''
+  url: 'http://security.apievangelist.com'
+  description: >-
+    This is my research to better understand, and hopefully define what it takes
+    to secure APIs. This area is the biggest concern of companies looking to do
+    APIs, but is one of the most deficient areas of the API life cycle. You can
+    find news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-padlock.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: security
+- view_sort: BN
+  name: Terms of Service (TOS)
+  identifier: ''
+  url: 'http://terms-of-service.apievangelist.com'
+  description: >-
+    This is the single most important building block of any API, yet is one of
+    the most under discussed and shared area of the API communities. I'm
+    determined in 2014 to bring API terms of service (TOS) front and center,
+    increase the number of open tools and support services available for API
+    providers and consumers.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: terms-of-service
+- view_sort: BO
+  name: Privacy
+  identifier: ''
+  url: 'http://privacy.apievangelist.com'
+  description: >-
+    This is my research to track on how API can be used to the impact privacy of
+    API providers, API consumers, as well as end users. You can find news I've
+    curated, organizations doing interesting things, some of the common building
+    blocks I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-privacy.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: privacy
+- view_sort: BR
+  name: Transparency
+  identifier: ''
+  url: 'http://transparency.apievangelist.com'
+  description: >-
+    APIs can contribute significantly to transparency of organizations, and this
+    is my work to better understand how wider transparency is achieved (or not),
+    and the role APIs can play. You can find news I've curated, organizations
+    doing interesting things, some of the common building blocks I've
+    identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-transparency.jpg'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: transparency
+- view_sort: BS
+  name: Licensing
+  identifier: ''
+  url: 'http://licensing.apievangelist.com'
+  description: >-
+    This is my work to try and understand, and separate the layers of API
+    licensing. It can be easy to think of APIs as code, and apply related
+    licenses, but as the layers separate, copyright, and patents are coming into
+    play more. You can find news I've curated, organizations doing interesting
+    things, some of the common building blocks I've identified, and open source
+    tooling in this research report.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-creative-commons.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: licensing
+- view_sort: BT
+  name: Branding
+  identifier: ''
+  url: 'http://branding.apievangelist.com'
+  description: >-
+    This is my research on how different API providers are handling the branding
+    around their API operations. This area is a huge concern for many companies
+    looking to do APIs, but there are few tools or services to help providers
+    handle. You can find news I've curated, organizations doing interesting
+    things, some of the common building blocks I've identified, and open source
+    tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: branding
+- view_sort: C
+  name: Surveillance
+  identifier: ''
+  url: 'http://surveillance.apievangelist.com'
+  description: >-
+    The Internet is quickly becoming a vehicle for surveillance, and something
+    APIs are playing a significant role in--I want to better understand this.
+    You can find news I've curated, organizations doing interesting things, some
+    of the common building blocks I've identified, and open source tooling in
+    this research report.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-surveillance-camera.jpg
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: surveillance
+- view_sort: CD
+  name: Cybersecurity
+  identifier: ''
+  url: 'http://cybersecurity.apievangelist.com'
+  description: >-
+    The world of cybersecurity is exploding, and APIs are sometimes how breaches
+    occur, but more often it is how the story of the breach is broadcasted. You
+    can find news I've curated, organizations doing interesting things, some of
+    the common building blocks I've identified, and open source tooling in this
+    research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-cybersecurity.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: cybersecurity
+- view_sort: CE
+  name: Regulation
+  identifier: ''
+  url: 'http://regulation.apievangelist.com'
+  description: >-
+    Government regulations are slowly finding their way into the world of
+    software, and increasingly APIs are playing a role in providing regulators a
+    look into company operations, and pulling data to better understand
+    regulated industries. This research area was started to better prepare for
+    how regulation will be applied to APIs, as we see government and the tech
+    industry continue to collide.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-government-regulation.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: regulation
+- view_sort: CF
+  name: Patents
+  identifier: ''
+  url: 'http://patents.apievangelist.com/'
+  description: >-
+    This is my research into better understanding, and documenting which
+    companies have API related patents, which I will merge with other research,
+    for my analysis around the politics of APIs. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: patents
+- view_sort: CG
+  name: Discovery
+  identifier: ''
+  url: 'http://discovery.apievangelist.com'
+  description: >-
+    This is my research around the world of API discovery, as well as how you
+    get your APIs discovered. This is both a provider and consumer issue, and
+    something that is vastly more complex than just web search. You can find
+    news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research report.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-discovery.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: discovery
+- view_sort: CH
+  name: Client
+  identifier: ''
+  url: 'http://client.apievangelist.com'
+  description: >-
+    This is my research around the evolution of API clients. Not the integrated
+    type of SDK or code client, but the growing number of of web and desktop
+    tooling for developing with APIs. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-client.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: client
+- view_sort: CI
+  name: Command Line Interface
+  identifier: ''
+  url: 'http://command-line-interface.apievangelist.com'
+  description: >-
+    The command line interface (CLI) is the preferred interface of many
+    developers and is often available alongside, or built on top of APIs. I want
+    to better track on this added layer to the API world, and understand how it
+    augments and overlaps with APIs. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-command-line.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: command-line-interface
+- view_sort: CJ
+  name: Bots
+  identifier: ''
+  url: 'http://bots.apievangelist.com'
+  description: >-
+    This is a research project to help me better understand exactly what a bot
+    is these days, and how APIs are used as engines for these increasingly
+    aware, active, nuggets of compute. I am looking at how APIs are used to
+    drive bots, but also how are bots employed via API driven platforms like
+    Twitter, and Slack.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-robots.jpeg'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: bots
+- view_sort: CK
+  name: Internet of Things
+  identifier: ''
+  url: 'http://internet-of-things.apievangelist.com'
+  description: >-
+    This is one of my larger buckets of research that I've carved several other
+    smaller projects out of like automobile and home. I still do a lot of
+    tagging of news as Internet of Things, so I needed a single place to
+    aggregate, then carve off smaller trends other research projects. Pretty
+    much any connected object gets lumped here, until I decide otherwise.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-internet-of-things.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: internet-of-things
+- view_sort: CL
+  name: Industrial
+  identifier: ''
+  url: 'http://industrial.apievangelist.com'
+  description: >-
+    This is my research around the evolution of API industrials. Not the
+    integrated type of SDK or code industrial, but the growing number of of web
+    and desktop tooling for developing with APIs. You can find news I've
+    curated, organizations doing interesting things, some of the common building
+    blocks I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-industrial.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: industrial
+- view_sort: CM
+  name: Network
+  identifier: ''
+  url: 'http://network.apievangelist.com'
+  description: >-
+    This is my research around the evolution of API networks. Not the integrated
+    type of SDK or code network, but the growing number of of web and desktop
+    tooling for developing with APIs. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-network.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: network
+- view_sort: CN
+  name: IDE
+  identifier: ''
+  url: 'http://ide.apievangelist.com'
+  description: >-
+    This is my research around the evolution of IDEs that have more support for
+    APIs. Early examples were from SalesForce and Google, using Eclipse plugins,
+    and now we are seeing more movement from Visual Studio, and new player Atom
+    from Github. You can find news I've curated, organizations doing interesting
+    things, some of the common building blocks I've identified, and open source
+    tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-ide.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: ide
+- view_sort: CO
+  name: SDK
+  identifier: ''
+  url: 'http://sdk.apievangelist.com'
+  description: >-
+    This is my research around the conversation, and approaches to SDKs. They
+    can be very controversial sometimes, but there are plenty of interesting
+    approaches to using SDKs that I've seen across the API sector. You can find
+    news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: sdk
+- view_sort: CT
+  name: Embeddable
+  identifier: ''
+  url: 'http://embeddable.apievangelist.com'
+  description: >-
+    An embeddable strategy is an important part of any API providers strategy.
+    This research is trying to understand the best approaches and technology
+    when it comes to embeddable tools that depend on APIs.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-embeddable.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: embeddable
+- view_sort: D
+  name: Visualization
+  identifier: ''
+  url: 'http://visualization.apievangelist.com'
+  description: >-
+    Large amounts of content, data, and abstract, often algorightms are often
+    difficul to wrap you mind around, and visualizations can help bring things
+    to life. This is my work to understand the intersection of APIs and
+    visualizations. You can find news I've curated, organizations doing
+    interesting things, some of the common building blocks I've identified, and
+    open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-visualization.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: visualization
+- view_sort: DE
+  name: Analysis
+  identifier: ''
+  url: 'http://analysis.apievangelist.com'
+  description: >-
+    Analyzing the growing amount of content and data we are generating and
+    storing is growing more important. It is something that will need to
+    increasingly be automated using APis. This is my work to understand the
+    intersection of APIs and analysis. You can find news I've curated,
+    organizations doing interesting things, some of the common building blocks
+    I've identified, and open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-analysis.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: analysis
+- view_sort: DF
+  name: Webhooks
+  identifier: ''
+  url: 'http://webhooks.apievangelist.com'
+  description: >-
+    This is my research around the use of webhooks with APIs. Webhooks make APIs
+    a two street, and can help make API integration much more efficient. You can
+    find news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/webhooks.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: webhooks
+- view_sort: DG
+  name: Logging
+  identifier: ''
+  url: 'http://logging.apievangelist.com'
+  description: >-
+    This is a research project to keep the different approaches to logging using
+    APIs, and logging solutions that focus on using APIs. You can find news I've
+    curated, organizations doing interesting things, some of the common building
+    blocks I've identified, and open source tooling in this research repo.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-logging.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: logging
+- view_sort: DJ
+  name: Aggregation
+  identifier: ''
+  url: 'http://aggregation.apievangelist.com'
+  description: >-
+    As the number of APIs grow, there is a lot of aggregation going on in
+    social, personal and other prominent sectors like cloud computing. This
+    research is trying to keep an eye on this potential trend.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/aggregation-trend.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: aggregation
+- view_sort: DM
+  name: iPaaS
+  identifier: ''
+  url: 'http://ipaas.apievangelist.com/'
+  description: >-
+    Interoperability between businesses, non-profit organizations, government
+    and the individual is being fueled by API driven sites, applications and
+    devices. APIs enable interoperability, two way communication that are in the
+    interest of all parties involved. This research site focuses on how APIs are
+    being abled to facility reciprocity between indivdiuals and groups in this
+    connected world.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/reciprocity-trends.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: ipaas
+- view_sort: DR
+  name: Orchestration
+  identifier: ''
+  url: 'http://orchestration.apievangelist.com'
+  description: >-
+    My research project to keep track of what is going on with API
+    orchestration, continuous integration, and possibly devops. You can find
+    news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research repo.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-orchestration.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: orchestration
+- view_sort: DS
+  name: Real Time
+  identifier: ''
+  url: 'http://realtime.apievangelist.com'
+  description: >-
+    Our connected lives are becoming increasingly real-time, and much of this is
+    being driven by APIs.&nbsp;I'm looking to understand who the key players
+    are, what they are up to, as well as where the opportunities lie by
+    aggregating news, analysis, companies and technology in a single project.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/real-time-2.jpg
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: real-time
+- view_sort: DT
+  name: Voice
+  identifier: ''
+  url: 'http://voice.apievangelist.com'
+  description: >-
+    This is my research into how APIs are driving voice, and how voice is
+    driving API consumption. There are many different ways voice enabled tech
+    overlaps with APIs, and this is the exploration of that affinity. You can
+    find news I've curated, organizations doing interesting things, some of the
+    common building blocks I've identified, and open source tooling in this
+    research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-microphone.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: voice
+- view_sort: E
+  name: Spreadsheets
+  identifier: ''
+  url: 'http://spreadsheets.apievangelist.com'
+  description: >-
+    I've seen enough movement in the area of Microsoft Excel and Google
+    Spreadsheets being used with APIs to warrant closer monitoring. To support
+    this I've started publishing most of my research to an API Evangelist
+    spreadsheet research site, which will allow me to better track, curate, tag,
+    and tell stories around spreadsheets and APIs. As I do with my 60+ API
+    research projects, I will update this site when I have time, publishing
+    anything I've read, written, and companies I think are doing interesting
+    things spreadsheets and APIs. I'm pretty convinced that spreadsheets will be
+    another one of those bridge tools we use to connect where we are going with
+    APIs, with the reality of where the everyday person is, just trying to get
+    their job done.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-excel-icon.jpg'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: spreadsheets
+- view_sort: EF
+  name: Investment
+  identifier: ''
+  url: 'http://investment.apievangelist.com'
+  description: >-
+    I started this area because I wanted to have more links to link to when
+    talking about which API companies I track on were getting investment, going
+    public, etc. There is still a lot of work to be done here, but eventually
+    I'd like to have more VC related information, as well as SEC filings. For
+    now it will be just a list of curated news and anything I write about
+    related to investment.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-investment.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: investment
+- view_sort: EG
+  name: Monetization
+  identifier: ''
+  url: 'http://monetization.apievangelist.com'
+  description: >-
+    This is my research into how APIs are being monetized across the space. Not
+    all APIs make money directly, and I work to track on the indirect benefits
+    as well. You can find news I've curated, organizations doing interesting
+    things, some of the common building blocks I've identified, and open source
+    tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: monetization
+- view_sort: EH
+  name: Plans
+  identifier: ''
+  url: 'http://plans.apievangelist.com'
+  description: >-
+    This is my research into the plans of leading API providers, across a
+    variety of the top business sectors. I am looking to establish a baseline
+    for how APIs are planned acrosss the industry today, establish models others
+    can follow. You can find news I've curated, organizations doing interesting
+    things, some of the common building blocks I've identified, and open source
+    tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-plan.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: plans
+- view_sort: EJ
+  name: Partners
+  identifier: ''
+  url: 'http://partners.apievangelist.com'
+  description: >-
+    This is my research into how leading API platforms conduct their official
+    partner programs, adding additional layers to the API partnerning and
+    management process. You can find news I've curated, organizations doing
+    interesting things, some of the common building blocks I've identified, and
+    open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-partner.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: partners
+- view_sort: EK
+  name: Acquisitions
+  identifier: ''
+  url: 'http://acquisitions.apievangelist.com'
+  description: >-
+    As part of my work I keep an eye on some of the acquisitions going on that
+    are API related, not because I'm interested in the funding, more about the
+    reliability, stability, and viability of individual APIs, as well as the
+    perception of the API space.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-acquisitions.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: acquisitions
+- view_sort: EL
+  name: Evangelism
+  identifier: ''
+  url: 'http://evangelism.apievangelist.com'
+  description: >-
+    This is my research around the different approaches to API evangelism,
+    advocacy, and other ways API providers are reaching out to developers, and
+    API consumers. You can find news I've curated, organizations doing
+    interesting things, some of the common building blocks I've identified, and
+    open source tooling in this research report.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: evangelism
+- view_sort: F
+  name: Deprecation
+  identifier: ''
+  url: 'http://deprecation.apievangelist.com'
+  description: >-
+    This is my research around the different approaches to API evangelism,
+    advocacy, and other ways API providers are reaching out to developers, and
+    API consumers. You can find news I've curated, organizations doing
+    interesting things, some of the common building blocks I've identified, and
+    open source tooling in this research report.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-deprecation-2.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: deprecation
+- view_sort: EN
+  name: Showcase
+  identifier: ''
+  url: 'http://showcase.apievangelist.com'
+  description: >-
+    I am always interested to see which API providers are proud of their
+    developers, and the applications and integrations they have built on top of
+    a platform. I find it is a sign, when API stop showcasing their developers
+    and applications, of things are not right. This is my research into who is
+    showcasing their devs, and how they do it.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-spotlights.png'
+  imagewidth: ''
+  category: Core Research
+  github_org: api-evangelist
+  github_repo: showcase
+- view_sort: G
+  name: Integration
+  identifier: ''
+  url: 'http://integration.apievangelist.com'
+  description: >-
+    This are used to be where I had client, monitoring, and other client side
+    areas. Since I've created separate research projects to study those areas I
+    am making this about general integration concerns. Overlapping with
+    integration platform as a service (iPaaS), and definitely still clients, but
+    it will be focused on the issues developers and even average users face when
+    trying to making things work with one or many different APIs.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-integration.png
+  imagewidth: ''
+  category: Core Research
+  github_org: 'NULL'
+  github_repo: api-integration
+- view_sort: '0'
+  name: Data
+  identifier: ''
+  url: 'http://data.apievangelist.com'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-data.png'
+  imagewidth: ''
+  category: Data
+  github_org: 'NULL'
+  github_repo: data
+- view_sort: '0'
+  name: Developer API Evangelist
+  identifier: ''
+  url: 'http://developer.apievangelist.com/'
+  description: >-
+    This is the central developer area for the API Evangelist network. I will
+    hang all the APis I develop as part of my core, or stack API design work. I
+    use 3Scale API infrastructure to manage access to my APIs, all access
+    requires a key, just to establish an awareness of my API consumers, while
+    controlling misuse.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  imagewidth: ''
+  category: Developer Portals
+  github_org: kinlane
+  github_repo: developer-api-evangelist
+- view_sort: '0'
+  name: Master Kin Lane
+  identifier: ''
+  url: 'https://kin-lane.github.io/master/'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/kin.png'
+  imagewidth: ''
+  category: Developer Portals
+  github_org: Kin-Lane
+  github_repo: master
+- view_sort: '0'
+  name: Domain Literacy
+  identifier: ''
+  url: 'http://domain-literacy.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Domain Literacy
+  github_org: domain-literacy
+  github_repo: website
+- view_sort: '0'
+  name: Drone Recovery
+  identifier: ''
+  url: 'http://dronerecovery.org/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Drone Recovery
+  github_org: Dronerecovery-dot-org
+  github_repo: drone-recovery-site
+- view_sort: '0'
+  name: Funding The Ed-Tech Space
+  identifier: ''
+  url: showing their investments
+  description: >-
+    <a href=\http://hackeducation.com/\">Audrey</a>&nbsp;came to me a while back
+    and said she had a project that she wanted to tackle
+  image: founders and other related company information.</p>
+  imagewidth: ''
+  category: Education
+  github_org: ''
+  github_repo: >-
+    using the&nbsp;<a href=\"http://developer.crunchbase.com/\">CrunchBase
+    API</a>. She wanted to pull a list of education startups that were founded
+    in 2010-2012
+- view_sort: '0'
+  name: Indie EdTech Data Jam
+  identifier: ''
+  url: 'http://kinlane.github.io/indie-edtech-data-jam/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Education
+  github_org: kinlane
+  github_repo: university-api-workshop
+- view_sort: '0'
+  name: 2016 Presidential Election Results
+  identifier: ''
+  url: 'http://2016-election.adopta.agency/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Election
+  github_org: adopta-agency
+  github_repo: 2016-presidential-election-results
+- view_sort: '0'
+  name: Outreach Stories
+  identifier: ''
+  url: 'http://outreach-stories.apievangelist.com/'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-evangelism.png
+  imagewidth: ''
+  category: Evangelism
+  github_org: api-evangelist
+  github_repo: outreach-stories
+- view_sort: '0'
+  name: Office of Digital & Design Innovation
+  identifier: ''
+  url: >-
+    https://broadcasting-board-of-governors.github.io/office-of-digital-design-innovation-content-exchange-platform-api/
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Federal Government
+  github_org: broadcasting-board-of-governors
+  github_repo: office-of-digital-design-innovation-content-exchange-platform-api
+- view_sort: '0'
+  name: Alternate Kin Lane
+  identifier: ''
+  url: 'http://alternate.kinlane.com'
+  description: >-
+    This is my fictional blog. As I spend my time tracking on the world of APIs
+    and technology I can't help but have thoughts and ideas that don't reallky
+    exist. It keeps me sharp and enjoying what I'm doing.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/matrix-pics/washington-crossing-the-delaware-cropped.png
+  imagewidth: ''
+  category: Fictional
+  github_org: alternate-hacker-storytelling
+  github_repo: alternate-kin-lane
+- view_sort: '0'
+  name: Alternate API Evangelist
+  identifier: ''
+  url: 'http://alternate.apievangelist.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Fictional
+  github_org: alternate-hacker-storytelling
+  github_repo: alternate-api-evangelist
+- view_sort: '0'
+  name: 3Scale Empowered
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Footer
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: Schema.org API Definitions
+  identifier: ''
+  url: 'http://schema.org.apis.apievangelist.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Footer
+  github_org: api-evangelist-tools
+  github_repo: schema-org-openapi-specs
+- view_sort: '0'
+  name: Data on Github
+  identifier: ''
+  url: 'http://data.ongithub.com/'
+  description: >-
+    Companion to api.ongithub.com, providing users with an open data repository
+    that is fully run on Github. Users can publish, convert and manage open data
+    JSON files. Eventually I will be syncing this with api.ongithub.com and
+    allow users to deploy APIs from data sets they have published.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.jpg'
+  imagewidth: ''
+  category: Github
+  github_org: 'NULL'
+  github_repo: 'https://github.com/ongithub/data/tree/gh-pages'
+- view_sort: '0'
+  name: History of Computing
+  identifier: ''
+  url: 'http://history-of-computing.apievangelist.com'
+  description: >-
+    The conversation around remembering the history of compute came up between
+    Mike Amundsen and I, during the beer fueled discussion in the Taproom at
+    Gluecon in Colorado, last May. As we were discussing the importance of the
+    history of technology, the storytelling approach of Ken Burns came up, and
+    Mike and I were both convinced that Ken Burns needs to do a documentary
+    series on the history of computing
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/history-of-computing/UNIVAC-1-FullView-B.jpg
+  imagewidth: ''
+  category: History
+  github_org: 'NULL'
+  github_repo: history-of-computing
+- view_sort: '0'
+  name: Women In Tech
+  identifier: ''
+  url: 'http://women-in-tech.apievangelist.com'
+  description: >-
+    As I track on the API space, the gender gap becomes increasingly obvious. As
+    with many other guys, I&rsquo;m struggling with coming up with the most
+    constructive way that I can contribute to closing the gender gap in
+    technology. As I do with the rest of the API space, I figured I can work
+    harder to tell more stories about women doing interesting things in the API
+    space, while also working to understand the history of women in the space.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/ada-lovelace/ada-lovelace-1.jpeg
+  imagewidth: ''
+  category: History
+  github_org: 'NULL'
+  github_repo: women-in-tech
+- view_sort: '0'
+  name: Kin Lane Screen Capture API
+  identifier: ''
+  url: 'https://kin-lane.github.io/screen-capture/'
+  description: >-
+    I use screenshots across the API Evangelist network. I take screenshots of
+    stories I curated, companies I track on and API developer areas I'm
+    monitoring. Historically I've used a variety of screenshot APIs, to generate
+    the 1000's of screenshots I need to make my network function. After test
+    driving several image libraries I settled in with PhantomJS, which allows me
+    to load and manipulate web pages in an object, and then take a screenshot of
+    the web page in that state. I quickly wrapped in a web API using the Slim
+    Framework in PHP. Once I had the API deployed I wrapped with my 3Scale API
+    management infrastructure, which requires an API key before you can use any
+    of my APIs. Next I updated my company, API and news screenshot tool to use
+    my new screenshot API.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-screen-capture.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: screen-capture
+- view_sort: '0'
+  name: Kin Lane Ideas API
+  identifier: ''
+  url: 'http://kin-lane.github.io/ideas/'
+  description: >-
+    I have a lot of ideas for new APIs and I needed them to stop filling up my
+    Evernote, so I created an API that I can ping with new ideas. Like all my
+    APIs, the API ideas API (deep), is open for anyone to use, submit their own
+    ideas as well as pull ideas for their own use.&nbsp;
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-light-bulb-bright.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: ideas
+- view_sort: '0'
+  name: API API
+  identifier: ''
+  url: 'http://kin-lane.github.io/api/'
+  description: >-
+    This is my API for working with the APIs I track on. I use this API to add,
+    update, and delete the APIs, their details, an I am working to create as
+    many API focused endpoints, which let me manage even more APIs, whether they
+    are mine or other publicly available APIs I am interested in.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: api
+- view_sort: '0'
+  name: Audio API
+  identifier: ''
+  url: 'https://kin-lane.github.io/audio/'
+  description: >-
+    This is my audio API for storing the audio files I create, bookmark, and
+    curate from around the web. This APIs has a lot of work ahead of it, but I
+    want to use it for mostly my personal audio, but eventually I intend on a
+    wealth of audio focused on APIs, as well as other topics i tune into like
+    encryption, regulation, and more.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-audio.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: audio
+- view_sort: '0'
+  name: Blog API
+  identifier: ''
+  url: 'http://kin-lane.github.io/blog/'
+  description: >-
+    I use this API to manage all of my blogs. Since I use Jekyll and Github to
+    manage all my project sites, storing content, JSON, YAML, and server and
+    client side code in each project, I use an API to distribute the blog
+    updates to each project endpoint. You can access all my storytelling across
+    all of the blogs that I maintain here in this API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: blog
+- view_sort: '0'
+  name: Building Block API
+  identifier: ''
+  url: 'https://kin-lane.github.io/buildingblock/'
+  description: >-
+    As I look through each of the areas of the API space, I look for what I
+    consider to be the common building blocks used by API providers, service
+    providers, and API consumers across the space. I organize these building
+    blocks into buckets, and each of my research areas should have some, broken
+    down by category. This API provides access to this information and connects
+    it with other areas of my API stack.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks-design.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: buildingblock
+- view_sort: '0'
+  name: Curated API
+  identifier: ''
+  url: 'https://kin-lane.github.io/curated/'
+  description: >-
+    As I look through the thousands of tweets, blog posts, and other items I
+    read from across the API space, I curate them as part of my regular
+    research. I put them into each research bucket, and make them availble via
+    each reserch project. You can access via this API, and use in real-time as I
+    curate and manage each week.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-abundance.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: curated
+- view_sort: '0'
+  name: Certification API
+  identifier: ''
+  url: 'https://kin-lane.github.io/certification/'
+  description: >-
+    This is an API I'm pulling together to help me organization groups of
+    questions about API providers, and API consumers, to help certify for
+    specific reasons. I'm looking to certify APIs as minimum viable, and help
+    establish certifications for API design, evangelism, and others. This is an
+    API to help me manage the parts and pieces, and is a work in progress.&nbsp;
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: certification
+- view_sort: '0'
+  name: Content API
+  identifier: ''
+  url: 'https://kin-lane.github.io/content/'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-content.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: content
+- view_sort: '0'
+  name: Kin Lane Dictionary API
+  identifier: ''
+  url: 'https://kin-lane.github.io/dictionary/'
+  description: >-
+    I am developing this API to help me track on terms used across the API
+    space. I am trying to make available via an API so I can use across my
+    network, while also opening up for others to use as well. This API is
+    definitely still a work in progress, and one of my lesser formed APIs.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: dictionary
+- view_sort: '0'
+  name: Kin Lane Glossary API
+  identifier: ''
+  url: 'https://kin-lane.github.io/glossary/'
+  description: >-
+    This is the API I am using to track on terms that are used across the API
+    sector, and provide a way that I can use my network of sites. I want it
+    available as an API, so I can use across many sites, and others can use to
+    embed in their sites and applications as well.&nbsp;
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dictionary.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: glossary
+- view_sort: '0'
+  name: Kin Lane Image API
+  identifier: ''
+  url: 'https://kin-lane.github.io/image/'
+  description: >-
+    If you follow my work you know I use a lot of photos across my network, and
+    this is the API I am using to help pull it together, across the images I
+    host with websites, on Amazon S3, and Flickr. I'm working to centrally
+    organize them, and standardize how I use across my sites. This is a lesser
+    priority for me, so it has a lot of work to be done yet.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-images.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: image
+- view_sort: '0'
+  name: Kin Lane Job API
+  identifier: ''
+  url: 'https://kin-lane.github.io/job/'
+  description: >-
+    I use a variety of automated jobs to orchestrate my world, and this is the
+    API I am using as a central hub for this. This API acts as a facade for
+    other tools I use like AWS and EasyCron. I'm trying to keep centralized, no
+    matter what tool I use in the end, to help me centralize and switch out
+    services when I need to.&nbsp;
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-job-2.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: job
+- view_sort: '0'
+  name: Kin Lane Keyword API
+  identifier: ''
+  url: 'https://kin-lane.github.io/keyword/'
+  description: >-
+    Beyond dictionaries, glossaries, and tags, there are keyworeds, which I use
+    to link to specific topics, research, companies, and tooling that I want to
+    higlight as part of my work. Keywords is all about the keyword and url
+    relationships, connecting words with specific resources. This API helps me
+    manage them across my work.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-keyword.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: keyword
+- view_sort: '0'
+  name: Kin Lane Link API
+  identifier: ''
+  url: 'https://kin-lane.github.io/link/'
+  description: >-
+    This is where I track on all the links I use across my work. I'm trying to
+    provide a central source of links to run other aspects of harvesting,
+    monitoring, and key elements of the APi space. The goal is to have all links
+    centrally stored here, providing a single list I can apply.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-link.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: link
+- view_sort: '0'
+  name: Kin Lane Linkrot API
+  identifier: ''
+  url: 'https://kin-lane.github.io/linkrot/'
+  description: >-
+    I use Linkrot to track the links I use in each blog post, and then track on
+    the availability of that resource. I regularly check the availability of
+    URLs that I link to, and take screenshots of the page. When it goes away, I
+    try to show the screenshot, rather than linking to a dead page. This API is
+    used to manage this part of my platform.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-broken-link.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: linkrot
+- view_sort: '0'
+  name: Kin Lane News API
+  identifier: ''
+  url: 'https://kin-lane.github.io/news/'
+  description: >-
+    I curate news from across the blogs I read, the interesting Tweets I find,
+    and across the press release sites I monitor. The goal is to bring in as
+    much quality content as I can and then add my own eye towards what is
+    interesting. The content available via this API is the results of that. The
+    API news from across the sector, that I am reading and felt worth sharing.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: news
+- view_sort: '0'
+  name: Kin Lane Note API
+  identifier: ''
+  url: 'https://kin-lane.github.io/note/'
+  description: >-
+    All of my ideas that pop into my ahead as I'm monitoring the space end up
+    here. Anything that becomes a blog post will start as a POST to this notes
+    API. My goal is to capture ALL of my thoughts, and then sort through to find
+    what is the best. It works much like curation for the news, but this time
+    its the stream of noise coming from my brain.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-notebook.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: note
+- view_sort: '0'
+  name: Kin Lane Organization API
+  identifier: ''
+  url: 'https://kin-lane.github.io/organization/'
+  description: >-
+    I track on around 5K companies, organizations, instiutions, and government
+    agencies. Any slightly formed entity, that has a website address, and a
+    Githbu account is something I pay attention -- if they are doing something
+    interesting (good or bad) with APIs. This is the API I use to track on the
+    relevant organizations in the API sector, making their key information, and
+    API details are available for publishing across my API network.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: organization
+- view_sort: '0'
+  name: Kin Lane Page API
+  identifier: ''
+  url: 'https://kin-lane.github.io/page/'
+  description: >-
+    Pages provide access to the content and data I make available across my
+    network. I use Jeyll to manage my content, but it is this API that handles
+    the management, and publishing of those pages. This API provides access to
+    pages, which I may use on one or many of my Jeykyll driven sites, usually
+    hosted via Github Pages.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-page.jpg'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: page
+- view_sort: '0'
+  name: Kin Lane Patent API
+  identifier: ''
+  url: 'https://kin-lane.github.io/patent/'
+  description: >-
+    I think patents are going to be one of the most damaging effects on the
+    world of APIs will be patents. An out of date, patent process that is being
+    applied to the digital world of APIs will slow the growth of entire
+    industries, and the wider API sector. I work to track on API related
+    patents, using the USPTO data dumps, in conjunction with this custom API.
+    I'll keep updating, and addin grelevant information as I have time.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: patent
+- view_sort: '0'
+  name: Kin Lane People API
+  identifier: ''
+  url: 'https://kin-lane.github.io/people/'
+  description: >-
+    I try to keep track of interesting people who are doing things with APIs. I
+    do not track any personal details about people in my system. My goal is to
+    ekep track of the public details like Twitter, LinkedIN, and Github
+    accoutns, as well as personal blogs. Sometimes the best information about
+    platforms, comes from the individuals who operate, and integrate with them.
+    This API provides access to what I think are some of the interesting people
+    in the world of aPis.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users-male-female.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: people
+- view_sort: '0'
+  name: Kin Lane Project API
+  identifier: ''
+  url: 'https://kin-lane.github.io/project/'
+  description: >-
+    Each of my websites, and API research projects run as individual projects. I
+    am currently pushing forward over 200 seprate projects, which range from API
+    design, to US government open data. I use this project API to allow me to
+    organize project details, and publish the results to Github repos, white
+    papers, and other destinations. This API provides me a single window to work
+    with all my API projects, and the content, code, and data that go into them.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-project.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: project
+- view_sort: '0'
+  name: Kin Lane Question API
+  identifier: ''
+  url: 'https://kin-lane.github.io/question/'
+  description: >-
+    I ask a lot of questions each day about APis. Based upon the good, and the
+    bad behavior I witness in the space, I am constantly recording the questions
+    that I think should be asked. I use this API to add, edit, and manage
+    questions across all of my research areas. I am using this API to quickly
+    organize some of the best practices that I see across the space, being asked
+    by the leading API providers.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: question
+- view_sort: '0'
+  name: Kin Lane Scraping API
+  identifier: ''
+  url: 'https://kin-lane.github.io/scraping/'
+  description: >-
+    Scraping of content and data that you legally have access to is a common way
+    of acquiring what you need to deploy APIs. I am slowly converting my
+    scraping tools into individual endpoints, and making available here via my
+    scraping API stack. This API will grow as I have new needs for acquiring
+    content, and is something that others will hopefully have a need for too.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-harvester.jpg'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: scraping
+- view_sort: '0'
+  name: Kin Lane Slide API
+  identifier: ''
+  url: 'https://kin-lane.github.io/slide/'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-slide.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: slide
+- view_sort: '0'
+  name: Kin Lane Tag API
+  identifier: ''
+  url: 'https://kin-lane.github.io/tag/'
+  description: >-
+    My entire system runs on tags. Each blog, company, API, and news article
+    gets tagged, putting everything into buckets. Even tags have tags, and this
+    is the API I am evolving to help me manage this tagging system. I have a
+    system that even lets me rate APIs and the companies that operate them. I
+    just have to bring out all of the functionality as endpoints, here in my
+    tagging API. This API is active, but also has a lot of work going on.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tag.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: tag
+- view_sort: '0'
+  name: Kin Lane Task API
+  identifier: ''
+  url: 'https://kin-lane.github.io/task/'
+  description: >-
+    I am the worst with task tracking. After several tasking platforms failed me
+    and went away, I stopped using any new ones. I rely on email, my notebook,
+    and link curation for much of my tasking. I'm trying to change this, but
+    having a tasking API. I haven't actually started using this, but will at
+    some point. So this API is probbly a lower priority, but hopefully that will
+    change.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-task.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: task
+- view_sort: '0'
+  name: Kin Lane Tip API
+  identifier: ''
+  url: 'https://kin-lane.github.io/tip/'
+  description: >-
+    To compliment my questions, and certification APis, I created this tip API
+    to offer tips along with the answers to questions, and that might encourage
+    an API provider, or consumer to evolve towards a certification. This API is
+    still in development, but hopefully some day will be a wealth of tips about
+    how to do APis.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tip-api.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: tip
+- view_sort: '0'
+  name: Kin Lane Tool API
+  identifier: ''
+  url: 'https://kin-lane.github.io/tool/'
+  description: >-
+    This is one of my older systems, providing access to the open source tools
+    that I keep track on across the API space. While I have had this system for
+    a while, I am only beginning to sync it with Github, and really start
+    pushing forward the content and relationships that exist here. (ie. who is
+    developing, updates to companies, etc.) This provides API access to all of
+    the open source tools I am tracking on and associating with other aspects of
+    my research.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: tool
+- view_sort: '0'
+  name: Kin Lane Video API
+  identifier: ''
+  url: 'https://kin-lane.github.io/video/'
+  description: >-
+    Like the audio and image APIs, I want a central place to track on the video
+    content I'm creating and curating from across the space. I'm not a big video
+    watcher or creator, but understand its importance in the space. I'm working
+    to evolve the video portion of what I do, create more content and get more
+    organized with the curation of video content. This video API is how I am
+    looking to do that. This API is not as active as some of my other APis, but
+    will soon change.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-video.png'
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: video
+- view_sort: '0'
+  name: Kin Lane Image Manipulation API
+  identifier: ''
+  url: 'https://kin-lane.github.io/image-manipulation/'
+  description: >-
+    I do a lot of playing around with images, and needed an API to start hanging
+    the resources I was creating. First I wanted to use ImageMagick to create
+    some filters that I could quickly apply to images. Next I will be doing a
+    bunch of resizing, cropping, and other resources that can help when working
+    with images. This API will expand with new endpoints as I have them. If
+    there is an API you'd like to see let me know, and I'll see what I can do.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-image-manipulation.png
+  imagewidth: ''
+  category: Kin Lane
+  github_org: Kin-Lane
+  github_repo: image-manipulation
+- view_sort: '0'
+  name: Davidson College
+  identifier: ''
+  url: 'http://low-hanging-fruit.github.io/davidson-college/'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-grapes.png'
+  imagewidth: ''
+  category: Low Hanging Fruit
+  github_org: low-hanging-fruit
+  github_repo: davidson-college
+- view_sort: '0'
+  name: Tyk API Management
+  identifier: ''
+  url: 'http://tyk.management.apievangelist.com'
+  description: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk_io_logo.png
+  imagewidth: ''
+  category: Management
+  github_org: kinlane
+  github_repo: tyk-api-management
+- view_sort: '0'
+  name: API Voice
+  identifier: ''
+  url: 'http://apivoice.com'
+  description: >-
+    Another one of the primary API Evangelist network sites exclusively
+    dedicated to the politics of APIs, trying to understand the issues facing
+    providers and consumers ranging from terms of service to government
+    regulation.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
+  imagewidth: ''
+  category: My Blogs
+  github_org: 'NULL'
+  github_repo: api-voice
+- view_sort: '0'
+  name: Reading List
+  identifier: ''
+  url: 'http://reading-list.apievangelist.com'
+  description: >-
+    I needed a relief valve for my daily and weekly curation, a single list to
+    reference all of the articles I had consumed across my API research. You can
+    find feeds for each of my research area under their subdomain, but reading
+    list is about finding all of them in a single location.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/universal-library-sign.png
+  imagewidth: ''
+  category: Network
+  github_org: 'NULL'
+  github_repo: reading-list
+- view_sort: '0'
+  name: 3D Printing
+  identifier: ''
+  url: 'http://3d-printing.apievangelist.com'
+  description: >-
+    Tracking on the convergence of APIs and 3-D printing, tracking on key
+    players, technologies and approaches to using APIs to potentially affect the
+    world of manufacturing, architecture, art and beyond.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/makerbot-trends.jpg
+  imagewidth: ''
+  category: Opportunities
+  github_org: 'NULL'
+  github_repo: 3d-printing
+- view_sort: '0'
+  name: Buildings
+  identifier: ''
+  url: 'http://buildings.apievangelist.com'
+  description: >-
+    My research into how APIs are being used in commercial buildings. I'm
+    looking to understand who the key players are, what they are up to as well
+    as where the opportunities lie.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building.png'
+  imagewidth: ''
+  category: Opportunities
+  github_org: 'NULL'
+  github_repo: buildings
+- view_sort: '0'
+  name: Quantified Self
+  identifier: ''
+  url: 'http://quantified-self.apievangelist.com'
+  description: >-
+    My research into the opportunities for APIs in the quantified self space,
+    ranging from our fitbits to diet systems. I'm looking to understand who the
+    key players are, what they are up to as well as where the opportunities lie.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/quantified-self-2.jpg
+  imagewidth: ''
+  category: Opportunities
+  github_org: 'NULL'
+  github_repo: quantified-self
+- view_sort: '0'
+  name: Restlet Advertising
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Partners
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: Amazon Patents
+  identifier: ''
+  url: 'http://amazon.patents.apievangelist.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Patents
+  github_org: api-evangelist
+  github_repo: amazon-patents
+- view_sort: '0'
+  name: API Report
+  identifier: ''
+  url: 'http://api.report'
+  description: >-
+    API Stack is the public window into my weekly and monthly monitoring of the
+    API space where I publish news, analysis and the top APIs I'm paying
+    attention to.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bullhorn-advertising.png
+  imagewidth: ''
+  category: Primary Blog
+  github_org: kinlane
+  github_repo: api-report
+- view_sort: '0'
+  name: Kin Lane
+  identifier: ''
+  url: 'http://kinlane.com'
+  description: >-
+    This is my original blog that I've had since 2005. It has a lot more content
+    that I haven't fully migrated into Jekyll, but some day I will. This is
+    where I post general topics and my rants about anything personal to
+    business. If you are looking for the professional side of my network, visit
+    API Evangelist. ;-)
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-drawing-apidays-2013.png
+  imagewidth: ''
+  category: Primary Blog
+  github_org: kinlane
+  github_repo: kin-lane
+- view_sort: '0'
+  name: API Evangelist
+  identifier: ''
+  url: 'http://apievangelist.com'
+  description: >-
+    My original site and research project into the business of APIs, API
+    Evangelist. I started this July 2010, and it continues to be the strongest
+    site in my network.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
+  imagewidth: ''
+  category: Primary Blog
+  github_org: kinlane
+  github_repo: api-evangelist
+- view_sort: '0'
+  name: Alpha API Evangelist
+  identifier: ''
+  url: 'http://alpha.apievangelist.com'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-vice.png'
+  imagewidth: ''
+  category: Primary Blog
+  github_org: kinlane
+  github_repo: alpha
+- view_sort: '0'
+  name: API Activist
+  identifier: ''
+  url: 'http://apievactivist.com'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-activist-1.png'
+  imagewidth: ''
+  category: Primary Blog
+  github_org: api-activist
+  github_repo: master
+- view_sort: '0'
+  name: Talks
+  identifier: ''
+  url: 'http://kinlane.github.io/talks/'
+  description: >-
+    I publish all of my talks using Reveal.js on Github Pages. This allows me to
+    easily share out my talks, at the time of presentation, in an easy to build,
+    and easy to work with format. You can find most of my recent talks, in this
+    format, via a single Github project. I've added the abilityt use slides
+    alongside any one of my projects, so in time you will find more talks spread
+    across all of my research.
+  image: 'https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-talks.jpg'
+  imagewidth: ''
+  category: Productions
+  github_org: 'NULL'
+  github_repo: talks
+- view_sort: '0'
+  name: Department of Veterans Affairs
+  identifier: ''
+  url: 'http://va-data.github.io/va-developer/'
+  description: >-
+    The default developer area where I hang all my projects, APIs and open data
+    work, when it involves the Department of Veterans Affairs.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: 'https://github.com/va-data/va-developer'
+- view_sort: '0'
+  name: Department of Interior
+  identifier: ''
+  url: 'http://doi-data.github.io/developer'
+  description: >-
+    The default developer area where I hang all my projects, APIs and open data
+    work, when it involves the Department of Interior.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: 'https://github.com/doi-data'
+- view_sort: '0'
+  name: Department of Education
+  identifier: ''
+  url: 'http://ed-data.github.io/developer/'
+  description: >-
+    The default developer area where I hang all my projects, APIs and open data
+    work under, when it involves the Department of Education.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: 'https://github.com/ed-data'
+- view_sort: '0'
+  name: Department of Energy
+  identifier: ''
+  url: 'http://doe-data.github.io/developer'
+  description: >-
+    The default developer area where I hang all my projects, APIs and open data
+    work, when it involves the Department of Energy.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: 'https://github.com/doe-data'
+- view_sort: '0'
+  name: Smithsonian
+  identifier: ''
+  url: 'http://si-data.github.io/developer/'
+  description: >-
+    I got to play with the Smithsonian EDAN API which provides access to meta
+    data of collections housed at the Smithsonian Institute, along with the
+    ability to tag items and build collections. I helped them prepare for a
+    hackathon by developing a set of PHP samples developers could use. I
+    published my work here, and look forward to hacking more on the API when
+    they are ready.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: 'https://github.com/si-data'
+- view_sort: '0'
+  name: Food and Drug Administration
+  identifier: ''
+  url: 'http://fda-data.github.io/developer/'
+  description: >-
+    The default developer area where I hang all my projects, APIs and open data
+    work, when it involves the Food and Drug Administration.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: fda-data
+- view_sort: '0'
+  name: FAFSA API
+  identifier: ''
+  url: 'http://ed-data.github.io/fafsa-api/'
+  description: >-
+    My development of an API around the&nbsp;Free Application for Federal
+    Student Aid (FAFSA). I'm working on building server, client technologies as
+    well as sound API definition and data model around the form. Helping
+    developers build applications that support students in finding aid.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/federal-government/ed/fafsa-form.jpg
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: fafsa-api
+- view_sort: '0'
+  name: Government Services
+  identifier: ''
+  url: 'http://government.services.publicprivatesector.org'
+  description: >-
+    This is another tool I started working on while in the Presidential
+    Innovation Fellowship. I wanted to create an easy way for anyone to generate
+    a JSON-LD representation of government services, using Google Spreadsheet.
+    &nbsp;Since then I've organized into a single site and added the ability to
+    generate government services JSON-LD using a form. Next I will add the
+    ability to store .JSON files under the master github repository.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: government-services
+- view_sort: '0'
+  name: IRS Modernized e-File
+  identifier: ''
+  url: 'https://github.com/kinlane/irs-modernized-efile-blueprint'
+  description: >-
+    The IRS modernized e-file ecosystem is the best example of public and
+    private sector working together via an API (web service) driven ecosystem,
+    and I'm working to build a solid case study and other content to help people
+    understand this blueprint and replicate across other agencies in the federal
+    government.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/federal-government/irs/bw-irs-logo.jpg
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: irs-modernized-efile-blueprint
+- view_sort: '0'
+  name: Green Button API
+  identifier: ''
+  url: 'http://doe-data.github.io/green-button-api/'
+  description: >-
+    This is my work around open data and APIs out of the Department of Energy,
+    and specifically around the Green Button data iniative. I'm still working to
+    try and map out this space, and provide any feedback on what next steps
+    could be for the developer hub, and support API and open data tools.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/federal-government/green-button/green-button.jpg
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: green-button-api
+- view_sort: '0'
+  name: explore.data.gov
+  identifier: ''
+  url: 'http://explore.data.gov.apievangelist.com'
+  description: >-
+    This is a project to house any of my open data work around the
+    explore.data.gov domain. My goal is to demonstrate to the US government what
+    is possible when they provide machine readable API definitions like Swagger,
+    in conjunction with API.json. When APIs are well designed, and bundled with
+    machine readable defintions, and discovery documents it makes APIs much more
+    usable, and remixable.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: explore.data.gov
+- view_sort: '0'
+  name: www.usa.gov
+  identifier: ''
+  url: 'http://www.usa.gov.apievangelist.com'
+  description: >-
+    This is a project to house any of my open data work around the www.usa.gov
+    domain. My goal is to demonstrate to the US government what is possible when
+    they provide machine readable API definitions like Swagger, in conjunction
+    with API.json. When APIs are well designed, and bundled with machine
+    readable defintions, and discovery documents it makes APIs much more usable,
+    and remixable.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  imagewidth: ''
+  category: Public Private Sector
+  github_org: 'NULL'
+  github_repo: www.usa.gov
+- view_sort: '0'
+  name: Kin Lane Rants
+  identifier: ''
+  url: 'http://rants.kinlane.com'
+  description: ''
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-instructurecon-june-2013.jpg
+  imagewidth: ''
+  category: Rants
+  github_org: kinlane
+  github_repo: rants
+- view_sort: '0'
+  name: Kin Lane - Reclaim Your Domain
+  identifier: ''
+  url: 'http://kinlane.reclaimyourdomain.org/'
+  description: >-
+    This is a personal project to map out my online world, and start applying
+    some basic goals of how to better take control over the accounts I create
+    online, and the data or content that I generate. This project is an ongoing
+    effort to always understand the footprint I leave online, and make sure I'm
+    in control over myself.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-fist.png'
+  imagewidth: ''
+  category: Reclaim
+  github_org: 'NULL'
+  github_repo: kin-lane-reclaim-your-domain
+- view_sort: '0'
+  name: CSV Converter
+  identifier: ''
+  url: 'http://kinlane.github.io/csv-converter/'
+  description: >-
+    A tool that I built while a Presidential Innnovation Fellow, to assist
+    people in government to easily convert CSV files to JSON. My goal is to
+    provide a single Github repository that anyone can use as is, or fork and
+    deploy their own CSV converter, along with server side storage of converted
+    data in the master branch of their repository. No server side technology
+    needed and as long as its open data it is free.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-csv.png'
+  imagewidth: ''
+  category: Single Repo Apps
+  github_org: kinlane
+  github_repo: csv-converter
+- view_sort: '0'
+  name: RSS Aggregator
+  identifier: ''
+  url: 'http://indieedtech.github.io/rss-aggregator/'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-example.png'
+  imagewidth: ''
+  category: Single Repo Apps
+  github_org: indieedtech
+  github_repo: rss-aggregator
+- view_sort: '0'
+  name: Cloud Elements - Definitive GUide To API Integration
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Sponsor
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: 3Scale Footer
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Sponsor
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: Amazon Web Services
+  identifier: ''
+  url: 'http://amazon.web.services.stack.network'
+  description: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  imagewidth: ''
+  category: Stack
+  github_org: api-stack
+  github_repo: amazon-web-services
+- view_sort: '0'
+  name: Google
+  identifier: ''
+  url: 'http://google.stack.network'
+  description: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
+  imagewidth: ''
+  category: Stack
+  github_org: api-stack
+  github_repo: google
+- view_sort: '0'
+  name: Microsoft
+  identifier: ''
+  url: 'http://microsoft.stack.network'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Stack
+  github_org: api-stack
+  github_repo: microsoft
+- view_sort: '0'
+  name: Facebook
+  identifier: ''
+  url: 'http://facebook.stack.network'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Stack
+  github_org: api-stack
+  github_repo: facebook
+- view_sort: '0'
+  name: Federal Government
+  identifier: ''
+  url: 'http://federal.government.stack.network'
+  description: >-
+    This is where I hang the general work I do in federal government. I have
+    been working to understand the digital, open data and API strategy across
+    angencies for several years, before I started working on specific agencies.
+    You will find anything that spans across agencies here.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Building-a-21st-century-platform-to-better-serve-the-american-people-1.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: federal-government
+- view_sort: '0'
+  name: City Government
+  identifier: ''
+  url: 'http://city.government.stack.network'
+  description: >-
+    Tracking on how APIs are being used by city governments around the globe. In
+    the US a handful of cities are actively adopting API practices and I'm
+    looking to aggregate relevant news, analysis, technology and approaches in a
+    single research project.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/priorities/bw-city-skyline.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: city-government
+- view_sort: '0'
+  name: University
+  identifier: ''
+  url: 'http://university.stack.network'
+  description: >-
+    My tracking on how APIs are being used in education across universities.
+    This is one project area that overlaps with my girlfriends (@audreywatters)
+    work on Hack Education. I'm looking to understand who the key insitutions
+    are, what they are up to by aggregating news, analysis, companies and
+    technology in a single project.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/priorities/university-of-api.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: university
+- view_sort: '0'
+  name: Healthcare
+  identifier: ''
+  url: 'http://healthcare.stack.network'
+  description: >-
+    My tracking on how APIs are being used in healthcare. I'm looking to
+    understand who the key players are, and what they are up to by aggregating
+    news, analysis, companies and technology in a single research project.
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/caduceus.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: healthcare
+- view_sort: '0'
+  name: Automobile
+  identifier: ''
+  url: 'http://automobile.apievangelist.com'
+  description: >-
+    My research into the opportunities for APIs in the automobile, ranging from
+    our personal vehicles, to rental cars and commercial fleets. I'm looking to
+    understand who the key players are, what they are up to as well as where the
+    opportunities lie.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-car.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: automobile
+- view_sort: '0'
+  name: Education
+  identifier: ''
+  url: 'http://education.stack.network'
+  description: >-
+    My tracking on how APIs are being used in education across elementary,
+    secondary and pos-secondary. This is one project area that overlaps with my
+    girlfriends (@audreywatters) work on Hack Education. I'm looking to
+    understand who the key players are, what they are up to by aggregating news,
+    analysis, companies and technology in a single project.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/tag-cloud-education.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: education
+- view_sort: '0'
+  name: Library
+  identifier: ''
+  url: 'http://libraries.apievangelist.com'
+  description: >-
+    My tracking on how APIs are being used in libraries. I'm looking to
+    understand who the key players are, and what they are up to by aggregating
+    news, analysis, companies and technology in a single research project.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/universal-library-sign.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: libraries
+- view_sort: '0'
+  name: Home
+  identifier: ''
+  url: 'http://home.stack.network'
+  description: >-
+    My research into the opportunities for APIs in our homes. I'm looking to
+    understand who the key players are, what they are up to as well as where the
+    opportunities lie when it comes to Internet enabled homes and the devices we
+    depend on.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: home
+- view_sort: '0'
+  name: Payments
+  identifier: ''
+  url: 'http://payments.stack.network'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: payments
+- view_sort: '0'
+  name: Drones
+  identifier: ''
+  url: 'http://drones.stack.network'
+  description: >-
+    Drones were coming up in my monitoring so much, I had to start tracking on
+    it. While not completely API related (yet), drones represent one possible
+    dystopian universe for the whole Internet of Things API expansion. I'm
+    betting that very few folks opt for API layers in their drone operations.
+    Well, not APIs as we know them in the public space. They will use APIs, and
+    try to remain as secretive as possible, but like many other layers of the
+    IoT space, their APIs will become their achilles heel. This is purely a
+    monitoring channel for me, so I can keep a close eye on the Drone space, and
+    try to understand what is going on.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-drone.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: drones
+- view_sort: '0'
+  name: Financial News
+  identifier: ''
+  url: 'http://financial.news.stack.network/'
+  description: >-
+    I started doing research into the news space, and quickly carved off a
+    number of platforms that were specific just to financial data, and more
+    specifically financial news. After I profiled the news API space I began
+    doing the same for financial news providers, but quickly found that most of
+    them did not meet my standard for an API. It doesn't take much to make my
+    list. I showcase some pretty poor APIs, but when I started through the
+    financial news API providers, more APIs got cut then made the list.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-financial-icon.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: financial-news
+- view_sort: '0'
+  name: SMS
+  identifier: ''
+  url: 'http://sms.stack.network'
+  description: >-
+    SMS owes more to the telecom industry, and mobile phones, more than the API
+    space, but when it comes to reducing valuable assets to its smallest
+    possible unit of value, the SMS space is well suited for evolution via the
+    API. I think think that are many lessons for API providers when it comes to
+    the SMS API space, and I enjoy spending time research how companies are
+    innovating when it comes to the SMS, using APIs.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sms.jpg'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: sms
+- view_sort: '0'
+  name: MMS
+  identifier: ''
+  url: 'http://mms.stack.network'
+  description: >-
+    MMS for me can't be evaluated without looking at side by side with SMS. SMS
+    is the evolution of messaging as a doorway to the Internet that I mention in
+    my SMS research, with images, video, and audio files providing an experience
+    that mobile users can access, and share with their networks. Like SMS, MMS
+    is an essential compost of not just mobile, but now because of MMS APIs also
+    the web, and Internet of Things experience, employing MMS as a transport.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-mms-2.jpg'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: mms
+- view_sort: '0'
+  name: Email
+  identifier: ''
+  url: 'http://email.stack.network/'
+  description: >-
+    I find the email API space a fascinating area to research when it comes to
+    APIs. If you think about it, email APIs are kind of ironic, because email is
+    based upon some pretty solid standards like SMTP, POP, and IMAP, where APIs
+    are nothing more than just a philosophy, and a kind of wild west when it
+    comes to standardization. Yet you see some pretty interesting approaches to
+    providing email infrastructure which employs, and often resemble the email
+    standards, but put web APIs to work to actually do the heavy lifting.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-email-at.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: email
+- view_sort: '0'
+  name: My API Stack
+  identifier: ''
+  url: 'http://stack.apievangelist.com'
+  description: >-
+    This is where I track on the APIs that I depend on.<span style=\white-space:
+    pre;\"> "
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-stacks.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: my-api-stack
+- view_sort: '0'
+  name: Social
+  identifier: ''
+  url: 'http://social.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-social.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: social
+- view_sort: '0'
+  name: Messaging
+  identifier: ''
+  url: 'http://messaging.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-messaging.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: messaging
+- view_sort: '0'
+  name: Users
+  identifier: ''
+  url: 'http://users.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-users.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: users
+- view_sort: '0'
+  name: Storage
+  identifier: ''
+  url: 'http://storage.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-storage.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: storage
+- view_sort: '0'
+  name: Compute
+  identifier: ''
+  url: 'http://compute.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-compute.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: compute
+- view_sort: '0'
+  name: Documents
+  identifier: ''
+  url: 'http://documents.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-documents.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: documents
+- view_sort: '0'
+  name: Commerce
+  identifier: ''
+  url: 'http://commerce.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-commerce.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: commerce
+- view_sort: '0'
+  name: Photos
+  identifier: ''
+  url: 'http://photos.stack.network'
+  description: >-
+    This is a research project dedicated to mapping out platforms that offer
+    photo APIs, allowing users to put valuable photo API data, content, and
+    other resources to work in any application or system.
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-photos.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: photos
+- view_sort: '0'
+  name: Images
+  identifier: ''
+  url: 'http://images.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-images.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: images
+- view_sort: '0'
+  name: Videos
+  identifier: ''
+  url: 'http://videos.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-video.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: videos
+- view_sort: '0'
+  name: Music
+  identifier: ''
+  url: 'http://music.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-music.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: music
+- view_sort: '0'
+  name: Band
+  identifier: ''
+  url: 'http://band.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-band.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: band
+- view_sort: '0'
+  name: Audio
+  identifier: ''
+  url: 'http://audio.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-audio.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: audio
+- view_sort: '0'
+  name: Voice
+  identifier: ''
+  url: 'http://voice.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-voice.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: voice
+- view_sort: '0'
+  name: Search
+  identifier: ''
+  url: 'http://search.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-search.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: search
+- view_sort: '0'
+  name: Content
+  identifier: ''
+  url: 'http://content.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-content-2.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: content
+- view_sort: '0'
+  name: Language
+  identifier: ''
+  url: 'http://language.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-language.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: language
+- view_sort: '0'
+  name: Travel
+  identifier: ''
+  url: 'http://travel.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-travel.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: travel
+- view_sort: '0'
+  name: Mapping
+  identifier: ''
+  url: 'http://mapping.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-mapping.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: mapping
+- view_sort: '0'
+  name: Places
+  identifier: ''
+  url: 'http://places.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-places.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: places
+- view_sort: '0'
+  name: Business
+  identifier: ''
+  url: 'http://businesses.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-businesses.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: businesses
+- view_sort: '0'
+  name: Links
+  identifier: ''
+  url: 'http://links.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-links.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: links
+- view_sort: '0'
+  name: Events
+  identifier: ''
+  url: 'http://events.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-events.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: events
+- view_sort: '0'
+  name: Weather
+  identifier: ''
+  url: 'http://weather.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-weather.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: weather
+- view_sort: '0'
+  name: Movies
+  identifier: ''
+  url: 'http://movies.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-movies.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: movies
+- view_sort: '0'
+  name: Advertising
+  identifier: ''
+  url: 'http://advertising.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-advertising.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: advertising
+- view_sort: '0'
+  name: Accounting
+  identifier: ''
+  url: 'http://accountng.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-accounting.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: accounting
+- view_sort: '0'
+  name: Shipping
+  identifier: ''
+  url: 'http://shipping.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-search.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: shipping
+- view_sort: '0'
+  name: Government - City
+  identifier: ''
+  url: 'http://city.government.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: government-city
+- view_sort: '0'
+  name: Government - State
+  identifier: ''
+  url: 'http://state.government.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: government-state
+- view_sort: '0'
+  name: Government - Federal
+  identifier: ''
+  url: 'http://federal.government.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: government-federal
+- view_sort: '0'
+  name: Wearables
+  identifier: ''
+  url: 'http://wearables.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-wearables.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: wearables
+- view_sort: '0'
+  name: Energy
+  identifier: ''
+  url: 'http://engergy.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-energy.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: energy
+- view_sort: '0'
+  name: Space
+  identifier: ''
+  url: 'http://space.stack.network'
+  description: 'NULL'
+  image: 'https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-space.png'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: space
+- view_sort: '0'
+  name: Environment
+  identifier: ''
+  url: 'http://environment.stack.network'
+  description: 'NULL'
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-environment.png
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: environment
+- view_sort: '0'
+  name: Sharing Economy
+  identifier: ''
+  url: 'http://sharing.economy.stack.network'
+  description: 'NULL'
+  image: 'NULL'
+  imagewidth: ''
+  category: Stack Network
+  github_org: api-stack
+  github_repo: sharing-economy
+- view_sort: '0'
+  name: Hacker Storytelling
+  identifier: ''
+  url: 'http://hackerstorytelling.com'
+  description: >-
+    This is my site where I document my own storytelling process. How I use
+    JSON, JavaScript, HTML, CSS, Github and Jekyll to tell stories. Every
+    project in this list uses this Hacker Storytelling format.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-storytelling.png'
+  imagewidth: ''
+  category: Storytelling
+  github_org: hacker-storytelling
+  github_repo: master
+- view_sort: '0'
+  name: 'Small Business API Strategy '
+  identifier: ''
+  url: 'http://small-business-api-strategy.apievangelist.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Strategy
+  github_org: api-evangelist
+  github_repo: small-business-api-strategy
+- view_sort: '0'
+  name: Coop Strategy
+  identifier: ''
+  url: 'http://coop-strategy.apievangelist.com'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Strategy
+  github_org: api-evangelist
+  github_repo: coop-strategy
+- view_sort: '0'
+  name: Products
+  identifier: ''
+  url: 'http://products.apievangelist.com/'
+  description: >-
+    This project is a template product API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private product API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: products
+- view_sort: '0'
+  name: Business
+  identifier: ''
+  url: 'http://business.apievangelist.com'
+  description: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-business-icon.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: business
+- view_sort: '0'
+  name: Events
+  identifier: ''
+  url: 'http://events.apievangelist.com'
+  description: >-
+    This project is a template event API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private event API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-calendar.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: events
+- view_sort: '0'
+  name: Images
+  identifier: ''
+  url: 'http://images.apievangelist.com'
+  description: >-
+    This project is a template image API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private image API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-images.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: images
+- view_sort: '0'
+  name: Jobs
+  identifier: ''
+  url: 'http://jobs.apievangelist.com'
+  description: >-
+    This project is a template job API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private job API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-job.jpg'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: jobs
+- view_sort: '0'
+  name: Offices
+  identifier: ''
+  url: 'http://offices.apievangelist.com'
+  description: >-
+    This project is a template office API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private office API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-office-worker.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: offices
+- view_sort: '0'
+  name: Places
+  identifier: ''
+  url: 'http://places.apievangelist.com'
+  description: >-
+    This project is a template places API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private places API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-geo-pin.jpeg'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: places
+- view_sort: '0'
+  name: People
+  identifier: ''
+  url: 'http://people.apievangelist.com'
+  description: >-
+    This project is a template people API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private people API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-people.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: people
+- view_sort: '0'
+  name: Press
+  identifier: ''
+  url: 'http://press.apievangelist.com'
+  description: >-
+    This project is a template press API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private intention API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: press
+- view_sort: '0'
+  name: Programs
+  identifier: ''
+  url: 'http://programs.apievangelist.com'
+  description: >-
+    This project is a template program API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private program API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-programs.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: programs
+- view_sort: '0'
+  name: Videos
+  identifier: ''
+  url: 'http://videos.apievangelist.com'
+  description: >-
+    This project is a template video API, meant to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private video API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-video.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: videos
+- view_sort: '0'
+  name: Links
+  identifier: ''
+  url: 'http://links.apievangelist.com'
+  description: >-
+    This project is a template links API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private links API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-link.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: links
+- view_sort: '0'
+  name: Questions
+  identifier: ''
+  url: 'http://questions.apievangelist.com'
+  description: >-
+    This project is a template questions API, mean to demonstrate what is
+    possible with an API. My intention with template APIs is to help onboard
+    folks with new ideas for APIs, and this is one in particular is meant to
+    kickstart the conversation around having a public or private questions API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: questions
+- view_sort: '0'
+  name: Services
+  identifier: ''
+  url: 'http://services.apievangelist.com'
+  description: >-
+    This project is a template services API, mean to demonstrate what is
+    possible with an API. My intention with template APIs is to help onboard
+    folks with new ideas for APIs, and this is one in particular is meant to
+    kickstart the conversation around having a public or private services API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-service-request.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: services
+- view_sort: '0'
+  name: Lifebits
+  identifier: ''
+  url: 'http://lifebits.apievangelist.com'
+  description: >-
+    This project is a template lifeboats API, mean to demonstrate what is
+    possible with an API. My intention with template APIs is to help onboard
+    folks with new ideas for APIs, and this is one in particular is meant to
+    kickstart the conversation around having a public or private lifeboats API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dna.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: lifebits
+- view_sort: '0'
+  name: Actions
+  identifier: ''
+  url: 'http://actions.apievangelist.com'
+  description: >-
+    This project is a template actions API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private actions API.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-arrows-circular.png'
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: actions
+- view_sort: '0'
+  name: Humans
+  identifier: ''
+  url: 'http://humans.apievangelist.com'
+  description: >-
+    This project is a template human API, mean to demonstrate what is possible
+    with an API. My intention with template APIs is to help onboard folks with
+    new ideas for APIs, and this is one in particular is meant to kickstart the
+    conversation around having a public or private human API.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users-male-female.png
+  imagewidth: ''
+  category: Template
+  github_org: 'NULL'
+  github_repo: humans
+- view_sort: '0'
+  name: Single Page Application
+  identifier: ''
+  url: 'http://spa.apievangelist.com'
+  description: >-
+    Single page applications (SPA) are an increasingly used approach for
+    deploying simple, robust applicaitons using JavaScript and APIs. &nbsp;I'm
+    looking to understand what the leading approaches are, and where the
+    opportunities lie by aggregating news, analysis, companies and technology in
+    a single project.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-single-page-app.png'
+  imagewidth: ''
+  category: Trends
+  github_org: 'NULL'
+  github_repo: single-page-applications
+- view_sort: '0'
+  name: APIs At Brigham Young University
+  identifier: ''
+  url: 'http://apievangelist.com/2016/05/03/apis-at-brigham-young-university/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Universities
+  github_org: 'NULL'
+  github_repo: ''
+- view_sort: '0'
+  name: University of Oklahoma API
+  identifier: ''
+  url: 'http://university-of-oklahoma-api.apievangelist.com'
+  description: >-
+    I am exploring ways to jumpstart the API conversation at University of
+    Oklahoma, and this is the project to track on my work. I'm hoping to create
+    a blueprint that other universities can follow when trying to jumpstart
+    their own discussions of API on campus.&nbsp;
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  imagewidth: ''
+  category: University
+  github_org: 'NULL'
+  github_repo: university-of-oklahoma-api
+- view_sort: '0'
+  name: Image Manipulation
+  identifier: ''
+  url: 'http://image.manipulation.apievangelist.com/'
+  description: >-
+    I have a wide range of needs to resize, crop, filter, and apply other things
+    to photos I work with, as part of my storytelling, and if I had a built set
+    of image manipulation APIs, life would be better--so as I do with all my
+    other needs, I got to work building an API. The result is the first of a
+    series of image manipulation APIs. Right now I focused on some low hanging
+    fruit, like applying filters to images, which includes Charcoal, Oil
+    Painting, Polaroid, and Sketch. Next, I will tackle some more utility style
+    APIs like resize, crop, and rotate.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.jpg'
+  imagewidth: ''
+  category: Utility
+  github_org: 'NULL'
+  github_repo: image-manipulation
+- view_sort: '0'
+  name: HTML
+  identifier: ''
+  url: 'http://html.api.apievangelist.com'
+  description: >-
+    I work witih a lot of content to make the API Evangelist network go around,
+    and over time I've written a lot of scripts that harvest, and work with HTML
+    pages. As with all of my work, I'm pushing to define each tool in my HTML
+    toolbox into simple, easy to use APIs that I can across the network, and
+    potentially others can use as well.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-html.png'
+  imagewidth: ''
+  category: Utility
+  github_org: 'NULL'
+  github_repo: html
+- view_sort: '0'
+  name: Algorithmic Rotoscope
+  identifier: ''
+  url: 'http://algorithmic.rotoscope.work/'
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: Video
+  github_org: kinlane
+  github_repo: algo.rotoscope.work
+- view_sort: '0'
+  name: The Pricing & Plans For 250 API Platforms
+  identifier: ''
+  url: ''
+  description: ''
+  image: ''
+  imagewidth: ''
+  category: White Paper
+  github_org: 'NULL'
+  github_repo: ''

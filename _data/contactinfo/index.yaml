@@ -1,0 +1,46 @@
+- view_sort: B
+  name: Twitter
+  identifier: twitter
+  url: 'https://twitter.com/apievangelist'
+  description: >-
+    Your best bet for quick engagement is via Twitter. If you see me online, hit
+    me up, I'll usually respond when available.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png'
+  category: Social
+- view_sort: C
+  name: Github
+  identifier: github
+  url: 'https://github.com/api-evangelist'
+  description: >-
+    My entire network runs on Github, use the issue management for any of my
+    sites--here is the repo for API Evangelist.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  category: Code
+- view_sort: D
+  name: Conference Call
+  identifier: conference-call
+  url: ''
+  description: >-
+    I take calls on Thursdays, email me and Il'l schedule you in for some time
+    via Skype or GHangout.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-conference-call.png'
+  category: Phone
+- view_sort: E
+  name: Do Something Interesting
+  identifier: do-something-interesting
+  url: >-
+    http://apievangelist.com/2017/01/27/if-you-are-doing-interesting-things-with-apis-please-tell-the-story/
+  description: >-
+    Do something interesting, and get the word out via your blog, Twitter, or
+    Github, and I'll notice, and probably reach out.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-gears-working.png'
+  category: Work
+- view_sort: A
+  name: Email
+  identifier: email
+  url: 'mailto: info@apievangelist.com"'
+  description: >-
+    I try to work through my email, but I get more than I can process. I do my
+    best, but email isn't always the most efficient.
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-email-at.png'
+  category: Email

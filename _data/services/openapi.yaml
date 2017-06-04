@@ -1,0 +1,84 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Services
+  description: These are the services offered by the API Evangelist
+  version: 1.0.0
+host: apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /services/:
+    get:
+      summary: Get Services
+      description: Returns all the services.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/service'
+      tags:
+        - Services
+        - API Evangelist
+  /services-references/:
+    get:
+      summary: Get Service References
+      description: Returns all the service references.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/service_reference'
+      tags:
+        - Services
+        - Service References
+        - API Evangelist
+definitions:
+  service:
+    properties:
+      view_sort:
+        description: A letter to sort in the UI.
+        type: string
+      name:
+        description: The name of the service.
+        type: string
+      identifier:
+        description: A unique identiefer for the service.
+        type: string
+      url:
+        description: A URL to find more information about service.
+        type: string
+      description:
+        description: A descripton of the service.
+        type: string
+      image:
+        description: An image representation for a service.
+        type: string
+      imagewidth:
+        description: An image width for the service.
+        type: integer
+      category:
+        description: A category for the service.
+        type: string
+      brand:
+        description: A brand associated with the service.
+        type: string
+  service_reference:
+    properties:
+      service:
+        description: The name of the service it is reference for.
+        type: string
+      title:
+        description: The title of the service reference.
+        type: string
+      link:
+        description: A link for the service reference.
+        type: string

@@ -1,0 +1,42 @@
+---
+layout: page
+---
+
+{% assign building_block_content = site.data.building_block_content.index[0] %}
+{% assign building_blocks = site.data.building_blocks.index %}
+{% assign categorylist = '' %}
+{% for block in building_blocks %}
+	{% assign category = block.category %}
+	{% if categorylist contains category %}
+	{% else %}
+		{% if categorylist != '' %}
+			{% assign categorylist = categorylist | append:',' %}
+		{% endif %}
+		{% assign categorylist = categorylist | append: category %}
+	{% endif %}
+{% endfor %}
+
+<section>
+  <header class="main">
+    <h2>{{ building_block_content.title }}</h2>
+  </header>
+	<p><img style="padding: 15px;" src="{{ building_block_content.image }}" align="right" width="35%" /></p>
+  <p>{{ building_block_content.header }}</p>
+	<ul style="padding: 0px 25px 0px 25px;">
+		{% assign categoryArray = categorylist | split: "," %}
+		{% for category in categoryArray %}
+			<li>
+				<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
+				<ul style="margin-top: 10px;">
+					{% for block in building_blocks %}
+						{% if block.category == category %}
+						<li><strong>{{ block.name }}</strong> - {{ block.descripion }}</li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</li>
+		{% endfor %}
+	</ul>
+	<p>{{ building_block_content.footer }}</p>
+</div>
+</section>

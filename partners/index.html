@@ -1,0 +1,67 @@
+---
+layout: page
+title: API Evangelist Partners
+---
+
+<h2>API Evangelist Partners</h2>
+<p>I depend on the support of a handful of companies to operate API Evangelist. My partners provide me with regular revenue to pay my bills, and invest in API as a full time project. My sponsors invest in me monthly in exchange for their logo, description and link on the main page of each research area, and the footer of the global navigation for the site. This page also contains other companies I advise for, or partner with in any way.</p>
+
+<h3>Sponsors</h3>
+<p>These are companies I am taking money from regularly to support my work as the API Evangelist. They provide me with regular support in exchange for their logo, description, and link on my site, but also to just support my work as the API Evangelist. My sponsors are how I pay the bills and keep doing API Evangelist after 7 years.</p>
+<section>
+  <div class="features">
+    {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Sponsor' %}
+        <article>
+          <p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="150" style="padding: 15px;" align="center" /></a></p>
+          <div class="content">
+            <h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+            <p>{{ partner.description }}</p>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<h3>Advisor</h3>
+<p>These are companies I am actively advising in a professional capacity, with a stake in their success. When I advise for a company I'm invested in a positive outcome, talking regularly with stakeholders, and think consider what they are doing as part of my regular storytelling. While am an advisor, these companies are not my business, and each owner will approach their business on their terms.</p>
+<section id="banner">
+  <div class="features">
+    {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Advisor' %}
+        <article>
+          <p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="150" style="padding: 15px;" align="center" /></a></p>
+          <div class="content">
+            <h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+            <p>{{ partner.description }}</p>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<h3>Partners</h3>
+<p>These are other companies I'm actively partner with, in a variety of capacities, highlighting a heightened level of interest in their success. There are a variety of reason I will partner with a company or individual, and always happy to talk about partnering. It isn't easy to find the right formular for partnerships, but I am always open to learning from other people doing interesting things with APIs.</p>
+<section id="banner">
+  <div class="features">
+    {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Partner' %}
+        <article>
+          <p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="150" style="padding: 15px;" align="center" /></a></p>
+          <div class="content">
+            <h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+            <p>{{ partner.description }}</p>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<hr />
+<p align="center"><a href="/contact/">If you want to learn more about ways that we can work together, or how you can support my work, please contact me via any of my open channels. I depend on partners for providing me with valuable information I use across my research and storytelling, as well as for funding to actually pay rent, and continue doing my work. Thank you for your support!</a></p>

@@ -2,45 +2,43 @@
 layout: default
 ---
 
-<div class="posts">
+{% assign blog_content = site.data.news_content.index[0] %}
+
+<!-- Tools -->
+<section>
+	<table align="right" style="width: 200px; height: 100px;">
+		<tr style="border: 1px solid #FFF;">
+			<td style="background-color:#FFF; padding: 10px;">
+				<a href="/feeds/blog/atom.xml" class="icon fa-rss-square fa-4x"><span class="label">RSS</span></a>
+			</td>
+		</tr>
+	</table>
+  <header class="main">
+    <h2>{{ blog_content.title }}</h2>
+  </header>
+  <p>{{ blog_content.header }}</p>
+	{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in paginator.posts %}
+	 	{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
     {% if post.title != null %}
-
-      <div class="post">
-
-        <h1>
-          <a href="{{ site.production_url }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h1>
-
+			{% if posttime < nowunix %}
+        <h3><a href="{{ site.production_url }}{{ post.url }}">{{ post.title }}</a></h3>
         <span class="post-date">{{ post.date | date_to_string }}</span>
-
         {{ post.content }}
-
-        <p align="center"><a href="{{ site.production_url }}{{ post.url }}">See The Full Blog Post</a>
-
-    </div>
-    <center><hr style="width: 75%;" /></center>
-
+        <ul class="actions" style="text-align: center;">
+          <li><a href="{{ site.production_url }}{{ post.url }}" class="button big">Details</a></li>
+        </ul>
+      	<center><hr style="width: 75%;" /></center>
+				{% endif %}
     {% endif %}
   {% endfor %}
-</div>
 
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a href="/blog/page{{paginator.next_page}}" class="older">Older</a>
-  {% else %}
-    <span class="next">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a href="/" class="newer">Newer</a>
-    {% else %}
-      <a href="/blog/page{{paginator.previous_page}}" class="newer">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="previous">Newer</span>
-  {% endif %}
-</div>
+	<ul class="pagination" style="text-align: center;">
+		<li style="text-align:left;"><a href="/blog/page{{paginator.previous_page}}" class="button disabled"><< Prev</a></li>
+		<li style="width: 75%"><span></span></li>
+		<li style="text-align:right;"><a href="/blog/page{{paginator.next_page}}" class="button">Next >></a></li>
+	</ul>
+
+	<p>{{ blog_content.footer }}</p>
+
+</section>

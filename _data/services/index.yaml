@@ -1,0 +1,165 @@
+- view_sort: A
+  name: API Getting Started
+  identifier: api-getting-started
+  url: ''
+  description: >-
+    Getting started with APIs at your organization, company, institution, or
+    agency can be a daunting thing, let me help you figure out the best path
+    forward with APIs. Even if your IT or developer groups are a little hostile
+    to the idea of APIs, or business groups being involved in these discussions.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: B
+  name: API Storytelling
+  identifier: api-storytelling
+  url: ''
+  description: >-
+    First, and foremost I tell stories, here on my blog, and in person at
+    conferences, meetups, and internal or private gatherings. While I do not
+    take money in exchange for writing directly about a companies products or
+    services, there are many ways I approach to taking money for API
+    storytelling that also allows me to sleep at night, and show my face at
+    events within the industry.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: C
+  name: 'API Research '
+  identifier: api-research
+  url: ''
+  description: >-
+    Studying a specific aspect of the API industry. My focus is on the 75+ areas
+    of the API lifecycle available on my home page, but I am happy to zoom in on
+    other areas if it will help you.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: D
+  name: API Content
+  identifier: api-content
+  url: ''
+  description: >-
+    I am a prolific content creator, generating what I need for my storytelling,
+    as well as for a variety of other industry guides, white papers, API
+    strategy. I'm happy to help explore if there are industries or specific
+    topics that you'd like to see white paper, case studies, and other guides
+    developed for. I enjoy this type of writing, and find it a rewarding way to
+    generate revenue for API Evangelist.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: E
+  name: API Training
+  identifier: api-training
+  url: ''
+  description: >-
+    I've worked with companies, organizations, higher educational institutions,
+    and government agencies to develop internal and external API training
+    curriculum. If you are in need to API training materials and classes
+    developed, let me know if I can help your organization stay in tune with the
+    latest from the API sector.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: F
+  name: API Reviews
+  identifier: api-reviews
+  url: ''
+  description: >-
+    Be the first external developer to review an API and its supporting
+    operations, signing up for usage, making API calls, and providing feedback
+    on where improvements can be made.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: G
+  name: API Profiling
+  identifier: api-profling
+  url: ''
+  description: >-
+    Profiling API operations including the creation of OpenAPI definitions for
+    all functioning APIs, and establishing an APIs.json index of everything
+    invovled with operations from signup to integration. I enjoy documenting
+    what a company is doing, the details of their APIs, their API operations,
+    and even the people involved in the API kitchen.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: H
+  name: API Guides
+  identifier: api-guides
+  url: ''
+  description: >-
+    I am happy to assist you in crafting an API guide for any stop along the API
+    life cycle, raning from API design guidelines for your team to API
+    deprecation policies that help you plan for the future and communicate
+    change with your consumers. Guides are great for helping your team
+    understand the landscape, without all the clutter and distractions, helping
+    establish some common guidelines and approaches to making APIs happen.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: I
+  name: API Portals
+  identifier: api-portals
+  url: ''
+  description: >-
+    Help you craft an API portal to support your API operations and actually
+    develop, deploy, and in some cases help manage the operations of the central
+    location for any API to operate and engage with consumers.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: J
+  name: API Prototypes
+  identifier: api-prototypes
+  url: ''
+  description: >-
+    I spend a lot of time mocking APIs, and developing prototypes that can be
+    used as a module for possible producting toolss, services, and other
+    products built on APIs. Protoytping an API can be a cheap way to flesh out
+    an idea, and even test it with a group of developers or business users--let
+    me know if I can help you tackle your projects in this way.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: K
+  name: API Development
+  identifier: api-development
+  url: ''
+  description: >-
+    I do develop APIs. In some cases I will actually help organizations design,
+    develop, and deploy APIs. There are a wide variety of reasons you will want
+    to deploy APIs, let me help you figure out the best path forward when it
+    comes to crafting your APIs. API deployment is something your group should
+    own, but I'm happy to get the conversation moving in the right direction.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''
+- view_sort: L
+  name: API Policy
+  identifier: api-policy
+  url: ''
+  description: >-
+    I assist city, state, and federal government agencies in helping think
+    through, and craft policy that contains strong API lanaguage, building a
+    road map for the API future of any sector being impacted by technology.
+    Government tends to be a few steps behind the technology industry when it
+    comes to interoperability and agility, and I'm happy to help agencies think
+    through the latest approaches in the context of how government works.
+  image: ''
+  imagewidth: ''
+  category: ''
+  brand: ''

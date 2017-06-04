@@ -1,29 +1,67 @@
 ---
 layout: page
-title: 'Network APIs Tooling'
+title: API Evangelist Tools
 ---
-<h1>{{ site.title }} Tooling</h1>
-<p>{{ site.tools_desc }}</p>
-<table width="100%" border="0">
-  {% for tool in site.data.tools %}
-    {% if tool.tags contains 'Network' %}
-    <tr>
-      <td align="center" valign="middle" width="60">
-        <a href="{{ tool.url }}"><img src="{{ tool.logo }}" width="100" align="left" style="padding: 15px;" /></a>
-      </td>
-      <td align="left" width="75%">
-        <a href="{{ tool.url }}" style="color: #000;">
-          <strong>{{ tool.name }}</strong>
-        </a>
-        <p style="font-size: 11px;">{{ tool.details }}</p>
-      </td>
-      <td width="75" align="center" valign="middle">
-          <a href="{{ tool.url }}" target="_blank" title="Website">
-            <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="25" />
-          </a>
-      </td>
-    </tr>
-    {% endif %}
-  {% endfor %}
-</table>
-<p>If there is an "open source tool" that should be listed here, <a href="https://github.com/{{ site.org }}/{{ site.repo }}/issues">submit as a Github Issue, and I will consider adding</a>.</p>
+
+{% assign approved_tags = 'API Specification,Data Specifications,Semantics,Schema,Hypermedia, Discovery,Data Policy,Encryption,Viewers,Connectors,Clients,Proxy' %}
+{% assign tool_content = site.data.tool_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ tool_content.title }}</h2>
+		<p><img style="padding: 15px;" src="{{ tool_content.image }}" align="right" width="10%" /></p>
+		<p>{{ tool_content.header }}</p>
+	</header>
+		{% assign tools = site.data.tools.index %}
+		{% assign tagslist = '' %}
+		{% for tool in tools %}
+			{% assign tags = tool.tags %}
+			{% assign tagArray = tags | split: "," %}
+			{% for tag in tagArray %}
+				{% assign tag = tag | strip %}
+				{% if approved_tags contains tag %}
+					{% if tagslist contains tag %}
+					{% else %}
+						{% if tagslist != '' %}
+							{% assign tagslist = tagslist | append:',' %}
+						{% endif %}
+						{% assign tagslist = tagslist | append: tag %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+		{% assign tagArray = tagslist | split: "," %}
+		{% assign tagArray = tagArray | sort: %}
+
+		{% for tag in tagArray %}
+			<h3>{{ tag }}</h3>
+			<div class="features">
+				{% for tool in tools %}
+					{% if tool.tags contains tag %}
+		        <article>
+		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.image }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
+		          <div class="content">
+		            <h3><a href="{{ tool.url }}" target="_blank">{{ tool.name }}</a></h3>
+		            <p>{{ tool.description }}</p>
+								<ul class="icons">
+									<li><a href="{{ tool.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+									{% if tool.twitter != '' %}
+									<li><a href="{{ tool.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+									{% endif %}
+									{% if tool.blog != '' %}
+									<li><a href="{{ tool.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+									{% endif %}
+									{% if tool.blog_rss != '' %}
+									<li><a href="{{ tool.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+									{% endif %}
+									{% if tool.github != '' %}
+									<li><a href="{{ tool.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+									{% endif %}
+								</ul>
+		          </div>
+		        </article>
+					{% endif %}
+		    {% endfor %}
+			</div>
+		{% endfor %}
+		<p>{{ tool_content.footer }}</p>
+</section>

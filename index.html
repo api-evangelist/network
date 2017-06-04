@@ -1,75 +1,292 @@
 ---
-layout: page
-title: 'Network APIs'
+layout: default
+title: API Evangelist - Design
 ---
-<p style="font-size: 12px; padding:5px;">
-  <img src="{{ site.project_image }}" align="right" width="75" style="padding:15px;" />
-  {{ site.project_summary }}
-</p>
 
-<center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
-<div class="row" style="vertical-align: top;" align="center">
+<!-- Main -->
+{% assign home_content = site.data.home_content.index[0] %}
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>{{ home_content.title }}</h2>
+		</header>
+		{{ home_content.content }}
+	</div>
+	<span class="image object">
+		<img src="{{ home_content.image }}" alt="" width="25%" />
+	</span>
+</section>
 
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+<!-- Partners -->
+<a name="Partners"></a>
+<section>
+	<header>
+		<h2>API Evangelist Partners</h2>
+		<p>These are my partners who invest in API Evangelist each month, helping underwrite my research, and making sure I'm able to keep monitoring the API space as I do.</p>
+	</header>
+	<div class="features">
+		{% assign partners = site.data.partners.index | sort: 'view_sort' %}
+    {% for partner in partners %}
+      {% if partner.type == 'Sponsor' %}
+			<article>
+				<p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px;" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
+					<p>{{ partner.description }}</p>
+				</div>
+			</article>
+      {% endif %}
+    {% endfor %}
+	</div>
+</section>
 
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Top Links</strong></p>
-    <ul class="featurelist">
-      {% for org in site.data.organizations  limit:10 %}
-        <li><a href="{{ org.website }}">{{ org.name }}</a></li>
-      {% endfor %}
-    </ul>
+<!-- Guide -->
+<a name="Guide"></a>
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>API Design Industry Guide</h2>
+		</header>
 
-  </div>
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest News</strong><a href="/news.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
-    <ul class="newslist">
-      {% for curated in site.data.curated  limit:4 %}
-        <li><a href="{{ curated.url }}">{{ curated.title }}</a></li>
-      {% endfor %}
-    </ul>
+		<p>In the last couple of years, I've seen the concept of API design go from being something the API elite discuss, to something that involves business users, and something that has spawned a whole ecosystem of service and tooling providers.</p>
+		<p>This API design research covers the concepts people often associate with API design, like REST, and Hypermedia, but also touches on other media types, API definitions, and many of the services, tooling and other solutions that have emerged to serve the space.</p
+		<p>I fund my research through consulting, selling my guides, and the generous support of my sponsors. I appreciate your support in helping me continue with my work and hope you find it relevant in your API journey.</p>
 
-  </div>
-  <div class="span3" align="left" style="float: none; margin: 0 auto; display: inline-block; height: 100%; vertical-align: top;">
+		<ul class="actions" style="text-align: center;">
+			<li><a href="http://apis.how/jxcvi8wng2" class="button big">Download Guide</a></li>
+			<li><a href="https://gum.co/mujnIl" class="button big">Purchase Guide</a></li>
+		</ul>
 
-    <script type="text/javascript">
-      $url = 'http://apievangelist.com/blog.xml';
-      var $listcount = 0;
-      $.get($url, function (data) {
-          $(data).find("item").each(function () {
-              var el = $(this);
-              $title = el.find("title").text();
-              $link = el.find("link").text();
-              if($listcount<4){
-                $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
-                $('#rssNews').append($listitem);
-                }
-              $listcount++;
-          });
-      });
-    </script>
-    <p><strong><span style="font-size: 20px;">&#8620;</span>&nbsp;&nbsp;Latest Analysis</strong><a href="http://apievangelist.com/blog.xml"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="15" style="padding-left: 5px;" /></a></p>
-    <ul class="newslist" id="rssNews"></ul>
+	</div>
+	<span class="image object">
+		<a href="http://apis.how/jxcvi8wng2" target="_blank"><img src="/images/api-evangelist-api-design-guide-may-2016-cover.png" alt="" width="5%" /></a>
+	</span>
+</section>
 
-  </div>
-</div>
-<center><hr style="padding: 5px; margin: 5px; width: 85%;" /></center>
+<!-- Blog Feature -->
+<a name="BlogFeature"></a>
+{% for post in site.posts limit:1 %}
+	<section id="banner">
+		<div class="content">
+			<header>
+				<h2>Latest From Blog on API Design: {{ post.title }}</h2>
+				<p><em>{{ post.date | date_to_string }}</em></p>
+			</header>
+			{{ post.content }}
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/blog/" class="button big">Read The Blog</a></li>
+			</ul>
+		</div>
+	</section>
+{% endfor %}
 
-<div class="row" align="center" style="">
+<!-- News -->
+<a name="News"></a>
+{% assign news_content = site.data.news_content.index[0] %}
+{% assign news = site.data.curated.index | sort: 'item_date' | reverse %}
+{% assign news = news | sort: 'item_date' %}
+{% assign news = news | reverse %}
+<section>
+	<header>
+		<h2>{{ news_content.title }}</h2>
+	</header>
+	<p>{{ news_content.header }}</p>
+	<div class="table-wrapper" style="height: 500px; overflow: auto;">
+		<table class="alt">
+			<thead>
+				<tr>
+					<th>Title</th>
+					<th>Source</th>
+					<th>Visit</th>
+				</tr>
+			</thead>
+			<tbody>
+				{% for curated in news %}
+				<tr>
+					<td><a href="{{ curated.url }}" title="{{ curated.title }}" style="color:#000; font-size: 12px;">{{ curated.title }}</a> <span style="color:#000; font-size: 12px;">(<i>{{ curated.item_date | date: "%Y-%m-%d" }}</i>)</span></td>
+					<td>{% if curated.domain != null %}<a href="http://{{ curated.domain }}" style="color:#000; font-size: 12px;">{{ curated.domain }}</i></a>{% endif %}</td>
+					<td><a href="{{ curated.url }}" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-forward.png" width="25" /></a></td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div>
+	<p>{{ news_content.footer }}</p>
+	<center>
+		<ul class="actions" style="text-align: center;">
+			<li><a href="/news/" class="button big">Read The News</a></li>
+		</ul>
+	</center>
+</section>
 
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="left">
+<!-- Organizations -->
+<a name="Organizations"></a>
+{% assign organization_content = site.data.organization_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ organization_content.title }}</h2>
+	</header>
+	<p>{{ organization_content.header }}</p>
+	<div class="features">
+		{% assign organizations = site.data.organizations.index %}
+    {% for organization in organizations %}
+			<article>
+				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
+					<p>{{ organization.description }}</p>
+					<ul class="icons">
+						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+						{% if organization.twitter != '' %}
+						<li><a href="{{ organization.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						{% endif %}
+						{% if organization.blog != '' %}
+						<li><a href="{{ organization.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+						{% endif %}
+						{% if organization.blog_rss != '' %}
+						<li><a href="{{ organization.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+						{% endif %}
+						{% if organization.github != '' %}
+						<li><a href="{{ organization.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+						{% endif %}
+					</ul>
+				</div>
+			</article>
+    {% endfor %}
+		<center>
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/organizations/" class="button big">See All Organizations</a></li>
+			</ul>
+		</center>
+		<p>{{ organization_content.footer }}</p>
+	</div>
+</section>
 
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://industrial.apievangelist.com"><strong><span style="font-size: 20px;">&#8666;</span>&nbsp;&nbsp;Visit My Research On Industrial APIs</strong></a></li>
-    </ul>
+<!-- Tools -->
+<a name="Tools"></a>
+{% assign approved_tags = 'API Specification,Generator,Validator,API Design Guide,Data Specification,Design Editor,Design Notebook,Hypermedia,IDE,Semantics,gRPC' %}
+{% assign tool_content = site.data.tool_content.index[0] %}
+<section>
+	<header>
+		<h2>{{ tool_content.title }}</h2>
+		<p>{{ tool_content.header }}</p>
+	</header>
+		{% assign tools = site.data.tools.index %}
+		{% assign tagslist = '' %}
 
-  </div>
+		{% for tool in tools %}
+			{% assign tags = tool.tags %}
+			{% assign tagArray = tags | split: "," %}
+			{% for tag in tagArray %}
+				{% assign tag = tag | strip %}
+				{% if approved_tags contains tag and tag != site.tag %}
+					{% if tagslist contains tag %}
+					{% else %}
+						{% if tagslist != '' %}
+							{% assign tagslist = tagslist | append:',' %}
+						{% endif %}
+						{% assign tagslist = tagslist | append: tag %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
 
-  <div class="span5" style="float: none; margin: 0 auto; display: inline-block;" align="right">
+		{% assign tagArray = tagslist | split: "," %}
+		{% assign tagArray = tagArray | sort: %}
 
-    <ul class="newslist" style="list-style: none; font-size: 14px; padding: 0px; margin: 0px;">
-      <li><a href="http://ide.apievangelist.com/"><strong>Visit My Research On API & IDEs&nbsp;&nbsp;<span style="font-size: 20px;">&#8667;</span></strong></a></li>
-    </ul>
+		{% for tag in tagArray %}
+			<h3>{{ tag }}</h3>
+			<div class="features">
+				{% for tool in tools %}
+					{% if tool.tags contains tag %}
+		        <article>
+		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.image }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
+		          <div class="content">
+		            <h3><a href="{{ tool.url }}" target="_blank">{{ tool.name }}</a></h3>
+		            <p>{{ tool.description }}</p>
+								<ul class="icons">
+									<li><a href="{{ tool.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+									{% if tool.twitter != '' %}
+									<li><a href="{{ tool.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+									{% endif %}
+									{% if tool.blog != '' %}
+									<li><a href="{{ tool.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+									{% endif %}
+									{% if tool.blog_rss != '' %}
+									<li><a href="{{ tool.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+									{% endif %}
+									{% if tool.github != '' %}
+									<li><a href="{{ tool.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+									{% endif %}
+								</ul>
+		          </div>
+		        </article>
+					{% endif %}
+		    {% endfor %}
+			</div>
+		{% endfor %}
+		<ul class="actions" style="text-align: center;">
+			<li><a href="/tools/" class="button big">See All Tools</a></li>
+		</ul>
+		<p>{{ tool_content.footer }}</p>
+</section>
 
-  </div>
+<!-- Building Blocks -->
+<a name="BuildingBlocks"></a>
+{% assign building_block_content = site.data.building_block_content.index[0] %}
+{% assign building_blocks = site.data.building_blocks.index %}
+{% assign categorylist = '' %}
+{% for block in building_blocks %}
+	{% assign category = block.category %}
+	{% if categorylist contains category %}
+	{% else %}
+		{% if categorylist != '' %}
+			{% assign categorylist = categorylist | append:',' %}
+		{% endif %}
+		{% assign categorylist = categorylist | append: category %}
+	{% endif %}
+{% endfor %}
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>{{ building_block_content.title }}</h2>
+			<p>{{ building_block_content.header }}</p>
+		</header>
+		<ul style="padding: 0px 25px 0px 25px;">
+			{% assign categoryArray = categorylist | split: "," | sort: %}
+			{% for category in categoryArray %}
+				<li>
+					<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
+					<ul style="margin-top: 10px;">
+						{% for block in building_blocks %}
+							{% if block.category == category %}
+							<li><strong>{{ block.name }}</strong> - {{ block.description }}</li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+				</li>
+			{% endfor %}
+		</ul>
+		<p>{{ building_block_content.footer }}</p>
+		<center>
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/building-blocks/" class="button big">See The Building Blocks</a></li>
+			</ul>
+		</center>
+	</div>
+</section>
 
-</div>
+<!-- About This Research -->
+{% assign about_content = site.data.home_content.index[1] %}
+<a name="About"></a>
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>{{ about_content.title }}</h2>
+		</header>
+		{{ about_content.content }}
+	</div>
+	<span class="image object">
+		<img src="{{ about_content.image }}" alt="" width="25%" />
+	</span>
+</section>

@@ -1,0 +1,14 @@
+- title: API Testing Organizations
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg'
+  header: >-
+    These are the organizations I come across in my research who are doing
+    interesting things in the API space. They could be companies, institutions,
+    government agencies, or any other type of organizational entity. My goal is
+    to aggregate so I can stay in tune with what they are up to and how it
+    impacts the API space.
+  footer: >-
+    If you think there is an organization I should have listed here feel free to
+    tweet it at me, or submit as a Github issue. Even though I do this full
+    time, I'm still a one person show, and I miss quite a bit, and depend on my
+    network to help me know what is going on.
+  tags: Testing

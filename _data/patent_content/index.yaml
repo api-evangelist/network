@@ -1,0 +1,16 @@
+- title: API Definitions Patents
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+  header: >-
+    When I can make time I read through patent filings from the USPTO. I have a
+    regular script running that downloads new patent filings, and looks through
+    them for keywords like API, Application Programming Interface, Hypermedia,
+    and other buzzwords for the sector. These are the patents I've found that
+    are related to this area of my research.
+  footer: >-
+    If you have any questions about these patents, or know of other patents that
+    I should have listed here, please feel free to reach out and submit a Github
+    issue. I'm always looking for new patents, as well as legacy patents, or
+    more important patent litigation that is occurring, and I depend on my
+    audience and network to help keep me in tune.
+  tags: Definitions

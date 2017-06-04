@@ -1,0 +1,18 @@
+<footer>
+  <p align="center">
+    {% assign partners = site.data.sponsors.index %}
+    {% assign partners = partners | sample %}
+    <a href="{{ partners.url }}" target="_blank">
+      <img src="{{ partners.banner_url }}" width="50%" style="padding-top: 10px;" />
+    </a>
+  </p>
+  <p align="center">
+    all of my work:
+    <a href="http://apievangelist.com">apievangelist.com</a> |
+    <a href="http://kinlane.com">kinlane.com</a> |
+    <a href="http://api.report">api.report</a> |
+    <a href="http://adopta.agency">adopta.agency</a> |
+    <a href="http://dronerecovery.org">dronerecovery.org</a> |
+    <a href="http://http://algorithmic.rotoscope.work/">algorithmic.rotoscope.work</a>
+  </p>
+</footer>

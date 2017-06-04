@@ -1,0 +1,18 @@
+---
+layout: page
+title: API Evangelist Network Feature Views for September 2016
+---
+
+<p>These are the feature guide / white paper views across my research for September of 2016 -- <a href="/feature/">Return to Main Page</a>.</p>
+<table width="100%" border="0">
+{% for entry in site.data.projects.feature-2016-09 %}
+    <tr>
+      <td style="width: 40%;">
+        <a href="{{ entry.url }}" target="_blank" style="font-size: 11px;">{{ entry.title }}</a>
+      </td>
+      <td align="left">
+        <table style="width: {{ entry.feature_count | divided_by:10 }}px; height: 18px;"><tr><td style="background-color:#000; text-align: right; color:#FFF; padding-right: 5px; font-size: 11px;">{{ entry.feature_count }}</td></tr></table>
+      </td>
+    </tr>
+{% endfor %}
+</table>

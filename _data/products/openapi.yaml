@@ -1,0 +1,58 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Products
+  description: These are the products offered by the API Evangelist
+  version: 1.0.0
+host: apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /products/:
+    get:
+      summary: Get Products
+      description: Returns all the products.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/products'
+      tags:
+        - Integrations
+        - API
+definitions:
+  product:
+    properties:
+      view_sort:
+        description: A letter to sort in the UI.
+        type: string
+      name:
+        description: The name of the product.
+        type: string
+      identifier:
+        description: A unique identiefer for the product.
+        type: string
+      url:
+        description: A URL to find more information about product.
+        type: string
+      description:
+        description: A descripton of the product.
+        type: string
+      image:
+        description: An image representation for a product.
+        type: string
+      imagewidth:
+        description: An image width for the product.
+        type: integer
+      category:
+        description: A category for the product.
+        type: string
+      brand:
+        description: A brand associated with the product.
+        type: string

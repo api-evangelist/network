@@ -1,0 +1,18 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title }} Blog</title>
+  {% for post in site.posts limit:25 %}{% if forloop.first == true %}{% assign updated = post.atomdate %}<updated>{{ updated | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>{% endif %}{% endfor %}
+  <link rel="self" href="{{ site.url }}/atom.xml"/>
+  <author><name>Kin Lane</name></author>
+  <id>{{ site.url }}/atom.xml</id>{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+	{% for post in site.posts limit:25 %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime < nowunix %}<entry>
+    <title>{{ post.title }}</title>
+    <link href="http://apievangelist.com{{ post.url }}"/>
+    <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
+    <content><![CDATA[{{ post.content | strip_html | xml_escape }}]]></content>
+    <id>http://apievangelist.com{{ post.url }}</id>
+  </entry>{% endif %}{% endfor %}
+</feed>

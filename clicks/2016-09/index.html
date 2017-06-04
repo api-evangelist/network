@@ -1,0 +1,35 @@
+---
+layout: page
+title: API Evangelist Network Clicks for September 2016
+---
+
+<p>These are the clicks on the guides and white papers featured to the left on this site, as well as the clicks on the sponsor logos to the left on the bottom.</p>
+<p><strong>Feature Guides / White Papers</strong></p>
+<table width="90%" border="0" style="margin-left: 25px;">
+  {% for entry in site.data.projects.clicks-2016-09.projects %}
+    <tr>
+      <td style="width: 50%;">
+        <a href="{{ entry.url }}" target="_blank" style="font-size: 11px;">{{ entry.title }}</a>
+      </td>
+      <td align="left" style="width: 50%;">
+        <table style="width: {{ entry.click_count }}px; height: 18px;"><tr><td style="background-color:#000; text-align: right; color:#FFF; padding-right: 5px; font-size: 11px;">{{ entry.click_count }}</td></tr></table>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+<hr />
+<p><strong>Sponsor Logos</strong></p>
+<table width="90%" border="0" style="margin-left: 25px;">
+  {% for entry in site.data.projects.clicks-2016-09.links %}
+    <tr>
+      <td style="width: 50%;">
+        <a href="{{ entry.url }}" target="_blank" style="font-size: 11px;">{{ entry.title }}</a>
+      </td>
+      <td align="left" style="width: 50%;">
+        <table style="width: {{ entry.click_count }}px; height: 18px;"><tr><td style="background-color:#000; text-align: right; color:#FFF; padding-right: 5px; font-size: 11px;">{{ entry.click_count }}</td></tr></table>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+<hr />
+<p align="center"><a href="/clicks/">Return to Main Page</a></p>

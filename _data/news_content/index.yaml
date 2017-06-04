@@ -1,0 +1,14 @@
+- title: API Testing News
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png'
+  header: >-
+    These are the news items I've curated in my monitoring of the API space that
+    have some relevance to the API definition conversation and I wanted to
+    include in my research. I'm using all of these links to better understand
+    how the space is testing their APIs, going beyond just monitoring and
+    understand the details of each request and response.
+  footer: >-
+    If you think there is a link I should have listed here feel free to tweet it
+    at me, or submit as a Github issue. Even though I do this full time, I'm
+    still a one person show, and I miss quite a bit, and depend on my network to
+    help me know what is going on.
+  tags: Testing

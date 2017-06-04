@@ -1,0 +1,96 @@
+- view_sort: A
+  name: API Design Industry Guide
+  identifier: api-design-guide
+  url: 'http://apis.how/jxcvi8wng2'
+  description: >-
+    My API design industry guide, documenting the companies, apis, tools, and
+    common building blocks across the API design stop along the API lifecycle.
+    API design is much more than just REST, and there is a growing industry
+    emerging when it comes to the discipline. My goal is to try and take a
+    regular snapshot of my API design research, and publish here as an industry
+    guide that people of all skill levels can learn from.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/whitepapers/design/api-evangelist-api-design-guide-may-2016-cover.png
+  imagewidth: '250'
+  category: API Lifecycle Research
+  brand: API Evangelist
+- view_sort: A
+  name: API Definitions Industry Guide
+  identifier: api-definition-guide
+  url: 'http://apis.how/oq38yeqkkd'
+  description: >-
+    This is the most important area of my API research. API definitions are
+    impacting every stop along the API lifecycle and this my effort to take a
+    snapshot of the organizations, apis, tools, and common building blocks in
+    play when it comes to defining APIs. This research goes beyone just API
+    definitions like OpenAPI, and includes schema, and other standards that are
+    being used to define APIs across the spectrum.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/api_definitions_2017_03.png
+  imagewidth: '250'
+  category: API Lifecycle Research
+  brand: API Evangelist
+- view_sort: A
+  name: API Deployment Industry Guide
+  identifier: api-deployment-guide
+  url: 'http://apis.how/luztdufwj0'
+  description: >-
+    When I first starting doing API Evangelist everything was about management.
+    People would ask me which of the API management service provider are going
+    to help them deploy their APIs, and I would respond none of them. Times have
+    changed, and more of them will help you deploy, as well as manage your APIs,
+    but my research continues. This is my API deployment industry guide, helping
+    people make sense of what is possible when it comes to deploying APIs in
+    2017.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/whitepapers/deployment/api-evangelist-api-deployment-guide-may-2016-cover.png
+  imagewidth: '250'
+  category: API Lifecycle Research
+  brand: API Evangelist
+- view_sort: A
+  name: API Management Industry Guide
+  identifier: api-management-guide
+  url: 'http://apis.how/lwnwnbrqhu'
+  description: >-
+    API management is the oldest area of my research, studying what the
+    successful API providers are doing to manage their operations. This is the
+    result of my research into the companies, services, tools, APIs, and latest
+    news who are catering to what API providers are needing. I work to make it a
+    mix of what API service providers are doing, as well as the best practices
+    from successful API providers.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/whitepapers/management/api-evangelist-api-management-guide-may-2016-cover.png
+  imagewidth: '250'
+  category: API Lifecycle Research
+  brand: API Evangelist
+- view_sort: A
+  name: The History of APIs
+  identifier: history-of-apis
+  url: 'http://apis.how/i2ixxdj3sq'
+  description: >-
+    This research started about just determining when web APIs started to
+    evolve. Then once I started noticing other trends like social, cloud, and
+    mobile, I thought it needed a little more investigation. After first doing
+    the research I began adding to it every year, resulting in my ongoing
+    history of APIs guide.
+  image: >-
+    https://s3.amazonaws.com/kinlane-productions/whitepapers/history/api-evangelist-history-of-apis-may-2016-cover.png
+  imagewidth: '250'
+  category: History
+  brand: API Evangelist
+- view_sort: A
+  name: 250 API Pricing Pages
+  identifier: 205-api-pricing-pages
+  url: 'http://apis.how/izwh3t2ofz'
+  description: >-
+    I look at a lot of pricing and plan pages for APIs. As I was doing my
+    research into the common approaches to API plans I thought it would be
+    useful to share some of the leading examples of these pages, to help act as
+    a sort of design guide for API plan pages. Eventually this guid will evolve
+    beyond just the screenshots, and actually provide machine readable patterns
+    and UI elements thta anyone can put to use.
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-250-pricing-and-plan-pages.png
+  imagewidth: '250'
+  category: Monetization
+  brand: API Evangelist

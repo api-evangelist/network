@@ -1,0 +1,103 @@
+name: Management
+description: A toolkit where I gather all the news, analysis, companies and technology
+  when it comes to managing APIs.
+image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
+created: "2016-11-29"
+modified: "2016-11-29"
+url: http://management.apievangelist.com//apis.json
+specificationVersion: "0.14"
+apis: []
+tags:
+- Management
+- Management
+include:
+- name: 3scale
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/3scale/apis.yaml
+- name: Akana
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/akana/apis.yaml
+- name: Amazon Web Services
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/amazon-web-services/apis.yaml
+- name: API Plug
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/api-plug/apis.yaml
+- name: API Umbrella
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/api-umbrella/apis.yaml
+- name: ApiAxle
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apiaxle/apis.yaml
+- name: Apify
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apify/apis.yaml
+- name: Apigee
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apigee/apis.yaml
+- name: apiman
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apiman/apis.yaml
+- name: Axway
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/axway/apis.yaml
+- name: CA Technologies
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/ca-technologies/apis.yaml
+- name: Dell Boomi
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/dell-boomi/apis.yaml
+- name: deployd
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/deployd/apis.yaml
+- name: Dexy
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/dexy/apis.yaml
+- name: Exicon
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/exicon/apis.yaml
+- name: Fiorano Software
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/fiorano-software/apis.yaml
+- name: Fusio
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/fusio/apis.yaml
+- name: Gelato.io
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/gelatoio/apis.yaml
+- name: GitHub
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github/apis.yaml
+- name: Github Gists
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github-gists/apis.yaml
+- name: Github Pages
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github-pages/apis.yaml
+- name: Gluu
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/gluu/apis.yaml
+- name: IBM API Management
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/ibm-api-management/apis.yaml
+- name: JustAPIs
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/justapis/apis.yaml
+- name: Kong
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/kong/apis.yaml
+- name: MachineShop
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/machineshop/apis.yaml
+- name: Mashape
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/mashape/apis.yaml
+- name: Microsoft Azure
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/microsoft-azure/apis.yaml
+- name: Monarch API Manager
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/monarch-api-manager/apis.yaml
+- name: MuleSoft
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/mulesoft/apis.yaml
+- name: Nevatech
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/nevatech/apis.yaml
+- name: OpenRepose
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/openrepose/apis.yaml
+- name: ReadMe.io
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/readmeio/apis.yaml
+- name: Restlet
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/restlet/apis.yaml
+- name: Sensedia
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/sensedia/apis.yaml
+- name: SlashDB
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/slashdb/apis.yaml
+- name: Socrata
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/socrata/apis.yaml
+- name: StrikeIron
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/strikeiron/apis.yaml
+- name: StrongLoop
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/strongloop/apis.yaml
+- name: SwiftIQ
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/swiftiq/apis.yaml
+- name: TIBCO Software
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/tibco-software/apis.yaml
+- name: Tyk
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/tyk/apis.yaml
+- name: Varnish Software
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/varnish-software/apis.yaml
+- name: WaveMaker, Inc.
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/wavemaker-inc/apis.yaml
+- name: WSO2
+  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/wso2/apis.yaml

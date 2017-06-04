@@ -1,0 +1,193 @@
+- slug: bluefrisby
+  name: bluefrisby
+  description: An API testing tool using API Blueprint and Frisby.js
+  url: 'https://github.com/localmed/bluefrisby/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,API Blueprint,Frisby.js,General'
+- slug: entropy
+  name: Entropy
+  description: An entropy and failure injection management API for Docker platforms.
+  url: 'https://github.com/buildertools/entropy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/buildertools/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Testing,Performance,General'
+- slug: dredd
+  name: dredd
+  description: API Blueprint testing tool
+  url: 'https://github.com/apiaryio/dredd/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/dredd-head.png
+  tags: 'API Blueprint,Testing,General'
+- slug: blazemeterjmeterplugin
+  name: blazemeter-jmeter-plugin
+  description: blazemeter-jmeter-plugin
+  url: 'https://github.com/Blazemeter/blazemeter-jmeter-plugin'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,General'
+- slug: cucumber4apiblueprint
+  name: cucumber-4-api-blueprint
+  description: >-
+    Cucumber predefined step definitions for RESTful API testing using API
+    Blueprint by Apiary
+  url: 'https://github.com/stekycz/cucumber-4-api-blueprint/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,Cucumber,API Blueprint,General'
+- slug: cucumber-api-steps
+  name: Cucumber API Steps
+  description: Cucumber steps to easily test REST-based XML and JSON APIs
+  url: 'https://github.com/jayzes/cucumber-api-steps'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,General'
+- slug: hippie
+  name: Hippie
+  description: End-to-end API testing made easy
+  url: 'https://github.com/vesln/hippie'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,General'
+- slug: httpexpect
+  name: HTTPExpect
+  description: End-to-end HTTP and REST API testing for Go.
+  url: 'https://github.com/gavv/httpexpect'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,General'
+- slug: dnstest
+  name: dnstest
+  description: Erlang app for testing authoritative DNS servers for compliance.
+  url: 'https://github.com/dnsimple/dnstest'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'DNS,Testing,General'
+- slug: frisby.js
+  name: Frisby.js
+  description: >-
+    Frisby is a REST API testing framework built on node.js and Jasmine that
+    makes&nbsp;testing API endpoints easy, fast, and fun.
+  url: 'http://frisbyjs.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/frisby-js.png
+  tags: 'Testing,JavaScript,General'
+- slug: requestbin
+  name: requestbin
+  description: Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
+  url: 'https://github.com/Runscope/requestbin'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,Webhooks,General'
+- slug: loadui
+  name: LoadUI
+  description: >-
+    LoadUI is a Open Source Load Testing solution that is free and
+    cross-platform. With a visual, drag-and-drop interface, it allows you to
+    create, configure and redistribute your Load Tests interactively and in
+    real-time. In a single test environment, LoadUI provides complete test
+    coverage and supports all the standard protocols and technologies. And
+    it&rsquo;s so powerful, it generates scalable, high-volume and real-world
+    load from any number of local and remote computers. Meet LoadUI, the future
+    of Load Testing.
+  url: 'http://www.loadui.org/About-loadUI/what-is-loadui.html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/loadui-logo.png
+  tags: 'Load Testing,Application Testing,General'
+- slug: chakram
+  name: chakram
+  description: REST API test framework. BDD and exploits promises
+  url: 'https://github.com/dareid/chakram'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,General'
+- slug: blazemetergem
+  name: blazemeter-gem
+  description: Ruby GEM for BlazeMeter API
+  url: 'https://github.com/Blazemeter/blazemeter-gem'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'SDK,Testing,General'
+- slug: apivore
+  name: apivore
+  description: >-
+    Tests your rails API against its Swagger description of end-points, models,
+    and query parameters.
+  url: 'https://github.com/westfieldlabs/apivore/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Testing,Swagger,OAI,General'
+- slug: dreddrack
+  name: dredd-rack
+  description: The Dredd API blueprint testing tool for your Rack applications.
+  url: 'https://github.com/gonzalo-bulnes/dredd-rack/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'API Blueprint,Testing,General'

@@ -1,0 +1,101 @@
+- service: API Getting Started
+  title: 'Where Do I Start With APIs? Your Website! '
+  link: >-
+    https://apievangelist.com/2017/04/28/where-do-i-start-with-apis-your-website/
+- service: API Getting Started
+  title: Where Do I Start With APIs? Your Existing Software Usage!
+  link: >-
+    https://apievangelist.com/2017/04/28/where-do-i-start-with-apis-your-existing-software-usage/
+- service: API Storytelling
+  title: The API Evangelist has spoken
+  link: >-
+    http://www.infoworld.com/article/2943965/apis/the-api-evangelist-has-spoken.html
+- service: API Storytelling
+  title: Kin Lane on How API Commons Will Shape the Future of Web APIs
+  link: 'https://www.infoq.com/news/2014/05/kin-lane-api-commons'
+- service: API Storytelling
+  title: The Secret to Amazons Success Internal APIs
+  link: >-
+    http://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/
+- service: API Storytelling
+  title: An API strategy for the U.S. government
+  link: 'https://govfresh.com/2014/01/next-us-government-api-strategy/'
+- service: 'API Research '
+  title: My API Life Cycle Research From Design To Deprecation
+  link: >-
+    http://apievangelist.com/2016/04/08/my-api-life-cycle-research-from-design-to-deprecation/
+- service: 'API Research '
+  title: My API Stack Research
+  link: >-
+    http://apievangelist.com/2015/12/30/here-are-the-top-api-stacks-i-will-be-working-to-define-in-2016/
+- service: 'API Research '
+  title: 'The University of API White Paper: Looking At APIs In Higher Education'
+  link: >-
+    http://apievangelist.com/2014/08/06/the-university-of-api-white-paper-looking-at-apis-in-higher-education/
+- service: 'API Research '
+  title: Looking At 77 Federal Government API Developer Portals And 190 APIs
+  link: >-
+    http://apievangelist.com/2014/07/10/looking-at-77-federal-government-api-developer-portals-and-190-apis/
+- service: API Training
+  title: Developing Internal API Curriculum And Workshops For Your Organization
+  link: >-
+    https://apievangelist.com/2017/04/21/developing-internal-api-curriculum-and-workshops-for-your-organization/
+- service: API Reviews
+  title: 'How I Can Help Make Sure Your API Is Ready For Use '
+  link: >-
+    https://apievangelist.com/2017/04/21/how-i-can-help-make-sure-your-api-is-ready-for-use/
+- service: API Reviews
+  title: 'An API Evangelist Review Of Your API '
+  link: 'http://apievangelist.com/2013/12/12/an-api-evangelist-review-of-your-api/'
+- service: API Profiling
+  title: My Minimum Viable Definition For A Complete Swagger API Definition
+  link: >-
+    http://apievangelist.com/2015/06/15/my-minimum-viable-definition-for-a-complete-swagger-api-definition/
+- service: API Profiling
+  title: My Ideal Profile Of Companies Who Are Doing Interesting Things With APIs
+  link: >-
+    http://apievangelist.com/2015/03/06/my-ideal-profile-of-companies-who-are-doing-interesting-things-with-apis/
+- service: API Guides
+  title: API Design Guide
+  link: >-
+    http://apievangelist.com/2017/03/06/do-you-have-an-api-design-guide-for-your-operations/
+- service: API Guides
+  title: API Operation Guide
+  link: >-
+    http://apievangelist.com/2014/09/03/an-api-evangelism-strategy-to-map-the-global-family-tree/
+- service: API Portals
+  title: 'Minimum API Portal '
+  link: 'http://portal.minimum.apievangelist.com/'
+- service: API Portals
+  title: The AWS Serverless API Portal
+  link: 'http://apievangelist.com/2017/02/28/the-aws-serverless-api-portal/'
+- service: API Prototypes
+  title: 'Recap Of APIs At Dept of Education, And The FAFSA API'
+  link: >-
+    https://apievangelist.com/2015/02/04/recap-of-apis-at-dept-of-education-and-the-fafsa-api/
+- service: API Development
+  title: 'Adopta.Agency ClinicalTrials.gov Data And API '
+  link: >-
+    http://apievangelist.com/2016/02/24/adoptaagency-clinicaltrialsgov-data-and-api/
+- service: API Policy
+  title: Setting a Precedent When Charging for High Volume Access to Government APIs
+  link: >-
+    http://apievangelist.com/2015/08/24/setting-a-precedent-when-charging-for-high-volume-access-to-government-apis/
+- service: API Policy
+  title: >-
+    I Need Help To Make Sure The Dept. of Agriculture Leads With APIs In Their
+    Parks and Recreation RFP
+  link: >-
+    http://apievangelist.com/2014/10/16/i-need-help-to-make-sure-the-dept-of-agriculture-leads-with-apis-in-their-parks-and-recreation-rfp/
+- service: API Policy
+  title: >-
+    Taking A Look At Whats Next For The Environmental Protection Agency (EPA)
+    Envirofacts Data Service API
+  link: >-
+    http://apievangelist.com/2015/07/25/taking-a-look-at-whats-next-for-the-environmental-protection-agency-epa-envirofacts-data-service-api/
+- service: API Policy
+  title: >-
+    Chief Data Officer Needs To Make The Department Of Commerce Developer Portal
+    The Center Of API Economy
+  link: >-
+    http://apievangelist.com/2014/07/15/chief-data-officer-needs-to-make-the-department-of-commerce-developer-portal-the-center-of-api-economy/

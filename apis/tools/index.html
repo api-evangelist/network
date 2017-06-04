@@ -1,0 +1,6 @@
+---
+layout: none
+title: Tools
+tag: Tools
+---
+{% assign publish_json = site.data.tools.index | json | replace: '=>', ':' %}{{ publish_json }}

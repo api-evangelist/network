@@ -1,47 +1,36 @@
 ---
 layout: default
 ---
-
-<div class="post">
-  <h1>{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
-
-<!-- 3scale -->
-<p align="center">
-    <a href="http://bit.ly/13esk6Q" target="_blank" title="Empowered By 3Scale">
-        <img src="https://s3.amazonaws.com/kinlane-productions/api-service-providers/3Scale/empowered-by-3scale.png" width="45%" style="padding-bottom: 15px;" />
-    </a>        
-</p>  
-
+<h2>{{ page.title }}</h2>
+<p><span class="post-date">{{ page.date | date_to_string }}</span></p>
+{{ content }}
+<hr />
 <table cellpadding="5" cellspacing="5" align="center" border="0" style="border-bottom: 0px; padding-bottom: 10px;">
 	<tr>
 		<td align="center">
-			<a href="http://twitter.com/home?status={{ page.title }} - {{ site.production_url }}{{ page.url }} via @apievangelist" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>				
+			<a href="http://twitter.com/home?status={{ page.title }} - {{ site.production_url }}{{ page.url }} via @apievangelist" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
 		</td>
 		<td align="center">
 			<a href="http://www.facebook.com/share.php?u={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
 		</td>
 		<td align="center">
-			<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ page.url }}&title={{ page.title }}&source=api.report" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>				
+			<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ page.url }}&title={{ page.title }}&source=apievangelist.com" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
 		</td>
 		<td align="center">
-			<a href="https://plus.google.com/share?url={{ site.production_url }}{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>				
-		</td>	
-		<td align="center">
-			<a href="http://www.tumblr.com/share?v=3&u={{ site.production_url }}{{ page.url }}&t={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>				
+			<a href="https://plus.google.com/share?url={{ site.production_url }}{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
 		</td>
 		<td align="center">
-			<a href="http://www.reddit.com/submit?url={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>				
+			<a href="https://www.tumblr.com/share/link?url={{ site.production_url }}{{ page.url }}&name={{ site.production_url }}{{ page.title }}&description={{ page.content | strip_html | truncatewords: 150 }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/tumblr.png" width="25" /></a>
 		</td>
 		<td align="center">
-			<a href="http://news.ycombinator.com/submitlink?u={{ site.production_url }}{{ page.url }}&t={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>				
-		</td>															
+			<a href="http://www.reddit.com/submit?url={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/reddit.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://news.ycombinator.com/submitlink?u={{ site.production_url }}{{ page.url }}&t={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/hackernews.jpeg" width="25" /></a>
+		</td>
 	</tr>
 </table>
 
-<!-- Pagination links -->
 <div class="pagination">
 	{% if page.previous %}
 	   	<a href="{{ site.production_url }}{{ page.previous.url }}" class="older">Older</a>
@@ -52,21 +41,26 @@ layout: default
 	    <a href="{{ site.production_url }}{{ page.next.url }}" class="newer">Newer</a>
 	  {% else %}
 	    <span class="next">Newer</span>
-	  {% endif %}	
+	  {% endif %}
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="/{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+<div id="disqus_thread"></div>
+<script>
+
+/**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+/*
+var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//apievangelist.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

@@ -1,71 +1,42 @@
 ---
 layout: page
-title: Network APIs Organizations
+title: API Definition Organizations
 ---
 
-<h3>Network APIs Organizations</h3>
-<p>These are some of the network API services, and organizations I'm keeping an eye on.</p>
-<table width="100%" border="0" cellpadding="3" cellspacing="2">
-  {% for org in site.data.organizations %}
-
-    {% assign example = 0 %}
-
-    {% for tag in org.tags %}
-      {% if tag contains 'Network' %}
-        {% assign example = 1 %}
-      {% endif %}
+{% assign organization_content = site.data.organization_content.index[0] %}
+<section>
+  <header class="main">
+    <h2>{{ organization_content.title }}</h2>
+  </header>
+<p><img style="padding: 15px;" src="{{ organization_content.image }}" align="right" width="35%" /></p>  
+  <p>{{ organization_content.header }}</p>
+  <div class="features">
+		{% assign organizations = site.data.organizations.index %}
+    {% for organization in organizations %}
+			<article>
+				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
+					<p>{{ organization.description }}</p>
+					<ul class="icons">
+						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+						{% if organization.twitter != '' %}
+						<li><a href="{{ organization.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						{% endif %}
+						{% if organization.blog != '' %}
+						<li><a href="{{ organization.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+						{% endif %}
+						{% if organization.blog_rss != '' %}
+						<li><a href="{{ organization.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+						{% endif %}
+						{% if organization.github != '' %}
+						<li><a href="{{ organization.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+						{% endif %}
+					</ul>
+				</div>
+			</article>
     {% endfor %}
+	</div>
 
-    {% if example == 1 %}
-      <tr>
-        <td align="center" width="15%" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;">
-          <a href="{{ org.website }}"><img src="{{ org.logo }}" width="90%" align="center" /></a>
-        </td>
-        <td align="left" width="55%" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;">
-          <a href="{{ org.website }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          <a href="{{ org.website }}" target="_blank" title="Website">
-            <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="40" align="center" />
-          </a>
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          {% if org.portal_url != empty %}
-            <a href="{{ org.portal_url }}" target="_blank" title="Portal">
-              <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="35" align="center" />
-            </a>
-          {% endif %}
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          {% if org.blog != empty %}
-            <a href="{{ org.blog }}" target="_blank" title="Blog">
-              <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="33" align="center" />
-            </a>
-          {% endif %}
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          {% if org.blogrss != empty %}
-            <a href="{{ org.blogrss }}" target="_blank" title="Blog RSS">
-              <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="33" align="center" />
-            </a>
-          {% endif %}
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          {% if org.twitter != empty %}
-            <a href="{{ org.twitter }}" target="_blank" title="Twitter">
-              <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="40" align="center" />
-            </a>
-          {% endif %}
-        </td>
-        <td align="center" style="border-top: 1px solid #CCC;">
-          {% if org.github != empty %}
-            <a href="{{ org.github }}" target="_blank" title="Github">
-              <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="45" align="center" />
-            </a>
-          {% endif %}
-        </td>
-      </tr>
-      {% endif %}
-
-  {% endfor %}
-</table>
+  <p>{{ organization_content.footer }}</p>
+</section>

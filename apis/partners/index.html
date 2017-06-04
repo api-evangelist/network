@@ -1,0 +1,6 @@
+---
+layout: none
+title: Partners
+tag: Partners
+---
+{% assign publish_json = site.data.partners.index | json | replace: '=>', ':' %}{{ publish_json }}
