@@ -1,6 +1,6 @@
 ---
 layout: default
-title: API Evangelist - Design
+title: API Evangelist - Network
 ---
 
 <!-- Main -->
@@ -45,7 +45,7 @@ title: API Evangelist - Design
 <section id="banner">
 	<div class="content">
 		<header>
-			<h2>API Design Industry Guide</h2>
+			<h2>API Network Industry Guide</h2>
 		</header>
 
 		<p>In the last couple of years, I've seen the concept of API design go from being something the API elite discuss, to something that involves business users, and something that has spawned a whole ecosystem of service and tooling providers.</p>
@@ -69,7 +69,7 @@ title: API Evangelist - Design
 	<section id="banner">
 		<div class="content">
 			<header>
-				<h2>Latest From Blog on API Design: {{ post.title }}</h2>
+				<h2>Latest From Blog on API Network: {{ post.title }}</h2>
 				<p><em>{{ post.date | date_to_string }}</em></p>
 			</header>
 			{{ post.content }}
@@ -164,7 +164,7 @@ title: API Evangelist - Design
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'API Specification,Generator,Validator,API Design Guide,Data Specification,Design Editor,Design Notebook,Hypermedia,IDE,Semantics,gRPC' %}
+{% assign approved_tags = 'API Specification,Generator,Validator,API Network Guide,Data Specification,Network Editor,Network Notebook,Hypermedia,IDE,Semantics,gRPC' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
@@ -229,51 +229,6 @@ title: API Evangelist - Design
 			<li><a href="/tools/" class="button big">See All Tools</a></li>
 		</ul>
 		<p>{{ tool_content.footer }}</p>
-</section>
-
-<!-- Building Blocks -->
-<a name="BuildingBlocks"></a>
-{% assign building_block_content = site.data.building_block_content.index[0] %}
-{% assign building_blocks = site.data.building_blocks.index %}
-{% assign categorylist = '' %}
-{% for block in building_blocks %}
-	{% assign category = block.category %}
-	{% if categorylist contains category %}
-	{% else %}
-		{% if categorylist != '' %}
-			{% assign categorylist = categorylist | append:',' %}
-		{% endif %}
-		{% assign categorylist = categorylist | append: category %}
-	{% endif %}
-{% endfor %}
-<section id="banner">
-	<div class="content">
-		<header>
-			<h2>{{ building_block_content.title }}</h2>
-			<p>{{ building_block_content.header }}</p>
-		</header>
-		<ul style="padding: 0px 25px 0px 25px;">
-			{% assign categoryArray = categorylist | split: "," | sort: %}
-			{% for category in categoryArray %}
-				<li>
-					<span style="font-size: 18px; font-weight: bold;">{{ category }}</span>
-					<ul style="margin-top: 10px;">
-						{% for block in building_blocks %}
-							{% if block.category == category %}
-							<li><strong>{{ block.name }}</strong> - {{ block.description }}</li>
-							{% endif %}
-						{% endfor %}
-					</ul>
-				</li>
-			{% endfor %}
-		</ul>
-		<p>{{ building_block_content.footer }}</p>
-		<center>
-			<ul class="actions" style="text-align: center;">
-				<li><a href="/building-blocks/" class="button big">See The Building Blocks</a></li>
-			</ul>
-		</center>
-	</div>
 </section>
 
 <!-- About This Research -->
