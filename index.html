@@ -130,18 +130,16 @@ title: API Evangelist - Network
 				</div>
 			</article>
     {% endfor %}
-		<center>
-			<ul class="actions" style="text-align: center;">
-				<li><a href="/organizations/" class="button big">See All Organizations</a></li>
-			</ul>
-		</center>
+		<ul class="actions" style="text-align: center;">
+			<li><a href="/organizations/" class="button big">See All Organizations</a></li>
+		</ul>
 		<p>{{ organization_content.footer }}</p>
 	</div>
 </section>
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'Network' %}
+{% assign approved_tags = 'Network,Networks' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
