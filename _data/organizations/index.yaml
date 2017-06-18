@@ -27,7 +27,7 @@
   blogrss: ""
   github: ""
   image: ""
-  tags: Drones,Cameras,Mesh Networks
+  tags: Drones,Cameras,Networks
 - slug: crfs
   name: CRFS
   description: ""
@@ -59,26 +59,6 @@
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/319_logo.png
   tags: Europe,Shopping,Affiliates,Affiliate,Affiliate Network
-- slug: department-of-the-army
-  name: Department of the Army
-  description: ""
-  url: http://www.army.mil/
-  shorturl: ""
-  twitter: http://twitter.com/usace_med
-  blog: ""
-  blogrss: ""
-  github: http://github.com/missioncommand
-  image: ""
-  tags: Federal Government,Code,OpenSource,Army,Contracting,Redstone,U.s. Army,Fort
-    Wainwright,Fort Wainwright Alaska,Acquisition,Career Development,Medical,Military,DOD,Us
-    Army,Medcom,Amedd,Soldier,Mrtc,Army Medical,Usar,Army Reserve,Medical Command,Fort
-    Sam Houston,Fort Sam,Jbsa,Ft Sam,San Antonio,Rudder,Rudder Reserve,Reserve Center,Ar
-    medcom,Public Health,Army Medicine,Publichealth,Recreation,Dams,Civil Works,Levees,Camping,Flood
-    Risk Managment,Engineering,Construction,Connecticut,Flood Risks,Hurricane Barrier,Stamford,Navigation,New
-    England,Regulations,Permitting,Dredging,Environmental Restoration,Flood Control,Kayaking,Hydrology,Locks,Vessels,Vessel
-    Queue,Lock Status,Rivers,Waterways,Lock Weather,Redstone Arsenal,Foreign Military
-    Sales,Nie,Evaluation,Future,Network,Integration,Unified,Quest,Adapt,2020,Modernization,Equipment,Capability,Center,Capabilities,Arcic,Tradoc,Doctrine,Concept,Ground,Combat,Vehicle,Force,Dotmlpf,Defense,Soldiers,Technology,IT,Social,Ita,Pentagon,Ncr,Information
-    Technology,Sam,
 - slug: ptisp
   name: PTisp
   description: We have the experience of 13 years of market, keeping the same name,
@@ -94,6 +74,25 @@
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ptisp-logo.png
   tags: ISP,Networking,Domains,Hosting,Domain
+- slug: cloudinary
+  name: Cloudinary
+  description: Cloudinary is a cloud-based service that answers a website or mobile
+    application&rsquo;s entire image management needs - uploads, storage, manipulations,
+    optimizations and delivery. Cloudinary&rsquo;s users can easily move all their
+    website&rsquo;s images to the cloud. Automatically perform smart image resizing,
+    cropping, merging, overlay, watermark, apply effects, rotations and perform format
+    conversions. All this without installing any complex software. Integrate social
+    website (Facebook, Twitter, etc.) profile image extraction, fetch images from
+    any online resource in any dimension and style to match a website&rsquo;s graphics
+    requirements, and much more.&nbsp;
+  url: http://cloudinary.com
+  shorturl: ""
+  twitter: https://twitter.com/cloudinary
+  blog: http://cloudinary.com/blog
+  blogrss: http://feeds.feedburner.com/CloudinaryBlog
+  github: https://github.com/cloudinary
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1039_logo.png
+  tags: Local,Cloud,Images,Media,Media,Content Delivery Network,Cloud,Content
 - slug: opensignal
   name: OpenSignal
   description: With your help, we're creating a comprehensive database of cell phone
@@ -110,7 +109,7 @@
   blogrss: http://feeds.feedburner.com/opensignalmaps
   github: https://github.com/opensignal
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-signal.png
-  tags: Location,Mobile,Telco,Wifi,Network,Target
+  tags: Networks
 - slug: azure-virtual-network
   name: Azure Virtual Network
   description: Azure Virtual Network lets you create private networks in the cloud
@@ -124,7 +123,7 @@
   blogrss: ""
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-network-topology.png
-  tags: Microsoft,Network
+  tags: Networks
 - slug: cisco-meraki
   name: Cisco Meraki
   description: Meraki was a company that provided products for large-scale, distributed
@@ -136,7 +135,7 @@
   blogrss: ""
   github: https://github.com/meraki
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cisco-meraki.png
-  tags: Network
+  tags: Networks
 - slug: firepower-management-center
   name: Firepower Management Center
   description: ""
@@ -147,7 +146,7 @@
   blogrss: ""
   github: ""
   image: ""
-  tags: Network
+  tags: Networks
 - slug: infoblox
   name: Infoblox
   description: Infoblox delivers Actionable Network Intelligence to enterprise, government,
@@ -163,7 +162,7 @@
   blogrss: https://community.infoblox.com/cixhp49439/rss/Category?category.id=blogs&interaction.style=blog&feeds.replies=true
   github: https://github.com/Infoblox-API
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Infoblox_logo_tagline.png
-  tags: Network
+  tags: Networks
 - slug: openswitch
   name: OpenSwitch
   description: Community-Based, Open Source, Full-Featured Network Operating System.
@@ -180,7 +179,7 @@
   blogrss: ""
   github: https://github.com/open-switch
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/openswitch-logo.png
-  tags: Network
+  tags: Networks
 - slug: pxgrid
   name: pxGrid
   description: The Cisco Platform Exchange Grid (pxGrid) allows you to integrate your
@@ -195,7 +194,7 @@
   blogrss: https://communities.cisco.com/community/developer/pxgrid/blog/feeds/posts
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cisco-pxgrid.png
-  tags: Network
+  tags: Networks
 - slug: intel-open-source
   name: Intel Open Source
   description: 01.org is where we pull together open source work that Intel engineers
@@ -213,7 +212,7 @@
   blogrss: https://01.org/group/3655/blogs/rss.xml
   github: https://github.com/01org
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intel-open-source.png
-  tags: Network,Hardware,Compute
+  tags: Networks,Hardware,Compute
 - slug: fluidmesh
   name: FluidMesh
   description: Fluidmesh was founded in 2005 by a team of researchers and visionaries
@@ -228,7 +227,7 @@
   blogrss: ""
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fluid-mesh.png
-  tags: Network,Mesh Networks
+  tags: Networks,Mesh Networks
 - slug: opendaylight-project
   name: OpenDaylight Project
   description: OpenDaylight is an open platform for network programmability to enable
@@ -242,28 +241,7 @@
   blogrss: http://www.opendaylight.org/blog/feed
   github: https://github.com/opendaylight
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opendaylight-logo.png
-  tags: Network,Network,Smart Cities,Internet of Things
-- slug: xing_com
-  name: XING_com
-  description: XING is the leading German network for business contacts. Far more
-    than a directory of business contacts, XING makes your professional network an
-    active part of your life, enabling members to discover professional people, opportunities
-    and privileges through its unique discovery capability and advanced Contacts tools.  With
-    the successful IPO of XING as the first Web 2.0 company to go public, XING AG
-    has had a long-term impact on the social networking trend amongst professionals.
-    By focusing on the target group &#8216;business people worldwide&#8217;, the company
-    is able to offer tailored features, thereby making networking and Contacts simpler.
-    Besides Headquarters in Hamburg, XING AG is also represented with offices in Barcelona,
-    Milan, Istanbul and Beijing.  It is in competition with the leading worldwide
-    and european ntwork LinkedIn.
-  url: https://dev.xing.com/docs/resources
-  shorturl: ""
-  twitter: https://twitter.com/XING_com
-  blog: http://blog.xing.com/
-  blogrss: http://feeds.feedburner.com/openblog
-  github: https://github.com/xing
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1502_logo.jpg
-  tags: Networking,Social,Social
+  tags: Networks,Smart Cities,Internet of Things
 - slug: fairwaves
   name: Fairwaves
   description: Fairwaves make rural mobile coverage profitable. We have built a unique
@@ -357,7 +335,7 @@
   blogrss: ""
   github: https://github.com/metapacket
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/metapacket.png
-  tags: Security,Network
+  tags: Security,Networks
 - slug: ambassador
   name: Ambassador
   description: "Ambassador empowers businesses to increase revenue by driving and
@@ -419,5 +397,5 @@
   blogrss: ""
   github: ""
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spectrum-database-earth.jpg
-  tags: Spectrum,Network,Google APIs
+  tags: Spectrum,Networks,Google APIs
 ...
