@@ -348,28 +348,28 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
-  domain: www.forrester.com
-  image: ""
 - curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
   url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
   domain: www.forrester.com
   image: ""
-- curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
+- curated_id: 6350da14586b319eb98c4a37dff14636
   item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 3: Make Transactions And Error Handling...'
-  url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 7785d938c648fb3319535d2273439564
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
   url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
+  domain: www.forrester.com
+  image: ""
+- curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 3: Make Transactions And Error Handling...'
+  url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -819,12 +819,6 @@
   url: http://blog.smartbear.com/programming/collaborators-new-external-api/
   domain: blog.smartbear.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-smartbear-comprogrammingcollaborators-new-external-api.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
   item_date: "2015-02-20 00:00:00"
   title: MuleSoft Releases RAML NET Parser Visual Studio Extension
@@ -837,6 +831,12 @@
   url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
   domain: blogs.mulesoft.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -2291,12 +2291,6 @@
   url: https://swagger-toolbox.firebaseapp.com/
   domain: swagger-toolbox.firebaseapp.com
   image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
-  item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
-  domain: dzone.com
-  image: ""
 - curated_id: R6JBesMvzzhL1FpnPgbc116SiTJ1b116Yi2QTA9alNEZ1dKpV9HhpM2tHekG1bVVuklTUaQnyH1GruehxyWZH8mWdw117117
   item_date: "2016-12-14 00:00:00"
   title: API Modeling A ZeroCode Way To a Designer API
@@ -2307,6 +2301,12 @@
   item_date: "2016-12-14 00:00:00"
   title: 7 Secrets to Designing Alexa Skills
   url: https://dzone.com/articles/7-secrets-to-designing-alexa-skills
+  domain: dzone.com
+  image: ""
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+  item_date: "2016-12-14 00:00:00"
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
   domain: dzone.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
@@ -2950,12 +2950,6 @@
   url: https://medium.com/p/c9e531bcd425
   domain: medium.com
   image: ""
-- curated_id: +iHpcF+MVmzqHdkw+fLKtN8U+Gs5PfZG9PfuVqz3Jqk=_15c9d100554:289c8ae:28ce9b86
-  item_date: "2017-06-12 09:00:05"
-  title: Telecoms Take On Network Analytics & Visibility
-  url: http://www.kentik.com/?p=6990
-  domain: www.kentik.com
-  image: ""
 - curated_id: /LrGoujLgYR0Fhm2o+a1yhRRgTkWYT8A+XddmvVyRQs=_15c9e054e92:21e684:62ee016b
   item_date: "2017-06-12 13:35:56"
   title: Scenarios v3.3 Update
@@ -2985,31 +2979,6 @@
   title: Here's how 5G will revolutionize the Internet of Things
   url: http://www.businessinsider.com/how-5g-will-revolutionize-the-internet-of-things-2017-6?utm_source=feedly&amp;utm_medium=referral
   domain: www.businessinsider.com
-  image: ""
-- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15cad30bcd9:770f3d:931ce22d
-  item_date: "2017-06-15 12:05:22"
-  title: Netflix joins Amazon and Reddit in Day of Action to save net neutrality
-  url: https://arstechnica.com/?p=1119247
-  domain: arstechnica.com
-  image: ""
-- curated_id: PabZ8i1QCHv3KpsuDwP+IaHjEII8doc1zV63QTNW0N8=_15cadc1d244:981b53:4825a421
-  item_date: "2017-06-15 14:56:19"
-  title: Netflix, joining next month's net neutrality protest, says it will 'never
-    outgrow' the fight
-  url: https://www.washingtonpost.com/news/the-switch/wp/2017/06/15/netflix-joining-next-months-net-neutrality-protest-says-it-will-never-outgrow-the-fight/
-  domain: www.washingtonpost.com
-  image: ""
-- curated_id: oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU+gxmUAZuo=_15caded3acd:8e26f6:931ce22d
-  item_date: "2017-06-15 15:39:01"
-  title: Advanced CIA firmware has been infecting Wi
-  url: https://arstechnica.com/?p=1119403
-  domain: arstechnica.com
-  image: ""
-- curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15caee87842:1025b8:3aab93c7
-  item_date: "2017-06-15 20:15:15"
-  title: The CIA has lots of ways to hack your router
-  url: https://www.theverge.com/2017/6/15/15812216/cherryblossom-cia-router-hack-surveillance-dlink-linksys-belkin
-  domain: www.theverge.com
   image: ""
 - curated_id: 4b5tCw5GvlXtruVS/z16h27znplNFRBntlQNEyTCvpo=_15cb09a429a:370780:60392a0b
   item_date: "2017-06-16 04:00:36"
@@ -3077,10 +3046,22 @@
   url: http://nordicapis.com/?p=6603
   domain: nordicapis.com
   image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cc8f69b3b:12dbee:80bfd069
+  item_date: "2017-06-20 09:01:01"
+  title: Introducing the Chunked Upload API
+  url: https://medium.com/p/f82c820ccfcb
+  domain: medium.com
+  image: ""
 - curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15cca88dc1e:b69ca1:5b78a817
   item_date: "2017-06-21 05:00:46"
   title: Expert Tips on How to Speed Your Journey to a Future Network
   url: https://blogs.cisco.com/?p=225355
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15ccfaf3f6a:138fa82:5b78a817
+  item_date: "2017-06-22 05:01:31"
+  title: 'Cisco DNA for Financial Services: The Answer is in the Network'
+  url: https://blogs.cisco.com/?p=224593
   domain: blogs.cisco.com
   image: ""
 - curated_id: dU5peSp0V6f8LsDMUzzgZGqiuFWv2htICdJf6zfcBfc=_15cd047ac72:12b2fb9:fe3a8465
@@ -3089,5 +3070,23 @@
     Neutrality
   url: http://boingboing.net/?p=531012
   domain: boingboing.net
+  image: ""
+- curated_id: OAp7XIqiEE94a6sFZ9n5ucV+pMZoEhhHIWFzskjuZik=_15cd1a0145a:1782587:517b1451
+  item_date: "2017-06-22 09:59:18"
+  title: The Microservice Design Canvas
+  url: http://www.apiacademy.co/?p=1646
+  domain: www.apiacademy.co
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15cd0ccf026:15a5f59:5b78a817
+  item_date: "2017-06-22 10:12:02"
+  title: What is the Body Language of Your Encrypted Network Traffic Really Saying?
+  url: https://blogs.cisco.com/?p=225753
+  domain: blogs.cisco.com
+  image: ""
+- curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_15cd57dc727:19fd800:fe3a8465
+  item_date: "2017-06-23 08:00:55"
+  title: Engineering the New Era of Networking
+  url: https://blogs.cisco.com/?p=225688
+  domain: blogs.cisco.com
   image: ""
 ...
