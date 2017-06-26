@@ -348,28 +348,28 @@
   url: https://dzone.com/articles/secrets-awesome-javascript-api
   domain: dzone.com
   image: ""
-- curated_id: 7785d938c648fb3319535d2273439564
-  item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
-  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
-  domain: www.forrester.com
-  image: ""
 - curated_id: 0d4ef097a8242fa4d5c91c721c9c26d6
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 3: Make Transactions And Error Handling...'
   url: https://www.forrester.com/report/API+Design+Part+3+Make+Transactions+And+Error+Handling+Clear+In+Your+API+Designs/-/E-RES102023
   domain: www.forrester.com
   image: ""
-- curated_id: 6350da14586b319eb98c4a37dff14636
+- curated_id: 7785d938c648fb3319535d2273439564
   item_date: "2013-08-20 00:00:00"
-  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
-  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
+  title: 'Api Design, Part 2: Design Messaging Styles By Balancing...'
+  url: https://www.forrester.com/report/API+Design+Part+2+Design+Messaging+Styles+By+Balancing+Reach+With+Your+Other+Design+Goals/-/E-RES102022
   domain: www.forrester.com
   image: ""
 - curated_id: 3b2b75b8e4651a1f5ff4c19cfa89adfc
   item_date: "2013-08-20 00:00:00"
   title: 'Api Design, Part 4: Future-proof And Secure Your Apis...'
   url: https://www.forrester.com/report/API+Design+Part+4+FutureProof+And+Secure+Your+APIs+To+Fit+Your+Usage+Scenarios/-/E-RES102024
+  domain: www.forrester.com
+  image: ""
+- curated_id: 6350da14586b319eb98c4a37dff14636
+  item_date: "2013-08-20 00:00:00"
+  title: 'Api Design, Part 1: Rest Is The Leading But Not Only...'
+  url: https://www.forrester.com/report/API+Design+Part+1+REST+Is+The+Leading+But+Not+Only+Option+For+Your+APIs/-/E-RES102021
   domain: www.forrester.com
   image: ""
 - curated_id: 75e378f435ff8be00494caeb7c1a867b
@@ -819,12 +819,6 @@
   url: http://nordicapis.com/using-templates-for-documentation-driven-api-design/
   domain: nordicapis.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/nordicapis-comusing-templates-for-documentation-driven-api-design.png
-- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
-  item_date: "2015-02-20 00:00:00"
-  title: LucyBot Eliminates CrossLanguage Programming Necessity
-  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
-  domain: www.programmableweb.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: dfpeX7taC2ZcEvHk8nOWTD7gcjfDUokg5p1tBJrVvtvA5Dy5cuxyXzD6aDowCGDTM336116G49ri7ZtOap0LE8RA117117
   item_date: "2015-02-20 00:00:00"
   title: MuleSoft Releases RAML NET Parser Visual Studio Extension
@@ -837,6 +831,12 @@
   url: http://blogs.mulesoft.com/dev/api-best-practices-wrap-up/
   domain: blogs.mulesoft.com
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blogs-mulesoft-orgapi-best-practices-wrap-up.png
+- curated_id: QqzGfbBYOWSLnbhVr1233waluDL6Xr7cjQEBbS48JH4h8DoJ3ItBTQgdk7NTYAIWphcizVBI8rG2eKp4rPUKNnTA117117
+  item_date: "2015-02-20 00:00:00"
+  title: LucyBot Eliminates CrossLanguage Programming Necessity
+  url: http://www.programmableweb.com/news/lucybot-eliminates-cross-language-programming-necessity/brief/2015/02/20
+  domain: www.programmableweb.com
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewslucybot-eliminates-cross-language-programming-necessitybrief20150220.png
 - curated_id: IIngeWuMGFGoJeAH2UXBSc2Gk6tk1hjLPM3H1nHX7uzGRz7kCQbVVspghX2XHAEjeDLnOvaOyVqzZgK0iq123ngA117117
   item_date: "2015-02-20 08:48:02"
   title: LucyBot  Get your APIs consumers moving faster
@@ -1576,6 +1576,12 @@
   url: https://sendgrid.com/blog/using-a-prototype-as-an-api-product-specification/
   domain: sendgrid.com
   image: ""
+- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
+  item_date: "2016-02-17 00:00:00"
+  title: Why Github039s Scientist 10 Could Be Great for API Versioning
+  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
+  domain: www.programmableweb.com
+  image: ""
 - curated_id: hiLirbaQ4NlZkTXhYQhipgDJg116pqSEQzbf123DYPMRUGrD5123TZb1anvAoXlJwgsuZWHDY6p116JkDa4kZMBDtNFSrg117117
   item_date: "2016-02-17 00:00:00"
   title: Resolving the FrontendBackend API Design Conflict
@@ -1587,12 +1593,6 @@
   title: Dear API Designer Are You Sure You Want to Return a Primitive
   url: https://dzone.com/articles/dear-api-designer-are-you-sure-you-want-to-return
   domain: dzone.com
-  image: ""
-- curated_id: osVw1gFKugfHVMaC8zTw9Ya116ho123n4ic3FC9sFeUK28BZSaypdwnbmhRMt7z99GtHDv116s1yWNL3KPT123xvadlZJg117117
-  item_date: "2016-02-17 00:00:00"
-  title: Why Github039s Scientist 10 Could Be Great for API Versioning
-  url: http://www.programmableweb.com/news/why-githubs-scientist-1.0-could-be-great-api-versioning/analysis/2016/02/17
-  domain: www.programmableweb.com
   image: ""
 - curated_id: 0OSxMK09116K3SCioB0NMqBXstRka123czJIG7eBex00tkXiUfx6kcramPTB123NSNIJ7ZN39UjsZxfHX6jFgUyA123b123A117117
   item_date: "2016-02-17 10:52:18"
@@ -2291,12 +2291,6 @@
   url: https://swagger-toolbox.firebaseapp.com/
   domain: swagger-toolbox.firebaseapp.com
   image: ""
-- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
-  item_date: "2016-12-14 00:00:00"
-  title: Foundations of RESTful Architecture
-  url: https://dzone.com/refcardz/rest-foundations-restful
-  domain: dzone.com
-  image: ""
 - curated_id: dKrthEVodGvPzc48123gsMZnHQ1MKhQnVpMkOKghMUeleaNk116RFZgIEfs6nl4QGjuIAHAg97VAiQW3ymxHbZzXnA117117
   item_date: "2016-12-14 00:00:00"
   title: 7 Secrets to Designing Alexa Skills
@@ -2308,6 +2302,12 @@
   title: API Modeling A ZeroCode Way To a Designer API
   url: http://www.tibco.com/blog/2016/12/14/api-modeling-a-zero-code-way-to-a-designer-api/
   domain: www.tibco.com
+  image: ""
+- curated_id: Jg5bAi9PLGNP9IJKUxF4iXAx0aW123q1tK66AiMWRkAWZ2F5GUqAB123zPjPMsyRNSUdEIz85OoVV1iUXfYO6xnMeQ117117
+  item_date: "2016-12-14 00:00:00"
+  title: Foundations of RESTful Architecture
+  url: https://dzone.com/refcardz/rest-foundations-restful
+  domain: dzone.com
   image: ""
 - curated_id: hCTkehE2fpb12356q116riWdoE9npZ8nzB0XHa3AAS2yKJU123RMX123tFyGtE7HBPP3OCF9VxQpS2cd9dghkJWD1234cK116w117117
   item_date: "2016-12-18 00:00:00"
@@ -3094,5 +3094,11 @@
   title: Virgin Media thinks 800,000 users should change their router passwords
   url: http://mashable.com/?p=bp-49646
   domain: mashable.com
+  image: ""
+- curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15cdd909051:123fdb:35f03cd7
+  item_date: "2017-06-24 12:30:34"
+  title: Swagger, the API Economy, REST, Linked Data, and a Semantic Web
+  url: https://medium.com/p/9d6839dae65a
+  domain: medium.com
   image: ""
 ...
