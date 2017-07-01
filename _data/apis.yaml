@@ -53,16 +53,6 @@ apis:
     properties:
       - type: x-openapi
         url: http://network.apievangelist.com/apis/tools/openapi.json
-  - name: Building Blocks API
-    description: An API for the building blocks aggregated as part of this research.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks.png
-    humanURL: http://network.apievangelist.com/
-    baseURL: http://network.apievangelist.com/
-    tags:
-      - Building Blocks
-    properties:
-      - type: x-openapi
-        url: http://network.apievangelist.com/apis/building_blocks/openapi.json
 x-common:
   - type: x-support
     url: https://github.com/api-evangelist/network/issues
