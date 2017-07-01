@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% assign show_json = site.data.blogs.openapi | json | replace: '=>', ':' %}{{ show_json }}

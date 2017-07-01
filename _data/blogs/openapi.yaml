@@ -1,0 +1,43 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Blog
+  description: An API for accessing the blog posts included in this research.
+  version: 1.0.0
+host: network.apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+paths:
+  /blogs/:
+    get:
+      summary: Get Blog Posts
+      description: Returns all the blog posts in this research.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/blog'
+      tags:
+        - Blog
+definitions:
+  blog:
+    properties:
+      title:
+        description: The title of the blog post.
+        type: string
+      date:
+        description: The date for the blog post.
+        type: string
+      content:
+        description: The content of the blog post.
+        type: string
+      url:
+        description: The URL for the blog post.
+        type: string
+      image:
+        description: An image for the blog post
+        type: string

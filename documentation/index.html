@@ -72,10 +72,8 @@ layout: default
        method: "get",
        headers: {$headers},
        success:function(response){
-
           document.getElementById($slug+'-loading').style.display = 'none';
-
-          $viewer = JSON.stringify(response, null, 2);
+          $viewer = JSON.stringify(JSON.parse(response),null,2);
           //console.log($viewer);
           $viewer = $viewer.replace(/\\"/g, '"');
           document.getElementById($slug+'-response').value = $viewer;
@@ -100,30 +98,42 @@ layout: default
 
 <h2><strong>API Documentation</strong></h2>
 <p>{{ apijson.description }}</p>
-<p>I BROKE THIS---STILL WORKING ON!</p>
-{% assign api_action_url = '' %}
+
 {% assign numberofapis = apijson.apis | size %}
+{% assign contents = site.data %}
 
 {% for api in apijson.apis %}
 
   {% assign openapi_spec_json = '' %}
 
+  {% assign apis_json_url = "" %}
   {% for property in api.properties %}
 
     {% if property.type == 'x-openapi' %}
+
       {% assign this_url = property.url %}
-      {% assign this_url = this_url | replace: 'http://apievangelist.com/apis/','' %}
+      {% assign raw_url = property.url %}
+      {% assign this_url = this_url | replace: site.raw_url,'' %}
       {% assign this_url = this_url | replace: '.json','' %}
       {% assign this_url = this_url | replace: '-','' %}
       {% assign thisobject = this_url | replace: '/','.' %}
-      thisobject: {{ thisobject}}<br />
-      {% assign openapi_spec_json = site.data[thisobject] %}
-      openapi_spec_json: {{ openapi_spec_json }}
+      {% assign thisobject = thisobject | replace: '.apis.','' %}
+      {% assign thisobject = thisobject | replace: '.openapi','' %}
+
+      {% for entry in contents %}
+        {% assign thisname = entry[0] %}
+        {% assign thisentry = entry[1] %}
+        {% if thisname == thisobject %}
+          {% assign openapi_spec_json = thisentry.openapi %}
+          {% assign apis_json_url = raw_url %}
+        {% endif %}
+      {% endfor %}
+
     {% endif %}
 
   {% endfor %}
 
-  <h3>{{ api.name }}( <a href="{{ site.url }}apis/openapi.json" target="_blank" title="View OpenAPI Spec" style="font-size: 16px; font-weight: normal;">JSON</a>)</h3>
+  <h3>{{ api.name }}( <a href="{{ apis_json_url }}" target="_blank" title="View OpenAPI Spec" style="font-size: 16px; font-weight: normal;">JSON</a>)</h3>
   <table width="95%" border="0" style="margin-left: 15px;">
 
   {% assign taglist = '' %}
@@ -157,9 +167,9 @@ layout: default
       {% assign api_host = openapi_spec_json.host %}
       {% assign api_base = openapi_spec_json.basePath %}
 
-      <tr>
+      <!--<tr>
         <td align="center" colspan="5" style="padding: 10px;"><strong>base url:</strong> http://{{ api_host }}{{ api_base }}</td>
-      </tr>
+      </tr>-->
 
       <tr>
         <td colspan="5" style="padding-top: 10px;"><strong>{{ grouptag }}</strong></td>
@@ -202,16 +212,16 @@ layout: default
               {% assign slug = path[0] | replace: '/','' %}
 
               <tr>
-                <td style="padding-left: 20px; font-size: 14px;">{{ summary }}</td>
-                <td style="font-size: 14px;">{{ path[0] }}</td>
-                <td align="center" style="padding: 1px; width: 75px; background-color:#{{ back_color }}; font-weight: bold; font-size: 11px; color: #FFF;">
+                <td width="35%" style="padding-left: 20px; font-size: 14px;">{{ summary }}</td>
+                <td width="35%" style="font-size: 14px;">http://{{ api_host }}{{ api_base }}{{ path[0] }}</td>
+                <td width="10%" align="center" style="padding: 1px; width: 75px; background-color:#{{ back_color }}; font-weight: bold; font-size: 11px; color: #FFF;">
                   {{ verb }}
                 </td>
-                <td style="width: 25px;"></td>
-                <td><button type="button" class="btn btn-default" onclick="showme('{{ slug }}-row'); return false;">Try</button></tr>
+                <td width="10%" style="width: 25px;"></td>
+                <td width="10%"><button type="button" class="btn btn-default" onclick="showme('{{ slug }}-row'); return false;">Try</button></tr>
               </tr>
               <tr id="{{ slug }}-row" style="display: none;">
-                <td colspan="4" style="padding: 15px;">
+                <td colspan="5" style="padding: 15px;">
 
                   <table width="90%" border="0" align="center">
 
@@ -343,6 +353,7 @@ layout: default
                       </td>
                     </tr>
                   </table>
+
                 </td>
               </tr>
             {% endif %}
@@ -354,8 +365,7 @@ layout: default
     {% endif %}
 
     {% endfor %}
-
-  <h3>{{ api.name }} Schema</h3>
+  </table>
   <table width="95%" border="0" style="margin-left: 15px;">
   {% assign taglist = '' %}
   {% for definition in openapi_spec_json.definitions %}

@@ -1,0 +1,6 @@
+---
+layout: none
+title: News
+tag: News
+---
+{% assign publish_json = site.data.curated.index | json | replace: '=>', ':' %}{{ publish_json }}

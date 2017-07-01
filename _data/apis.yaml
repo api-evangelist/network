@@ -1,103 +1,77 @@
-name: Management
-description: A toolkit where I gather all the news, analysis, companies and technology
-  when it comes to managing APIs.
-image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
-created: "2016-11-29"
-modified: "2016-11-29"
-url: http://management.apievangelist.com//apis.json
-specificationVersion: "0.14"
-apis: []
+name: API Evangelist - Network
+description: This is my research into API network, as part of API Evangelist industry monitoring.
+image: http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 tags:
-- Management
-- Management
-include:
-- name: 3scale
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/3scale/apis.yaml
-- name: Akana
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/akana/apis.yaml
-- name: Amazon Web Services
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/amazon-web-services/apis.yaml
-- name: API Plug
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/api-plug/apis.yaml
-- name: API Umbrella
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/api-umbrella/apis.yaml
-- name: ApiAxle
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apiaxle/apis.yaml
-- name: Apify
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apify/apis.yaml
-- name: Apigee
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apigee/apis.yaml
-- name: apiman
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/apiman/apis.yaml
-- name: Axway
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/axway/apis.yaml
-- name: CA Technologies
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/ca-technologies/apis.yaml
-- name: Dell Boomi
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/dell-boomi/apis.yaml
-- name: deployd
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/deployd/apis.yaml
-- name: Dexy
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/dexy/apis.yaml
-- name: Exicon
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/exicon/apis.yaml
-- name: Fiorano Software
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/fiorano-software/apis.yaml
-- name: Fusio
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/fusio/apis.yaml
-- name: Gelato.io
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/gelatoio/apis.yaml
-- name: GitHub
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github/apis.yaml
-- name: Github Gists
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github-gists/apis.yaml
-- name: Github Pages
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/github-pages/apis.yaml
-- name: Gluu
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/gluu/apis.yaml
-- name: IBM API Management
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/ibm-api-management/apis.yaml
-- name: JustAPIs
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/justapis/apis.yaml
-- name: Kong
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/kong/apis.yaml
-- name: MachineShop
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/machineshop/apis.yaml
-- name: Mashape
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/mashape/apis.yaml
-- name: Microsoft Azure
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/microsoft-azure/apis.yaml
-- name: Monarch API Manager
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/monarch-api-manager/apis.yaml
-- name: MuleSoft
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/mulesoft/apis.yaml
-- name: Nevatech
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/nevatech/apis.yaml
-- name: OpenRepose
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/openrepose/apis.yaml
-- name: ReadMe.io
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/readmeio/apis.yaml
-- name: Restlet
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/restlet/apis.yaml
-- name: Sensedia
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/sensedia/apis.yaml
-- name: SlashDB
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/slashdb/apis.yaml
-- name: Socrata
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/socrata/apis.yaml
-- name: StrikeIron
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/strikeiron/apis.yaml
-- name: StrongLoop
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/strongloop/apis.yaml
-- name: SwiftIQ
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/swiftiq/apis.yaml
-- name: TIBCO Software
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/tibco-software/apis.yaml
-- name: Tyk
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/tyk/apis.yaml
-- name: Varnish Software
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/varnish-software/apis.yaml
-- name: WaveMaker, Inc.
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/wavemaker-inc/apis.yaml
-- name: WSO2
-  url: https://raw.githubusercontent.com/api-evangelist/management/gh-pages/_data/api-commons/wso2/apis.yaml
+  - API
+  - Network
+created: "2017-06-30"
+modified: "2017-06-30"
+url: https://network.apievangelist.com/apis.json
+specificationVersion: "0.14"
+apis:
+  - name: Blog API
+    description: This is my simple API for accessing blog posts as part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png
+    humanURL: http://network.apievangelist.com/
+    baseURL: http://network.apievangelist.com/
+    tags:
+      - Blog
+    properties:
+      - type: x-openapi
+        url: http://network.apievangelist.com/apis/blogs/openapi.json
+      - type: x-atom
+        url: http://network.apievangelist.com/feeds/blogs/atom.xml
+  - name: News API
+    description: This is my simple API for accessing news stories I've curated as part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
+    humanURL: http://network.apievangelist.com/
+    baseURL: http://network.apievangelist.com/
+    tags:
+      - News
+    properties:
+      - type: x-openapi
+        url: http://network.apievangelist.com/apis/curated/openapi.json
+      - type: x-atom
+        url: http://network.apievangelist.com/feeds/news/atom.xml
+  - name: Organizations API
+    description: This is my simple API for accessing the organizations that are part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg
+    humanURL: http://network.apievangelist.com/
+    baseURL: http://network.apievangelist.com/
+    tags:
+      - Organizations
+    properties:
+      - type: x-openapi
+        url: http://network.apievangelist.com/apis/organizations/openapi.json
+  - name: Tools API
+    description: This is my simple API for accessing the tools that are part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png
+    humanURL: http://network.apievangelist.com/
+    baseURL: http://network.apievangelist.com/
+    tags:
+      - Tools
+    properties:
+      - type: x-openapi
+        url: http://network.apievangelist.com/apis/tools/openapi.json
+  - name: Building Blocks API
+    description: An API for the building blocks aggregated as part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks.png
+    humanURL: http://network.apievangelist.com/
+    baseURL: http://network.apievangelist.com/
+    tags:
+      - Building Blocks
+    properties:
+      - type: x-openapi
+        url: http://network.apievangelist.com/apis/building_blocks/openapi.json
+x-common:
+  - type: x-support
+    url: https://github.com/api-evangelist/network/issues
+  - type: x-documentation
+    url: http://network.apievangelist.com/documentation/
+  - type: x-github-repo
+    url: https://github.com/api-evangelist/network
+include: []
+maintainers:
+  - FN: Kin Lane
+    x-twitter: apievangelist
+    email: info@apievangelist.com

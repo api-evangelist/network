@@ -1,0 +1,60 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Tools
+  description: These are the tools included as part of this API research.
+  version: 1.0.0
+host: network.apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /tools/:
+    get:
+      summary: Get Tools
+      description: Returns all the tools included in this research.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/tool'
+      tags:
+        - Tools
+definitions:
+  tool:
+    properties:
+      slug:
+        description: A unique slug to identify the tool.
+        type: string
+      name:
+        description: The name of the tool.
+        type: string
+      description:
+        description: The description for the tool.
+        type: string
+      url:
+        description: A URL to find more information about tool.
+        type: string
+      short_url:
+        description: A shortened url for the tool website.
+        type: string
+      twitter:
+        description: The twitter account for the tool.
+        type: string
+      blog:
+        description: The url of the blog for the tool.
+        type: integer
+      blog_rss:
+        description: The blog feed for the tool.
+        type: string
+      image:
+        description: An image, logo, or icon for the tool.
+        type: string
+      tags:
+        description: Tags for the tools.
+        type: string

@@ -1,9 +1,9 @@
 Swagger: "2.0"
 info:
-  title: API Evangelist Partners
-  description: These are the partners for the API Evangelist network.
+  title: API Evangelist Organizations
+  description: These are the organizations I've curated as part of this research.
   version: 1.0.0
-host: apievangelist.com
+host: network.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -12,44 +12,49 @@ produces:
 consumes:
   - application/json
 paths:
-  /partners/:
+  /organizations/:
     get:
-      summary: Get Partners
-      description: Returns all the partners.
+      summary: Get Organizations
+      description: Returns all the API definition organizaitons.
       responses:
         200:
           description: Successful Response
           schema:
             type: array
             items:
-              $ref: '#/definitions/partners'
+              $ref: '#/definitions/organizations'
       tags:
-        - Partners
-        - API Evangelist
+        - Organizations
 definitions:
   partner:
     properties:
-      view_sort:
-        description: A letter to sort in the UI.
+      slug:
+        description: A unique slug to identify the organization.
         type: string
       name:
-        description: The name of the partner.
-        type: string
-      identifier:
-        description: A unique identiefer for the partner.
-        type: string
-      url:
-        description: A URL to find more information about partner.
+        description: The name of the organization.
         type: string
       description:
-        description: A descripton of the partner.
+        description: The description for the organization.
+        type: string
+      url:
+        description: A URL to find more information about organization.
+        type: string
+      short_url:
+        description: A shortened url for the organization website.
+        type: string
+      twitter:
+        description: The twitter account for the organization.
+        type: string
+      blog:
+        description: The url of the blog for the organization.
+        type: integer
+      blog_rss:
+        description: The blog feed for the organization.
         type: string
       image:
-        description: An image representation for a partner.
+        description: An image, logo, or icon for the organization.
         type: string
-      type:
-        description: Type of partner.
-        type: integer
-      banner_url:
-        description: A banner URL for the partner.
+      tags:
+        description: Tags for the organizations.
         type: string

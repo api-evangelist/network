@@ -1,9 +1,9 @@
 Swagger: "2.0"
 info:
-  title: API Evangelist Partners
-  description: These are the partners for the API Evangelist network.
+  title: API Evangelist Building Blocks
+  description: These are the building blocks for this research.
   version: 1.0.0
-host: apievangelist.com
+host: network.apievangelist.com
 basePath: /apis
 schemes:
   - http
@@ -12,44 +12,40 @@ produces:
 consumes:
   - application/json
 paths:
-  /partners/:
+  /building-blocks/:
     get:
-      summary: Get Partners
-      description: Returns all the partners.
+      summary: Get Building Blocks
+      description: Returns all the building blocks for this research.
       responses:
         200:
           description: Successful Response
           schema:
             type: array
             items:
-              $ref: '#/definitions/partners'
+              $ref: '#/definitions/building_block'
       tags:
-        - Partners
-        - API Evangelist
+        - Building Blocks
 definitions:
-  partner:
+  building_block:
     properties:
-      view_sort:
-        description: A letter to sort in the UI.
-        type: string
-      name:
-        description: The name of the partner.
-        type: string
-      identifier:
-        description: A unique identiefer for the partner.
-        type: string
-      url:
-        description: A URL to find more information about partner.
-        type: string
-      description:
-        description: A descripton of the partner.
-        type: string
-      image:
-        description: An image representation for a partner.
+      building_block_id:
+        description: The id for the building block.
         type: string
       type:
-        description: Type of partner.
-        type: integer
-      banner_url:
-        description: A banner URL for the partner.
+        description: The type of building block.
+        type: string
+      category:
+        description: The building block category.
+        type: string
+      name:
+        description: The name of the building block.
+        type: string
+      description:
+        description: A descripton for the building block.
+        type: string
+      logo:
+        description: An logo for the building block.
+        type: string
+      tags:
+        description: The tags for the building block.
         type: string
