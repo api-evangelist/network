@@ -10,9 +10,9 @@ layout: none
   <id>{{ site.url }}/atom.xml</id>{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 	{% for post in site.posts limit:25 %}{% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}{% if posttime < nowunix %}<entry>
     <title>{{ post.title }}</title>
-    <link href="http://apievangelist.com{{ post.url }}"/>
+    <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
     <content><![CDATA[{{ post.content | strip_html | xml_escape }}]]></content>
-    <id>http://apievangelist.com{{ post.url }}</id>
+    <id>{{ site.url }}{{ post.url }}</id>
   </entry>{% endif %}{% endfor %}
 </feed>
