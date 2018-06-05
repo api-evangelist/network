@@ -35,17 +35,17 @@
   url: http://api.report/2015/03/10/broadcom-open-switch-apis-drive-innovation-in-network-infrastructure/
   domain: api.report
   image: ""
-- curated_id: ae104aab0c65c6e6241a97b9f2813447
-  item_date: "2015-03-11 00:00:00"
-  title: Broadcom Unveils OpenNSL Platform for Network Switches
-  url: http://www.programmableweb.com/news/broadcom-unveils-opennsl-platform-network-switches/2015/03/11
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 3802c824b9fcce352dfcc2bd809fe1e9
   item_date: "2015-03-11 00:00:00"
   title: Dell Proposes Open Network Switch Interface
   url: http://www.itbusinessedge.com/blogs/it-unmasked/dell-proposes-open-network-switch-interface.html
   domain: www.itbusinessedge.com
+  image: ""
+- curated_id: ae104aab0c65c6e6241a97b9f2813447
+  item_date: "2015-03-11 00:00:00"
+  title: Broadcom Unveils OpenNSL Platform for Network Switches
+  url: http://www.programmableweb.com/news/broadcom-unveils-opennsl-platform-network-switches/2015/03/11
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 6566a19d92790eabf556dfe2c85a3706
   item_date: "2015-03-13 00:00:00"
@@ -59,17 +59,17 @@
   url: http://datacenterpost.com/2015/03/pacnet-first-to-increase-sdn-nfv-abilities-within-the-optical-layer.html
   domain: datacenterpost.com
   image: ""
-- curated_id: 813ecb501d294e616a0a177110746f6e
-  item_date: "2015-03-18 00:00:00"
-  title: Pacnet enables 100G on-demand network services provisioning
-  url: http://cw.com.hk/news/pacnet-enables-100g-demand-network-services-provisioning
-  domain: cw.com.hk
-  image: ""
 - curated_id: f9cd82322a602ed8952a75fb5d87df4f
   item_date: "2015-03-18 00:00:00"
   title: Kodiak Announces Version 7.10 of Its Broadband PTT Solution
   url: http://www.prweb.com/releases/2015/03/prweb12590862.htm
   domain: www.prweb.com
+  image: ""
+- curated_id: 813ecb501d294e616a0a177110746f6e
+  item_date: "2015-03-18 00:00:00"
+  title: Pacnet enables 100G on-demand network services provisioning
+  url: http://cw.com.hk/news/pacnet-enables-100g-demand-network-services-provisioning
+  domain: cw.com.hk
   image: ""
 - curated_id: b3ef9466570cc1230969082a3316a360
   item_date: "2015-03-18 10:26:27"
@@ -113,16 +113,16 @@
   url: https://developer.cisco.com/site/openSDN/learn/sandbox-get-started/index.gsp
   domain: developer.cisco.com
   image: ""
-- curated_id: 59fe1690e6f1214131bbfab19284949a
-  item_date: "2015-05-07 00:00:00"
-  title: 'How CableLabs is Using OpenDaylight  '
-  url: http://www.opendaylight.org/blogs/2015/05/how-cablelabs-using-opendaylight
-  domain: www.opendaylight.org
-  image: ""
 - curated_id: 57c5d7c3cc70c7e3046dda401812ecae
   item_date: "2015-05-07 00:00:00"
   title: How ATT is Using OpenDaylight
   url: http://www.opendaylight.org/blogs/2015/05/how-att-using-opendaylight
+  domain: www.opendaylight.org
+  image: ""
+- curated_id: 59fe1690e6f1214131bbfab19284949a
+  item_date: "2015-05-07 00:00:00"
+  title: 'How CableLabs is Using OpenDaylight  '
+  url: http://www.opendaylight.org/blogs/2015/05/how-cablelabs-using-opendaylight
   domain: www.opendaylight.org
   image: ""
 - curated_id: 7e681402308427f3bc217be1d62ef417
@@ -131,11 +131,11 @@
   url: http://lorimacvittie.sys-con.com/node/3330068
   domain: lorimacvittie.sys-con.com
   image: ""
-- curated_id: 22f5df7eaa55604980e1ead6b5a3eace
+- curated_id: 12bee93390180041f7060871a4d8c553
   item_date: "2015-05-12 00:00:00"
-  title: Akanda Releases Version 1.0, the Open Source Network Virtualization Solution...
-  url: http://vmblog.com/archive/2015/05/12/akanda-releases-version-1-0-the-open-source-network-virtualization-solution-for-openstack.aspx
-  domain: vmblog.com
+  title: How Comcast is Using OpenDaylight
+  url: http://www.opendaylight.org/blogs/2015/05/how-comcast-using-opendaylight
+  domain: www.opendaylight.org
   image: ""
 - curated_id: f21c5d9a2553999fd27fbc7877b33214
   item_date: "2015-05-12 00:00:00"
@@ -143,11 +143,11 @@
   url: http://www.networkworld.com/article/2921386/security0/digging-deeper-into-the-cisco-asa-firewall-rest-api.html
   domain: www.networkworld.com
   image: ""
-- curated_id: 12bee93390180041f7060871a4d8c553
+- curated_id: 22f5df7eaa55604980e1ead6b5a3eace
   item_date: "2015-05-12 00:00:00"
-  title: How Comcast is Using OpenDaylight
-  url: http://www.opendaylight.org/blogs/2015/05/how-comcast-using-opendaylight
-  domain: www.opendaylight.org
+  title: Akanda Releases Version 1.0, the Open Source Network Virtualization Solution...
+  url: http://vmblog.com/archive/2015/05/12/akanda-releases-version-1-0-the-open-source-network-virtualization-solution-for-openstack.aspx
+  domain: vmblog.com
   image: ""
 - curated_id: 4ca4b4c99e59ad664569b0c67503a364
   item_date: "2015-05-15 00:00:00"
@@ -168,18 +168,18 @@
   url: http://venturebeat.com/2015/05/26/hp-buys-software-defined-networking-startup-contextream/
   domain: venturebeat.com
   image: ""
+- curated_id: bf7b7cb83a3ed2bea790f493546ca869
+  item_date: "2015-06-09 00:00:00"
+  title: How Orange is Using OpenDaylight
+  url: http://www.opendaylight.org/blogs/2015/06/how-orange-using-opendaylight
+  domain: www.opendaylight.org
+  image: ""
 - curated_id: c1c8e175628406612e84dfe69c3cef61
   item_date: "2015-06-09 00:00:00"
   title: 'Entuity Offers User Defined Polling, RESTful API in Latest Network Management
     Release '
   url: http://www.programmableweb.com/news/entuity-offers-user-defined-polling-restful-api-latest-network-management-release/announcement/2015/06/09
   domain: www.programmableweb.com
-  image: ""
-- curated_id: bf7b7cb83a3ed2bea790f493546ca869
-  item_date: "2015-06-09 00:00:00"
-  title: How Orange is Using OpenDaylight
-  url: http://www.opendaylight.org/blogs/2015/06/how-orange-using-opendaylight
-  domain: www.opendaylight.org
   image: ""
 - curated_id: 18426e23b3957304c5d8f0863bee550b
   item_date: "2015-06-19 00:00:00"
@@ -259,29 +259,29 @@
   url: http://www.cloudcomputing-news.net/news/2016/jan/29/enterprise-sdn-harnessing-containers-as-a-service/
   domain: www.cloudcomputing-news.net
   image: ""
-- curated_id: d815c42b0f564c0bd2b2958a1213bb92
-  item_date: "2016-02-02 00:00:00"
-  title: Coriant Transcend SDN Packet Controller for IP/MPLS
-  url: http://www.convergedigest.com/2016/02/coriant-transcend-sdn-packet-controller.html
-  domain: www.convergedigest.com
-  image: ""
 - curated_id: cc94dd8ed677dad04f08e49d08034973
   item_date: "2016-02-02 00:00:00"
   title: 'Article: IAP: Fast, Versatile Alternative to HTTP'
   url: http://www.infoq.com/articles/IAP-Fast-HTTP-Alternative
   domain: www.infoq.com
   image: ""
-- curated_id: b481a05023ce9d9a684c8d72a8df6542
-  item_date: "2016-02-16 00:00:00"
-  title: Preparing Network Management for SDN and NFV
-  url: http://blogs.enterprisemanagement.com/shamusmcgillicuddy/2016/02/16/preparing-network-management-sdn-nfv/
-  domain: blogs.enterprisemanagement.com
+- curated_id: d815c42b0f564c0bd2b2958a1213bb92
+  item_date: "2016-02-02 00:00:00"
+  title: Coriant Transcend SDN Packet Controller for IP/MPLS
+  url: http://www.convergedigest.com/2016/02/coriant-transcend-sdn-packet-controller.html
+  domain: www.convergedigest.com
   image: ""
 - curated_id: ff4683e796a420bf88d7d9fe10872e50
   item_date: "2016-02-16 00:00:00"
   title: How to Build Your Flow Control With the Bandwidth API
   url: http://www.programmableweb.com/news/how-to-build-your-flow-control-bandwidth-api/sponsored-content/2016/02/16
   domain: www.programmableweb.com
+  image: ""
+- curated_id: b481a05023ce9d9a684c8d72a8df6542
+  item_date: "2016-02-16 00:00:00"
+  title: Preparing Network Management for SDN and NFV
+  url: http://blogs.enterprisemanagement.com/shamusmcgillicuddy/2016/02/16/preparing-network-management-sdn-nfv/
+  domain: blogs.enterprisemanagement.com
   image: ""
 - curated_id: 5ca2a8e92c7e7cee719de8476fdcd3aa
   item_date: "2016-02-26 00:00:00"
@@ -295,17 +295,17 @@
   url: http://lorimacvittie.sys-con.com/node/3709785
   domain: lorimacvittie.sys-con.com
   image: ""
-- curated_id: d30a0d2c9969d62c9e71ccadc5b5aebd
-  item_date: "2016-03-09 00:00:00"
-  title: Microsoft Proposes Open Software Switch Spec for Datacenters
-  url: https://redmondmag.com/articles/2016/03/10/open-software-switch-spec-for-datacenters.aspx
-  domain: redmondmag.com
-  image: ""
 - curated_id: 10ae69ef25fd55110ec499c3c3064fea
   item_date: "2016-03-09 00:00:00"
   title: ""
   url: http://www.tmcnet.com/usubmit/2016/03/09/8329525.htm
   domain: www.tmcnet.com
+  image: ""
+- curated_id: d30a0d2c9969d62c9e71ccadc5b5aebd
+  item_date: "2016-03-09 00:00:00"
+  title: Microsoft Proposes Open Software Switch Spec for Datacenters
+  url: https://redmondmag.com/articles/2016/03/10/open-software-switch-spec-for-datacenters.aspx
+  domain: redmondmag.com
   image: ""
 - curated_id: acb853353653dd8ad8a4933be1535b86
   item_date: "2016-04-25 00:00:00"
@@ -381,18 +381,6 @@
   url: http://ieeexplore.ieee.org:80/xpl/login.jsp
   domain: ieeexplore.ieee.org
   image: ""
-- curated_id: a476b8ed45419080467faf10afd76070
-  item_date: "2016-07-27 00:00:00"
-  title: Facebooks Internet Drone Takes Flight
-  url: http://www.pcmag.com/news/346325/facebooks-internet-drone-takes-flight
-  domain: www.pcmag.com
-  image: ""
-- curated_id: ab1906948ee3546717d1bc396c87da90
-  item_date: "2016-07-27 00:00:00"
-  title: Google Accused of Stealing Project Loon Balloon Idea
-  url: http://www.pcmag.com/news/345325/google-accused-of-stealing-project-loon-balloon-idea
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 0c495da6b9e07ccf8e24078639c5c084
   item_date: "2016-07-27 00:00:00"
   title: Facebook Looks to Laser-Equipped Drones for Internet Service
@@ -405,11 +393,17 @@
   url: http://www.pcmag.com/news/345436/fcc-moves-to-open-5g-floodgates
   domain: www.pcmag.com
   image: ""
-- curated_id: 2cdf58291224a1a6a56d37b3696aad8e
-  item_date: "2016-08-01 00:00:00"
-  title: Trade associations urge US court to reverse ?net neutrality? rules
-  url: http://disruptiveviews.com/trade-urges-reverse-net-neutrality-rules/
-  domain: disruptiveviews.com
+- curated_id: ab1906948ee3546717d1bc396c87da90
+  item_date: "2016-07-27 00:00:00"
+  title: Google Accused of Stealing Project Loon Balloon Idea
+  url: http://www.pcmag.com/news/345325/google-accused-of-stealing-project-loon-balloon-idea
+  domain: www.pcmag.com
+  image: ""
+- curated_id: a476b8ed45419080467faf10afd76070
+  item_date: "2016-07-27 00:00:00"
+  title: Facebooks Internet Drone Takes Flight
+  url: http://www.pcmag.com/news/346325/facebooks-internet-drone-takes-flight
+  domain: www.pcmag.com
   image: ""
 - curated_id: 088d6e24c727a17f943d41b3e3f11364
   item_date: "2016-08-01 00:00:00"
@@ -417,11 +411,11 @@
   url: https://www.aclu.org/blog/free-future/why-broadband-carriers-are-menace-privacy
   domain: www.aclu.org
   image: ""
-- curated_id: 686823acbe45052ff767b6d459f1af14
-  item_date: "2016-08-03 00:00:00"
-  title: Introducing OpenSignal?s new data collection methodology
-  url: http://opensignal.com/blog/2016/08/03/introducing-opensignals-new-data-collection-methodology/
-  domain: opensignal.com
+- curated_id: 2cdf58291224a1a6a56d37b3696aad8e
+  item_date: "2016-08-01 00:00:00"
+  title: Trade associations urge US court to reverse ?net neutrality? rules
+  url: http://disruptiveviews.com/trade-urges-reverse-net-neutrality-rules/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 86c4b5fc5fb524b3bc427dcd9cfdc60a
   item_date: "2016-08-03 00:00:00"
@@ -435,17 +429,17 @@
   url: http://techblog.netflix.com/2016/08/vizceral-open-source.html
   domain: techblog.netflix.com
   image: ""
+- curated_id: 686823acbe45052ff767b6d459f1af14
+  item_date: "2016-08-03 00:00:00"
+  title: Introducing OpenSignal?s new data collection methodology
+  url: http://opensignal.com/blog/2016/08/03/introducing-opensignals-new-data-collection-methodology/
+  domain: opensignal.com
+  image: ""
 - curated_id: f1321d01a24483e1fd63f0867b4ff42b
   item_date: "2016-08-04 00:00:00"
   title: Network analytics startup Kentik pulls in $23M Series B
   url: https://techcrunch.com/2016/08/04/network-analytics-startup-kentik-pulls-in-23m-series-b/
   domain: techcrunch.com
-  image: ""
-- curated_id: 78375602b2bb90062371002f1a1d7dc5
-  item_date: "2016-08-05 00:00:00"
-  title: The FCC just forced TP-Link to support open-source router firmware
-  url: http://www.pcworld.com/article/3104639/network-router/the-fcc-just-forced-tp-link-to-support-open-source-router-firmware.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: df3885a08e2b6c6cd9623defa44c8f33
   item_date: "2016-08-05 00:00:00"
@@ -454,11 +448,11 @@
   url: http://www.businessinsider.com/fiber-access-as-percentage-of-total-broadband-by-country-2016-8
   domain: www.businessinsider.com
   image: ""
-- curated_id: c778eac2679e1acd475feea4d7cf8a4a
-  item_date: "2016-08-07 00:00:00"
-  title: How to Give Rural America Broadband? Look to the Early 1900s
-  url: http://www.nytimes.com/2016/08/08/technology/how-to-give-rural-america-broadband-look-to-the-early-1900s.html
-  domain: www.nytimes.com
+- curated_id: 78375602b2bb90062371002f1a1d7dc5
+  item_date: "2016-08-05 00:00:00"
+  title: The FCC just forced TP-Link to support open-source router firmware
+  url: http://www.pcworld.com/article/3104639/network-router/the-fcc-just-forced-tp-link-to-support-open-source-router-firmware.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 72f1a8001bd2692f0c092bdf41bbfeb2
   item_date: "2016-08-07 00:00:00"
@@ -466,11 +460,23 @@
   url: https://hackaday.com/2016/08/07/getting-the-data-out-over-other-peoples-wifi/
   domain: hackaday.com
   image: ""
+- curated_id: c778eac2679e1acd475feea4d7cf8a4a
+  item_date: "2016-08-07 00:00:00"
+  title: How to Give Rural America Broadband? Look to the Early 1900s
+  url: http://www.nytimes.com/2016/08/08/technology/how-to-give-rural-america-broadband-look-to-the-early-1900s.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: 9077a23aaae8bd062a70abe36bf4774b
   item_date: "2016-08-08 00:00:00"
   title: Why Is ?Net Neutrality? So Hard?
   url: http://dyn.com/blog/why-is-net-neutrality-so-hard/
   domain: dyn.com
+  image: ""
+- curated_id: 9cb357003cd1844cca6e70a3f34a28fc
+  item_date: "2016-08-09 00:00:00"
+  title: FCC Streamlines 5G Test Site Rules
+  url: http://www.pcmag.com/news/346859/fcc-streamlines-5g-test-site-rules
+  domain: www.pcmag.com
   image: ""
 - curated_id: 278ede553abae5776a405387a98608c9
   item_date: "2016-08-09 00:00:00"
@@ -483,12 +489,6 @@
   title: How To Detect And Find Rogue Cell Towers
   url: https://hackaday.com/2016/08/09/how-to-detect-and-find-rogue-cell-towers/
   domain: hackaday.com
-  image: ""
-- curated_id: 9cb357003cd1844cca6e70a3f34a28fc
-  item_date: "2016-08-09 00:00:00"
-  title: FCC Streamlines 5G Test Site Rules
-  url: http://www.pcmag.com/news/346859/fcc-streamlines-5g-test-site-rules
-  domain: www.pcmag.com
   image: ""
 - curated_id: 09e253578620ec933548415b848a3130
   item_date: "2016-08-10 00:00:00"
@@ -514,17 +514,23 @@
   url: http://motherboard.vice.com/read/researchers-set-new-record-for-data-transmission-using-led-light
   domain: motherboard.vice.com
   image: ""
+- curated_id: f21cdec006898c40658cae4a08589766
+  item_date: "2016-08-15 00:00:00"
+  title: BRIEF-Gogo will work with China Telecom satellite
+  url: http://www.reuters.com/article/idUSFWN1AW0GO
+  domain: www.reuters.com
+  image: ""
 - curated_id: a21ab07c1237a40fa25ba36de158be82
   item_date: "2016-08-15 00:00:00"
   title: Metapacket analyzes outbound network traffic to flag and block malware
   url: https://techcrunch.com/2016/08/15/metapacket-analyzes-outbound-network-traffic-to-flag-and-block-malware/
   domain: techcrunch.com
   image: ""
-- curated_id: f21cdec006898c40658cae4a08589766
-  item_date: "2016-08-15 00:00:00"
-  title: BRIEF-Gogo will work with China Telecom satellite
-  url: http://www.reuters.com/article/idUSFWN1AW0GO
-  domain: www.reuters.com
+- curated_id: bc7d4a7b9b7260575ce86d634aba6abb
+  item_date: "2016-08-16 00:00:00"
+  title: End to End Monitoring Tames the SDN Beast
+  url: https://gigaom.com/2016/08/16/end-to-end-monitoring-tames-the-sdn-beast/
+  domain: gigaom.com
   image: ""
 - curated_id: fd4aef27cab607caa9ffe21e8612433c
   item_date: "2016-08-16 00:00:00"
@@ -532,12 +538,6 @@
     signal
   url: http://www.pcworld.com/article/3108525/consumer-electronics/microsoft-wants-all-your-devices-to-run-on-xbox-ones-proprietary-wireless-signal.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: bc7d4a7b9b7260575ce86d634aba6abb
-  item_date: "2016-08-16 00:00:00"
-  title: End to End Monitoring Tames the SDN Beast
-  url: https://gigaom.com/2016/08/16/end-to-end-monitoring-tames-the-sdn-beast/
-  domain: gigaom.com
   image: ""
 - curated_id: a7ca6bdb34b7c5f64dd2d0f72dab3b96
   item_date: "2016-08-17 00:00:00"
@@ -569,13 +569,6 @@
   url: https://act.eff.org/action/tell-fcc-to-enforce-its-rules-against-police-using-stingrays
   domain: act.eff.org
   image: ""
-- curated_id: 4d86a3462e8d391adc3338d4361112b1
-  item_date: "2016-08-24 00:00:00"
-  title: Subnetwork expansion adds even more flexibility to your Google Cloud Platform
-    private networks
-  url: https://cloudplatform.googleblog.com/2016/08/subnetwork-expansion-adds-even-more-flexibility-to-your-Google-Cloud-Platform-private-networks.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: ebbf25eca9b97053a66941e87f535309
   item_date: "2016-08-24 00:00:00"
   title: Stay on offense with a proactive network performance management strategy
@@ -589,23 +582,30 @@
   url: http://www.remotemagazine.com/main/news/aclara-emphasizes-need-to-evaluate-total-cost-of-ownership-when-choosing-advanced-metering-and-communications-networks/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: 4d86a3462e8d391adc3338d4361112b1
+  item_date: "2016-08-24 00:00:00"
+  title: Subnetwork expansion adds even more flexibility to your Google Cloud Platform
+    private networks
+  url: https://cloudplatform.googleblog.com/2016/08/subnetwork-expansion-adds-even-more-flexibility-to-your-Google-Cloud-Platform-private-networks.html
+  domain: cloudplatform.googleblog.com
+  image: ""
 - curated_id: 5e176c24eaf874fac51f43b0d0e9ade3
   item_date: "2016-08-24 12:24:29"
   title: Newly Released Exploits Affect Cisco, Juniper  Other Vendors
   url: https://duo.com/blog/newly-released-exploits-affect-cisco-juniper-and-other-vendors
   domain: duo.com
   image: ""
-- curated_id: c92fa382b4ba4e8246fdcae3f41a0520
-  item_date: "2016-08-25 00:00:00"
-  title: Cisco starts patching firewall devices against NSA-linked exploit
-  url: http://www.pcworld.com/article/3112420/security/cisco-starts-patching-firewall-devices-against-nsa-linked-exploit.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: 8ed302dc46cbd82223e4fcf84780fe67
   item_date: "2016-08-25 00:00:00"
   title: Singapore?s ?air-gapping? policy cutting off internet access being questioned
   url: http://disruptiveviews.com/singapores-air-gapping-policy-questioned/
   domain: disruptiveviews.com
+  image: ""
+- curated_id: c92fa382b4ba4e8246fdcae3f41a0520
+  item_date: "2016-08-25 00:00:00"
+  title: Cisco starts patching firewall devices against NSA-linked exploit
+  url: http://www.pcworld.com/article/3112420/security/cisco-starts-patching-firewall-devices-against-nsa-linked-exploit.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 65a6d2d88bf0cb3644724facdf2608d7
   item_date: "2016-08-26 00:00:00"
@@ -626,28 +626,16 @@
   url: http://hackaday.com/2016/08/28/open-source-snes-to-usb-converter-lets-you-emulate-legally/
   domain: hackaday.com
   image: ""
-- curated_id: de6b84f833db3afe13ebe96777ae05ab
+- curated_id: ae022808145b24936ad4c693fc422858
   item_date: "2016-08-29 00:00:00"
-  title: As 5G heads for IoT, 4G is far from done
-  url: http://www.pcworld.com/article/3113669/mobile/as-5g-heads-for-iot-4g-is-far-from-done.html
-  domain: www.pcworld.com
-  image: ""
-- curated_id: e99821ae300661b44119116c94e422aa
-  item_date: "2016-08-29 00:00:00"
-  title: Iran rolls out domestic internet
-  url: http://www.bbc.co.uk/news/technology-37212456
-  domain: www.bbc.co.uk
+  title: Iran Rolls Out Its Own Internet Service
+  url: http://www.pcmag.com/news/347417/iran-rolls-out-its-own-internet-service
+  domain: www.pcmag.com
   image: ""
 - curated_id: 1d4f1f3694e69c00a5441fd370d64901
   item_date: "2016-08-29 00:00:00"
   title: How to Find Accessible Wi-Fi Hotspots
   url: http://www.pcmag.com/article/347398/how-to-find-accessible-wi-fi-hotspots
-  domain: www.pcmag.com
-  image: ""
-- curated_id: ae022808145b24936ad4c693fc422858
-  item_date: "2016-08-29 00:00:00"
-  title: Iran Rolls Out Its Own Internet Service
-  url: http://www.pcmag.com/news/347417/iran-rolls-out-its-own-internet-service
   domain: www.pcmag.com
   image: ""
 - curated_id: 6b359eaaba47a5a20789a87e7d04745e
@@ -656,11 +644,17 @@
   url: http://www.reuters.com/article/us-at-t-lawsuit-ftc-idUSKCN1141R8
   domain: www.reuters.com
   image: ""
-- curated_id: accdbe350048a6f753b2af2c24651c27
-  item_date: "2016-08-30 00:00:00"
-  title: Network Function Virtualization Impact of CSPs
-  url: http://zenoss.com/blog/2016/08/30/network-function-virtualization-csp/
-  domain: zenoss.com
+- curated_id: e99821ae300661b44119116c94e422aa
+  item_date: "2016-08-29 00:00:00"
+  title: Iran rolls out domestic internet
+  url: http://www.bbc.co.uk/news/technology-37212456
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: de6b84f833db3afe13ebe96777ae05ab
+  item_date: "2016-08-29 00:00:00"
+  title: As 5G heads for IoT, 4G is far from done
+  url: http://www.pcworld.com/article/3113669/mobile/as-5g-heads-for-iot-4g-is-far-from-done.html
+  domain: www.pcworld.com
   image: ""
 - curated_id: 2bb750cab08089b56e3a5b4046c1beeb
   item_date: "2016-08-30 00:00:00"
@@ -668,23 +662,11 @@
   url: https://dzone.com/articles/sdn-and-the-rise-of-network-automation
   domain: dzone.com
   image: ""
-- curated_id: 65c6e88768a675bec691318c5d3ad566
-  item_date: "2016-09-07 00:00:00"
-  title: ISPs treat cyber security as a top priority
-  url: http://www.itsecurityguru.org/2016/09/07/isps-treat-cyber-security-as-a-top-priority/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: a8b080bd0af78e263f9559cc368c2204
-  item_date: "2016-09-07 00:00:00"
-  title: FlexiHub ? Connect remote USB devices via Internet or LAN
-  url: http://www.flexihub.com
-  domain: www.flexihub.com
-  image: ""
-- curated_id: e25f2661c652cad19c424c3e864c6166
-  item_date: "2016-09-07 00:00:00"
-  title: Optimizing time allocation for network defence
-  url: http://cybersecurity.oxfordjournals.org/content/1/1/37
-  domain: cybersecurity.oxfordjournals.org
+- curated_id: accdbe350048a6f753b2af2c24651c27
+  item_date: "2016-08-30 00:00:00"
+  title: Network Function Virtualization Impact of CSPs
+  url: http://zenoss.com/blog/2016/08/30/network-function-virtualization-csp/
+  domain: zenoss.com
   image: ""
 - curated_id: 706ecf1cb89757e640acfdaa74ea0b66
   item_date: "2016-09-07 00:00:00"
@@ -692,12 +674,36 @@
   url: http://www.cxotoday.com/story/narayana-health-selects-cisco-for-specialized-remote-diagnostics/
   domain: www.cxotoday.com
   image: ""
+- curated_id: e25f2661c652cad19c424c3e864c6166
+  item_date: "2016-09-07 00:00:00"
+  title: Optimizing time allocation for network defence
+  url: http://cybersecurity.oxfordjournals.org/content/1/1/37
+  domain: cybersecurity.oxfordjournals.org
+  image: ""
+- curated_id: a8b080bd0af78e263f9559cc368c2204
+  item_date: "2016-09-07 00:00:00"
+  title: FlexiHub ? Connect remote USB devices via Internet or LAN
+  url: http://www.flexihub.com
+  domain: www.flexihub.com
+  image: ""
+- curated_id: 65c6e88768a675bec691318c5d3ad566
+  item_date: "2016-09-07 00:00:00"
+  title: ISPs treat cyber security as a top priority
+  url: http://www.itsecurityguru.org/2016/09/07/isps-treat-cyber-security-as-a-top-priority/
+  domain: www.itsecurityguru.org
+  image: ""
 - curated_id: cb9e08e8897a202c5ffee437800e7648
   item_date: "2016-09-07 10:27:00"
   title: 'Tweet: Wersquo;ve standardized how vendors can plug in #software-defined
     networking solutions to any #RedHat #virt platform: https://t.co/6PNOedaYzH'
   url: https://twitter.com/RedHatNews/statuses/773573296352878592
   domain: twitter.com
+  image: ""
+- curated_id: 03d2236802795fff79203aa38ae9aea2
+  item_date: "2016-09-08 00:00:00"
+  title: A Fine Mess? or Mesh!
+  url: http://airfax.com/blog/index.php/2016/09/06/a-fine-mess-or-mesh/
+  domain: airfax.com
   image: ""
 - curated_id: 77689d4cb99d04c227d9eaf732eb3a92
   item_date: "2016-09-08 00:00:00"
@@ -712,12 +718,6 @@
     Device
   url: http://www.scmp.com/lifestyle/travel-leisure/article/2012087/future-flight-entertainment-has-you-control-your-mobile
   domain: www.scmp.com
-  image: ""
-- curated_id: 03d2236802795fff79203aa38ae9aea2
-  item_date: "2016-09-08 00:00:00"
-  title: A Fine Mess? or Mesh!
-  url: http://airfax.com/blog/index.php/2016/09/06/a-fine-mess-or-mesh/
-  domain: airfax.com
   image: ""
 - curated_id: f18ad1cc78a35407ab6aeae7a61a214e
   item_date: "2016-09-08 09:07:05"
@@ -743,19 +743,11 @@
   url: http://www.businesswire.com/news/home/20160908005177/en/OIF-Announces-Plans-SDN-Transport-API-Interoperability
   domain: www.businesswire.com
   image: ""
-- curated_id: ed0766be01ee521fe92f2a5d9704cf44
+- curated_id: 2cd5c35c9cd712566e2b32b201768607
   item_date: "2016-09-13 00:00:00"
-  title: 'UPDATED GUIDE: Setting up a Raspberry Pi as a WiFi access point #raspberrypi
-    @Raspberry_Pi'
-  url: https://blog.adafruit.com/2016/09/13/updated-guide-setting-up-a-raspberry-pi-as-a-wifi-access-point-raspberrypi-raspberry_pi/
-  domain: blog.adafruit.com
-  image: ""
-- curated_id: 217a882c2cba0374f8d8bc86fc7f3967
-  item_date: "2016-09-13 00:00:00"
-  title: SAS Upgrades its Short and Medium Haul Fleet and Invests in Next-Generation
-    Onboard Wi-Fi from ViaSat
-  url: http://airfax.com/blog/index.php/2016/09/13/sas-upgrades-its-short-and-medium-haul-fleet-and-invests-in-next-generation-onboard-wi-fi-from-viasat/
-  domain: airfax.com
+  title: Netflix Urges FCC to Ban Data Caps
+  url: http://www.pcmag.com/news/347828/netflix-urges-fcc-to-ban-data-caps
+  domain: www.pcmag.com
   image: ""
 - curated_id: f30e1096ee1759adb79550559d13a2b8
   item_date: "2016-09-13 00:00:00"
@@ -770,47 +762,37 @@
   url: http://www.enterpriseinnovation.net/article/flight-wi-fi-replacing-upgrades-and-free-drinks-1339024574
   domain: www.enterpriseinnovation.net
   image: ""
-- curated_id: 2cd5c35c9cd712566e2b32b201768607
+- curated_id: ed0766be01ee521fe92f2a5d9704cf44
   item_date: "2016-09-13 00:00:00"
-  title: Netflix Urges FCC to Ban Data Caps
-  url: http://www.pcmag.com/news/347828/netflix-urges-fcc-to-ban-data-caps
-  domain: www.pcmag.com
+  title: 'UPDATED GUIDE: Setting up a Raspberry Pi as a WiFi access point #raspberrypi
+    @Raspberry_Pi'
+  url: https://blog.adafruit.com/2016/09/13/updated-guide-setting-up-a-raspberry-pi-as-a-wifi-access-point-raspberrypi-raspberry_pi/
+  domain: blog.adafruit.com
   image: ""
-- curated_id: 5d074738caa7c5c47809f9b45ec190b3
-  item_date: "2016-09-14 00:00:00"
-  title: "A Teenage Hacker Figured Out How to Get Free Data on His Phone\r\n"
-  url: http://motherboard.vice.com/read/a-teenage-hacker-figured-out-how-to-get-free-data-on-his-phone-t-mobile
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 5cd33c8fadeba32f440a0b60fbf1ebca
-  item_date: "2016-09-14 00:00:00"
-  title: Internet naming system not U.S. property, says congressional watchdog
-  url: http://www.pcworld.com/article/3119891/internet/internet-naming-system-not-us-property-says-congressional-watchdog.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 9b0988dd4d6afae753afc2c187c437e1
-  item_date: "2016-09-14 00:00:00"
-  title: European Commission plans free wi-fi in public spaces
-  url: http://www.bbc.co.uk/news/technology-37362853
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: fc30f7e3d3810a94045ddf92b26d0620
-  item_date: "2016-09-14 00:00:00"
-  title: ""
-  url: https://www.nginx.com/blog/ip-transparency-direct-server-return-nginx-plus-transparent-proxy/
-  domain: www.nginx.com
-  image: ""
-- curated_id: 55550d871cba36601e984549e5ce6151
-  item_date: "2016-09-14 00:00:00"
-  title: 'Linksys EA9500 Max-Stream AC5400 MU-MIMO Gigabit Router '
-  url: http://www.pcmag.com/review/347847/linksys-ea9500-max-stream-ac5400-mu-mimo-gigabit-router
-  domain: www.pcmag.com
+- curated_id: 217a882c2cba0374f8d8bc86fc7f3967
+  item_date: "2016-09-13 00:00:00"
+  title: SAS Upgrades its Short and Medium Haul Fleet and Invests in Next-Generation
+    Onboard Wi-Fi from ViaSat
+  url: http://airfax.com/blog/index.php/2016/09/13/sas-upgrades-its-short-and-medium-haul-fleet-and-invests-in-next-generation-onboard-wi-fi-from-viasat/
+  domain: airfax.com
   image: ""
 - curated_id: 534cb34c91c7d078defd338ad3a061e2
   item_date: "2016-09-14 00:00:00"
   title: "Is New York City?s Public Wi-Fi Actually Connecting the Poor?\r\n"
   url: http://motherboard.vice.com/read/linknyc-is-bringing-internet-to-new-yorks-most-disconnected-people
   domain: motherboard.vice.com
+  image: ""
+- curated_id: 426b484695eb73172aebb9b61b74266d
+  item_date: "2016-09-14 00:00:00"
+  title: "The Congressional Bill That Would Save Community Broadband Networks Nationwide\r\n"
+  url: http://motherboard.vice.com/read/community-broadband-bill-us-congress-eshoo
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 55550d871cba36601e984549e5ce6151
+  item_date: "2016-09-14 00:00:00"
+  title: 'Linksys EA9500 Max-Stream AC5400 MU-MIMO Gigabit Router '
+  url: http://www.pcmag.com/review/347847/linksys-ea9500-max-stream-ac5400-mu-mimo-gigabit-router
+  domain: www.pcmag.com
   image: ""
 - curated_id: ce3d3d2cb730bde59d0a1157d690b068
   item_date: "2016-09-14 00:00:00"
@@ -819,11 +801,29 @@
   url: http://www.crn.com/news/networking/300082077/masergys-managed-sd-wan-solution-lets-partners-address-demand-for-hybrid-networking-solutions.htm
   domain: www.crn.com
   image: ""
-- curated_id: 426b484695eb73172aebb9b61b74266d
+- curated_id: fc30f7e3d3810a94045ddf92b26d0620
   item_date: "2016-09-14 00:00:00"
-  title: "The Congressional Bill That Would Save Community Broadband Networks Nationwide\r\n"
-  url: http://motherboard.vice.com/read/community-broadband-bill-us-congress-eshoo
+  title: ""
+  url: https://www.nginx.com/blog/ip-transparency-direct-server-return-nginx-plus-transparent-proxy/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 5cd33c8fadeba32f440a0b60fbf1ebca
+  item_date: "2016-09-14 00:00:00"
+  title: Internet naming system not U.S. property, says congressional watchdog
+  url: http://www.pcworld.com/article/3119891/internet/internet-naming-system-not-us-property-says-congressional-watchdog.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 5d074738caa7c5c47809f9b45ec190b3
+  item_date: "2016-09-14 00:00:00"
+  title: "A Teenage Hacker Figured Out How to Get Free Data on His Phone\r\n"
+  url: http://motherboard.vice.com/read/a-teenage-hacker-figured-out-how-to-get-free-data-on-his-phone-t-mobile
   domain: motherboard.vice.com
+  image: ""
+- curated_id: 9b0988dd4d6afae753afc2c187c437e1
+  item_date: "2016-09-14 00:00:00"
+  title: European Commission plans free wi-fi in public spaces
+  url: http://www.bbc.co.uk/news/technology-37362853
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 3016aa5d1d202189845eaafea560e75a
   item_date: "2016-09-16 00:00:00"
@@ -831,18 +831,18 @@
   url: https://dzone.com/articles/mongoose-embedded-web-server-internal-networking-i
   domain: dzone.com
   image: ""
+- curated_id: 10e4a4adf83a6ccf09201a96f97416d3
+  item_date: "2016-09-19 00:00:00"
+  title: Advanced managed switches with combo ports
+  url: http://www.ee.co.za/article/advanced-managed-switches-combo-ports.html
+  domain: www.ee.co.za
+  image: ""
 - curated_id: 7e8963a939dd2922a19d74b1f6ec7512
   item_date: "2016-09-19 00:00:00"
   title: Army CERDEC, South Korean Agency Partner to Establish Spectrum Mgmt Interoperability
     Process
   url: http://www.executivegov.com/2016/09/army-cerdec-south-korean-agency-partner-to-establish-spectrum-mgmt-interoperability-process/
   domain: www.executivegov.com
-  image: ""
-- curated_id: 10e4a4adf83a6ccf09201a96f97416d3
-  item_date: "2016-09-19 00:00:00"
-  title: Advanced managed switches with combo ports
-  url: http://www.ee.co.za/article/advanced-managed-switches-combo-ports.html
-  domain: www.ee.co.za
   image: ""
 - curated_id: 7655e86ad0b8118e37b5ce3cd8b23086
   item_date: "2016-09-20 00:00:00"
@@ -857,12 +857,6 @@
   url: http://thenextweb.com/insider/2016/09/25/korean-air-doesnt-offer-flight-wi-fi-doesnt-want-disappoint-anyone/
   domain: thenextweb.com
   image: ""
-- curated_id: cf91911bc75707a096db9122ada19c43
-  item_date: "2016-09-26 00:00:00"
-  title: Stay on Offense With a Proactive Network Performance Management Strategy
-  url: https://dzone.com/articles/stay-on-offense-with-a-proactive-network-performan
-  domain: dzone.com
-  image: ""
 - curated_id: 51278bcfa33f0b5beb43ac00b583c47c
   item_date: "2016-09-26 00:00:00"
   title: European Allows Copyright Owners to Demand Open Wifi Networks be Password
@@ -870,35 +864,11 @@
   url: https://www.eff.org/deeplinks/2016/09/european-allows-copyright-owners-demand-open-wifi-networks-be-password-protected
   domain: www.eff.org
   image: ""
-- curated_id: 9cabfe7fbd2ecd6b5695c9d5a727f4ea
-  item_date: "2016-09-27 00:00:00"
-  title: Microsoft Azure networking is speeding up, thanks to custom hardware
-  url: http://www.pcworld.com/article/3124927/microsoft-azure-networking-is-speeding-up-thanks-to-custom-hardware.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: eaa4cdab7d5ca5c49911b8d3920f0776
-  item_date: "2016-09-27 00:00:00"
-  title: Automakers Cozy Up to Intel, Qualcomm for 5G Standards
-  url: http://www.pcmag.com/news/348238/automakers-cozy-up-to-intel-qualcomm-for-5g-standards
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 2b242298e4d063ecb7799508224a0934
-  item_date: "2016-09-27 00:00:00"
-  title: Samsung Teams Up With Mobile TeleSystems To Deepen Research On IoT, 5G Networks
-  url: http://www.crn.com/news/internet-of-things/300082233/samsung-teams-up-with-mobile-telesystems-to-deepen-research-on-iot-5g-networks.htm
-  domain: www.crn.com
-  image: ""
-- curated_id: eb8ab1894b19270b0ddb9ead6cefecff
-  item_date: "2016-09-27 00:00:00"
-  title: Spamhaus Warns of a Rise in IPv4 Network Hijacks
-  url: http://www.itsecurityguru.org/2016/09/27/spamhaus-warns-of-a-rise-in-ipv4-network-hijacks/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: cd55657575a0cc79b8f86efb5eeaced4
-  item_date: "2016-09-27 00:00:00"
-  title: Google wants to bring affordable, public Wi-Fi to the world
-  url: http://www.zdnet.com/article/google-wants-to-bring-affordable-public-wi-fi-to-the-world/
-  domain: www.zdnet.com
+- curated_id: cf91911bc75707a096db9122ada19c43
+  item_date: "2016-09-26 00:00:00"
+  title: Stay on Offense With a Proactive Network Performance Management Strategy
+  url: https://dzone.com/articles/stay-on-offense-with-a-proactive-network-performan
+  domain: dzone.com
   image: ""
 - curated_id: 3a8674131c4194433c23fad612862514
   item_date: "2016-09-27 00:00:00"
@@ -912,17 +882,41 @@
   url: http://thenextweb.com/lifestyle/2016/09/27/free-airport-wi-fi/
   domain: thenextweb.com
   image: ""
+- curated_id: cd55657575a0cc79b8f86efb5eeaced4
+  item_date: "2016-09-27 00:00:00"
+  title: Google wants to bring affordable, public Wi-Fi to the world
+  url: http://www.zdnet.com/article/google-wants-to-bring-affordable-public-wi-fi-to-the-world/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: 4ef423f0a3d4245494393359ca515b48
   item_date: "2016-09-27 00:00:00"
   title: 'FAQ: Whats so special about 802.11ad Wi-Fi?'
   url: http://www.pcworld.com/article/3124530/mobile/faq-whats-so-special-about-80211ad-wi-fi.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: a11cb6af54294610204d37edde392057
-  item_date: "2016-09-28 00:00:00"
-  title: "Now You Can Build Your Own Private Mesh Network With Phones and Radios\r\n"
-  url: http://motherboard.vice.com/read/gotenna-mesh-networking-for-smartphones
-  domain: motherboard.vice.com
+- curated_id: 2b242298e4d063ecb7799508224a0934
+  item_date: "2016-09-27 00:00:00"
+  title: Samsung Teams Up With Mobile TeleSystems To Deepen Research On IoT, 5G Networks
+  url: http://www.crn.com/news/internet-of-things/300082233/samsung-teams-up-with-mobile-telesystems-to-deepen-research-on-iot-5g-networks.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: eb8ab1894b19270b0ddb9ead6cefecff
+  item_date: "2016-09-27 00:00:00"
+  title: Spamhaus Warns of a Rise in IPv4 Network Hijacks
+  url: http://www.itsecurityguru.org/2016/09/27/spamhaus-warns-of-a-rise-in-ipv4-network-hijacks/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: eaa4cdab7d5ca5c49911b8d3920f0776
+  item_date: "2016-09-27 00:00:00"
+  title: Automakers Cozy Up to Intel, Qualcomm for 5G Standards
+  url: http://www.pcmag.com/news/348238/automakers-cozy-up-to-intel-qualcomm-for-5g-standards
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 9cabfe7fbd2ecd6b5695c9d5a727f4ea
+  item_date: "2016-09-27 00:00:00"
+  title: Microsoft Azure networking is speeding up, thanks to custom hardware
+  url: http://www.pcworld.com/article/3124927/microsoft-azure-networking-is-speeding-up-thanks-to-custom-hardware.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 929f4ea8708395428d72f62011de8626
   item_date: "2016-09-28 00:00:00"
@@ -930,23 +924,23 @@
   url: http://www.pcmag.com/news/348264/stay-connected-in-remote-areas-with-gotenna-mesh
   domain: www.pcmag.com
   image: ""
+- curated_id: a11cb6af54294610204d37edde392057
+  item_date: "2016-09-28 00:00:00"
+  title: "Now You Can Build Your Own Private Mesh Network With Phones and Radios\r\n"
+  url: http://motherboard.vice.com/read/gotenna-mesh-networking-for-smartphones
+  domain: motherboard.vice.com
+  image: ""
 - curated_id: 9413248e0d2659840cbbcbca04fa8fd8
   item_date: "2016-09-28 14:45:15"
   title: Overlay network - Wikipedia, the free encyclopedia
   url: https://en.wikipedia.org/wiki/Overlay_network
   domain: en.wikipedia.org
   image: ""
-- curated_id: cdf48aed930073c66acd2e87820f7a4d
+- curated_id: 15f8bb9de184eb4b8e4e09f459ef9f4c
   item_date: "2016-09-29 00:00:00"
-  title: Gogo Promises Faster In-Flight Wi-Fi, But How?
-  url: http://www.pcmag.com/news/348291/gogo-promises-faster-in-flight-wi-fi-but-how
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 2fd7b67dc6d1668e608145c02887aa5f
-  item_date: "2016-09-29 00:00:00"
-  title: How to Monitor Network Activity When Your Infrastructure Lacks an Edge
-  url: https://dzone.com/articles/how-to-monitor-network-activity-when-your-infrastr
-  domain: dzone.com
+  title: In Praise of Open APIs
+  url: https://www.vmware.com/ciovantage/article/in-praise-of-open-apis
+  domain: www.vmware.com
   image: ""
 - curated_id: 0c594bd657309013ff31ce5a3f2f846f
   item_date: "2016-09-29 00:00:00"
@@ -960,23 +954,23 @@
   url: http://www.crn.com/news/networking/300082268/partners-praise-earthlinks-velocloud-powered-sd-wan-service.htm
   domain: www.crn.com
   image: ""
-- curated_id: 15f8bb9de184eb4b8e4e09f459ef9f4c
+- curated_id: cdf48aed930073c66acd2e87820f7a4d
   item_date: "2016-09-29 00:00:00"
-  title: In Praise of Open APIs
-  url: https://www.vmware.com/ciovantage/article/in-praise-of-open-apis
-  domain: www.vmware.com
+  title: Gogo Promises Faster In-Flight Wi-Fi, But How?
+  url: http://www.pcmag.com/news/348291/gogo-promises-faster-in-flight-wi-fi-but-how
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 2fd7b67dc6d1668e608145c02887aa5f
+  item_date: "2016-09-29 00:00:00"
+  title: How to Monitor Network Activity When Your Infrastructure Lacks an Edge
+  url: https://dzone.com/articles/how-to-monitor-network-activity-when-your-infrastr
+  domain: dzone.com
   image: ""
 - curated_id: 83af90ce47f49abdb247700936559bff
   item_date: "2016-10-02 00:00:00"
   title: Building OpenVPN Site-To-Site Tunnel on Dynamic Addressing Endpoints
   url: http://www.codeproject.com/Articles/1135556/Building-OpenVPN-Site-To-Site-Tunnel-on-Dynamic-Ad
   domain: www.codeproject.com
-  image: ""
-- curated_id: ae48758661c4b6773c3d61a4898615e9
-  item_date: "2016-10-04 00:00:00"
-  title: A region-by-region look at the UK?s 3G and 4G performance
-  url: http://opensignal.com/blog/2016/10/05/a-region-by-region-look-at-the-uks-3g-and-4g-performance/
-  domain: opensignal.com
   image: ""
 - curated_id: 4d7db26e21c1a26d4ebc5d73ebaec467
   item_date: "2016-10-04 00:00:00"
@@ -990,42 +984,23 @@
   url: http://www.pcworld.com/article/3127746/5g-will-need-small-cells-so-nokia-is-sending-in-the-drones.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
+- curated_id: ae48758661c4b6773c3d61a4898615e9
+  item_date: "2016-10-04 00:00:00"
+  title: A region-by-region look at the UK?s 3G and 4G performance
+  url: http://opensignal.com/blog/2016/10/05/a-region-by-region-look-at-the-uks-3g-and-4g-performance/
+  domain: opensignal.com
+  image: ""
 - curated_id: 79fc7cb557dd02eb0fb6e9c5b951bb47
   item_date: "2016-10-05 00:00:00"
   title: Infinera Joins OIF, ONF to Improve SDN Interoperability
   url: http://www.nfvzone.com/carrier-sdn/articles/425832-infinera-joins-oif-onf-improve-sdn-interoperability.htm
   domain: www.nfvzone.com
   image: ""
-- curated_id: 853d938b97ea114bbfb0fb3901ee17dc
+- curated_id: 3e7e317b9efc4b76249a2023c2285f0a
   item_date: "2016-10-06 00:00:00"
-  title: FCC to vote on strict privacy rules for ISPs in late October
-  url: http://www.pcworld.com/article/3128810/fcc-to-vote-on-strict-privacy-rules-for-isps-in-late-october.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 559e49d1101fddb0eca6fdd20953030d
-  item_date: "2016-10-06 00:00:00"
-  title: Cable and telecom are rivals again with new IoT networks
-  url: http://www.pcworld.com/article/3128753/cable-and-telecom-are-rivals-again-with-new-iot-networks.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: bf0d547a72971678594e235693e784fd
-  item_date: "2016-10-06 00:00:00"
-  title: U.S. FCC to vote on revised broadband privacy regulations
-  url: http://www.reuters.com/article/fcc-privacy-idUSL2N1CC15O
-  domain: www.reuters.com
-  image: ""
-- curated_id: a48bced9ab9568d5af4067c3c3a5b253
-  item_date: "2016-10-06 00:00:00"
-  title: FCC to vote this month on privacy rules for internet providers
-  url: |
-    http://thehill.com/policy/technology/299645-fcc-to-vote-this-month-on-privacy-rules-for-internet-providers
-  domain: thehill.com
-  image: ""
-- curated_id: 1d60ae4b10547afa2533262a864c1033
-  item_date: "2016-10-06 00:00:00"
-  title: UPDATE 1-U.S. FCC to vote on revised broadband privacy regulations
-  url: http://www.reuters.com/article/fcc-privacy-idUSL2N1CC179
-  domain: www.reuters.com
+  title: 'NetFlash: Tracking Dropbox network traffic in real-time with Elasticsearch'
+  url: https://blogs.dropbox.com/tech/2016/10/netflash-tracking-dropbox-network-traffic-in-real-time-with-elasticsearch/
+  domain: blogs.dropbox.com
   image: ""
 - curated_id: b62eb0dd188e7129dd254870a8c205f6
   item_date: "2016-10-06 00:00:00"
@@ -1034,11 +1009,17 @@
   url: http://thenextweb.com/facebook/2016/10/06/facebook-is-looking-to-bring-free-internet-to-the-us-but-dont-celebrate-just-yet/
   domain: thenextweb.com
   image: ""
-- curated_id: 3e7e317b9efc4b76249a2023c2285f0a
+- curated_id: 7e47c489704225176d237154fbbaa4d7
   item_date: "2016-10-06 00:00:00"
-  title: 'NetFlash: Tracking Dropbox network traffic in real-time with Elasticsearch'
-  url: https://blogs.dropbox.com/tech/2016/10/netflash-tracking-dropbox-network-traffic-in-real-time-with-elasticsearch/
-  domain: blogs.dropbox.com
+  title: Verizon will soon start selling data plans for drones
+  url: http://www.theverge.com/2016/10/6/13193616/verizon-selling-drones-data-plans
+  domain: www.theverge.com
+  image: ""
+- curated_id: 1d60ae4b10547afa2533262a864c1033
+  item_date: "2016-10-06 00:00:00"
+  title: UPDATE 1-U.S. FCC to vote on revised broadband privacy regulations
+  url: http://www.reuters.com/article/fcc-privacy-idUSL2N1CC179
+  domain: www.reuters.com
   image: ""
 - curated_id: 5854dd2da687837cea857611d3cab31f
   item_date: "2016-10-06 00:00:00"
@@ -1046,17 +1027,48 @@
   url: http://www.theverge.com/2016/10/6/13192832/comcast-xfinity-home-internet-data-caps-one-terabyte
   domain: www.theverge.com
   image: ""
-- curated_id: 7e47c489704225176d237154fbbaa4d7
+- curated_id: a48bced9ab9568d5af4067c3c3a5b253
   item_date: "2016-10-06 00:00:00"
-  title: Verizon will soon start selling data plans for drones
-  url: http://www.theverge.com/2016/10/6/13193616/verizon-selling-drones-data-plans
-  domain: www.theverge.com
+  title: FCC to vote this month on privacy rules for internet providers
+  url: |
+    http://thehill.com/policy/technology/299645-fcc-to-vote-this-month-on-privacy-rules-for-internet-providers
+  domain: thehill.com
   image: ""
-- curated_id: e35c0922b4192773f66d5ad3f257e222
+- curated_id: 559e49d1101fddb0eca6fdd20953030d
+  item_date: "2016-10-06 00:00:00"
+  title: Cable and telecom are rivals again with new IoT networks
+  url: http://www.pcworld.com/article/3128753/cable-and-telecom-are-rivals-again-with-new-iot-networks.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 853d938b97ea114bbfb0fb3901ee17dc
+  item_date: "2016-10-06 00:00:00"
+  title: FCC to vote on strict privacy rules for ISPs in late October
+  url: http://www.pcworld.com/article/3128810/fcc-to-vote-on-strict-privacy-rules-for-isps-in-late-october.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: bf0d547a72971678594e235693e784fd
+  item_date: "2016-10-06 00:00:00"
+  title: U.S. FCC to vote on revised broadband privacy regulations
+  url: http://www.reuters.com/article/fcc-privacy-idUSL2N1CC15O
+  domain: www.reuters.com
+  image: ""
+- curated_id: 361a616e7f7578f31044be7314536ebb
   item_date: "2016-10-07 00:00:00"
-  title: Comcast to Expand 1TB Data Cap Rollout
-  url: http://www.pcmag.com/news/348545/comcast-to-expand-1tb-data-cap-rollout
-  domain: www.pcmag.com
+  title: New Data Caps Provide Another Reason to Hate Comcast
+  url: https://www.wired.com/2016/10/new-data-caps-provide-another-reason-hate-comcast/
+  domain: www.wired.com
+  image: ""
+- curated_id: 09826a80f105cd543e65bbc92eb29619
+  item_date: "2016-10-07 00:00:00"
+  title: 'Cisco DevNet: Firepower - Firepower - Firepower'
+  url: https://developer.cisco.com/site/firepower/discover/overview/index.gsp
+  domain: developer.cisco.com
+  image: ""
+- curated_id: 93e2bf1762567879f5bfe908af44eabc
+  item_date: "2016-10-07 00:00:00"
+  title: 'Software-Defined Security: The Missing Piece in Your SDDC Strategy'
+  url: http://sdn.cioreview.com/cxoinsight/softwaredefined-security-the-missing-piece-in-your-sddc-strategy-nid-17128-cid-147.html
+  domain: sdn.cioreview.com
   image: ""
 - curated_id: 68cb0da900edc7c673eb5faadc72d10b
   item_date: "2016-10-07 00:00:00"
@@ -1070,23 +1082,11 @@
   url: http://boingboing.net/2016/10/07/how-to-change-your-ip-address.html
   domain: boingboing.net
   image: ""
-- curated_id: 93e2bf1762567879f5bfe908af44eabc
+- curated_id: e35c0922b4192773f66d5ad3f257e222
   item_date: "2016-10-07 00:00:00"
-  title: 'Software-Defined Security: The Missing Piece in Your SDDC Strategy'
-  url: http://sdn.cioreview.com/cxoinsight/softwaredefined-security-the-missing-piece-in-your-sddc-strategy-nid-17128-cid-147.html
-  domain: sdn.cioreview.com
-  image: ""
-- curated_id: 361a616e7f7578f31044be7314536ebb
-  item_date: "2016-10-07 00:00:00"
-  title: New Data Caps Provide Another Reason to Hate Comcast
-  url: https://www.wired.com/2016/10/new-data-caps-provide-another-reason-hate-comcast/
-  domain: www.wired.com
-  image: ""
-- curated_id: 09826a80f105cd543e65bbc92eb29619
-  item_date: "2016-10-07 00:00:00"
-  title: 'Cisco DevNet: Firepower - Firepower - Firepower'
-  url: https://developer.cisco.com/site/firepower/discover/overview/index.gsp
-  domain: developer.cisco.com
+  title: Comcast to Expand 1TB Data Cap Rollout
+  url: http://www.pcmag.com/news/348545/comcast-to-expand-1tb-data-cap-rollout
+  domain: www.pcmag.com
   image: ""
 - curated_id: 2d24449d048284e51d33166d54ae7b76
   item_date: "2016-10-08 00:00:00"
@@ -1113,17 +1113,17 @@
   url: http://www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data
   domain: www.pcmag.com
   image: ""
-- curated_id: 8753df2d06d621f3ed4c9090995bc66f
-  item_date: "2016-10-12 00:00:00"
-  title: New undersea cable expands capacity for Google APAC customers and users
-  url: https://cloudplatform.googleblog.com/2016/10/new-undersea-cable-expands-capacity-for-Google-APAC-customers-and-users.html
-  domain: cloudplatform.googleblog.com
-  image: ""
 - curated_id: ad164305d3f379c4020f53d44ec10113
   item_date: "2016-10-12 00:00:00"
   title: LEGOs and modern network performance monitoring
   url: http://blogs.ca.com/2016/10/12/legos-modern-network-performance-monitoring/
   domain: blogs.ca.com
+  image: ""
+- curated_id: 8753df2d06d621f3ed4c9090995bc66f
+  item_date: "2016-10-12 00:00:00"
+  title: New undersea cable expands capacity for Google APAC customers and users
+  url: https://cloudplatform.googleblog.com/2016/10/new-undersea-cable-expands-capacity-for-Google-APAC-customers-and-users.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: a00c793e8810c04d01781edeb54c1c5a
   item_date: "2016-10-12 10:13:27"
@@ -1131,17 +1131,17 @@
   url: https://medium.com/m/global-identity
   domain: medium.com
   image: ""
-- curated_id: bd645af7fdafb30c63b7c01469857752
-  item_date: "2016-10-13 00:00:00"
-  title: Internet Routing Security Effort Gains Momentum
-  url: http://www.darkreading.com/vulnerabilities---threats/internet-routing-security-effort-gains-momentum/d/d-id/1327180
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 96adbd29a1134e85f9c3b3e87bd3f83c
   item_date: "2016-10-13 00:00:00"
   title: FCC to Vote on ISP Privacy Rules
   url: https://www.lawfareblog.com/fcc-vote-isp-privacy-rules
   domain: www.lawfareblog.com
+  image: ""
+- curated_id: bd645af7fdafb30c63b7c01469857752
+  item_date: "2016-10-13 00:00:00"
+  title: Internet Routing Security Effort Gains Momentum
+  url: http://www.darkreading.com/vulnerabilities---threats/internet-routing-security-effort-gains-momentum/d/d-id/1327180
+  domain: www.darkreading.com
   image: ""
 - curated_id: 48b0906baddf844d9955e1337399ce0d
   item_date: "2016-10-14 00:00:00"
@@ -1155,17 +1155,43 @@
   url: http://www.pcmag.com/news/348706/verizon-offers-pay-as-you-go-popdata
   domain: www.pcmag.com
   image: ""
+- curated_id: 94937feec448c757104b2192d83a1c16
+  item_date: "2016-10-17 00:00:00"
+  title: Has SDN improved or just Kardashianized your network?
+  url: https://techcrunch.com/2016/10/17/has-sdn-improved-or-just-kardashianized-your-network/
+  domain: techcrunch.com
+  image: ""
 - curated_id: 40d0ebf71d8e65e746f84f2eac958444
   item_date: "2016-10-17 00:00:00"
   title: Verizon has a new pay-to-play data plan (VZ)
   url: http://www.businessinsider.com/verizon-has-a-new-pay-to-play-data-plan-2016-10
   domain: www.businessinsider.com
   image: ""
-- curated_id: 94937feec448c757104b2192d83a1c16
-  item_date: "2016-10-17 00:00:00"
-  title: Has SDN improved or just Kardashianized your network?
-  url: https://techcrunch.com/2016/10/17/has-sdn-improved-or-just-kardashianized-your-network/
-  domain: techcrunch.com
+- curated_id: 9024634fe389e4890f8935fda568c968
+  item_date: "2016-10-18 00:00:00"
+  title: Ecuador confirms it cut off Assange?s internet access to prevent him from
+    derailing US elections
+  url: http://thenextweb.com/us/2016/10/19/ecuador-confirms-it-cut-off-assanges-internet-access-to-prevent-him-from-derailing-us-elections/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 827e99a2aefe26b10dcad602fa6e31d7
+  item_date: "2016-10-18 00:00:00"
+  title: Public Wi-Fi Use Grows, Despite Security Risks
+  url: http://www.darkreading.com/cloud/public-wi-fi-use-grows-despite-security-risks/d/d-id/1327206
+  domain: www.darkreading.com
+  image: ""
+- curated_id: 1d33600540ccfaeb78938d72be043024
+  item_date: "2016-10-18 00:00:00"
+  title: Ecuador says it disconnected Julian Assange?s internet because of Clinton
+    email leaks
+  url: http://www.theverge.com/2016/10/18/13325250/ecuador-wikileaks-julian-assange-internet-cut
+  domain: www.theverge.com
+  image: ""
+- curated_id: 7fe7bdc6619c6b82e75bbf5327702799
+  item_date: "2016-10-18 00:00:00"
+  title: WikiLeaks blames U.S. for cutting Assanges internet connection
+  url: http://www.pcworld.com/article/3132219/security/wikileaks-blames-us-for-cutting-assanges-internet-connection.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 0be3c7aaf755256bd7f4895f41adf250
   item_date: "2016-10-18 00:00:00"
@@ -1173,12 +1199,6 @@
     US
   url: http://www.remotemagazine.com/main/news/senet-announces-coverage-in-10-additional-major-metropolitan-areas-of-the-us/
   domain: www.remotemagazine.com
-  image: ""
-- curated_id: 7fe7bdc6619c6b82e75bbf5327702799
-  item_date: "2016-10-18 00:00:00"
-  title: WikiLeaks blames U.S. for cutting Assanges internet connection
-  url: http://www.pcworld.com/article/3132219/security/wikileaks-blames-us-for-cutting-assanges-internet-connection.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: 9deafde61258c6960186a9bfaef23721
   item_date: "2016-10-18 00:00:00"
@@ -1193,55 +1213,11 @@
     http://thehill.com/policy/national-security/301484-as-assange-mystery-deepens-ecuador-affirms-asylum-status
   domain: thehill.com
   image: ""
-- curated_id: 827e99a2aefe26b10dcad602fa6e31d7
-  item_date: "2016-10-18 00:00:00"
-  title: Public Wi-Fi Use Grows, Despite Security Risks
-  url: http://www.darkreading.com/cloud/public-wi-fi-use-grows-despite-security-risks/d/d-id/1327206
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 9024634fe389e4890f8935fda568c968
-  item_date: "2016-10-18 00:00:00"
-  title: Ecuador confirms it cut off Assange?s internet access to prevent him from
-    derailing US elections
-  url: http://thenextweb.com/us/2016/10/19/ecuador-confirms-it-cut-off-assanges-internet-access-to-prevent-him-from-derailing-us-elections/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 1d33600540ccfaeb78938d72be043024
-  item_date: "2016-10-18 00:00:00"
-  title: Ecuador says it disconnected Julian Assange?s internet because of Clinton
-    email leaks
-  url: http://www.theverge.com/2016/10/18/13325250/ecuador-wikileaks-julian-assange-internet-cut
-  domain: www.theverge.com
-  image: ""
 - curated_id: fcdb3c039b871e735bd52e20151c794f
   item_date: "2016-10-19 00:00:00"
   title: Cisco revs up storage connections for data centers and WANs
   url: http://www.pcworld.com/article/3132660/cisco-revs-up-storage-connections-for-data-centers-and-wans.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: aea9c25be54d5711a8eddbb7a6fa2bec
-  item_date: "2016-10-20 00:00:00"
-  title: CommScope Introduces New Ultra-Wideband Antennas for New Wireless Spectrum
-  url: http://www.remotemagazine.com/main/news/commscope-introduces-new-ultra-wideband-antennas-for-new-wireless-spectrum/
-  domain: www.remotemagazine.com
-  image: ""
-- curated_id: ea35863eeb72fe71676957101bb56791
-  item_date: "2016-10-20 00:00:00"
-  title: "Hotspot Vigilantes Are Trying to Beam the Internet to Julian Assange\r\n"
-  url: http://motherboard.vice.com/read/hotspot-vigilantes-are-trying-to-beam-the-internet-to-julian-assange
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 745ddef9c1a558354199238a6cda2a39
-  item_date: "2016-10-20 00:00:00"
-  title: 'Bigfoot and Beacon Upgrade Line Arrays With AIR Wireless Capability '
-  url: http://www.avnetwork.com/avnetwork/bigfoot-and-beacon-upgrade-line-arrays-with-air-wireless-capability/125193
-  domain: www.avnetwork.com
-  image: ""
-- curated_id: 6f62ac9a2d98865aa71a4bdc4a92f0c0
-  item_date: "2016-10-20 00:00:00"
-  title: Engineers are testing a new name-based internet
-  url: http://www.futurity.org/mobilityfirst-internet-1277112-2/
-  domain: www.futurity.org
   image: ""
 - curated_id: 9609252fd941ba96ef19ad5619927025
   item_date: "2016-10-20 00:00:00"
@@ -1257,12 +1233,42 @@
   url: http://www.remotemagazine.com/main/news/u-blox-announces-plans-to-support-verizons-new-lte-cat-m1-network-for-iot-by-end-of-2016/
   domain: www.remotemagazine.com
   image: ""
+- curated_id: 6f62ac9a2d98865aa71a4bdc4a92f0c0
+  item_date: "2016-10-20 00:00:00"
+  title: Engineers are testing a new name-based internet
+  url: http://www.futurity.org/mobilityfirst-internet-1277112-2/
+  domain: www.futurity.org
+  image: ""
+- curated_id: ea35863eeb72fe71676957101bb56791
+  item_date: "2016-10-20 00:00:00"
+  title: "Hotspot Vigilantes Are Trying to Beam the Internet to Julian Assange\r\n"
+  url: http://motherboard.vice.com/read/hotspot-vigilantes-are-trying-to-beam-the-internet-to-julian-assange
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: aea9c25be54d5711a8eddbb7a6fa2bec
+  item_date: "2016-10-20 00:00:00"
+  title: CommScope Introduces New Ultra-Wideband Antennas for New Wireless Spectrum
+  url: http://www.remotemagazine.com/main/news/commscope-introduces-new-ultra-wideband-antennas-for-new-wireless-spectrum/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 745ddef9c1a558354199238a6cda2a39
+  item_date: "2016-10-20 00:00:00"
+  title: 'Bigfoot and Beacon Upgrade Line Arrays With AIR Wireless Capability '
+  url: http://www.avnetwork.com/avnetwork/bigfoot-and-beacon-upgrade-line-arrays-with-air-wireless-capability/125193
+  domain: www.avnetwork.com
+  image: ""
 - curated_id: 4d59124817985bfc58e2e3edd933dcc8
   item_date: "2016-10-23 00:00:00"
   title: 'Al Franken: How Your Internet Service Provider is Restricting Your Legal
     Rights'
   url: http://time.com/4541176/al-franken-arbitration-clauses/
   domain: time.com
+  image: ""
+- curated_id: e7a23d688a82225cb91c08885ad6553c
+  item_date: "2016-10-31 00:00:00"
+  title: 'Its Official: CenturyLink To Acquire Level 3 For $34 Billion'
+  url: http://www.crn.com/news/networking/300082647/its-official-centurylink-to-acquire-level-3-for-34-billion.htm
+  domain: www.crn.com
   image: ""
 - curated_id: a32e8af8701f7a5c28e047ac02c99664
   item_date: "2016-10-31 00:00:00"
@@ -1276,10 +1282,24 @@
   url: http://www.businessinsider.com/centurylink-buys-level-3-communications-2016-10
   domain: www.businessinsider.com
   image: ""
-- curated_id: e7a23d688a82225cb91c08885ad6553c
-  item_date: "2016-10-31 00:00:00"
-  title: 'Its Official: CenturyLink To Acquire Level 3 For $34 Billion'
-  url: http://www.crn.com/news/networking/300082647/its-official-centurylink-to-acquire-level-3-for-34-billion.htm
+- curated_id: 27752c290f34db416237cf637f228d09
+  item_date: "2016-11-01 00:00:00"
+  title: "The Tribe Protesting the Dakota Pipeline Is Ready to Defend Its Wireless
+    Network\r\n"
+  url: http://motherboard.vice.com/read/standing-rock-sioux-tribe-wireless-spectrum-worries
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 8c6087cea82a35d05866f81e0c9626f1
+  item_date: "2016-11-01 00:00:00"
+  title: Cisco launches storage optimized UCS server
+  url: http://www.zdnet.com/article/cisco-launches-storage-optimized-ucs-server/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 81ad3693ca806771944165a24be0d808
+  item_date: "2016-11-01 00:00:00"
+  title: Cisco Pledges Cheaper On-Premise Storage Compared To AWS Cloud With New UCS
+    S-Series Server
+  url: http://www.crn.com/news/storage/300082651/cisco-pledges-cheaper-on-premise-storage-compared-to-aws-cloud-with-new-ucs-s-series-server.htm
   domain: www.crn.com
   image: ""
 - curated_id: f02e38f34f92b32b3bb0f7bd45199057
@@ -1295,26 +1315,6 @@
   url: http://www.crn.com/news/security/300082644/cisco-revamps-advanced-malware-protection-for-endpoint-launches-software-licensing-program-for-advanced-security.htm
   domain: www.crn.com
   image: ""
-- curated_id: 8c6087cea82a35d05866f81e0c9626f1
-  item_date: "2016-11-01 00:00:00"
-  title: Cisco launches storage optimized UCS server
-  url: http://www.zdnet.com/article/cisco-launches-storage-optimized-ucs-server/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 81ad3693ca806771944165a24be0d808
-  item_date: "2016-11-01 00:00:00"
-  title: Cisco Pledges Cheaper On-Premise Storage Compared To AWS Cloud With New UCS
-    S-Series Server
-  url: http://www.crn.com/news/storage/300082651/cisco-pledges-cheaper-on-premise-storage-compared-to-aws-cloud-with-new-ucs-s-series-server.htm
-  domain: www.crn.com
-  image: ""
-- curated_id: 27752c290f34db416237cf637f228d09
-  item_date: "2016-11-01 00:00:00"
-  title: "The Tribe Protesting the Dakota Pipeline Is Ready to Defend Its Wireless
-    Network\r\n"
-  url: http://motherboard.vice.com/read/standing-rock-sioux-tribe-wireless-spectrum-worries
-  domain: motherboard.vice.com
-  image: ""
 - curated_id: 8ad048e2a9280394dc1194d456c22e2c
   item_date: "2016-11-02 00:00:00"
   title: Thread Group aims its IoT mesh network at enterprises
@@ -1327,35 +1327,23 @@
   url: http://www.theverge.com/2016/11/3/13507500/att-directv-accused-collusion-against-sportsnet-la-dodgers-time-warner
   domain: www.theverge.com
   image: ""
-- curated_id: 9443dd2ca15460de1628b572dee40920
-  item_date: "2016-11-07 00:00:00"
-  title: 4G Cellular Networks At Risk Of DoS Attacks
-  url: http://www.darkreading.com/mobile/4g-cellular-networks-at-risk-of-dos-attacks/d/d-id/1327422
-  domain: www.darkreading.com
-  image: ""
 - curated_id: 52f49371bf40cfb50ee4673ca555f59d
   item_date: "2016-11-07 00:00:00"
   title: U.S. broadband privacy rules grant users control, meaningful rights protections
   url: https://www.accessnow.org/u-s-broadband-privacy-rules-grant-users-control-meaningful-rights-protections/
   domain: www.accessnow.org
   image: ""
+- curated_id: 9443dd2ca15460de1628b572dee40920
+  item_date: "2016-11-07 00:00:00"
+  title: 4G Cellular Networks At Risk Of DoS Attacks
+  url: http://www.darkreading.com/mobile/4g-cellular-networks-at-risk-of-dos-attacks/d/d-id/1327422
+  domain: www.darkreading.com
+  image: ""
 - curated_id: 37fb991daf54157690192fef30a9774f
   item_date: "2016-11-08 00:00:00"
   title: ATT and Colt claim software defined networking (SDN) breakthrough
   url: http://www.cbronline.com/news/enterprise-it/att-colt-claim-software-defined-networking-sdn-breakthrough/
   domain: www.cbronline.com
-  image: ""
-- curated_id: 0237e1ea5ee05b42ff65b8cfe2d4169c
-  item_date: "2016-11-09 00:00:00"
-  title: ATT and Colt develop API for SDN-to-SDN interoperability
-  url: http://www.fibre-systems.com/news/story/att-and-colt-develop-api-sdn-sdn-interoperability
-  domain: www.fibre-systems.com
-  image: ""
-- curated_id: 7a304633d3c96d9562b0dc4d000e2a4b
-  item_date: "2016-11-09 00:00:00"
-  title: Net neutrality is suddenly on the chopping block
-  url: http://www.theverge.com/2016/11/9/13579800/net-neutrality-donald-trump-election-open-internet
-  domain: www.theverge.com
   image: ""
 - curated_id: 0e754ec26b9ea64e54255c5508f4d194
   item_date: "2016-11-09 00:00:00"
@@ -1364,11 +1352,17 @@
   url: http://www.crn.com/news/networking/300082768/major-nutanix-software-update-expands-hyper-converged-infrastructure-with-new-sdn-security-capabilities.htm
   domain: www.crn.com
   image: ""
-- curated_id: 55685c5f835a50790baa939f409ffc85
-  item_date: "2016-11-10 00:00:00"
-  title: Facebook hits 20Gbps in testing for internet drone data transmission
-  url: http://www.pcworld.com/article/3140748/networking/facebook-hits-20gbps-in-testing-for-internet-drone-data-transmission.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 7a304633d3c96d9562b0dc4d000e2a4b
+  item_date: "2016-11-09 00:00:00"
+  title: Net neutrality is suddenly on the chopping block
+  url: http://www.theverge.com/2016/11/9/13579800/net-neutrality-donald-trump-election-open-internet
+  domain: www.theverge.com
+  image: ""
+- curated_id: 0237e1ea5ee05b42ff65b8cfe2d4169c
+  item_date: "2016-11-09 00:00:00"
+  title: ATT and Colt develop API for SDN-to-SDN interoperability
+  url: http://www.fibre-systems.com/news/story/att-and-colt-develop-api-sdn-sdn-interoperability
+  domain: www.fibre-systems.com
   image: ""
 - curated_id: 128f59a1e9a15eccc01bab9be2f30470
   item_date: "2016-11-10 00:00:00"
@@ -1376,11 +1370,24 @@
   url: http://motherboard.vice.com/read/heres-how-president-trump-could-destroy-net-neutrality
   domain: motherboard.vice.com
   image: ""
+- curated_id: 55685c5f835a50790baa939f409ffc85
+  item_date: "2016-11-10 00:00:00"
+  title: Facebook hits 20Gbps in testing for internet drone data transmission
+  url: http://www.pcworld.com/article/3140748/networking/facebook-hits-20gbps-in-testing-for-internet-drone-data-transmission.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: 03145dce67341c2be3f27084700eb940
   item_date: "2016-11-11 00:00:00"
   title: Preserve Your Data With ATT Stream Saver
   url: http://www.pcmag.com/news/349520/preserve-your-data-with-at-t-stream-saver
   domain: www.pcmag.com
+  image: ""
+- curated_id: 11ab4e182202a4aff87f8f001278b043
+  item_date: "2016-12-13 00:00:00"
+  title: Netgear starts patching routers left vulnerable to hacking by a critical
+    flaw
+  url: http://www.pcworld.com/article/3150025/security/netgear-starts-patching-routers-affected-by-a-critical-flaw.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: c6a30feee6407064809186f2176b2610
   item_date: "2016-12-13 00:00:00"
@@ -1395,19 +1402,6 @@
   url: https://www.smartertravel.com/2016/12/07/government-spying-through-inflight-wi-fi-leaked-documents-reveal/
   domain: www.smartertravel.com
   image: ""
-- curated_id: 11ab4e182202a4aff87f8f001278b043
-  item_date: "2016-12-13 00:00:00"
-  title: Netgear starts patching routers left vulnerable to hacking by a critical
-    flaw
-  url: http://www.pcworld.com/article/3150025/security/netgear-starts-patching-routers-affected-by-a-critical-flaw.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 88cca60bfb9205edc5791c3e914236c6
-  item_date: "2016-12-14 00:00:00"
-  title: 'BLOG: Enterprise Networking: A Year in Review'
-  url: http://blogs.cisco.com/news/enterprise-networking-a-year-in-review
-  domain: blogs.cisco.com
-  image: ""
 - curated_id: cfbbf629a104e5b3a0460dc38d5511dc
   item_date: "2016-12-14 00:00:00"
   title: 'BLOG: Protecting Innovation: Aristas Copying of Ciscos User Interfaces'
@@ -1420,18 +1414,17 @@
   url: http://motherboard.vice.com/read/systemic-racial-discrimination-worsens-the-us-digital-divide-study-says
   domain: motherboard.vice.com
   image: ""
-- curated_id: fd7ef4d2825d7f1d30524c3059093786
-  item_date: "2016-12-15 00:00:00"
-  title: It just got easier for Republicans to roll back the laws keeping the internet
-    open
-  url: http://www.businessinsider.com/fcc-tom-wheeler-leaving-net-neutrality-rules-trump-2016-12
-  domain: www.businessinsider.com
+- curated_id: 88cca60bfb9205edc5791c3e914236c6
+  item_date: "2016-12-14 00:00:00"
+  title: 'BLOG: Enterprise Networking: A Year in Review'
+  url: http://blogs.cisco.com/news/enterprise-networking-a-year-in-review
+  domain: blogs.cisco.com
   image: ""
-- curated_id: ee7038abfa899d5ef45783addeb16988
+- curated_id: 46da812eb1a2582e9fbfe17781a35fcb
   item_date: "2016-12-15 00:00:00"
-  title: Free 4G means Jio users have little need for Wifi
-  url: https://opensignal.com/blog/2016/12/15/free-4g-means-jio-users-have-little-need-for-wifi/
-  domain: opensignal.com
+  title: "Tom Wheeler Resigns From the FCC\u2014So Long, Net Neutrality"
+  url: https://www.wired.com/2016/12/tom-wheeler-resigns-fcc-long-net-neutrality/
+  domain: www.wired.com
   image: ""
 - curated_id: b620ceaea03660171403c5df5e16a92b
   item_date: "2016-12-15 00:00:00"
@@ -1439,11 +1432,18 @@
   url: http://www.itsecurityguru.org/2016/12/15/malvertising-campaign-targets-routers-every-device-connected-router/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 46da812eb1a2582e9fbfe17781a35fcb
+- curated_id: ee7038abfa899d5ef45783addeb16988
   item_date: "2016-12-15 00:00:00"
-  title: "Tom Wheeler Resigns From the FCC\u2014So Long, Net Neutrality"
-  url: https://www.wired.com/2016/12/tom-wheeler-resigns-fcc-long-net-neutrality/
-  domain: www.wired.com
+  title: Free 4G means Jio users have little need for Wifi
+  url: https://opensignal.com/blog/2016/12/15/free-4g-means-jio-users-have-little-need-for-wifi/
+  domain: opensignal.com
+  image: ""
+- curated_id: fd7ef4d2825d7f1d30524c3059093786
+  item_date: "2016-12-15 00:00:00"
+  title: It just got easier for Republicans to roll back the laws keeping the internet
+    open
+  url: http://www.businessinsider.com/fcc-tom-wheeler-leaving-net-neutrality-rules-trump-2016-12
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 9db7b5f9a6efeb935795eb35d3356c32
   item_date: "2016-12-15 18:40:18"
@@ -1457,17 +1457,23 @@
   url: http://www.theverge.com/2016/12/16/13985110/att-verizon-fcc-sponsored-data-net-neutrality-response
   domain: www.theverge.com
   image: ""
+- curated_id: c97e849f1720edfc4f7b88980959f76a
+  item_date: "2016-12-16 00:00:00"
+  title: "As Tom Wheeler Departs, ATT Tells the FCC to Take a Hike on Zero-Rating\r\n"
+  url: http://motherboard.vice.com/read/as-tom-wheeler-departs-att-tells-the-fcc-to-take-a-hike-on-zero-rating
+  domain: motherboard.vice.com
+  image: ""
 - curated_id: b4784c7d1449bcc74f04fc8134633ffe
   item_date: "2016-12-16 00:00:00"
   title: Google Dissects Undersea Cable to Explain the Internet
   url: http://www.pcmag.com/news/350407/google-dissects-undersea-cable-to-explain-the-internet
   domain: www.pcmag.com
   image: ""
-- curated_id: c97e849f1720edfc4f7b88980959f76a
-  item_date: "2016-12-16 00:00:00"
-  title: "As Tom Wheeler Departs, ATT Tells the FCC to Take a Hike on Zero-Rating\r\n"
-  url: http://motherboard.vice.com/read/as-tom-wheeler-departs-att-tells-the-fcc-to-take-a-hike-on-zero-rating
-  domain: motherboard.vice.com
+- curated_id: 81ea16978f8d3aa5fdf7b0b255343529
+  item_date: "2016-12-19 00:00:00"
+  title: Understanding Docker Networking Drivers and their use cases
+  url: https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/
+  domain: blog.docker.com
   image: ""
 - curated_id: ed30a4ebe8701917b352059c1293768f
   item_date: "2016-12-19 00:00:00"
@@ -1481,12 +1487,6 @@
   title: How to check if your VPN is leaking private data
   url: http://www.pcworld.com/article/3150256/internet/how-to-check-if-your-vpn-is-leaking-private-data.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: 81ea16978f8d3aa5fdf7b0b255343529
-  item_date: "2016-12-19 00:00:00"
-  title: Understanding Docker Networking Drivers and their use cases
-  url: https://blog.docker.com/2016/12/understanding-docker-networking-drivers-use-cases/
-  domain: blog.docker.com
   image: ""
 - curated_id: 2f2584525aec67a4d2302c878b5a722c
   item_date: "2017-01-02 00:00:00"
@@ -1506,17 +1506,17 @@
   url: http://www.theverge.com/circuitbreaker/2017/1/3/14123728/linksys-wrt32x-gaming-router-announced-killer-networking-ces-2017
   domain: www.theverge.com
   image: ""
-- curated_id: 9491f84240b956dcdebba6bc1b89be76
-  item_date: "2017-01-04 00:00:00"
-  title: System Configuration of Biometrics-The Network Topologies
-  url: http://resources.infosecinstitute.com/system-configuration-of-biometrics-the-network-topologies/
-  domain: resources.infosecinstitute.com
-  image: ""
 - curated_id: 789afb9777304176fd9dca75caa584ca
   item_date: "2017-01-04 00:00:00"
   title: "Intel\u2019s new Go brand covers car tech from self-driving to 5G wireless"
   url: https://techcrunch.com/2017/01/04/intels-new-go-brand-covers-car-tech-from-self-driving-to-5g-wireless/
   domain: techcrunch.com
+  image: ""
+- curated_id: 9491f84240b956dcdebba6bc1b89be76
+  item_date: "2017-01-04 00:00:00"
+  title: System Configuration of Biometrics-The Network Topologies
+  url: http://resources.infosecinstitute.com/system-configuration-of-biometrics-the-network-topologies/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: 40e15d9739c2f5d13b41df2d16200d39
   item_date: "2017-01-04 08:31:29"
@@ -1524,49 +1524,11 @@
   url: http://blogs.cisco.com/datacenter/cisco-supports-redfish-standard-api-enhances-ucs-programmability
   domain: blogs.cisco.com
   image: ""
-- curated_id: d2bd3866e6ecea01c6904b2007f08880
-  item_date: "2017-01-05 00:00:00"
-  title: GoPro wants the moments you capture on the Internet instantly
-  url: https://techcrunch.com/2017/01/05/gopro-wants-the-moments-you-capture-on-the-internet-instantly/
-  domain: techcrunch.com
-  image: ""
-- curated_id: b95f7c83781b21ae8fad06ab6e400060
-  item_date: "2017-01-05 00:00:00"
-  title: Ghost Hosts Bypass URL Filtering
-  url: http://www.darkreading.com/vulnerabilities---threats/ghost-hosts-bypass-url-filtering/d/d-id/1327842
-  domain: www.darkreading.com
-  image: ""
-- curated_id: bf69f3e74e040cf8383d173114760887
-  item_date: "2017-01-05 00:00:00"
-  title: 'CES 2017: T-Mobile CEO Taunts Competition By Doubling Down On Unlimited
-    Plans; Reimbursing For Unused Data'
-  url: http://www.crn.com/news/networking/300083324/ces-2017-t-mobile-ceo-taunts-competition-by-doubling-down-on-unlimited-plans-reimbursing-for-unused-data.htm
-  domain: www.crn.com
-  image: ""
-- curated_id: bc0214fd77690785fcedcccb04dbe8a8
-  item_date: "2017-01-05 00:00:00"
-  title: "\u201COnce-in-a-lifetime opportunity\u201D: Local news could see a windfall
-    from the FCC\u2019s spectrum auction"
-  url: http://www.niemanlab.org/2017/01/once-in-a-lifetime-opportunity-local-news-could-see-a-windfall-from-the-fccs-spectrum-auction/
-  domain: www.niemanlab.org
-  image: ""
-- curated_id: bf20987277a60fc258994195ae3c38eb
-  item_date: "2017-01-05 00:00:00"
-  title: Visualization of a Phased Array Antenna System
-  url: http://hackaday.com/2017/01/05/visualization-of-a-phased-array-antenna-system/
-  domain: hackaday.com
-  image: ""
 - curated_id: e37be47ef7ef91d3fba342cd780e945e
   item_date: "2017-01-05 00:00:00"
   title: "Don\u2019t Gut Net Neutrality. It\u2019s Good for People and Business"
   url: https://www.wired.com/2017/01/dont-gut-net-neutrality-good-people-business/
   domain: www.wired.com
-  image: ""
-- curated_id: c0f3d8a47cb32a28a5d8d7bbb728af58
-  item_date: "2017-01-05 00:00:00"
-  title: UPDATE 1-U.S. sues D-Link, alleges lax security in routers, cameras
-  url: http://www.reuters.com/article/uk-d-link-ftc-idUSKBN14P2ME
-  domain: www.reuters.com
   image: ""
 - curated_id: 7fe1da19367ffa1acecdab848f1ad036
   item_date: "2017-01-05 00:00:00"
@@ -1580,17 +1542,55 @@
   url: http://www.remotemagazine.com/main/markets/networkingtelemetry/smartmesh-ip-wireless-mesh-networks-expand-to-address-industrial-iot-networks/
   domain: www.remotemagazine.com
   image: ""
-- curated_id: 9477f551eaa031c34ea94aa652b729ca
-  item_date: "2017-01-06 00:00:00"
-  title: Notes about the FTC action against D-Link
-  url: http://blog.erratasec.com/2017/01/notes-about-ftc-action-against-d-link.html
-  domain: blog.erratasec.com
+- curated_id: bf20987277a60fc258994195ae3c38eb
+  item_date: "2017-01-05 00:00:00"
+  title: Visualization of a Phased Array Antenna System
+  url: http://hackaday.com/2017/01/05/visualization-of-a-phased-array-antenna-system/
+  domain: hackaday.com
+  image: ""
+- curated_id: c0f3d8a47cb32a28a5d8d7bbb728af58
+  item_date: "2017-01-05 00:00:00"
+  title: UPDATE 1-U.S. sues D-Link, alleges lax security in routers, cameras
+  url: http://www.reuters.com/article/uk-d-link-ftc-idUSKBN14P2ME
+  domain: www.reuters.com
+  image: ""
+- curated_id: b95f7c83781b21ae8fad06ab6e400060
+  item_date: "2017-01-05 00:00:00"
+  title: Ghost Hosts Bypass URL Filtering
+  url: http://www.darkreading.com/vulnerabilities---threats/ghost-hosts-bypass-url-filtering/d/d-id/1327842
+  domain: www.darkreading.com
+  image: ""
+- curated_id: bc0214fd77690785fcedcccb04dbe8a8
+  item_date: "2017-01-05 00:00:00"
+  title: "\u201COnce-in-a-lifetime opportunity\u201D: Local news could see a windfall
+    from the FCC\u2019s spectrum auction"
+  url: http://www.niemanlab.org/2017/01/once-in-a-lifetime-opportunity-local-news-could-see-a-windfall-from-the-fccs-spectrum-auction/
+  domain: www.niemanlab.org
+  image: ""
+- curated_id: bf69f3e74e040cf8383d173114760887
+  item_date: "2017-01-05 00:00:00"
+  title: 'CES 2017: T-Mobile CEO Taunts Competition By Doubling Down On Unlimited
+    Plans; Reimbursing For Unused Data'
+  url: http://www.crn.com/news/networking/300083324/ces-2017-t-mobile-ceo-taunts-competition-by-doubling-down-on-unlimited-plans-reimbursing-for-unused-data.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: d2bd3866e6ecea01c6904b2007f08880
+  item_date: "2017-01-05 00:00:00"
+  title: GoPro wants the moments you capture on the Internet instantly
+  url: https://techcrunch.com/2017/01/05/gopro-wants-the-moments-you-capture-on-the-internet-instantly/
+  domain: techcrunch.com
   image: ""
 - curated_id: 434ac2c6489026ccf912d00cf33e0fef
   item_date: "2017-01-06 00:00:00"
   title: New Android Malware Attacks Your Wireless Router Through Your Phone
   url: http://www.itsecurityguru.org/2017/01/06/new-android-malware-attacks-wireless-router-phone/
   domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 9477f551eaa031c34ea94aa652b729ca
+  item_date: "2017-01-06 00:00:00"
+  title: Notes about the FTC action against D-Link
+  url: http://blog.erratasec.com/2017/01/notes-about-ftc-action-against-d-link.html
+  domain: blog.erratasec.com
   image: ""
 - curated_id: fed9dec89bb43360a2d4d32c65ee7de1
   item_date: "2017-01-07 00:00:00"
@@ -1604,23 +1604,17 @@
   url: http://www.theverge.com/2017/1/8/14207230/nyc-subway-stations-cellular-wifi-service-mta-transit-wireless-new-york
   domain: www.theverge.com
   image: ""
-- curated_id: 96dd3e9c1a3237940cf6c5ce935ed020
-  item_date: "2017-01-09 00:00:00"
-  title: Communications and Network Security
-  url: http://resources.infosecinstitute.com/communications-and-network-security/
-  domain: resources.infosecinstitute.com
-  image: ""
 - curated_id: b9cc7926a7b271fcd99fd60ec7eb2289
   item_date: "2017-01-09 00:00:00"
   title: The Secrets of Wi-Fi Credentials
   url: https://www.codeproject.com/Articles/1164749/The-Secrets-of-Wi-Fi-Credentials
   domain: www.codeproject.com
   image: ""
-- curated_id: 79b5c63f056c6b8c2353fabb9a4e76f1
-  item_date: "2017-01-10 00:00:00"
-  title: Gogo Inflight Wi-Fi Boosts Security with Bug Bounty Program
-  url: http://www.eweek.com/security/gogo-inflight-wifi-boosts-security-with-bug-bounty-program.html
-  domain: www.eweek.com
+- curated_id: 96dd3e9c1a3237940cf6c5ce935ed020
+  item_date: "2017-01-09 00:00:00"
+  title: Communications and Network Security
+  url: http://resources.infosecinstitute.com/communications-and-network-security/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: 41de6a20b2e5d7431482847aeb808940
   item_date: "2017-01-10 00:00:00"
@@ -1628,17 +1622,11 @@
   url: http://itknowledgeexchange.techtarget.com/network-technologies/cisco-announces-end-sale-end-life-announcement-cisco-secure-access-control-system/
   domain: itknowledgeexchange.techtarget.com
   image: ""
-- curated_id: 470d6625a3427c8d652138a35efeea00
-  item_date: "2017-01-11 00:00:00"
-  title: JetBlue Rolls Out Satellite Wi-Fi to Entire Fleet
-  url: http://www.pcmag.com/news/350963/jetblue-rolls-out-satellite-wi-fi-to-entire-fleet
-  domain: www.pcmag.com
-  image: ""
-- curated_id: d57c6908238460ab61ab792de01a1b49
-  item_date: "2017-01-11 00:00:00"
-  title: "Verizon\u2019s reason for cracking down on unlimited data users is bullshit"
-  url: http://thenextweb.com/insider/2017/01/11/verizons-reason-for-cracking-down-on-unlimited-data-users-is-bullshit/
-  domain: thenextweb.com
+- curated_id: 79b5c63f056c6b8c2353fabb9a4e76f1
+  item_date: "2017-01-10 00:00:00"
+  title: Gogo Inflight Wi-Fi Boosts Security with Bug Bounty Program
+  url: http://www.eweek.com/security/gogo-inflight-wifi-boosts-security-with-bug-bounty-program.html
+  domain: www.eweek.com
   image: ""
 - curated_id: 7c271233d47dd5b8de3e3ef32f6dd731
   item_date: "2017-01-11 00:00:00"
@@ -1654,12 +1642,17 @@
   url: https://techcrunch.com/2017/01/11/jetblue/
   domain: techcrunch.com
   image: ""
-- curated_id: a587b0055f129e5fcf76b69e991cee53
-  item_date: "2017-01-13 00:00:00"
-  title: Amazon wants government permission to run mystery wireless tests in rural
-    Washington (AMZN)
-  url: http://www.businessinsider.com/amazon-wants-government-permission-to-run-mystery-wireless-tests-in-rural-washington-2017-1
-  domain: www.businessinsider.com
+- curated_id: d57c6908238460ab61ab792de01a1b49
+  item_date: "2017-01-11 00:00:00"
+  title: "Verizon\u2019s reason for cracking down on unlimited data users is bullshit"
+  url: http://thenextweb.com/insider/2017/01/11/verizons-reason-for-cracking-down-on-unlimited-data-users-is-bullshit/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 470d6625a3427c8d652138a35efeea00
+  item_date: "2017-01-11 00:00:00"
+  title: JetBlue Rolls Out Satellite Wi-Fi to Entire Fleet
+  url: http://www.pcmag.com/news/350963/jetblue-rolls-out-satellite-wi-fi-to-entire-fleet
+  domain: www.pcmag.com
   image: ""
 - curated_id: 20e053ece2f79dbb7997c83bfe9dd4bf
   item_date: "2017-01-13 00:00:00"
@@ -1667,17 +1660,18 @@
   url: http://www.theverge.com/2017/1/13/14266168/tom-wheeler-final-speech-net-neutrality-defense
   domain: www.theverge.com
   image: ""
+- curated_id: a587b0055f129e5fcf76b69e991cee53
+  item_date: "2017-01-13 00:00:00"
+  title: Amazon wants government permission to run mystery wireless tests in rural
+    Washington (AMZN)
+  url: http://www.businessinsider.com/amazon-wants-government-permission-to-run-mystery-wireless-tests-in-rural-washington-2017-1
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: e8e12a2d8b5706a26bfa81d5b3d55ca7
   item_date: "2017-01-16 00:00:00"
   title: Amazon is seeking FCC permission to conduct  wireless technology tests
   url: http://www.theverge.com/2017/1/15/14280252/amazon-seeking-fcc-permission-wireless-technology-tests
   domain: www.theverge.com
-  image: ""
-- curated_id: a57fa89ab756add7bd9e6b64cf621a2f
-  item_date: "2017-01-17 00:00:00"
-  title: 'FCC: Verizon, ATT Probably Violate Net Neutrality'
-  url: http://www.pcmag.com/news/350977/fcc-verizon-at-t-probably-violate-net-neutrality
-  domain: www.pcmag.com
   image: ""
 - curated_id: 660a25288729ca60d530207be62507e3
   item_date: "2017-01-17 00:00:00"
@@ -1685,23 +1679,11 @@
   url: http://www.pcmag.com/news/351052/amazon-to-conduct-secret-wireless-tests
   domain: www.pcmag.com
   image: ""
-- curated_id: a37dd3b6cd48f5f691fb357e62d10773
-  item_date: "2017-01-18 00:00:00"
-  title: Is Net Neutrality Good or Bad for Innovation?
-  url: http://spectrum.ieee.org/tech-talk/telecom/internet/does-net-neutrality-help-or-harm-innovation
-  domain: spectrum.ieee.org
-  image: ""
-- curated_id: 0b91b4de948e0edf2822249b4e637c21
-  item_date: "2017-01-18 00:00:00"
-  title: 5 Years Later, Victory Over SOPA Means More than Ever
-  url: https://www.eff.org/deeplinks/2017/01/5-years-later-victory-over-sopa-means-more-ever
-  domain: www.eff.org
-  image: ""
-- curated_id: f6b0694f997d0c5ad0d734925b423862
-  item_date: "2017-01-18 00:00:00"
-  title: Everything you need to know about 5G in 417 words (think OTT)
-  url: https://disruptiveviews.com/for-5g-think-ott/
-  domain: disruptiveviews.com
+- curated_id: a57fa89ab756add7bd9e6b64cf621a2f
+  item_date: "2017-01-17 00:00:00"
+  title: 'FCC: Verizon, ATT Probably Violate Net Neutrality'
+  url: http://www.pcmag.com/news/350977/fcc-verizon-at-t-probably-violate-net-neutrality
+  domain: www.pcmag.com
   image: ""
 - curated_id: 17c1aa408b745cf0692aaa48a4d2beea
   item_date: "2017-01-18 00:00:00"
@@ -1709,6 +1691,24 @@
     Biggest Channel Initiatives In 2017'
   url: http://www.crn.com/slide-shows/networking/300083445/crn-exclusive-cisco-americas-channel-leader-on-vip-meraki-apis-and-the-biggest-channel-initiatives-in-2017.htm
   domain: www.crn.com
+  image: ""
+- curated_id: f6b0694f997d0c5ad0d734925b423862
+  item_date: "2017-01-18 00:00:00"
+  title: Everything you need to know about 5G in 417 words (think OTT)
+  url: https://disruptiveviews.com/for-5g-think-ott/
+  domain: disruptiveviews.com
+  image: ""
+- curated_id: 0b91b4de948e0edf2822249b4e637c21
+  item_date: "2017-01-18 00:00:00"
+  title: 5 Years Later, Victory Over SOPA Means More than Ever
+  url: https://www.eff.org/deeplinks/2017/01/5-years-later-victory-over-sopa-means-more-ever
+  domain: www.eff.org
+  image: ""
+- curated_id: a37dd3b6cd48f5f691fb357e62d10773
+  item_date: "2017-01-18 00:00:00"
+  title: Is Net Neutrality Good or Bad for Innovation?
+  url: http://spectrum.ieee.org/tech-talk/telecom/internet/does-net-neutrality-help-or-harm-innovation
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: 6d85212fa64ae808d0c0fc25439361b5
   item_date: "2017-01-19 00:00:00"
@@ -1731,6 +1731,24 @@
   url: http://www.businessinsider.com/trump-net-neutrality-fcc-chairman-ajit-pai-2017-1
   domain: www.businessinsider.com
   image: ""
+- curated_id: 8d25f599a05f9afee71d71dbfab2591b
+  item_date: "2017-01-31 00:00:00"
+  title: Easy-to-exploit authentication bypass flaw puts Netgear routers at risk
+  url: http://www.pcworld.com/article/3163242/security/easy-to-exploit-authentication-bypass-flaw-puts-netgear-routers-at-risk.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: d1a3aa65aa1ee99a1214be55509861e3
+  item_date: "2017-01-31 00:00:00"
+  title: New FCC chair vows to shrink industry regulations
+  url: http://www.reuters.com/article/us-fcc-regulations-idUSKBN15F26Z
+  domain: www.reuters.com
+  image: ""
+- curated_id: e6570cb792748805a8d93ed90d9a593a
+  item_date: "2017-01-31 00:00:00"
+  title: Actualizing the Internet of Things all starts with wireless
+  url: https://techcrunch.com/2017/01/31/actualizing-the-internet-of-things-all-starts-with-wireless/
+  domain: techcrunch.com
+  image: ""
 - curated_id: f8fe99ccd4a412bc85d48681d4697522
   item_date: "2017-01-31 00:00:00"
   title: "Trump\u2019s FCC May Let ISPs Sell Your Private Data Without Your Consent\r\n"
@@ -1743,41 +1761,11 @@
   url: http://www.pcmag.com/news/351464/fcc-extends-net-neutrality-exemption-for-small-isps
   domain: www.pcmag.com
   image: ""
-- curated_id: 8d25f599a05f9afee71d71dbfab2591b
-  item_date: "2017-01-31 00:00:00"
-  title: Easy-to-exploit authentication bypass flaw puts Netgear routers at risk
-  url: http://www.pcworld.com/article/3163242/security/easy-to-exploit-authentication-bypass-flaw-puts-netgear-routers-at-risk.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: e6570cb792748805a8d93ed90d9a593a
-  item_date: "2017-01-31 00:00:00"
-  title: Actualizing the Internet of Things all starts with wireless
-  url: https://techcrunch.com/2017/01/31/actualizing-the-internet-of-things-all-starts-with-wireless/
-  domain: techcrunch.com
-  image: ""
-- curated_id: d1a3aa65aa1ee99a1214be55509861e3
-  item_date: "2017-01-31 00:00:00"
-  title: New FCC chair vows to shrink industry regulations
-  url: http://www.reuters.com/article/us-fcc-regulations-idUSKBN15F26Z
-  domain: www.reuters.com
-  image: ""
 - curated_id: f8a77fa35469ea2751ccbab0d1e0c8db
   item_date: "2017-01-31 10:38:44"
   title: Untitled (http://transition.fcc.gov/Daily_Releases/Daily_Business/2017/db0131/DA-17-110A1.pdf)
   url: http://transition.fcc.gov/Daily_Releases/Daily_Business/2017/db0131/DA-17-110A1.pdf
   domain: transition.fcc.gov
-  image: ""
-- curated_id: ab12c1eb2effde0504e8ddab98f41f84
-  item_date: "2017-02-01 00:00:00"
-  title: New York sues Charter over slow internet speeds
-  url: http://www.theverge.com/2017/2/1/14469818/new-york-sues-charter-spectrum-slow-internet-speeds
-  domain: www.theverge.com
-  image: ""
-- curated_id: 3543bbba93e23fcb9f1c642a3a2b8bb0
-  item_date: "2017-02-01 00:00:00"
-  title: Now Cisco can even network your building systems
-  url: http://www.pcworld.com/article/3164189/internet-of-things/now-cisco-can-even-network-your-building-systems.html#tk.rss_all
-  domain: www.pcworld.com
   image: ""
 - curated_id: 9693ae8024c62549e609733b26ac84d8
   item_date: "2017-02-01 00:00:00"
@@ -1785,24 +1773,23 @@
   url: http://searchsdn.techtarget.com/podcast/Windows-Server-2016-networking-embraces-SDN
   domain: searchsdn.techtarget.com
   image: ""
+- curated_id: 3543bbba93e23fcb9f1c642a3a2b8bb0
+  item_date: "2017-02-01 00:00:00"
+  title: Now Cisco can even network your building systems
+  url: http://www.pcworld.com/article/3164189/internet-of-things/now-cisco-can-even-network-your-building-systems.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: ab12c1eb2effde0504e8ddab98f41f84
+  item_date: "2017-02-01 00:00:00"
+  title: New York sues Charter over slow internet speeds
+  url: http://www.theverge.com/2017/2/1/14469818/new-york-sues-charter-spectrum-slow-internet-speeds
+  domain: www.theverge.com
+  image: ""
 - curated_id: c2dafd5a54b606045688a1dfaf868bb1
   item_date: "2017-02-02 00:00:00"
   title: How Data is Transforming Transport
   url: https://dzone.com/articles/how-data-is-transforming-transport
   domain: dzone.com
-  image: ""
-- curated_id: 516435cd82bbe0e535e9599a9006e86c
-  item_date: "2017-02-03 00:00:00"
-  title: "Snap is worried that losing net neutrality could \u2018seriously harm\u2019
-    its business"
-  url: http://www.theverge.com/2017/2/3/14495750/snapchat-ipo-net-neutrality-cost-fcc-hurt-business
-  domain: www.theverge.com
-  image: ""
-- curated_id: 5da278a870c04339bf35d45d0231fb9f
-  item_date: "2017-02-03 00:00:00"
-  title: U.S. telecommunications regulator closes sponsored data probe
-  url: http://www.reuters.com/article/us-usa-fcc-data-idUSKBN15I2UA
-  domain: www.reuters.com
   image: ""
 - curated_id: 7d10c5e83aaaec73e0ce13619c2e786c
   item_date: "2017-02-03 00:00:00"
@@ -1810,6 +1797,19 @@
     regulations\u2019"
   url: https://techcrunch.com/2017/02/03/fcc-performs-midnight-revocations-of-previous-leaderships-midnight-regulations/
   domain: techcrunch.com
+  image: ""
+- curated_id: 5da278a870c04339bf35d45d0231fb9f
+  item_date: "2017-02-03 00:00:00"
+  title: U.S. telecommunications regulator closes sponsored data probe
+  url: http://www.reuters.com/article/us-usa-fcc-data-idUSKBN15I2UA
+  domain: www.reuters.com
+  image: ""
+- curated_id: 516435cd82bbe0e535e9599a9006e86c
+  item_date: "2017-02-03 00:00:00"
+  title: "Snap is worried that losing net neutrality could \u2018seriously harm\u2019
+    its business"
+  url: http://www.theverge.com/2017/2/3/14495750/snapchat-ipo-net-neutrality-cost-fcc-hurt-business
+  domain: www.theverge.com
   image: ""
 - curated_id: 8c96b8264b61f2c1e2abe9d127f6a01a
   item_date: "2017-02-03 16:41:20"
@@ -1830,29 +1830,23 @@
   url: https://medium.com/@jyasskin/the-web-bluetooth-security-model-666b4e7eed2#.o6o38rqqb
   domain: medium.com
   image: ""
-- curated_id: feff35d1cc5e2c7c5b328aa81cb41366
-  item_date: "2017-02-07 00:00:00"
-  title: 802.11s Security and Google WiFi
-  url: https://security.googleblog.com/2017/02/80211s-security-and-google-wifi.html
-  domain: security.googleblog.com
-  image: ""
 - curated_id: 528e86ea8f5b6965a7e9347afa1ad6e8
   item_date: "2017-02-07 00:00:00"
   title: Bristol joins race to be test bed for ultra-fast 5G technology
   url: http://www.bbc.co.uk/news/uk-england-bristol-38895307
   domain: www.bbc.co.uk
   image: ""
+- curated_id: feff35d1cc5e2c7c5b328aa81cb41366
+  item_date: "2017-02-07 00:00:00"
+  title: 802.11s Security and Google WiFi
+  url: https://security.googleblog.com/2017/02/80211s-security-and-google-wifi.html
+  domain: security.googleblog.com
+  image: ""
 - curated_id: f8f434582cac6694b195777f95121756
   item_date: "2017-02-08 00:00:00"
   title: 'Technology explained: What is 5G?'
   url: http://www.bbc.co.uk/news/technology-38906565
   domain: www.bbc.co.uk
-  image: ""
-- curated_id: 7eb1a5b2df051b75470b38f328bafbf2
-  item_date: "2017-02-09 00:00:00"
-  title: Basic Industrial Ethernet Network Troubleshooting
-  url: http://blog.opto22.com/optoblog/basic-industrial-ethernet-network-troubleshooting
-  domain: blog.opto22.com
   image: ""
 - curated_id: 17f903dd5dc9a01cf05f2341cd562443
   item_date: "2017-02-09 00:00:00"
@@ -1865,6 +1859,25 @@
   title: Network Security Policy
   url: http://resources.infosecinstitute.com/network-security-policy-part-3/
   domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 7eb1a5b2df051b75470b38f328bafbf2
+  item_date: "2017-02-09 00:00:00"
+  title: Basic Industrial Ethernet Network Troubleshooting
+  url: http://blog.opto22.com/optoblog/basic-industrial-ethernet-network-troubleshooting
+  domain: blog.opto22.com
+  image: ""
+- curated_id: d824cf158973f091ba327f8987490184
+  item_date: "2017-02-13 00:00:00"
+  title: "Verizon\u2019s Unlimited Data Plan Is Back. Here\u2019s How It Compares
+    to Other Carriers"
+  url: https://www.wired.com/2017/02/verizons-unlimited-data-plan-back-heres-compares-carriers/
+  domain: www.wired.com
+  image: ""
+- curated_id: ab1c3febefed3cc61e467aefa0bd2f89
+  item_date: "2017-02-13 00:00:00"
+  title: Verizons move to unlimited data ups ante in wireless war
+  url: http://www.reuters.com/article/us-verizon-data-competition-idUSKBN15S277
+  domain: www.reuters.com
   image: ""
 - curated_id: 9888c054062ffc150069fad633af5f98
   item_date: "2017-02-13 00:00:00"
@@ -1880,30 +1893,11 @@
   url: http://www.macworld.com/article/3168722/mobile/verizon-revives-its-unlimited-data-plan-after-purging-legacy-unlimited-data-plan-users.html#tk.rss_all
   domain: www.macworld.com
   image: ""
-- curated_id: ab1c3febefed3cc61e467aefa0bd2f89
-  item_date: "2017-02-13 00:00:00"
-  title: Verizons move to unlimited data ups ante in wireless war
-  url: http://www.reuters.com/article/us-verizon-data-competition-idUSKBN15S277
-  domain: www.reuters.com
-  image: ""
-- curated_id: d824cf158973f091ba327f8987490184
-  item_date: "2017-02-13 00:00:00"
-  title: "Verizon\u2019s Unlimited Data Plan Is Back. Here\u2019s How It Compares
-    to Other Carriers"
-  url: https://www.wired.com/2017/02/verizons-unlimited-data-plan-back-heres-compares-carriers/
-  domain: www.wired.com
-  image: ""
-- curated_id: d21c6e1298a057395d6eb7b6d3f9f311
+- curated_id: 5152123738f2c1638ca07ecd3d9d73d8
   item_date: "2017-02-14 00:00:00"
-  title: BRIEF-ATT says accelerates deployment of LTE-M network for IOT
-  url: http://www.reuters.com/article/idUSFWN1FZ18J
-  domain: www.reuters.com
-  image: ""
-- curated_id: 82411d92baa64acf6468eb52982ebb2c
-  item_date: "2017-02-14 00:00:00"
-  title: SDN Transport Application Programming Interface (T-API) Testing
-  url: http://www.convergedigest.com/2017/02/oif-completes-sdn-transport-application.html
-  domain: www.convergedigest.com
+  title: Factory Owners Are Reluctant to Embrace Wireless
+  url: http://spectrum.ieee.org/tech-talk/telecom/wireless/factory-owners-are-reluctant-to-embrace-wireless
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: ae9285815db7a017beda77b0fed97395
   item_date: "2017-02-14 00:00:00"
@@ -1911,17 +1905,17 @@
   url: http://www.businessinsider.com/unlimited-plans-comparison-verizon-att-sprint-tmobile-2017-2
   domain: www.businessinsider.com
   image: ""
-- curated_id: 5152123738f2c1638ca07ecd3d9d73d8
+- curated_id: 82411d92baa64acf6468eb52982ebb2c
   item_date: "2017-02-14 00:00:00"
-  title: Factory Owners Are Reluctant to Embrace Wireless
-  url: http://spectrum.ieee.org/tech-talk/telecom/wireless/factory-owners-are-reluctant-to-embrace-wireless
-  domain: spectrum.ieee.org
+  title: SDN Transport Application Programming Interface (T-API) Testing
+  url: http://www.convergedigest.com/2017/02/oif-completes-sdn-transport-application.html
+  domain: www.convergedigest.com
   image: ""
-- curated_id: c8174d5e2a5b693e8cbbcaa72cf8530c
-  item_date: "2017-02-15 00:00:00"
-  title: Google Fiber Sheds Workers As It Looks to a Wireless Future
-  url: https://www.wired.com/2017/02/google-fiber-restructure/
-  domain: www.wired.com
+- curated_id: d21c6e1298a057395d6eb7b6d3f9f311
+  item_date: "2017-02-14 00:00:00"
+  title: BRIEF-ATT says accelerates deployment of LTE-M network for IOT
+  url: http://www.reuters.com/article/idUSFWN1FZ18J
+  domain: www.reuters.com
   image: ""
 - curated_id: f3de027e517f1974d398fc9e511e2e3c
   item_date: "2017-02-15 00:00:00"
@@ -1929,11 +1923,23 @@
   url: https://www.bbg.gov/2017/02/15/radio-still-vital-many-rferl-audiences/
   domain: www.bbg.gov
   image: ""
+- curated_id: c8174d5e2a5b693e8cbbcaa72cf8530c
+  item_date: "2017-02-15 00:00:00"
+  title: Google Fiber Sheds Workers As It Looks to a Wireless Future
+  url: https://www.wired.com/2017/02/google-fiber-restructure/
+  domain: www.wired.com
+  image: ""
 - curated_id: a629827610d915401488d86e454e64c2
   item_date: "2017-02-16 00:00:00"
   title: "Republicans Are About to Nuke the FCC\u2019s Broadband Privacy Rules"
   url: https://motherboard.vice.com/en_us/article/republicans-are-about-to-nuke-the-fccs-broadband-privacy-rules
   domain: motherboard.vice.com
+  image: ""
+- curated_id: 253dc36ffe52d02371a16fd5040e9530
+  item_date: "2017-02-17 00:00:00"
+  title: Project Loon Achieves Internet-Beaming Breakthrough
+  url: http://www.pcmag.com/news/351817/project-loon-achieves-internet-beaming-breakthrough
+  domain: www.pcmag.com
   image: ""
 - curated_id: 5a65c9b8be2f7e2db9baf0d25ca0a1cf
   item_date: "2017-02-17 00:00:00"
@@ -1948,23 +1954,11 @@
   url: http://www.theverge.com/2017/2/17/14647028/ibm-weather-company-emergency-alerts-mesh-networks
   domain: www.theverge.com
   image: ""
-- curated_id: 253dc36ffe52d02371a16fd5040e9530
-  item_date: "2017-02-17 00:00:00"
-  title: Project Loon Achieves Internet-Beaming Breakthrough
-  url: http://www.pcmag.com/news/351817/project-loon-achieves-internet-beaming-breakthrough
-  domain: www.pcmag.com
-  image: ""
 - curated_id: dae0fdae529f11e4e189abfd4ec75936
   item_date: "2017-02-20 00:00:00"
   title: The implications of the end of net neutrality
   url: https://techcrunch.com/2017/02/20/the-implications-of-the-end-of-net-neutrality/
   domain: techcrunch.com
-  image: ""
-- curated_id: 067c2debb18e497fee247e55523826d5
-  item_date: "2017-02-21 00:00:00"
-  title: "How Net Neutrality Will Fare Under Trump\u2019s FCC"
-  url: http://knowledge.wharton.upenn.edu/article/how-net-neutrality-will-fare-under-trumps-fcc/
-  domain: knowledge.wharton.upenn.edu
   image: ""
 - curated_id: a2f123f8c686ea9c76f88abee3718386
   item_date: "2017-02-21 00:00:00"
@@ -1972,11 +1966,11 @@
   url: https://newsroom.intel.com/editorials/transforming-5g-network-edge-more-power-performance-intelligence/
   domain: newsroom.intel.com
   image: ""
-- curated_id: f5fdacd76eccf6890dd0b1de6bfa74c0
-  item_date: "2017-02-22 00:00:00"
-  title: Looking at 3G and 4G speed together
-  url: https://opensignal.com/blog/2017/02/22/looking-at-3g-and-4g-speed-together/
-  domain: opensignal.com
+- curated_id: 067c2debb18e497fee247e55523826d5
+  item_date: "2017-02-21 00:00:00"
+  title: "How Net Neutrality Will Fare Under Trump\u2019s FCC"
+  url: http://knowledge.wharton.upenn.edu/article/how-net-neutrality-will-fare-under-trumps-fcc/
+  domain: knowledge.wharton.upenn.edu
   image: ""
 - curated_id: 11bedec46840123d7e4cd4ae087a1085
   item_date: "2017-02-22 00:00:00"
@@ -1990,11 +1984,11 @@
   url: https://disruptiveviews.com/wireless-modern-infrastructure-infographic/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 8c8ff4f5cf822d620edcb9043c8ed0da
-  item_date: "2017-02-23 00:00:00"
-  title: 'The 5G Frontier: Millimeternbsp;Wireless'
-  url: http://spectrum.ieee.org/telecom/wireless/the-5g-frontier-millimeter-wireless
-  domain: spectrum.ieee.org
+- curated_id: f5fdacd76eccf6890dd0b1de6bfa74c0
+  item_date: "2017-02-22 00:00:00"
+  title: Looking at 3G and 4G speed together
+  url: https://opensignal.com/blog/2017/02/22/looking-at-3g-and-4g-speed-together/
+  domain: opensignal.com
   image: ""
 - curated_id: a4cca7e5cc99d5cebd9beecacfd65d00
   item_date: "2017-02-23 00:00:00"
@@ -2009,35 +2003,11 @@
   url: https://motherboard.vice.com/en_us/article/it-begins-trumps-fcc-launches-attack-on-net-neutrality-transparency-rules
   domain: motherboard.vice.com
   image: ""
-- curated_id: 5279bad0f36f69cdf6ec2bccdcfc6a50
-  item_date: "2017-02-24 00:00:00"
-  title: The United Nations steps in to define 5G, ending a marketing war
-  url: http://www.macworld.com/article/3174132/mobile/un-steps-in-to-end-marketing-war-over-what-5g-means.html#tk.rss_all
-  domain: www.macworld.com
-  image: ""
-- curated_id: 619c782c84f83be5d6108c21d5ca4166
-  item_date: "2017-02-24 00:00:00"
-  title: 1oT announces worldwide cellular self-service platform for IoT devices
-  url: http://siliconangle.com/blog/2017/02/24/1ot-announces-worldwide-cellular-self-service-platform-iot-devices/
-  domain: siliconangle.com
-  image: ""
-- curated_id: cc44529cfa81ad8ee1fbfd88c8ac36c7
-  item_date: "2017-02-24 00:00:00"
-  title: 'Here are some numbers and letters for you: 5G, G6, and OP-1'
-  url: http://www.theverge.com/2017/2/24/14728254/vergecast-podcast-244-5g-g6-nintendo-switch-fcc
-  domain: www.theverge.com
-  image: ""
-- curated_id: c1f1618d616d890d2b739ad83a79d81d
-  item_date: "2017-02-24 00:00:00"
-  title: 10 Reasons Partners Should Jump On The Cisco API Bandwagon
-  url: http://www.crn.com/slide-shows/networking/300083901/10-reasons-partners-should-jump-on-the-cisco-api-bandwagon.htm
-  domain: www.crn.com
-  image: ""
-- curated_id: ca8bdf28ca6eac55ee62d92850cf0153
-  item_date: "2017-02-24 00:00:00"
-  title: FCC Chairman Pai rushes to block new privacy rules
-  url: http://www.theverge.com/2017/2/24/14727418/fcc-privacy-rules-stay-ajit-pai-net-neutrality
-  domain: www.theverge.com
+- curated_id: 8c8ff4f5cf822d620edcb9043c8ed0da
+  item_date: "2017-02-23 00:00:00"
+  title: 'The 5G Frontier: Millimeternbsp;Wireless'
+  url: http://spectrum.ieee.org/telecom/wireless/the-5g-frontier-millimeter-wireless
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: a7bd14e5d5c3003e25a77a1d86f53105
   item_date: "2017-02-24 00:00:00"
@@ -2052,6 +2022,49 @@
   url: http://www.reuters.com/article/us-telecoms-mobileworld-idUSKBN1631AK
   domain: www.reuters.com
   image: ""
+- curated_id: ca8bdf28ca6eac55ee62d92850cf0153
+  item_date: "2017-02-24 00:00:00"
+  title: FCC Chairman Pai rushes to block new privacy rules
+  url: http://www.theverge.com/2017/2/24/14727418/fcc-privacy-rules-stay-ajit-pai-net-neutrality
+  domain: www.theverge.com
+  image: ""
+- curated_id: 5279bad0f36f69cdf6ec2bccdcfc6a50
+  item_date: "2017-02-24 00:00:00"
+  title: The United Nations steps in to define 5G, ending a marketing war
+  url: http://www.macworld.com/article/3174132/mobile/un-steps-in-to-end-marketing-war-over-what-5g-means.html#tk.rss_all
+  domain: www.macworld.com
+  image: ""
+- curated_id: c1f1618d616d890d2b739ad83a79d81d
+  item_date: "2017-02-24 00:00:00"
+  title: 10 Reasons Partners Should Jump On The Cisco API Bandwagon
+  url: http://www.crn.com/slide-shows/networking/300083901/10-reasons-partners-should-jump-on-the-cisco-api-bandwagon.htm
+  domain: www.crn.com
+  image: ""
+- curated_id: 619c782c84f83be5d6108c21d5ca4166
+  item_date: "2017-02-24 00:00:00"
+  title: 1oT announces worldwide cellular self-service platform for IoT devices
+  url: http://siliconangle.com/blog/2017/02/24/1ot-announces-worldwide-cellular-self-service-platform-iot-devices/
+  domain: siliconangle.com
+  image: ""
+- curated_id: cc44529cfa81ad8ee1fbfd88c8ac36c7
+  item_date: "2017-02-24 00:00:00"
+  title: 'Here are some numbers and letters for you: 5G, G6, and OP-1'
+  url: http://www.theverge.com/2017/2/24/14728254/vergecast-podcast-244-5g-g6-nintendo-switch-fcc
+  domain: www.theverge.com
+  image: ""
+- curated_id: 98858c3d7265ac150b18389f78cb38d5
+  item_date: "2017-02-27 00:00:00"
+  title: Open Garden makes its offline mesh networking tech available to third-party
+    developers
+  url: https://techcrunch.com/2017/02/27/open-garden-makes-its-mesh-networking-tech-available-to-third-party-developers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 1b34f667ff834e70177170f422c63b1f
+  item_date: "2017-02-27 00:00:00"
+  title: Optus and Cisco complete NB-IoT trials
+  url: http://www.zdnet.com/article/optus-and-cisco-complete-nb-iot-trials/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: f378db0bb2e23b9b36dbff9f6ba457ff
   item_date: "2017-02-27 00:00:00"
   title: HPE, Red Hat Partner on Virtualized Network Infrastructure
@@ -2064,24 +2077,11 @@
   url: http://www.zdnet.com/article/ciscos-jasper-unit-lands-iot-deals-in-auto-connected-health-trials-nb-iot/
   domain: www.zdnet.com
   image: ""
-- curated_id: 1b34f667ff834e70177170f422c63b1f
-  item_date: "2017-02-27 00:00:00"
-  title: Optus and Cisco complete NB-IoT trials
-  url: http://www.zdnet.com/article/optus-and-cisco-complete-nb-iot-trials/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 98858c3d7265ac150b18389f78cb38d5
-  item_date: "2017-02-27 00:00:00"
-  title: Open Garden makes its offline mesh networking tech available to third-party
-    developers
-  url: https://techcrunch.com/2017/02/27/open-garden-makes-its-mesh-networking-tech-available-to-third-party-developers/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 2bbf255dbf05ecf4b5f19a60cfc5637e
+- curated_id: c766174a4cc7209f0a181acc6f510f45
   item_date: "2017-02-28 00:00:00"
-  title: Google is going to help carriers build better networks
-  url: http://www.theverge.com/2017/2/28/14765996/google-carrier-partnership-software-network-india-south-korea
-  domain: www.theverge.com
+  title: Intel Spotlights 5G Progress
+  url: https://newsroom.intel.com/editorials/intel-spotlights-5g-progress/
+  domain: newsroom.intel.com
   image: ""
 - curated_id: ce6c4b20afccb1e69bbdf820e0568706
   item_date: "2017-02-28 00:00:00"
@@ -2089,11 +2089,11 @@
   url: http://newswire.telecomramblings.com/2017/02/industry-leaders-collaborate-sdn-api-standards/
   domain: newswire.telecomramblings.com
   image: ""
-- curated_id: c766174a4cc7209f0a181acc6f510f45
+- curated_id: 2bbf255dbf05ecf4b5f19a60cfc5637e
   item_date: "2017-02-28 00:00:00"
-  title: Intel Spotlights 5G Progress
-  url: https://newsroom.intel.com/editorials/intel-spotlights-5g-progress/
-  domain: newsroom.intel.com
+  title: Google is going to help carriers build better networks
+  url: http://www.theverge.com/2017/2/28/14765996/google-carrier-partnership-software-network-india-south-korea
+  domain: www.theverge.com
   image: ""
 - curated_id: 10d0b636aa4301094fb8dc670c97860d
   item_date: "2017-03-01 00:00:00"
@@ -2101,17 +2101,11 @@
   url: https://techcrunch.com/2017/03/01/5g-at-mwc/
   domain: techcrunch.com
   image: ""
-- curated_id: 1ead35fbb2947ff75c4591ac883acc00
+- curated_id: b7e2ed90ca09e9f85d2e88aa7b5e1a21
   item_date: "2017-03-02 00:00:00"
-  title: Eaton xComfort Ethernet Communication Interface
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-01
-  domain: ics-cert.us-cert.gov
-  image: ""
-- curated_id: dd78ab867256bf3751a9a1ab1cce62ff
-  item_date: "2017-03-02 00:00:00"
-  title: Chevrolet to offer unlimited data plan with cars
-  url: http://www.bbc.co.uk/news/technology-39140540
-  domain: www.bbc.co.uk
+  title: FCC and FTC put last minute block on stricter privacy for ISPs over DSPs
+  url: https://disruptiveviews.com/fcc-ftc-last-minute-block-stricter-privacy/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: c5ef7aa9895e91734a650d7d5d08d185
   item_date: "2017-03-02 00:00:00"
@@ -2120,11 +2114,23 @@
   url: https://motherboard.vice.com/en_us/article/heres-how-trumps-fcc-privacy-rollback-puts-your-internet-data-at-risk
   domain: motherboard.vice.com
   image: ""
-- curated_id: b7e2ed90ca09e9f85d2e88aa7b5e1a21
+- curated_id: dd78ab867256bf3751a9a1ab1cce62ff
   item_date: "2017-03-02 00:00:00"
-  title: FCC and FTC put last minute block on stricter privacy for ISPs over DSPs
-  url: https://disruptiveviews.com/fcc-ftc-last-minute-block-stricter-privacy/
-  domain: disruptiveviews.com
+  title: Chevrolet to offer unlimited data plan with cars
+  url: http://www.bbc.co.uk/news/technology-39140540
+  domain: www.bbc.co.uk
+  image: ""
+- curated_id: 1ead35fbb2947ff75c4591ac883acc00
+  item_date: "2017-03-02 00:00:00"
+  title: Eaton xComfort Ethernet Communication Interface
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-17-061-01
+  domain: ics-cert.us-cert.gov
+  image: ""
+- curated_id: 7f856bc958fcdef35dc8bd2b95ad6e62
+  item_date: "2017-03-03 00:00:00"
+  title: FCC Blocks Rules to Let You Control How ISPs Use Your Data
+  url: //www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data
+  domain: www.pcmag.com
   image: ""
 - curated_id: 90864e7ffa046176cca18d17ca74b703
   item_date: "2017-03-03 00:00:00"
@@ -2137,12 +2143,6 @@
   title: Enhanced Transmit Modes
   url: https://www.eagleeyenetworks.com/enhanced-transmit-modes-eagle-eye-bridge/
   domain: www.eagleeyenetworks.com
-  image: ""
-- curated_id: 7f856bc958fcdef35dc8bd2b95ad6e62
-  item_date: "2017-03-03 00:00:00"
-  title: FCC Blocks Rules to Let You Control How ISPs Use Your Data
-  url: //www.pcmag.com/news/348516/fcc-moves-to-let-you-control-how-isps-use-your-data
-  domain: www.pcmag.com
   image: ""
 - curated_id: 5600cbc3ff2b9c7cc1524cbb3ee02c67
   item_date: "2017-03-04 00:00:00"
@@ -2169,17 +2169,17 @@
   url: http://3dfs.com/technology
   domain: 3dfs.com
   image: ""
-- curated_id: 0fa2c199cfe741844e87198f1dac6475
-  item_date: "2017-03-08 00:00:00"
-  title: U.S. Senate resolution aims to let ISPs share your private data without permission
-  url: http://www.pcworld.com/article/3178285/security/us-senate-resolution-aims-to-roll-back-privacy-rules-for-isps.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: 889b0ccd83f4970a4784e82d4b4b77f4
   item_date: "2017-03-08 00:00:00"
   title: Congress may overturn Obama internet privacy rules
   url: http://www.reuters.com/article/us-usa-fcc-privacy-idUSKBN16F2UT
   domain: www.reuters.com
+  image: ""
+- curated_id: 0fa2c199cfe741844e87198f1dac6475
+  item_date: "2017-03-08 00:00:00"
+  title: U.S. Senate resolution aims to let ISPs share your private data without permission
+  url: http://www.pcworld.com/article/3178285/security/us-senate-resolution-aims-to-roll-back-privacy-rules-for-isps.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 277f17939342c5dd9c817fee52d1cf81
   item_date: "2017-03-09 00:00:00"
@@ -2200,30 +2200,18 @@
   url: https://www.eagleeyenetworks.com/eagle-eye-networks-inc-releases-verizon-mifi-cellular-modem-integration/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: b765479f322758bdca05614105d3e055
-  item_date: "2017-03-14 00:00:00"
-  title: New York City sues Verizon for failing to provide fiber broadband to all
-    households
-  url: http://www.theverge.com/2017/3/14/14919380/new-york-city-verizon-lawsuit-fiber-broadband
-  domain: www.theverge.com
-  image: ""
 - curated_id: 95a3072ad3485f8a7a4d5147e3bbb156
   item_date: "2017-03-14 00:00:00"
   title: New York City Sues Verizon For Fiber Optic Bait And Switch
   url: https://www.techdirt.com/articles/20170314/04285036912/new-york-city-sues-verizon-fiber-optic-bait-switch.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 5445bbe241c546f6603d112990d80fdc
-  item_date: "2017-03-16 00:00:00"
-  title: Embedded platform adds Wi-Fi software, MCUs, tests
-  url: http://www.eetasia.com/news/article/embedded-platform-adds-wi-fi-software-mcus-tests
-  domain: www.eetasia.com
-  image: ""
-- curated_id: 50d8e7288feea778213e1374546a0a1d
-  item_date: "2017-03-16 00:00:00"
-  title: The Technical Impacts of a Virtual Private Network
-  url: http://resources.infosecinstitute.com/technical-impacts-virtual-private-network/
-  domain: resources.infosecinstitute.com
+- curated_id: b765479f322758bdca05614105d3e055
+  item_date: "2017-03-14 00:00:00"
+  title: New York City sues Verizon for failing to provide fiber broadband to all
+    households
+  url: http://www.theverge.com/2017/3/14/14919380/new-york-city-verizon-lawsuit-fiber-broadband
+  domain: www.theverge.com
   image: ""
 - curated_id: 4b4ebef21cfba0224ed8d17c788ce85a
   item_date: "2017-03-16 00:00:00"
@@ -2236,6 +2224,18 @@
   title: California Youth in Detention and Foster Care Deserve Internet Access
   url: https://www.eff.org/deeplinks/2017/03/california-youth-detention-and-foster-care-deserve-internet-access
   domain: www.eff.org
+  image: ""
+- curated_id: 5445bbe241c546f6603d112990d80fdc
+  item_date: "2017-03-16 00:00:00"
+  title: Embedded platform adds Wi-Fi software, MCUs, tests
+  url: http://www.eetasia.com/news/article/embedded-platform-adds-wi-fi-software-mcus-tests
+  domain: www.eetasia.com
+  image: ""
+- curated_id: 50d8e7288feea778213e1374546a0a1d
+  item_date: "2017-03-16 00:00:00"
+  title: The Technical Impacts of a Virtual Private Network
+  url: http://resources.infosecinstitute.com/technical-impacts-virtual-private-network/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: ab7d0dec80046da8b67ce61777eccb69
   item_date: "2017-03-17 00:00:00"
@@ -2279,42 +2279,6 @@
   url: https://disruptiveviews.com/policy-control-towards-5g/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 6ee813a817459c3b54df6a9051db7c56
-  item_date: "2017-03-23 00:00:00"
-  title: 'Jaguar Land Rover Offers Up Unlimited In-Car Data '
-  url: http://www.pcmag.com/news/352601/jaguar-land-rover-offers-up-unlimited-in-car-data
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 1a9cf27aaeab1da18c6ef48f4efd5c6d
-  item_date: "2017-03-23 00:00:00"
-  title: About Choria Network Federation
-  url: https://dzone.com/articles/choria-network-federation
-  domain: dzone.com
-  image: ""
-- curated_id: 0b73b298b1e9918ea673d94a444dd559
-  item_date: "2017-03-23 00:00:00"
-  title: Access Now condemns U.S. Senate measure to gut internet privacy
-  url: https://www.accessnow.org/access-now-condemns-u-s-senate-measure-gut-internet-privacy/
-  domain: www.accessnow.org
-  image: ""
-- curated_id: e137ce83f9e5179ad3b6c5af58971ff1
-  item_date: "2017-03-23 00:00:00"
-  title: UPDATE 1-U.S. Senate votes to overturn Obama broadband privacy rules
-  url: http://www.reuters.com/article/us-usa-internet-idUSKBN16U2ER
-  domain: www.reuters.com
-  image: ""
-- curated_id: 073d06428b7a8ab74e8561313da6d8c1
-  item_date: "2017-03-23 00:00:00"
-  title: Senate Republicans Vote to Allow ISPs to Sell Your Private Data
-  url: https://motherboard.vice.com/en_us/article/senate-republicans-vote-to-allow-isps-to-sell-your-private-data
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: ba2b42e9b16f2fc968851f127e2ece57
-  item_date: "2017-03-23 00:00:00"
-  title: Congress Just Voted To Kill Consumer Broadband Privacy Protections
-  url: https://www.techdirt.com/articles/20170323/10251536993/congress-just-voted-to-kill-consumer-broadband-privacy-protections.shtml
-  domain: www.techdirt.com
-  image: ""
 - curated_id: 6d13eef4b522ac7f2c7c9020ce37f9a5
   item_date: "2017-03-23 00:00:00"
   title: Senate Puts ISP Profits Over Your Privacy
@@ -2326,12 +2290,6 @@
   title: 'A Better Way to Organize the Internet: Content-Centric Networking'
   url: http://spectrum.ieee.org/telecom/internet/a-better-way-to-organize-the-internet-contentcentric-networking
   domain: spectrum.ieee.org
-  image: ""
-- curated_id: 13928a7d8f00d5380f7fbb8a7bd26690
-  item_date: "2017-03-23 00:00:00"
-  title: Congress Moves to Strike Internet Privacy Rules From Obama Era
-  url: https://www.nytimes.com/2017/03/23/technology/congress-moves-to-strike-internet-privacy-rules-from-obama-era.html
-  domain: www.nytimes.com
   image: ""
 - curated_id: 6f97ae366c70014d4a7a6476c7da32b5
   item_date: "2017-03-23 00:00:00"
@@ -2345,17 +2303,47 @@
   url: https://thenextweb.com/politics/2017/03/23/republican-senators-just-sold-your-privacy-to-the-highest-bidder/
   domain: thenextweb.com
   image: ""
-- curated_id: fb1daa4a0f243207f75b645053c54461
-  item_date: "2017-03-24 00:00:00"
-  title: "Introducing better viewability for network interfaces\u200B"
-  url: http://blogs.site24x7.com/2017/03/24/introducing-better-viewability-for-network-interfaces%e2%80%8b/
-  domain: blogs.site24x7.com
+- curated_id: 13928a7d8f00d5380f7fbb8a7bd26690
+  item_date: "2017-03-23 00:00:00"
+  title: Congress Moves to Strike Internet Privacy Rules From Obama Era
+  url: https://www.nytimes.com/2017/03/23/technology/congress-moves-to-strike-internet-privacy-rules-from-obama-era.html
+  domain: www.nytimes.com
   image: ""
-- curated_id: f03f342a8a9505402553a8db710bca98
-  item_date: "2017-03-24 00:00:00"
-  title: ATT continues to expand its fiber internet service
-  url: http://www.theverge.com/2017/3/24/15056428/at-t-continues-to-expand-its-fiber-internet-service
-  domain: www.theverge.com
+- curated_id: e137ce83f9e5179ad3b6c5af58971ff1
+  item_date: "2017-03-23 00:00:00"
+  title: UPDATE 1-U.S. Senate votes to overturn Obama broadband privacy rules
+  url: http://www.reuters.com/article/us-usa-internet-idUSKBN16U2ER
+  domain: www.reuters.com
+  image: ""
+- curated_id: ba2b42e9b16f2fc968851f127e2ece57
+  item_date: "2017-03-23 00:00:00"
+  title: Congress Just Voted To Kill Consumer Broadband Privacy Protections
+  url: https://www.techdirt.com/articles/20170323/10251536993/congress-just-voted-to-kill-consumer-broadband-privacy-protections.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 1a9cf27aaeab1da18c6ef48f4efd5c6d
+  item_date: "2017-03-23 00:00:00"
+  title: About Choria Network Federation
+  url: https://dzone.com/articles/choria-network-federation
+  domain: dzone.com
+  image: ""
+- curated_id: 6ee813a817459c3b54df6a9051db7c56
+  item_date: "2017-03-23 00:00:00"
+  title: 'Jaguar Land Rover Offers Up Unlimited In-Car Data '
+  url: http://www.pcmag.com/news/352601/jaguar-land-rover-offers-up-unlimited-in-car-data
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 0b73b298b1e9918ea673d94a444dd559
+  item_date: "2017-03-23 00:00:00"
+  title: Access Now condemns U.S. Senate measure to gut internet privacy
+  url: https://www.accessnow.org/access-now-condemns-u-s-senate-measure-gut-internet-privacy/
+  domain: www.accessnow.org
+  image: ""
+- curated_id: 073d06428b7a8ab74e8561313da6d8c1
+  item_date: "2017-03-23 00:00:00"
+  title: Senate Republicans Vote to Allow ISPs to Sell Your Private Data
+  url: https://motherboard.vice.com/en_us/article/senate-republicans-vote-to-allow-isps-to-sell-your-private-data
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 5a378073693ff18faf10b38c387733a0
   item_date: "2017-03-24 00:00:00"
@@ -2369,17 +2357,29 @@
   url: http://www.motherjones.com/kevin-drum/2017/03/republicans-are-hellbent-killing-internet-privacy-protections-why
   domain: www.motherjones.com
   image: ""
-- curated_id: 882dc112b62981f03fc860fc099c0697
-  item_date: "2017-04-03 00:00:00"
-  title: Google Wifi Now Lets You Pause the Internet
-  url: http://www.pcmag.com/news/352824/google-wifi-now-lets-you-pause-the-internet
-  domain: www.pcmag.com
+- curated_id: f03f342a8a9505402553a8db710bca98
+  item_date: "2017-03-24 00:00:00"
+  title: ATT continues to expand its fiber internet service
+  url: http://www.theverge.com/2017/3/24/15056428/at-t-continues-to-expand-its-fiber-internet-service
+  domain: www.theverge.com
+  image: ""
+- curated_id: fb1daa4a0f243207f75b645053c54461
+  item_date: "2017-03-24 00:00:00"
+  title: "Introducing better viewability for network interfaces\u200B"
+  url: http://blogs.site24x7.com/2017/03/24/introducing-better-viewability-for-network-interfaces%e2%80%8b/
+  domain: blogs.site24x7.com
   image: ""
 - curated_id: e2afe4809151157dfd6d77730e169133
   item_date: "2017-04-03 00:00:00"
   title: Google WiFi will help you get your kids off the internet
   url: http://www.theverge.com/circuitbreaker/2017/4/3/15164492/google-wifi-pause-device-internet
   domain: www.theverge.com
+  image: ""
+- curated_id: 882dc112b62981f03fc860fc099c0697
+  item_date: "2017-04-03 00:00:00"
+  title: Google Wifi Now Lets You Pause the Internet
+  url: http://www.pcmag.com/news/352824/google-wifi-now-lets-you-pause-the-internet
+  domain: www.pcmag.com
   image: ""
 - curated_id: 0a2e7ad30f6f3da00bf7c6ba3452dfec
   item_date: "2017-04-03 22:52:22"
@@ -2399,11 +2399,23 @@
   url: https://www.sdxcentral.com/articles/news/gap-weaves-global-sd-wan-strategy/2017/04/
   domain: www.sdxcentral.com
   image: ""
-- curated_id: b1d9dff9904fbd33ebbc6cc7dbc149e0
+- curated_id: ec5fba25b146f703ef3786787c34bb95
   item_date: "2017-04-06 00:00:00"
-  title: Comcast Gives Wireless Service a Try With Xfinity Mobile
-  url: http://www.pcmag.com/news/352897/comcast-gives-wireless-service-a-try-with-xfinity-mobile
-  domain: www.pcmag.com
+  title: Comcast goes into U.S. wireless business with unlimited data plans
+  url: http://www.reuters.com/article/us-comcast-mobile-idUSKBN1781Q7
+  domain: www.reuters.com
+  image: ""
+- curated_id: d222e6a3a38f5be36535c9639a0580e6
+  item_date: "2017-04-06 00:00:00"
+  title: "CRFS releases new MATLAB\xAE Toolbox"
+  url: https://us.crfs.com/en/news/crfs-releases-new-matlab-toolbox/
+  domain: us.crfs.com
+  image: ""
+- curated_id: b51dc238043a46f93ad608411d9f9a54
+  item_date: "2017-04-06 00:00:00"
+  title: Activists vow to make ISP privacy sellout a major issue in the 2018 elections
+  url: http://boingboing.net/2017/04/06/history-has-its-eyes-on-you.html
+  domain: boingboing.net
   image: ""
 - curated_id: 4b2d647e8dffff19391b6248d24b83d1
   item_date: "2017-04-06 00:00:00"
@@ -2412,23 +2424,11 @@
     http://thehill.com/policy/cybersecurity/327519-surveillance-uproar-puts-gop-on-the-spot
   domain: thehill.com
   image: ""
-- curated_id: b51dc238043a46f93ad608411d9f9a54
+- curated_id: b1d9dff9904fbd33ebbc6cc7dbc149e0
   item_date: "2017-04-06 00:00:00"
-  title: Activists vow to make ISP privacy sellout a major issue in the 2018 elections
-  url: http://boingboing.net/2017/04/06/history-has-its-eyes-on-you.html
-  domain: boingboing.net
-  image: ""
-- curated_id: d222e6a3a38f5be36535c9639a0580e6
-  item_date: "2017-04-06 00:00:00"
-  title: "CRFS releases new MATLAB\xAE Toolbox"
-  url: https://us.crfs.com/en/news/crfs-releases-new-matlab-toolbox/
-  domain: us.crfs.com
-  image: ""
-- curated_id: ec5fba25b146f703ef3786787c34bb95
-  item_date: "2017-04-06 00:00:00"
-  title: Comcast goes into U.S. wireless business with unlimited data plans
-  url: http://www.reuters.com/article/us-comcast-mobile-idUSKBN1781Q7
-  domain: www.reuters.com
+  title: Comcast Gives Wireless Service a Try With Xfinity Mobile
+  url: http://www.pcmag.com/news/352897/comcast-gives-wireless-service-a-try-with-xfinity-mobile
+  domain: www.pcmag.com
   image: ""
 - curated_id: 31fa6ba3b6a861625edcb918f2760cd1
   item_date: "2017-04-06 13:35:31"
@@ -2436,11 +2436,16 @@
   url: https://maintenance.icann.org/public-comments/ccwg-acct-draft-recs-2017-02-21-en
   domain: maintenance.icann.org
   image: ""
-- curated_id: c9f8af5ef443d55432bec209816b145f
+- curated_id: 6848ba6e11d604f51dca6e1d249e3fc2
   item_date: "2017-04-11 00:00:00"
-  title: Gogo and SES Sign Capacity Deals to Meet Surging Inflight Connectivity Demand
-    in North America
-  url: http://airfax.com/blog/index.php/2017/04/11/gogo-and-ses-sign-capacity-deals-to-meet-surging-inflight-connectivity-demand-in-north-america/
+  title: Cisco Launches Next Generation Storage Networking Innovations
+  url: https://newsroom.cisco.com/press-release-content
+  domain: newsroom.cisco.com
+  image: ""
+- curated_id: c9848529f4e1a53710018c184e85d638
+  item_date: "2017-04-11 00:00:00"
+  title: Gogo Named Supplier for Airbus High Bandwidth Connectivity Program
+  url: http://airfax.com/blog/index.php/2017/04/11/gogo-named-supplier-for-airbus-high-bandwidth-connectivity-program/
   domain: airfax.com
   image: ""
 - curated_id: a540594313008c7c8928157e0c4b8387
@@ -2450,29 +2455,12 @@
   url: http://www.fiercetelecom.com/telecom/at-t-partner-exchange-debuts-new-api-accelerates-ethernet-internet-access-delivery-for
   domain: www.fiercetelecom.com
   image: ""
-- curated_id: c9848529f4e1a53710018c184e85d638
+- curated_id: c9f8af5ef443d55432bec209816b145f
   item_date: "2017-04-11 00:00:00"
-  title: Gogo Named Supplier for Airbus High Bandwidth Connectivity Program
-  url: http://airfax.com/blog/index.php/2017/04/11/gogo-named-supplier-for-airbus-high-bandwidth-connectivity-program/
+  title: Gogo and SES Sign Capacity Deals to Meet Surging Inflight Connectivity Demand
+    in North America
+  url: http://airfax.com/blog/index.php/2017/04/11/gogo-and-ses-sign-capacity-deals-to-meet-surging-inflight-connectivity-demand-in-north-america/
   domain: airfax.com
-  image: ""
-- curated_id: 6848ba6e11d604f51dca6e1d249e3fc2
-  item_date: "2017-04-11 00:00:00"
-  title: Cisco Launches Next Generation Storage Networking Innovations
-  url: https://newsroom.cisco.com/press-release-content
-  domain: newsroom.cisco.com
-  image: ""
-- curated_id: e97fad46d59830bf598a1e01ac7600ac
-  item_date: "2017-04-12 00:00:00"
-  title: Major internet lobbying group urges FCC to keep net neutrality rules
-  url: http://www.zdnet.com/article/major-internet-lobbying-group-urges-fcc-to-keep-net-neutrality-rules/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: a28cfbaa38c7b2d78472fd2a543a0501
-  item_date: "2017-04-12 00:00:00"
-  title: Google, Amazon, Facebook and more beg FCC to respect net neutrality
-  url: https://thenextweb.com/politics/2017/04/12/google-amazon-facebook-beg-fcc-respect-net-neutrality/
-  domain: thenextweb.com
   image: ""
 - curated_id: 3058f2942a112cd1e488236ff789d432
   item_date: "2017-04-12 00:00:00"
@@ -2486,6 +2474,18 @@
     Privacy Protections"
   url: https://www.aclu.org/blog/free-future/what-individuals-should-do-now-congress-has-obliterated-fccs-privacy-protections
   domain: www.aclu.org
+  image: ""
+- curated_id: a28cfbaa38c7b2d78472fd2a543a0501
+  item_date: "2017-04-12 00:00:00"
+  title: Google, Amazon, Facebook and more beg FCC to respect net neutrality
+  url: https://thenextweb.com/politics/2017/04/12/google-amazon-facebook-beg-fcc-respect-net-neutrality/
+  domain: thenextweb.com
+  image: ""
+- curated_id: e97fad46d59830bf598a1e01ac7600ac
+  item_date: "2017-04-12 00:00:00"
+  title: Major internet lobbying group urges FCC to keep net neutrality rules
+  url: http://www.zdnet.com/article/major-internet-lobbying-group-urges-fcc-to-keep-net-neutrality-rules/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 663402cc0eca72ec36c923e12a1d874c
   item_date: "2017-04-13 00:00:00"
@@ -2505,6 +2505,24 @@
   url: http://www.pcmag.com/news/353169/facebook-really-wants-to-beam-internet-from-planes
   domain: www.pcmag.com
   image: ""
+- curated_id: 34e8325ce63c79fa9bd0145787f2360b
+  item_date: "2017-04-20 00:00:00"
+  title: Trumps FCC to Vote to Allow Broadband Rate Hikes for Schools and Libraries
+  url: https://motherboard.vice.com/en_us/article/trumps-fcc-to-vote-to-allow-broadband-rate-hikes-for-schools-and-libraries
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 41017cdc40f3211359dbe2b40455eb2e
+  item_date: "2017-04-20 00:00:00"
+  title: Facebook Helicopters To Deliver Internet In An Emergency
+  url: http://www.cxotoday.com/story/facebook-looks-to-helicopters-to-deliver-internet/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: bb57a1895afcc006ab85be5c63571ff2
+  item_date: "2017-04-20 00:00:00"
+  title: US FCC ends price caps on many business data lines
+  url: http://www.pcworld.com/article/3191391/internet/us-fcc-ends-price-caps-on-many-business-data-lines.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: 194da9f77cee44a96aecaef991b083f8
   item_date: "2017-04-20 00:00:00"
   title: Deploying OpenDaylight in AWS
@@ -2516,24 +2534,6 @@
   title: FCC Moves To Make Life Easier For Business Broadband Monopolies
   url: https://www.techdirt.com/articles/20170419/06230937183/fcc-moves-to-make-life-easier-business-broadband-monopolies.shtml
   domain: www.techdirt.com
-  image: ""
-- curated_id: 34e8325ce63c79fa9bd0145787f2360b
-  item_date: "2017-04-20 00:00:00"
-  title: Trumps FCC to Vote to Allow Broadband Rate Hikes for Schools and Libraries
-  url: https://motherboard.vice.com/en_us/article/trumps-fcc-to-vote-to-allow-broadband-rate-hikes-for-schools-and-libraries
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: bb57a1895afcc006ab85be5c63571ff2
-  item_date: "2017-04-20 00:00:00"
-  title: US FCC ends price caps on many business data lines
-  url: http://www.pcworld.com/article/3191391/internet/us-fcc-ends-price-caps-on-many-business-data-lines.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 41017cdc40f3211359dbe2b40455eb2e
-  item_date: "2017-04-20 00:00:00"
-  title: Facebook Helicopters To Deliver Internet In An Emergency
-  url: http://www.cxotoday.com/story/facebook-looks-to-helicopters-to-deliver-internet/
-  domain: www.cxotoday.com
   image: ""
 - curated_id: 8aa8003ba7adddc2d6f5f6189912b09a
   item_date: "2017-04-21 00:00:00"
@@ -2547,17 +2547,17 @@
   url: http://www.pcmag.com/news/353228/linksys-routers-vulnerable-to-ddos-attacks
   domain: www.pcmag.com
   image: ""
-- curated_id: 589f3dc5868bd8987ca79d5b48c9a34d
-  item_date: "2017-04-26 00:00:00"
-  title: Whats a Service Mesh? And Why Do I Need One?
-  url: https://dzone.com/articles/whats-a-service-mesh-and-why-do-i-need-one
-  domain: dzone.com
-  image: ""
 - curated_id: 3cd94ed85b66374b850d46b5b027e30e
   item_date: "2017-04-26 00:00:00"
   title: Verizon Announces Unlimited Prepaid Plan
   url: http://www.pcmag.com/news/353313/verizon-announces-unlimited-prepaid-plan
   domain: www.pcmag.com
+  image: ""
+- curated_id: 589f3dc5868bd8987ca79d5b48c9a34d
+  item_date: "2017-04-26 00:00:00"
+  title: Whats a Service Mesh? And Why Do I Need One?
+  url: https://dzone.com/articles/whats-a-service-mesh-and-why-do-i-need-one
+  domain: dzone.com
   image: ""
 - curated_id: 3a2fde6a3df41b8fbdfa295c08615eb9
   item_date: "2017-04-28 00:00:00"
@@ -2571,23 +2571,36 @@
   url: https://www.eff.org/deeplinks/2017/05/limitations-isp-data-pollution-tools
   domain: www.eff.org
   image: ""
-- curated_id: de3add0349f2998d8294adfbb9725999
-  item_date: "2017-05-02 00:00:00"
-  title: T-Mobile Announces Low-Band 5G Network
-  url: http://www.pcmag.com/news/353421/t-mobile-announces-low-band-5g-network
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 607abbbe3c03dc44119526da160d104f
   item_date: "2017-05-02 00:00:00"
   title: iRobot adds Wi-Fi connectivity to more home robots
   url: http://www.zdnet.com/article/irobot-adds-wi-fi-connectivity-to-more-home-robots/
   domain: www.zdnet.com
   image: ""
+- curated_id: de3add0349f2998d8294adfbb9725999
+  item_date: "2017-05-02 00:00:00"
+  title: T-Mobile Announces Low-Band 5G Network
+  url: http://www.pcmag.com/news/353421/t-mobile-announces-low-band-5g-network
+  domain: www.pcmag.com
+  image: ""
 - curated_id: a6db0f6017d4903e0a465658578200ab
   item_date: "2017-05-03 00:00:00"
   title: How eero mesh WiFi routers connect to the cloud
   url: https://blog.cloudflare.com/eero-cloudflare/
   domain: blog.cloudflare.com
+  image: ""
+- curated_id: 828d7aca3b40475510647b8a06bc3a3d
+  item_date: "2017-05-04 00:00:00"
+  title: Actually, Congress Did Undermine Our Internet Privacy RIghts
+  url: https://www.eff.org/deeplinks/2017/05/congress-repealing-our-internet-privacy-rights-meant-congress-repealed-internet
+  domain: www.eff.org
+  image: ""
+- curated_id: 4fc30d0e5cbfbc6db4ea54bb200c1da7
+  item_date: "2017-05-04 00:00:00"
+  title: 'Ted Cruz Doubles Down On Being Wrong: Pushes Yet Another Net Neutrality
+    Killing Bill'
+  url: https://www.techdirt.com/blog/netneutrality/articles/20170503/08475137294/ted-cruz-doubles-down-being-wrong-pushes-yet-another-net-neutrality-killing-bill.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 669e8a2071d1065ab4e011ccf9345ac4
   item_date: "2017-05-04 00:00:00"
@@ -2602,31 +2615,11 @@
   url: https://thenextweb.com/space/2017/05/04/spacex-outlines-plans-to-deliver-low-latency-broadband-via-satellite-by-2019/
   domain: thenextweb.com
   image: ""
-- curated_id: 4fc30d0e5cbfbc6db4ea54bb200c1da7
-  item_date: "2017-05-04 00:00:00"
-  title: 'Ted Cruz Doubles Down On Being Wrong: Pushes Yet Another Net Neutrality
-    Killing Bill'
-  url: https://www.techdirt.com/blog/netneutrality/articles/20170503/08475137294/ted-cruz-doubles-down-being-wrong-pushes-yet-another-net-neutrality-killing-bill.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 828d7aca3b40475510647b8a06bc3a3d
-  item_date: "2017-05-04 00:00:00"
-  title: Actually, Congress Did Undermine Our Internet Privacy RIghts
-  url: https://www.eff.org/deeplinks/2017/05/congress-repealing-our-internet-privacy-rights-meant-congress-repealed-internet
-  domain: www.eff.org
-  image: ""
 - curated_id: 734797d4c97225fe4378c8ef2cded618
   item_date: "2017-05-09 00:00:00"
   title: FCC faced massive DDoS attacks after net neutrality proposal
   url: https://disruptiveviews.com/fcc-faced-massive-ddos-attacks-net-neutrality-proposal/
   domain: disruptiveviews.com
-  image: ""
-- curated_id: 3a49e60aa7731a13ad36d74226054a14
-  item_date: "2017-05-10 00:00:00"
-  title: 'Versa Networks Enhances SD-WAN Offering, Helps MSPs Add Services To Enterprise
-    Branch Offices  '
-  url: http://www.crn.com/news/managed-services/300084991/versa-networks-enhances-sd-wan-offering-helps-msps-add-services-to-enterprise-branch-offices.htm
-  domain: www.crn.com
   image: ""
 - curated_id: 3b2a8c89c0f4c1bb36efa2ff9c110734
   item_date: "2017-05-10 00:00:00"
@@ -2641,17 +2634,24 @@
   url: http://www.itsecurityguru.org/2017/05/10/cisco-patches-leaked-0-day-300-switches/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: 72ad8335656487aee0c3ca4966f2d14d
-  item_date: "2017-05-12 00:00:00"
-  title: FCC Temporarily Stops Taking Net Neutrality Comments So FCC Can Reflect
-  url: https://www.techdirt.com/articles/20170512/12095837350/fcc-temporarily-stops-taking-net-neutrality-comments-so-fcc-can-reflect.shtml
-  domain: www.techdirt.com
+- curated_id: 3a49e60aa7731a13ad36d74226054a14
+  item_date: "2017-05-10 00:00:00"
+  title: 'Versa Networks Enhances SD-WAN Offering, Helps MSPs Add Services To Enterprise
+    Branch Offices  '
+  url: http://www.crn.com/news/managed-services/300084991/versa-networks-enhances-sd-wan-offering-helps-msps-add-services-to-enterprise-branch-offices.htm
+  domain: www.crn.com
   image: ""
 - curated_id: f751ec1dd366810a4ed6c2f5daf4ec46
   item_date: "2017-05-12 00:00:00"
   title: Own the Routers. Own the Internet.
   url: https://www.carbonblack.com/2017/05/12/own-the-routers-own-the-internet/
   domain: www.carbonblack.com
+  image: ""
+- curated_id: 72ad8335656487aee0c3ca4966f2d14d
+  item_date: "2017-05-12 00:00:00"
+  title: FCC Temporarily Stops Taking Net Neutrality Comments So FCC Can Reflect
+  url: https://www.techdirt.com/articles/20170512/12095837350/fcc-temporarily-stops-taking-net-neutrality-comments-so-fcc-can-reflect.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: d15d008cd83dfa8a41e17853964a8d32
   item_date: "2017-05-13 00:00:00"
@@ -4663,16 +4663,16 @@
   url: https://blogs.cisco.com/?p=246135
   domain: blogs.cisco.com
   image: ""
-- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1620a4b0c10:4e17a6f:9aea0a7d
-  item_date: "2018-03-08 07:15:40"
-  title: MCOP Releases First API to Address MCPTT Interoperability
-  url: https://www.rrmediagroup.com/News/NewsDetails/newsID/16614
-  domain: www.rrmediagroup.com
-  image: ""
 - curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_16206442d72:47e3e9c:9aea0a7d
   item_date: "2018-03-08 07:15:40"
   title: MCOP Releases First API to Address MCPTT Interoperability
   url: https://www.rrmediagroup.com/News/NewsDetails/NewsID/16614
+  domain: www.rrmediagroup.com
+  image: ""
+- curated_id: 3sOkcm6yz7RzahZqjgGz802Mh9gdTaNECiKVxsvA9Ss=_1620a4b0c10:4e17a6f:9aea0a7d
+  item_date: "2018-03-08 07:15:40"
+  title: MCOP Releases First API to Address MCPTT Interoperability
+  url: https://www.rrmediagroup.com/News/NewsDetails/newsID/16614
   domain: www.rrmediagroup.com
   image: ""
 - curated_id: qQEZ7AvNCW5MO++95eG+wPiOBUdDkSnCTJkRZA9Z4ro=_162065a12ce:48074ea:9aea0a7d
