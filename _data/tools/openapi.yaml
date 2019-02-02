@@ -3,7 +3,7 @@ info:
   title: API Evangelist Tools
   description: These are the tools included as part of this API research.
   version: 1.0.0
-host: network.apievangelist.com
+host: definitions.apievangelist.com
 basePath: /apis
 schemes:
   - http

@@ -1,0 +1,55 @@
+Swagger: "2.0"
+info:
+  title: API Evangelist Partners
+  description: These are the partners for the API Evangelist network.
+  version: 1.0.0
+host: apievangelist.com
+basePath: /apis
+schemes:
+  - http
+produces:
+  - application/json
+consumes:
+  - application/json
+paths:
+  /partners/:
+    get:
+      summary: Get Partners
+      description: Returns all the partners.
+      responses:
+        200:
+          description: Successful Response
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/partners'
+      tags:
+        - Partners
+        - API Evangelist
+definitions:
+  partner:
+    properties:
+      view_sort:
+        description: A letter to sort in the UI.
+        type: string
+      name:
+        description: The name of the partner.
+        type: string
+      identifier:
+        description: A unique identiefer for the partner.
+        type: string
+      url:
+        description: A URL to find more information about partner.
+        type: string
+      description:
+        description: A descripton of the partner.
+        type: string
+      image:
+        description: An image representation for a partner.
+        type: string
+      type:
+        description: Type of partner.
+        type: integer
+      banner_url:
+        description: A banner URL for the partner.
+        type: string

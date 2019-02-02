@@ -10,20 +10,14 @@ title: API Evangelist - Network
 		<header>
 			<h2>{{ home_content.title }}</h2>
 		</header>
+		<img src="{{ home_content.image }}" alt="" width="45%" align="right" />
 		{{ home_content.content }}
 	</div>
-	<span class="image object">
-		<img src="{{ home_content.image }}" alt="" width="25%" />
-	</span>
 </section>
 
 <!-- Partners -->
 <a name="Partners"></a>
 <section>
-	<header>
-		<h2>API Evangelist Partners</h2>
-		<p>These are my partners who invest in API Evangelist each month, helping underwrite my research, and making sure I'm able to keep monitoring the API space as I do.</p>
-	</header>
 	<div class="features">
 		{% assign partners = site.data.partners.index | sort: 'view_sort' %}
     {% for partner in partners %}

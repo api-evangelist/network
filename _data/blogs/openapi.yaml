@@ -3,7 +3,7 @@ info:
   title: API Evangelist Blog
   description: An API for accessing the blog posts included in this research.
   version: 1.0.0
-host: network.apievangelist.com
+host: definitions.apievangelist.com
 basePath: /apis
 schemes:
   - http

@@ -1,6 +1,9 @@
-#Contributing to API Evangelist
-Spot something wrong, like a typo, broken link, or another type of mistake? [API Evangelist](apievangelist.com) is driven by GitHub, so feel free to fork, fix, and issue a pull request.
+# API Evangelist
 
-Have an idea for a story? Anyone can submit stories to API Evangelist—all you do is submit a pull request on the GitHub repo that runs the site. Obviously, stories have to meet Kin's standards, so be sure what you write fits with both the content and tone of the site, and be sure to note that you're making a guest post. It might help to be familiar with [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/), and look in the _posts directory for examples to follow. You can write in either HTML or Markdown, whichever is easiest for you.
+This has been my domain where I studied the technology, business, and politics of APIs from 2010 until 2019. It was kind of a PHD into how much of the web, mobile, and connected device works, as APIs drive almost everything today. I worked with startups, small business, enterprise organizations, and government agencies to understand how they were putting APIs to work. Spending time in Silicon Valley, New York, Washington DC working for the White House, and in Europe working with banks, the European Commission, and others to understand the world of APIs.
 
-Thanks for paying attention!
+In 2019, I've decided to step away, and put my skills to work at F5 Networks</a> as an API architect. While I thoroughly enjoyed doing API Evangelist, I was getting weary of the independent hustle, and I was in need of some change. At some point in the future I may come back to this work, but for now I've worked to clean up the site a little, and just leave up as a resource for others to learn from. I won't be publishing any new blog posts, or engaging with the community, but I'm happy to continue sharing my research and hard work, as it was my passion for some time.
+
+You can access everything I've written via the archives page, and I've recently added a Google Search page to make things easier to find my keyword and topics. You can also access my API lifecycle research spanning almost a hundred stops using the links below. Each area of the API lifecycle is its own repository with stories I've written in each area, curated links, and companies and tooling that I've discovered along the way. You may come across links that are broken, as things change often in the space, and startups come and go. I will work to clean up from time to time, but for now, it is what it is. I hope you find something of value here.
+
+Visit http://apievangelist.com for more information.

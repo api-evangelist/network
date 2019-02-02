@@ -3,7 +3,7 @@ info:
   title: API Evangelist News
   description: These are the items I have curated as part of this research.
   version: 1.0.0
-host: network.apievangelist.com
+host: definitions.apievangelist.com
 basePath: /apis
 schemes:
   - http

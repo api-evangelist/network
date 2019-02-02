@@ -1,13 +1,5 @@
+
 - view_sort: A
-  name: Streamdata.io
-  identifier: streamdata
-  url: http://streamdata.io
-  description: Streamdata is a software vendor making real-time data accessible to all by operating a proxy turning request / response APIs into feeds of real-time events.
-  image: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-horizontal-3.png
-  type: Sponsor
-  banner_url: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-horizontal-2.png
-  tags: 'API Evangelist,Real-Time,Streaming'
-- view_sort: B
   name: Uptrends
   identifier: uptrends
   url:  https://www.uptrends.com/solutions/api-monitoring
@@ -16,7 +8,7 @@
   type: Sponsor
   banner_url: https://s3.amazonaws.com/kinlane-productions/uptrends/apievangelist-uptrends.png
   tags: 'API Monitoring'
-- view_sort: C
+- view_sort: B
   name: 3Scale
   identifier: 3scale
   url: http://apis.how/ake3nxbapm
@@ -25,4 +17,4 @@
   image: https://s3.amazonaws.com/kinlane-productions/partners/3scale-red-hat-logo.png
   type: Sponsor
   banner_url: https://s3.amazonaws.com/kinlane-productions/streamdata/streamdata-horizontal-2.png
-  tags: 'API Evangelist,Maangement'
+  tags: 'API Evangelist,Management'

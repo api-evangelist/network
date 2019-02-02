@@ -1,401 +1,226 @@
----
-- slug: prosperent
-  name: Prosperent
-  description: Prosperent is dedicated to empowering small business owners as well
-    as advertising publishers through innovation.  Our First product, TCPA or Targeted
-    Cost Per Action Ads revolutionizes the way businesses and customers connect online.
-    Using our innovative technology, we are able to display targeted and contextual
-    ads to web site visitors, paying web site owners every time a product is purchased
-    or action is completed. Because of this web site owners are able to take the guess
-    work out of affiliate marketing. We find the products your visitors are looking
-    for, and you earn a commission.
-  url: http://prosperent.com
-  shorturl: ""
-  twitter: https://twitter.com/prosperent
-  blog: http://community.prosperent.com/content.php?1-Prosperent-News
-  blogrss: http://community.prosperent.com/ajax.php?do=rss&type=newcontent&contenttypeid=17&sectionid=1&days=120&count=10
-  github: https://github.com/prosperent
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Prosperent-Logo.png
-  tags: Affiliates,Affiliate,Affiliate Network,Commerce
-- slug: drone-systems
-  name: Drone Systems
-  description: ""
-  url: http://www.dronesystems.us/
-  shorturl: ""
-  twitter: https://twitter.com/DroneSystems
-  blog: http://www.dronesystems.us/blog
-  blogrss: ""
-  github: ""
-  image: ""
-  tags: Drones,Cameras,Networks
-- slug: crfs
-  name: CRFS
-  description: ""
-  url: https://us.crfs.com/en/
-  shorturl: ""
-  twitter: https://twitter.com/CRFSLimited
-  blog: https://us.crfs.com/en/news/
-  blogrss: https://us.crfs.com/en/feed/news/
-  github: ""
-  image: "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/News_\u2014_CRFS_-_See_through_the_noise.png"
-  tags: Drones,Network,RF Signal
-- slug: affilinet-uk
-  name: affilinet UK
-  description: Founded in 1997, affilinet is one of the most established affiliate
-    networks in Europe, offering unrivalled experience, knowledge and heritage in
-    the marketplace.  With presence in 7 countries across Europe, affilinet have over
-    2,000 affiliate programs on the network.  affilinet focuses on generating ROI
-    for its clients utilising the affiliate channel to drive sales and leads for brands
-    from a broad range of industries including travel, retail, finance, tele not-for-profit,
-    FMCG and automotive.  Clients include Toyota, Galeries Lafayette, Zalando, eBay,
-    Telekom, Groupon, Debenhams, Landrover, Virgin Atlantic, Toys&#8221;R&#8221;Us,
-    Guess and KLM.   affilinet and sister company Sedo are owned by Sedo Holding,
-    formerly known as AdLINK Group.
-  url: http://developer.affili.net/
-  shorturl: ""
-  twitter: https://twitter.com/affilinetUK
-  blog: http://www.affilinet-inside.com
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/319_logo.png
-  tags: Europe,Shopping,Affiliates,Affiliate,Affiliate Network
-- slug: ptisp
-  name: PTisp
-  description: We have the experience of 13 years of market, keeping the same name,
-    same address, the same contacts and the same availability to those looking in.
-    With more than 27,000 services assets and about 34,000 domains under our management
-    are a proven and trusted brand! Whatever the time or calendar date count on us
-    to answer your questions.
-  url: https://www.ptisp.pt
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ptisp-logo.png
-  tags: ISP,Networking,Domains,Hosting,Domain
-- slug: cloudinary
-  name: Cloudinary
-  description: Cloudinary is a cloud-based service that answers a website or mobile
-    application&rsquo;s entire image management needs - uploads, storage, manipulations,
-    optimizations and delivery. Cloudinary&rsquo;s users can easily move all their
-    website&rsquo;s images to the cloud. Automatically perform smart image resizing,
-    cropping, merging, overlay, watermark, apply effects, rotations and perform format
-    conversions. All this without installing any complex software. Integrate social
-    website (Facebook, Twitter, etc.) profile image extraction, fetch images from
-    any online resource in any dimension and style to match a website&rsquo;s graphics
-    requirements, and much more.&nbsp;
-  url: http://cloudinary.com
-  shorturl: ""
-  twitter: https://twitter.com/cloudinary
-  blog: http://cloudinary.com/blog
-  blogrss: http://feeds.feedburner.com/CloudinaryBlog
-  github: https://github.com/cloudinary
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1039_logo.png
-  tags: Local,Cloud,Images,Media,Media,Content Delivery Network,Cloud,Content
-- slug: opensignal
-  name: OpenSignal
-  description: With your help, we're creating a comprehensive database of cell phone
-    towers, cell phone signal strength readings, and Wi-Fi access points around the
-    world. Our goal is to become the global authority on wireless networks. On this
-    website we provide visualizations and analysis based on the data we've collected,
-    including cellular coverage maps that show exactly how strong signal is in any
-    particular area, as well as all the nearby towers for your carrier. Take a look
-    around, and feel free to contact us if you have any questions or feedback.
-  url: http://opensignal.com/
-  shorturl: ""
-  twitter: https://twitter.com/opensignal
-  blog: http://opensignal.com/blog/
-  blogrss: http://feeds.feedburner.com/opensignalmaps
-  github: https://github.com/opensignal
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-signal.png
-  tags: Networks
-- slug: azure-virtual-network
-  name: Azure Virtual Network
-  description: Azure Virtual Network lets you create private networks in the cloud
-    with full control over IP addresses, DNS servers, security rules, and traffic
-    flows. Securely connect a virtual network to on-premises networks by using a VPN
-    tunnel, or connect privately by using the ExpressRoute service.
-  url: https://azure.microsoft.com/en-us/services/virtual-network/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-network-topology.png
-  tags: Networks
-- slug: cisco-meraki
-  name: Cisco Meraki
-  description: Meraki was a company that provided products for large-scale, distributed
-    wired and wireless networks.
-  url: https://meraki.cisco.com/
-  shorturl: ""
-  twitter: https://twitter.com/meraki
-  blog: ""
-  blogrss: ""
-  github: https://github.com/meraki
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cisco-meraki.png
-  tags: Networks
-- slug: firepower-management-center
-  name: Firepower Management Center
-  description: ""
-  url: https://developer.cisco.com/site/firepower/discover/overview/index.gsp
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: ""
-  tags: Networks
-- slug: infoblox
-  name: Infoblox
-  description: Infoblox delivers Actionable Network Intelligence to enterprise, government,
-    and service provider customers around the world. We are the industry leader in
-    DNS, DHCP, and IP address management, the category known as DDI. We empower thousands
-    of organizations to control and secure their networks from the core&mdash;enabling
-    them to increase efficiency and visibility, improve customer service, and meet
-    compliance requirements.
-  url: infoblox
-  shorturl: ""
-  twitter: https://twitter.com/infoblox
-  blog: https://community.infoblox.com/t5/Blogs/ct-p/blogs
-  blogrss: https://community.infoblox.com/cixhp49439/rss/Category?category.id=blogs&interaction.style=blog&feeds.replies=true
-  github: https://github.com/Infoblox-API
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Infoblox_logo_tagline.png
-  tags: Networks
-- slug: openswitch
-  name: OpenSwitch
-  description: Community-Based, Open Source, Full-Featured Network Operating System.
-    OpenSwitch provides a fully-featured L2/L3 control plane stack, traditional and
-    programmatic, declarative control plane. The 24x7 nature of global digital economy
-    and the explosion of data have changed how we think about data center networking.
-    It&rsquo;s time for the separation of switch hardware and software&mdash;delivered
-    through an open environment based on open source established practices and true
-    community involvement from developers and users.
-  url: http://openswitch.net/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: https://github.com/open-switch
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/openswitch-logo.png
-  tags: Networks
-- slug: pxgrid
-  name: pxGrid
-  description: The Cisco Platform Exchange Grid (pxGrid) allows you to integrate your
-    application into the pxGrid, a multivendor, cross-platform network system that
-    pulls together different parts of an IT infrastructure such as security monitoring
-    and detection systems, network policy platforms, asset and configuration management,
-    identity and access management platforms, to name a few.
-  url: https://developer.cisco.com/site/pxgrid/
-  shorturl: ""
-  twitter: ""
-  blog: https://communities.cisco.com/community/developer/pxgrid/blog
-  blogrss: https://communities.cisco.com/community/developer/pxgrid/blog/feeds/posts
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cisco-pxgrid.png
-  tags: Networks
-- slug: intel-open-source
-  name: Intel Open Source
-  description: 01.org is where we pull together open source work that Intel engineers
-    are involved in. Here&rsquo;s where you can find projects we maintain and contribute
-    to in one location, from the most widely known, the Linux kernel, to very focused
-    projects, like oFono and SyncEvolution, to the ones we started here at Intel and
-    provide full hosting for, like PowerTop and the Web Simulator. Each project has
-    its own micro-site, where it&rsquo;s easy to learn about the project and engage
-    in the community. And Intel open source maintainers and developers will find all
-    the tools needed to host a project.
-  url: https://01.org/hyperscan
-  shorturl: ""
-  twitter: https://twitter.com/intelopensource
-  blog: https://01.org/group/3655/blogs
-  blogrss: https://01.org/group/3655/blogs/rss.xml
-  github: https://github.com/01org
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intel-open-source.png
-  tags: Networks,Hardware,Compute
-- slug: fluidmesh
-  name: FluidMesh
-  description: Fluidmesh was founded in 2005 by a team of researchers and visionaries
-    from the Massachusetts Institute of Technology (MIT) and the Politecnico of Milan.
-    Our goal was to reliably deliver fiber-like performance via unlicensed wireless
-    spectrum &ndash; providing connectivity for mission critical video, voice, and
-    data.
-  url: https://www.fluidmesh.com/
-  shorturl: ""
-  twitter: https://twitter.com/fluidmesh
-  blog: https://www.fluidmesh.com/blog/
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fluid-mesh.png
-  tags: Networks,Mesh Networks
-- slug: opendaylight-project
-  name: OpenDaylight Project
-  description: OpenDaylight is an open platform for network programmability to enable
-    SDN and NFV for networks at any size and scale. &nbsp;The community&rsquo;s second
-    release &ldquo;Helium&rdquo; comes with a new user interface and a much simpler
-    and customizable installation process thanks to the use of the Apache Karaf container.
-  url: http://www.opendaylight.org/
-  shorturl: ""
-  twitter: https://twitter.com/OpenDaylightSDN
-  blog: http://www.opendaylight.org/blog
-  blogrss: http://www.opendaylight.org/blog/feed
-  github: https://github.com/opendaylight
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/opendaylight-logo.png
-  tags: Networks,Smart Cities,Internet of Things
-- slug: fairwaves
-  name: Fairwaves
-  description: Fairwaves make rural mobile coverage profitable. We have built a unique
-    technology that significantly lowers the cost of deploying and operating mobile
-    networks in rural regions. Fairwaves is gaining a footprint in the telecommunications
-    space by helping Mobile Network Operators (MNO) to roll out mobile networks to
-    reach up-to 1.6 billion new customers.
-  url: https://fairwaves.co/
-  shorturl: ""
-  twitter: https://twitter.com/fairwaves
-  blog: https://fairwaves.co/blog/
-  blogrss: https://fairwaves.co/feed/
-  github: https://github.com/fairwaves
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fairwaves.png
-  tags: Networks
-- slug: kentik
-  name: Kentik
-  description: As network and service operators and developers, we&rsquo;ve spent
-    our entire professional lives designing and running large-scale networks and CDNs.
-    With decades of experience, we know the shortcomings of available tools. What
-    we always wanted &mdash; but never found &mdash; was an infrastructure visibility
-    solution that&rsquo;s scalable, powerful, easy to use, and affordable. We started
-    Kentik to create that solution.
-  url: https://www.kentik.com/
-  shorturl: ""
-  twitter: https://twitter.com/kentikinc
-  blog: https://www.kentik.com/blog/
-  blogrss: https://www.kentik.com/feed/
-  github: https://github.com/kentik
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Kentik_Logo_380_340.jpg
-  tags: Networks
-- slug: lime-microsystems
-  name: Lime Microsystems
-  description: Lime Microsystems creates field programmable RF (FPRF) transceivers
-    for a wide variety of wireless broadband systems. These transceivers offer an
-    unprecedented level of programmability and allow system designers to create systems
-    and networks that can be programmed to run on the vast majority of frequency bands
-    and standards. Lime&rsquo;s technology is used in numerous applications, including
-    consumer, M2M, military, emergency services and wireless infrastructure.
-  url: http://www.limemicro.com/
-  shorturl: ""
-  twitter: https://twitter.com/LimeMicro
-  blog: ""
-  blogrss: http://www.limemicro.com/feed/
-  github: ""
-  image: ""
-  tags: Networks
-- slug: ubiquiti-networks
-  name: Ubiquiti Networks
-  description: Ubiquiti Networks is an American technology company started in 2005.
-    Based in San Jose, California Ubiquiti manufactures wireless data communication
-    products for enterprise and wireless broadband providers with a primary focus
-    on under-served and emerging markets. Such brands include airMAX &amp; airFiber
-    for Outdoor Wireless, UniFi series of managed wired &amp; wireless networking
-    products, as well as sunMAX Grid-tied, complete solar kits.
-  url: https://www.ubnt.com
-  shorturl: ""
-  twitter: https://twitter.com/ubnt
-  blog: ""
-  blogrss: ""
-  github: https://github.com/ubiquiti
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UBNT_Alternate_Logo_RGB2.png
-  tags: Networks,Cameras
-- slug: avantlink
-  name: AvantLink
-  description: AvantLink is the web&#8217;s most innovative affiliate marketing network.
-    Starting in 2005, AvantLink was founded on the ideas of ethics, innovation, and
-    quality merchants/affiliates and has experienced rapid growth since its launch.
-  url: http://www.avantlink.com/
-  shorturl: ""
-  twitter: https://twitter.com/AvantLink
-  blog: http://www.avantshare.com/blog/
-  blogrss: http://www.avantshare.com/blog/feed/
-  github: ""
-  image: ""
-  tags: Products,Merchants,Affiliate Network
-- slug: metapacket
-  name: Metapacket
-  description: We verify the source of each session and validate that it was generated
-    by humans in your network. Automated processes are whitelisted and anything remaining
-    is malware. Unlike other solutions that rely on intelligence or signatures, our
-    solution can detect and block zero-day malware and the most advanced persistent
-    threats to date. Out of the box would have detected and prevented hacks such as
-    ones to the DNC,OPM,Sony, and others. Metapacket automatically blocks malware
-    and exploitation attempts including from unknown or zero-day threats and generates
-    highly-focused and clear incident reports.
-  url: http://metapacket.com/
-  shorturl: ""
-  twitter: https://twitter.com/Metapacket
-  blog: ""
-  blogrss: ""
-  github: https://github.com/metapacket
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/metapacket.png
-  tags: Security,Networks
-- slug: ambassador
-  name: Ambassador
-  description: "Ambassador empowers businesses to increase revenue by driving and
-    managing more referrals. Our easy-to-use referral marketing software automates
-    the process of enrolling, tracking, rewarding, and managing loyal customers, affiliates,
-    partners, and fans. This allows B2B companies, consumer brands, and agencies to
-    quickly build, scale, and optimize referral marketing programs. Ambassador\u2019s
-    open API also seamlessly integrates with existing technologies, enabling companies
-    to create a custom experience that aligns with their brand."
-  url: https://getambassador.com/
-  shorturl: ""
-  twitter: https://twitter.com/Ambassador
-  blog: http://blog.getambassador.com/
-  blogrss: http://blog.getambassador.com/feed/
-  github: https://github.com/GetAmbassador
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ambassador-logo.png
-  tags: Shopping,Affiliates,Affiliate,Affiliate Network,Referral Programs,Target
-- slug: team-skimlinks
-  name: Team Skimlinks
-  description: Skimlinks is a London-based company started in 2006. Their key products
-    are SkimLinks, a simplified affiliate marketing tool for publishers, and SkimWords,
-    a product that turns product references into monetizable shopping links. SkimLinks
-    converts existing links into affiliate marketing links, and SkimWords recognizes
-    unambiguous product references in editorial and user-generated content, and turns
-    these into unobtrusive shopping links that can earn the publisher money.
-  url: http://skimlinks.com/skimlinks
-  shorturl: ""
-  twitter: https://twitter.com/skimlinks
-  blog: http://blog.skimlinks.com
-  blogrss: http://blog.skimlinks.com/feed/
-  github: https://github.com/Skimlinks
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/933_logo.png
-  tags: Shopping,JavaScript,Affiliates,Affiliate,Affiliate Network,Links,Link
-- slug: facebook
-  name: Facebook
-  description: Facebook is an online social networking service that allows its users
-    to connect with friends and family as well as make new connections. It provides
-    its users with the ability to create a profile, update information, add images,
-    send friend requests, and accept requests from other users. Its features include
-    status update, photo tagging and sharing, and more.
-  url: https://facebook.com
-  shorturl: ""
-  twitter: https://twitter.com/facebook
-  blog: http://blog.facebook.com
-  blogrss: https://www.facebook.com/business/news/rss/
-  github: https://github.com/facebook
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/facebook_2015_logo_detail.png
-  tags: Social Network,Social,Payments,Payment API,My API Stack,Partners,Indie EdTech
-    Data Jam,Social API,Advertising,Road Map,Issues,Issues Example,Facebook Stack
-- slug: google-spectrum-database
-  name: Google Spectrum Database
-  description: The Google Spectrum Database API provides PAWS-compatible JSON-RPC
-    methods that allow devices to query the database to find available TV-band spectrum
-    at a given geolocation.
-  url: https://www.google.com/get/spectrumdatabase/
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spectrum-database-earth.jpg
-  tags: Spectrum,Networks,Google APIs
-...
+- slug: apache-avro
+  name: Apache Avro
+  description: >-
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
+  description: >-
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/apiblueprint'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/apiaryio/api-blueprint'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
+  description: >-
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
+  description: >-
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
+  description: >-
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
+  description: >-
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
+  description: >-
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
+  description: >-
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'

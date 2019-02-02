@@ -3,7 +3,7 @@ info:
   title: API Evangelist Building Blocks
   description: These are the building blocks for this research.
   version: 1.0.0
-host: network.apievangelist.com
+host: definitions.apievangelist.com
 basePath: /apis
 schemes:
   - http

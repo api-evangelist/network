@@ -1,65 +1,76 @@
-name: API Evangelist - Network
-description: This is my research into API network, as part of API Evangelist industry monitoring.
+name: API Evangelist - Definitions
+description: This is my research into API definitions, as part of API Evangelist industry monitoring.
 image: http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 tags:
   - API
-  - Network
-created: "2017-06-30"
-modified: "2017-06-30"
-url: https://network.apievangelist.com/apis.json
+  - Definitions
+  - Specifications
+created: "2017-06-24"
+modified: "2017-06-24"
+url: https://definitions.apievangelist.com/apis.json
 specificationVersion: "0.14"
 apis:
   - name: Blog API
     description: This is my simple API for accessing blog posts as part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png
-    humanURL: http://network.apievangelist.com/
-    baseURL: http://network.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - Blog
     properties:
       - type: x-openapi
-        url: http://network.apievangelist.com/apis/blogs/openapi.json
+        url: http://definitions.apievangelist.com/apis/blogs/openapi.json
       - type: x-atom
-        url: http://network.apievangelist.com/feeds/blogs/atom.xml
+        url: http://definitions.apievangelist.com/feeds/blogs/atom.xml
   - name: News API
     description: This is my simple API for accessing news stories I've curated as part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
-    humanURL: http://network.apievangelist.com/
-    baseURL: http://network.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - News
     properties:
       - type: x-openapi
-        url: http://network.apievangelist.com/apis/curated/openapi.json
+        url: http://definitions.apievangelist.com/apis/curated/openapi.json
       - type: x-atom
-        url: http://network.apievangelist.com/feeds/news/atom.xml
+        url: http://definitions.apievangelist.com/feeds/news/atom.xml
   - name: Organizations API
     description: This is my simple API for accessing the organizations that are part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg
-    humanURL: http://network.apievangelist.com/
-    baseURL: http://network.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - Organizations
     properties:
       - type: x-openapi
-        url: http://network.apievangelist.com/apis/organizations/openapi.json
+        url: http://definitions.apievangelist.com/apis/organizations/openapi.json
   - name: Tools API
     description: This is my simple API for accessing the tools that are part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png
-    humanURL: http://network.apievangelist.com/
-    baseURL: http://network.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - Tools
     properties:
       - type: x-openapi
-        url: http://network.apievangelist.com/apis/tools/openapi.json
+        url: http://definitions.apievangelist.com/apis/tools/openapi.json
+  - name: Building Blocks API
+    description: An API for the building blocks aggregated as part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks.png
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
+    tags:
+      - Building Blocks
+    properties:
+      - type: x-openapi
+        url: http://definitions.apievangelist.com/apis/building_blocks/openapi.json
 x-common:
   - type: x-support
-    url: https://github.com/api-evangelist/network/issues
+    url: https://github.com/api-evangelist/definitions/issues
   - type: x-documentation
-    url: http://network.apievangelist.com/documentation/
+    url: http://definitions.apievangelist.com/documentation/
   - type: x-github-repo
-    url: https://github.com/api-evangelist/network
+    url: https://github.com/api-evangelist/definitions
 include: []
 maintainers:
   - FN: Kin Lane

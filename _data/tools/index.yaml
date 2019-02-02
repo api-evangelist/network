@@ -1,47 +1,759 @@
----
-- slug: packetq
-  name: PacketQ
-  description: A tool that provides a basic SQL-frontend to PCAP-files. Outputs JSON,
-    CSV and XML and includes a bu
-  url: https://github.com/dotse/PacketQ
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
-  tags: Network
-- slug: bpftools
-  name: bpftools
-  description: BPF Tools - packet analyst toolkit
-  url: https://github.com/cloudflare/bpftools
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
-  tags: Network
-- slug: mininet
-  name: mininet
-  description: Emulator for rapid prototyping of Software Defined Networks
-  url: https://github.com/mininet/mininet
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
-  tags: Network
-- slug: pipework
-  name: pipework
-  description: Software-Defined Networking tools for LXC (LinuX Containers)
-  url: https://github.com/jpetazzo/pipework
-  shorturl: ""
-  twitter: ""
-  blog: ""
-  blogrss: ""
-  github: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png
-  tags: Network
-...
+- slug: api-blueprint
+  name: API Blueprint
+  description: >-
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read; after all,​ it is just a form of plain text.
+  url: 'https://github.com/apiaryio/api-blueprint/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png
+  tags: 'API Specification, Definitions'
+- slug: apispecconverter
+  name: API Spec Converter
+  description: >-
+    Convert API descriptions between popular formats such as OpenAPI(fka
+    Swagger), RAML, API Blueprint, WADL, etc.
+  url: 'https://github.com/lucybot/api-spec-converter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Converters'
+- slug: apispecconverter
+  name: API Spec Converter
+  description: >-
+    This package helps to convert between different API specifications (Postman,
+    Swagger, RAML, StopLigh
+  url: 'https://api.github.com/repos/stoplightio/api-spec-converter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions, Converters'
+- slug: apiary-blueprint-parser
+  name: Apiary Blueprint Parser
+  description: >-
+    A JavaScript parser of Apiary API blueprints. Uses Node.js then in browser,
+    include the browser version of the parser in your web page or application
+    using the script tag. To parse an API blueprint, just call the parse method
+    and pass the blueprint as a parameter. The method will return an object
+    representing the parsed blueprint or throw an exception if the input is
+    invalid.
+  url: 'https://github.com/apiaryio/blueprint-parser'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png
+  tags: 'Definitions,Parser'
+- slug: API.json
+  name: APIs.json
+  description: >-
+    APIs are becoming a crucial part of the Web. Unfortunately however, it
+    remains very difficult to determine the location of these APIs on servers
+    around the Web. The only way to discover APIs and their properties is via
+    human driven search through public search engines or in hand curated API
+    Directory listings. While these methods work, neither can scale to the
+    potentially hundreds of thousands and millions of APIs which will be
+    published over the next few years.
+  url: 'http://apisjson.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apisdotjson.png
+  tags: 'Definitions,Discovery'
+- slug: alps--applicationlevel-profile-semantics
+  name: Application-Level Profile Semantics (ALPS)
+  description: >-
+    The purpose of Application-Level Profile Semantics (ALPS) is to document the
+    application-level semantics of a particular implementation. This is
+    accomplished by describing elements of response representations for a target
+    media type. For example identifying markup elements returned (i.e. semantic
+    HTML ala Microformats) and state transitions (i.e. HTML.A and HTML.FORM
+    elements) that advance the state of the current application.
+  url: 'http://amundsen.com/hypermedia/profiles/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/alps-logo.png
+  tags: 'Definitions,Semantics,Data Specification'
+- slug: asset-description-metadata-schema-adms
+  name: Asset Description Metadata Schema (ADMS)
+  description: >-
+    ADMS is a profile of DCAT, used to describe&nbsp;semantic assets&nbsp;(or
+    just 'Assets'), defined as highly reusable metadata (e.g. xml schemata,
+    generic data models) and reference data (e.g. code lists, taxonomies,
+    dictionaries, vocabularies) that are used for eGovernment system
+    development.
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/w3c-logo.png
+  tags: 'Definitions,Data Specification'
+- slug: barrister-rpc
+  name: Barrister RPC
+  description: >-
+    Barrister is a RPC system that uses an external interface definition (IDL)
+    file to describe the interfaces and data structures that a component
+    implements. It is similar to tools like Protocol Buffers, Thrift, Avro, and
+    SOAP.
+  url: 'http://barrister.bitmechanic.com/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/barrister-rpc.png
+  tags: 'Definitions,API Specification,Design'
+- slug: chefserverschema
+  name: Chef Server Shcema
+  description: SQL Schema for the Open Source Chef Server
+  url: 'https://api.github.com/repos/chef/chef-server-schema'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions, Schema'
+- slug: ckan-openapi-spec
+  name: CKAN OpenAPI Spec
+  description: ''
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: ''
+  tags: 'Definitions, Implementations, OpenAPI'
+- slug: collection+json
+  name: Collection+JSON
+  description: >-
+    Collection+JSON is a JSON-based read/write hypermedia-type designed to
+    support management and querying of simple collections.
+  url: 'http://amundsen.com/media-types/collection/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: 'https://github.com/collection-json'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/madmen_icon_400x400.jpg
+  tags: 'Hypermedia,Definitions,Design'
+- slug: connectapispecification
+  name: connect-api-specification
+  description: ''
+  url: 'https://github.com/square/connect-api-specification'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Implementations, OpenAPI'
+- slug: couchdbapiblueprint
+  name: Couch DB API Blueprint
+  description: apiaryio API Blueprint of Apache CouchDBs API
+  url: 'https://github.com/BigBlueHat/couchdb-api-blueprint/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Database,API Blueprint,CouchDB,Definitions'
+- slug: csv-dialect-description-format-csvddf
+  name: CSV Dialect Description Format (CSVDDF)
+  description: >-
+    This RFC defines a simple JSON format to describe the various dialects of
+    CSV files; it aims to deal with a reasonably large subset of the features
+    which differ between dialects (terminator strings, quoting rules, escape
+    rules, etc), and roughly to describe the union of the capabilities of
+    Python&rsquo;s csv module, Ruby&rsquo;s CSV module, and the MySQL and
+    Postgres bulk load facilities at the time of writing (February 2013).
+  url: 'http://specs.frictionlessdata.io/csv-dialect/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: data-package-identifiers
+  name: Data Package Identifiers
+  description: >-
+    Data Package Identifiers are small JSON-oriented structure or strings which
+    identify a Data Package (and, usually, its location).
+  url: 'http://specs.frictionlessdata.io/data-package-identifier/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/frictionlessdata-logo.png
+  tags: 'Definitions,Data,Schema'
+- slug: datapackagist
+  name: Data Packagist
+  description: 'A web app for creating, editing and validating Data Packages.'
+  url: 'http://datapackagist.openknowledge.io/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/frictionlessdata/datapackagist'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Data'
+- slug: docson
+  name: Docson
+  description: Documentation for your JSON types
+  url: 'https://github.com/lbovet/docson'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Data Specification'
+- slug: european-union-psi-directive
+  name: European Union PSI Directive
+  description: >-
+    The Directive on the re-use of public sector information entered into force
+    on 31 December 2003. It was revised by Directive 2013/37/EU which entered
+    into force on 17 July 2013. It focuses on the economic aspects of re-use of
+    information rather than on the access of citizens to information. It
+    encourages the Member States to make as much information available for
+    re-use as possible. It addresses material held by public sector bodies in
+    the Member States, at national, regional and local levels, such as
+    ministries, state agencies, municipalities, as well as organisations funded
+    for the most part by or under the control of public authorities.
+  url: >-
+    https://ec.europa.eu/digital-single-market/legal-rules#revision-of-the-directive
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/european-commission.jpeg
+  tags: 'Definitions,Data Policy'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    A Data Package (or DataPackage) is a coherent collection of data and
+    possibly other assets in a single &lsquo;package&rsquo;. It provides the
+    basis for convenient delivery, installation and management of datasets.
+  url: 'http://specs.frictionlessdata.io/data-packages/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/frictionlessdata-logo.png
+  tags: 'Definitions,Data Definitions'
+- slug: g8-open-data-charter
+  name: G8 Open Data Charter
+  description: >-
+    The Open Data Charter sets out 5 strategic principles that all G8 members
+    will act on. These include an expectation that all government data will be
+    published openly by default, alongside principles to increase the quality,
+    quantity and re-use of the data that is released. G8 members have also
+    identified 14 high-value areas &ndash; from education to transport, and from
+    health to crime and justice from which they will release data. These will
+    help unlock the economic potential of open data, support innovation and
+    provide greater accountability.
+  url: 'https://www.gov.uk/government/publications/open-data-charter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/Screen
+    Shot 2016-12-01 at 11.40.25 AM.png
+  tags: 'Definitions,Data Policy'
+- slug: goswagger
+  name: Go Swagger
+  description: Swagger 2.0 implementation for go
+  url: 'https://github.com/go-swagger/go-swagger'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Generator,Parser'
+- slug: hal
+  name: HAL
+  description: >-
+    HAL is a simple format that gives a consistent and easy way to hyperlink
+    between resources in your API. Adopting HAL will make your API explorable,
+    and its documentation easily discoverable from within the API itself. In
+    short, it will make your API easier to work with and therefore more
+    attractive to client developers. APIs that adopt HAL can be easily served
+    and consumed using open source libraries available for most major
+    programming languages. It's also simple enough that you can just deal with
+    it as you would any other JSON.
+  url: 'http://stateless.co/hal_specification.html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-github.jpg
+  tags: 'Hypermedia,Definitions,Design'
+- slug: home-documents-for-http-apis
+  name: Home Documents for HTTP APIs
+  description: >-
+    JSON Home Document is an HTTP API definition formated that follows the
+    RFC4627 specification, and has the media type application/json-home.
+  url: 'http://tools.ietf.org/html/draft-nottingham-json-home-02'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/ietf-logo.png
+  tags: 'Definitions,Design,Discovery'
+- slug: i/o-docs
+  name: I/O Docs
+  description: >-
+    I/O Docs is a live interactive documentation system for RESTful web APIs. By
+    defining APIs at the resource, method and parameter levels in a JSON schema,
+    I/O Docs will generate a JavaScript client interface. API calls can be
+    executed from this interface, which are then proxied through the I/O Docs
+    server with payload data cleanly formatted.
+  url: 'https://github.com/mashery/iodocs'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/io-docs-logo.jpg
+  tags: 'Definitions, API Specification'
+- slug: interpol
+  name: Interpol
+  description: >-
+    Interpol is a toolkit for policing your HTTP JSON interface. To use it,
+    define the endpoints of your HTTP API in simple YAML files. Interpol
+    provides multiple tools to work with endpoint definitions.
+  url: 'https://github.com/seomoz/interpol'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/interpol-logo.png
+  tags: 'Definitions, Generator, Validator, Design'
+- slug: jsonapi
+  name: JSON API
+  description: A specification for building JSON APIs
+  url: 'http://jsonapi.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/json-api/json-api'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions, Hypermedia'
+- slug: json-schema
+  name: JSON Schema
+  description: >-
+    Describes your JSON data format in clear, human- and machine-readable
+    documentation that is complete structural validation, useful for automated
+    testing, and validating client-submitted data.
+  url: 'http://json-schema.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/json-schema.png
+  tags: 'Definitions,Data Specification'
+- slug: json-table-schema
+  name: JSON Table Schema
+  description: >-
+    This RFC defines a simple schema for tabular data. The schema is designed to
+    be expressible in JSON.
+  url: 'http://specs.frictionlessdata.io/json-table-schema/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/frictionlessdata-logo.png
+  tags: 'Definitions,Data Specification,Schema'
+- slug: jsonviewer
+  name: JSON Viewer
+  description: >-
+    The most beautiful and customizable JSON/JSONP highlighter that your eyes
+    have ever seen. It is a Chrome extension for printing JSON and JSONP.
+  url: 'https://github.com/tulios/json-viewer'
+  short_url: 'https://s3.amazonaws.com/kinlane-productions/tools/tulios-json-viewer.png'
+  twitter: ''
+  blog: ''
+  blog_rss: 'https://github.com/tulios/json-viewer/commits/master.atom'
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions, Viewers'
+- slug: jsonld
+  name: JSON-LD
+  description: >-
+    JSON-LD is a lightweight Linked Data format. It is easy for humans to read
+    and write. It is based on the already successful JSON format and provides a
+    way to help JSON data interoperate at Web-scale. JSON-LD is an ideal data
+    format for programming environments, REST Web services, and unstructured
+    databases such as CouchDB and MongoDB.
+  url: 'http://json-ld.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/json-ld.png
+  tags: 'Hypermedia,Definitions,Semantics,Design'
+- slug: jsonrpc-2.0
+  name: JSON-RPC 2.0
+  description: >-
+    JSON-RPC is a stateless, light-weight remote procedure call (RPC) protocol.
+    Primarily this specification defines several data structures and the rules
+    around their processing. It is transport agnostic in that the concepts can
+    be used within the same process, over sockets, over http, or in many various
+    message passing environments. It uses JSON (RFC 4627) as data format.
+  url: 'http://www.jsonrpc.org/specification'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/json-rpc.png
+  tags: 'Definitions,Data Specification'
+- slug: markdown-syntax-for-object-notation-mson
+  name: Markdown Syntax for Object Notation (MSON)
+  description: >-
+    MSON is a plain-text, human and machine readable, description format for
+    describing data structures in common markup formats such as JSON, XML or
+    YAML.
+  url: 'https://github.com/apiaryio/mson'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png
+  tags: 'Definitions,Data Specification'
+- slug: mason
+  name: Mason
+  description: >-
+    Mason is a JSON format for introducing hypermedia elements to classic JSON
+    data representations. With Mason, you get hypermedia elements for linking
+    and modifying data, features for communicating to client developers and
+    standardized error handling. Mason is built on JSON, reads JSON, writes JSON
+    and generally fits well into a JSON based eco-system.
+  url: 'https://github.com/JornWildt/Mason'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/jorn-wildt.jpeg
+  tags: 'Hypermedia,Definitions, Design'
+- slug: odatasamples
+  name: ODataSamples
+  description: 'Samples: For ODataLib, OData Web API, RESTier, etc.'
+  url: 'https://api.github.com/repos/OData/ODataSamples'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions, Samples'
+- slug: open-data-protocol-odata
+  name: Open Data Protocol (OData)
+  description: >-
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/odata-logo.png
+  tags: 'Definitions,Design,Data Specification'
+- slug: openapi-specification
+  name: OpenAPI-Specification
+  description: >-
+    The goal of The OpenAPI Specification is to define a standard,
+    language-agnostic interface to REST APIs which allows both humans and
+    computers to discover and understand the capabilities of the service without
+    access to source code, documentation, or through network traffic inspection.
+    When properly defined via OpenAPI, a consumer can understand and interact
+    with the remote service with a minimal amount of implementation logic.
+    Similar to what interfaces have done for lower-level programming, OpenAPI
+    removes the guesswork in calling the servi
+  url: 'https://github.com/OAI/OpenAPI-Specification'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/openapi-spec.png
+  tags: 'Design,Definitions, API Specification'
+- slug: paw-api-blueprint-generator
+  name: Paw API Blueprint Generator
+  description: >-
+    Paw extension providing support to export API Blueprint as a code generator,
+    allowing for you to publish API definitions from the web API client tooling.
+  url: 'https://github.com/apiaryio/Paw-APIBlueprintGenerator/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: 'Clients,API Blueprint,Definitions,Generator'
+- slug: pawpostmanimporter
+  name: Paw Postman Importer
+  description: A Paw Extension to import Postman Collections.
+  url: 'https://api.github.com/repos/luckymarmot/Paw-PostmanImporter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: 'Definitions,Clients'
+- slug: pawpostmanenvironmentimporter
+  name: Paw to Postman Environment Importer
+  description: A Paw Extension to import Postman Environments.
+  url: 'https://api.github.com/repos/luckymarmot/Paw-PostmanEnvironmentImporter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: 'Clients,Definitions'
+- slug: pawwadlimporter
+  name: Paw WADL Importer
+  description: Paw Extension to import WADL definitions.
+  url: 'https://paw.cloud/extensions/WADLImporter'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/paw-api-client.png
+  tags: 'Definitions,Clients'
+- slug: postman-collections
+  name: Postman Collections
+  description: >-
+    A collection lets you group individual requests together. These requests can
+    be further organized into folders to accurately mirror your API. Requests
+    can also store sample responses when saved in a collection. You can add
+    metadata like name and description too so that all the information that a
+    developer needs to use your API is available easily.
+  url: 'https://www.getpostman.com/docs/collections'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/postman-rest-logo.png
+  tags: 'Definitions,API Specification'
+- slug: president-obama-executive-order
+  name: President Obama Executive Order
+  description: >-
+    Under the terms of the Executive Order and a new&nbsp;Open Data
+    Policy&nbsp;released today by the Office of Science and Technology Policy
+    and the Office of Management and Budget, all newly generated government data
+    will be required to be made available in open, machine-readable formats,
+    greatly enhancing their accessibility and usefulness, while ensuring privacy
+    and security.
+  url: ''
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/white-house-logo-2.jpeg
+  tags: 'Definitions,Data Policy'
+- slug: prism
+  name: Prism
+  description: >-
+    Turn any OAS (Swagger 2) file into an API server with mocking,
+    transformations, validations, and mor
+  url: 'https://stoplight.io/platform/prism/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: 'view-source:https://github.com/stoplightio/prism/commits/master.atom'
+  github: 'https://github.com/stoplightio/prism'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Proxy'
+- slug: public_api_specs
+  name: Public API Specs
+  description: >-
+    The API Specs (in OpenAPI/Swagger) for the APIs available from
+    developer.nytimes.com
+  url: 'https://github.com/NYTimes/public_api_specs'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Implementations,OpenAPI'
+- slug: raml-specification
+  name: RAML Specification
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org'
+  short_url: ''
+  twitter: 'http://blog.raml.org/'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/raml-logo.jpg
+  tags: 'Definitions, Design,API Definitions,RAML'
+- slug: raml2postman
+  name: raml2postman
+  description: Coverts RAML specs to Postman Collections (v1 of the collection format)
+  url: 'https://api.github.com/repos/postmanlabs/raml2postman'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Definitions,Conversion,Clients'
+- slug: restdesc
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. The description is not a goal in itself: you want your API to be
+    used. See how RESTdesc opens up your API for discovery, based on its
+    functional characteristics.
+  url: 'http://restdesc.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/restdesc-logo.png
+  tags: 'Hypermedia,Definitions,Design'
+- slug: restful-api-description-language-radl
+  name: RESTful API Description Language (RADL)
+  description: >-
+    RESTful API Description Language (RADL) is an XML vocabulary for describing
+    Hypermedia-driven RESTful APIs. Unlike most HTTP API description languages,
+    RADL focuses on defining a truly hypermedia-driven REST API from the
+    client's point of view. Unlike description languages based on JSON or
+    Markdown, RADL makes it easy to integrate documentation written in HTML or
+    XML. The APIs that RADL describes may use any media type, in XML, JSON,
+    HTML, or any other format.
+  url: 'https://github.com/restful-api-description-language/RADL'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/radl-logo.png
+  tags: 'Definitions,API Specification,Design'
+- slug: restful-api-modeling-language
+  name: RESTful API Modeling Language
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/raml-logo.jpg
+  tags: 'Definitions,API Specification,Design'
+- slug: restful-service-description-language-rsdl
+  name: RESTful Service Description Language (RSDL)
+  description: >-
+    The RESTful Service Description Language (RSDL) is a machine- and
+    human-readable XML description of HTTP-based web applications (typically
+    REST web services).
+  url: >-
+    http://www.balisage.net/Proceedings/vol10/html/Robie01/BalisageVol10-Robie01.html
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/rsdl-icon.png
+  tags: 'Definitions,API Specification,Design'
