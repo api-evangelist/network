@@ -59,6 +59,12 @@
   url: http://blog.helloreverb.com/swagger-smartbear/
   domain: blog.helloreverb.com
   image: ""
+- curated_id: c67ff3bb2939c85cf6cb1a9229ff5f8b
+  item_date: "2015-03-26 00:00:00"
+  title: Sharing Is Caring - Socialize Your Public API Blueprints
+  url: https://blog.apiary.io/2015/03/26/ApiBlueprint-button
+  domain: blog.apiary.io
+  image: ""
 - curated_id: 1c7ecc44b7313d616417b0572ff250f5
   item_date: "2015-03-26 00:00:00"
   title: SmartBear Picks Up Swagger API Project
@@ -70,12 +76,6 @@
   title: Let?s Get Swagger Right
   url: http://restlet.com/blog/2015/03/26/lets-get-swagger-right/
   domain: restlet.com
-  image: ""
-- curated_id: c67ff3bb2939c85cf6cb1a9229ff5f8b
-  item_date: "2015-03-26 00:00:00"
-  title: Sharing Is Caring - Socialize Your Public API Blueprints
-  url: https://blog.apiary.io/2015/03/26/ApiBlueprint-button
-  domain: blog.apiary.io
   image: ""
 - curated_id: 01bdc0e2e482d215c9f67e72109bcd65
   item_date: "2015-04-01 00:00:00"
@@ -301,17 +301,17 @@
   url: http://restlet.com/blog/2015/10/26/importing-and-translating-raml-api-definition/
   domain: restlet.com
   image: ""
-- curated_id: fe1f8d912f1a8c9712626a66b16cd802
-  item_date: "2015-11-05 00:00:00"
-  title: Restlet Joins the Open API Initiative at Linux Foundation
-  url: http://restlet.com/blog/2015/11/05/restlet-joins-the-open-api-initiative-at-linux-foundation/
-  domain: restlet.com
-  image: ""
 - curated_id: 8e111b3d4d5e4a7ea8b89bde0ab1359e
   item_date: "2015-11-05 00:00:00"
   title: API Economy Gets Boost With Open Spec Initiative
   url: http://www.enterprisetech.com/2015/11/05/api-economy-gets-boost-with-open-spec-initiative/
   domain: www.enterprisetech.com
+  image: ""
+- curated_id: fe1f8d912f1a8c9712626a66b16cd802
+  item_date: "2015-11-05 00:00:00"
+  title: Restlet Joins the Open API Initiative at Linux Foundation
+  url: http://restlet.com/blog/2015/11/05/restlet-joins-the-open-api-initiative-at-linux-foundation/
+  domain: restlet.com
   image: ""
 - curated_id: 30d2328c855754dae00500fa4e376dfe
   item_date: "2015-11-05 09:39:17"
@@ -418,17 +418,17 @@
   url: http://blog.apiary.io/2016/01/18/We-ve-got-Swagger/
   domain: blog.apiary.io
   image: ""
-- curated_id: 5fa53e1250e457b5cd374e95fc43f576
-  item_date: "2016-01-19 00:00:00"
-  title: 'Screencast: Import and translate RAML API definitions'
-  url: http://restlet.com/blog/2016/01/19/screencast-import-and-translate-raml-api-definitions/
-  domain: restlet.com
-  image: ""
 - curated_id: ac9b7fec6bbe7c1385801c631394c42e
   item_date: "2016-01-19 00:00:00"
   title: Apiary.io Now Features Swagger Support
   url: http://www.programmableweb.com/news/apiary.io-now-features-swagger-support/brief/2016/01/19
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 5fa53e1250e457b5cd374e95fc43f576
+  item_date: "2016-01-19 00:00:00"
+  title: 'Screencast: Import and translate RAML API definitions'
+  url: http://restlet.com/blog/2016/01/19/screencast-import-and-translate-raml-api-definitions/
+  domain: restlet.com
   image: ""
 - curated_id: a2c2d6684da38b8faff5860c9957aa83
   item_date: "2016-01-22 00:00:00"
@@ -461,17 +461,17 @@
   url: https://dzone.com/articles/getting-started-with-odata
   domain: dzone.com
   image: ""
-- curated_id: 0b30c93893937080e41f25bda187ed93
-  item_date: "2016-02-16 00:00:00"
-  title: 'Presentation: Creating Java REST Servers from Swagger API Definitions'
-  url: http://www.infoq.com/presentations/java-rest-swagger
-  domain: www.infoq.com
-  image: ""
 - curated_id: 977c86cf993caa6385fadd714cc9df80
   item_date: "2016-02-16 00:00:00"
   title: RAMLing Around With Mule
   url: https://dzone.com/articles/ramling-around-with-mule
   domain: dzone.com
+  image: ""
+- curated_id: 0b30c93893937080e41f25bda187ed93
+  item_date: "2016-02-16 00:00:00"
+  title: 'Presentation: Creating Java REST Servers from Swagger API Definitions'
+  url: http://www.infoq.com/presentations/java-rest-swagger
+  domain: www.infoq.com
   image: ""
 - curated_id: 9496a44425b16fffa697c66b72836c89
   item_date: "2016-02-16 14:35:55"
@@ -504,17 +504,17 @@
   url: http://apigee.com/about/blog/developer/rapier-cut-through-tedium-api-specification
   domain: apigee.com
   image: ""
-- curated_id: 196dcb76edf18035966e75c992ad4527
-  item_date: "2016-02-25 00:00:00"
-  title: DreamFactory 2.1 released, includes OpenAPI spec upgrade
-  url: http://blog.dreamfactory.com/dreamfactory-2-1-release-news
-  domain: blog.dreamfactory.com
-  image: ""
 - curated_id: 13d97ba14031002468ba27e94861911a
   item_date: "2016-02-25 00:00:00"
   title: Should You Craft Your Own API Definition Format?
   url: https://dzone.com/articles/should-you-craft-your-own-api-definition-format
   domain: dzone.com
+  image: ""
+- curated_id: 196dcb76edf18035966e75c992ad4527
+  item_date: "2016-02-25 00:00:00"
+  title: DreamFactory 2.1 released, includes OpenAPI spec upgrade
+  url: http://blog.dreamfactory.com/dreamfactory-2-1-release-news
+  domain: blog.dreamfactory.com
   image: ""
 - curated_id: 12beb345aac84613ae7c1e5507a8f079
   item_date: "2016-03-01 00:00:00"
@@ -583,6 +583,12 @@
   url: http://blog.codeship.com/json-ld-building-meaningful-data-apis/
   domain: blog.codeship.com
   image: ""
+- curated_id: 1f74bbcce7baa51edc736431b95fdc80
+  item_date: "2016-03-29 00:00:00"
+  title: Examples of Validations for LoopBack Models
+  url: https://strongloop.com/strongblog/examples-of-validations-for-loopback-models/
+  domain: strongloop.com
+  image: ""
 - curated_id: b5a028d4f7ae7e1074f64dd5b62205a1
   item_date: "2016-03-29 00:00:00"
   title: You asked, weve answered, Postman Collections!
@@ -595,17 +601,17 @@
   url: http://restlet.com/blog/2016/03/29/import-and-test-your-swagger-api-definitions-in-dhc/
   domain: restlet.com
   image: ""
-- curated_id: 1f74bbcce7baa51edc736431b95fdc80
-  item_date: "2016-03-29 00:00:00"
-  title: Examples of Validations for LoopBack Models
-  url: https://strongloop.com/strongblog/examples-of-validations-for-loopback-models/
-  domain: strongloop.com
-  image: ""
 - curated_id: 56d84715e6c18f66f57352f6c7ccfeae
   item_date: "2016-03-30 00:00:00"
   title: Finicity Launches TxPUSH to Create Financial Data Aggregation Standard
   url: http://bankinnovation.net/2016/03/finicity-launches-txpush-to-create-financial-data-aggregation-standard/
   domain: bankinnovation.net
+  image: ""
+- curated_id: 85ea31c65ed2dd8fe6a03020ffbe248f
+  item_date: "2016-04-04 00:00:00"
+  title: 'Article: C#/Web API Code Generation Patterns for the RAML User'
+  url: http://www.infoq.com/articles/webapr-for-raml
+  domain: www.infoq.com
   image: ""
 - curated_id: 104fa9e427cfda681ba14b4101a2452a
   item_date: "2016-04-04 00:00:00"
@@ -613,12 +619,6 @@
     Unecessary
   url: https://dzone.com/articles/the-more-i-gather-openapi-specs-the-more-i-realize
   domain: dzone.com
-  image: ""
-- curated_id: 85ea31c65ed2dd8fe6a03020ffbe248f
-  item_date: "2016-04-04 00:00:00"
-  title: 'Article: C#/Web API Code Generation Patterns for the RAML User'
-  url: http://www.infoq.com/articles/webapr-for-raml
-  domain: www.infoq.com
   image: ""
 - curated_id: 0fa439b1fb34a34696feb01fd929018e
   item_date: "2016-04-04 18:24:05"
@@ -774,17 +774,17 @@
   url: http://worldnews.se/tech/2016/06/15/swaggerhub-enables-instant-serverless-infrastructure-with-new-aws-integration/
   domain: worldnews.se
   image: ""
-- curated_id: 400c4949b9bc58ebc344349ab8b67235
-  item_date: "2016-06-21 00:00:00"
-  title: DHC supports HTTP Archive v1.2 (HAR)
-  url: http://restlet.com/blog/2016/06/21/dhc-supports-http-archive-v1-2-har/
-  domain: restlet.com
-  image: ""
 - curated_id: 973c99d2d892d8a47e5181b7892759fd
   item_date: "2016-06-21 00:00:00"
   title: 'Ask DZ: Swagger API on Multiple OSGI Bundles Using Apache Karaf'
   url: https://dzone.com/articles/swagger-api-on-multiple-osgi-bundle-using-apache-k
   domain: dzone.com
+  image: ""
+- curated_id: 400c4949b9bc58ebc344349ab8b67235
+  item_date: "2016-06-21 00:00:00"
+  title: DHC supports HTTP Archive v1.2 (HAR)
+  url: http://restlet.com/blog/2016/06/21/dhc-supports-http-archive-v1-2-har/
+  domain: restlet.com
   image: ""
 - curated_id: 899b36046ee649fedfead613cfe4eae0
   item_date: "2016-06-23 00:00:00"
@@ -798,6 +798,12 @@
   url: https://threatpost.com/unpatched-remote-code-execution-flaw-exists-in-swagger/118867/
   domain: threatpost.com
   image: ""
+- curated_id: 70f8135787d3a049c41c2a94bdf89755
+  item_date: "2016-07-01 00:00:00"
+  title: Using Google Tag Manager to Dynamically Generate Schema/JSON-LD Tags
+  url: https://moz.com/blog/using-google-tag-manager-to-dynamically-generate-schema-org-json-ld-tags
+  domain: moz.com
+  image: ""
 - curated_id: c09ff876ae3c5e17b71940d00387bc18
   item_date: "2016-07-01 00:00:00"
   title: HTTP-RPC 3.0 Released [Announcement]
@@ -809,12 +815,6 @@
   title: What are your thoughts on FHIR?
   url: https://www.reddit.com/r/healthIT/comments/4qs5w4/what_are_your_thoughts_on_fhir/t1_d4vntfg
   domain: www.reddit.com
-  image: ""
-- curated_id: 70f8135787d3a049c41c2a94bdf89755
-  item_date: "2016-07-01 00:00:00"
-  title: Using Google Tag Manager to Dynamically Generate Schema/JSON-LD Tags
-  url: https://moz.com/blog/using-google-tag-manager-to-dynamically-generate-schema-org-json-ld-tags
-  domain: moz.com
   image: ""
 - curated_id: 3c0b9203d6b1c4712f09fc6994114ab4
   item_date: "2016-07-03 00:00:00"
@@ -1144,17 +1144,17 @@
   url: https://github.com/Mermade/openapi_specifications
   domain: github.com
   image: ""
-- curated_id: b452b12dba34c2e2c738f408f56c5258
-  item_date: "2017-01-11 00:00:00"
-  title: Securely Sharing Your Swagger API Docs with DreamFactory
-  url: http://blog.dreamfactory.com/share-api-docs-securely
-  domain: blog.dreamfactory.com
-  image: ""
 - curated_id: 9f0557ffe5087e10bd463af976957919
   item_date: "2017-01-11 00:00:00"
   title: Getting the best Oracle API information with Swagger and a pinch of...
   url: https://www.capgemini.com/blog/capgemini-oracle-blog/2017/01/getting-the-best-oracle-api-information-with-swagger-and-a-pinch
   domain: www.capgemini.com
+  image: ""
+- curated_id: b452b12dba34c2e2c738f408f56c5258
+  item_date: "2017-01-11 00:00:00"
+  title: Securely Sharing Your Swagger API Docs with DreamFactory
+  url: http://blog.dreamfactory.com/share-api-docs-securely
+  domain: blog.dreamfactory.com
   image: ""
 - curated_id: c34235299a443b89011bd881b5777d65
   item_date: "2017-01-13 00:00:00"
@@ -1466,17 +1466,17 @@
   url: https://jimmybogard.com/swagger-the-rest-kryptonite/
   domain: jimmybogard.com
   image: ""
-- curated_id: e9cca43bb79bed3cb1fdfd5abd09e910
-  item_date: "2017-04-12 00:00:00"
-  title: What sets RAML 1.0 apart from OAS 2.0?
-  url: https://restlet.com/company/blog/2017/04/12/raml-1-0-a-few-things-that-set-it-apart-from-oas-2/
-  domain: restlet.com
-  image: ""
 - curated_id: 517bc1a863b9f84593d238a2ffca2660
   item_date: "2017-04-12 00:00:00"
   title: Restlet Studio Supports RAML 1.0 API Specification
   url: https://www.programmableweb.com/news/restlet-studio-supports-raml-10-api-specification/announcement/2017/04/12
   domain: www.programmableweb.com
+  image: ""
+- curated_id: e9cca43bb79bed3cb1fdfd5abd09e910
+  item_date: "2017-04-12 00:00:00"
+  title: What sets RAML 1.0 apart from OAS 2.0?
+  url: https://restlet.com/company/blog/2017/04/12/raml-1-0-a-few-things-that-set-it-apart-from-oas-2/
+  domain: restlet.com
   image: ""
 - curated_id: 94506bff1a45310341910f4fe8dde380
   item_date: "2017-04-14 00:00:00"
@@ -1496,22 +1496,16 @@
   url: https://dzone.com/articles/payload-transformation-json-to-object
   domain: dzone.com
   image: ""
-- curated_id: 48f178f1f9d7bea0ab31bb7eaa5a3057
-  item_date: "2017-04-18 00:00:00"
-  title: 'Payload Transformation: JSON to XML'
-  url: https://dzone.com/articles/payload-transformation-json-to-xml
-  domain: dzone.com
-  image: ""
 - curated_id: 19ec54f866bfd647b1a44a35781a6bd0
   item_date: "2017-04-18 00:00:00"
   title: Cinchoo - Using JSON format configuration values
   url: https://www.codeproject.com/Articles/1019595/Cinchoo-Using-JSON-format-configuration-values
   domain: www.codeproject.com
   image: ""
-- curated_id: f5f52a6649d03d849af03e8a3010e46b
-  item_date: "2017-04-19 00:00:00"
-  title: 'Microservices, APIs, and Swagger: How They Fit Together'
-  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
+- curated_id: 48f178f1f9d7bea0ab31bb7eaa5a3057
+  item_date: "2017-04-18 00:00:00"
+  title: 'Payload Transformation: JSON to XML'
+  url: https://dzone.com/articles/payload-transformation-json-to-xml
   domain: dzone.com
   image: ""
 - curated_id: f737f941208cad9c3a8e0f8e06ccefd2
@@ -1519,6 +1513,12 @@
   title: "Microservices, APIs, and Swagger: How They Fit Together \u2013 Quantix"
   url: https://quantixcap.wordpress.com/2017/04/19/microservices-apis-and-swagger-how-they-fit-together/
   domain: quantixcap.wordpress.com
+  image: ""
+- curated_id: f5f52a6649d03d849af03e8a3010e46b
+  item_date: "2017-04-19 00:00:00"
+  title: 'Microservices, APIs, and Swagger: How They Fit Together'
+  url: https://dzone.com/articles/microservices-apis-and-swagger-how-they-fit-togeth
+  domain: dzone.com
   image: ""
 - curated_id: 9450b18ff7c86784ab9c141a90247571
   item_date: "2017-04-20 07:59:51"
@@ -1766,13 +1766,13 @@
 - curated_id: 3m7naasDS/RxVUoWLkYKmFMN7GRrsAxiKZEg8/pYJWo=_15ccaeac963:c1d064:5b78a817
   item_date: "2017-06-21 05:24:18"
   title: Getting Started with the ThreatConnect Query Language (TQL)
-  url: https://www.threatconnect.com/?post_type=post&p=17422
+  url: https://www.threatconnect.com/?post_type=post&amp;p=17422
   domain: www.threatconnect.com
   image: ""
 - curated_id: 3m7naasDS/RxVUoWLkYKmFMN7GRrsAxiKZEg8/pYJWo=_15ccaeac963:c1d064:5b78a817
   item_date: "2017-06-21 05:24:18"
   title: Getting Started with the ThreatConnect Query Language (TQL)
-  url: https://www.threatconnect.com/?post_type=post&amp;p=17422
+  url: https://www.threatconnect.com/?post_type=post&p=17422
   domain: www.threatconnect.com
   image: ""
 - curated_id: aTKLPW9AeQAh09DpOW/0/mK2tQUNNgIyAi3xy7MVsb4=_15cd79f5a0e:1cda836:fe3a8465
@@ -2344,16 +2344,16 @@
   url: https://github.com/Microsoft/OpenAPI.NET
   domain: github.com
   image: ""
-- curated_id: vce0VvjLTTWZOvFqfgQLElgoghUlnuvvaSiHY2xPvLI=_160562d7768:3fe485f:7157a206
-  item_date: "2017-12-14 07:16:47"
-  title: XBRL International Certifies DataTracks' DMS
-  url: http://news.sys-con.com/node/4210800
-  domain: news.sys-con.com
-  image: ""
 - curated_id: vce0VvjLTTWZOvFqfgQLElgoghUlnuvvaSiHY2xPvLI=_16055a37a3a:3f52aa6:541f3c40
   item_date: "2017-12-14 07:16:47"
   title: XBRL International Certifies DataTracks' DMS
   url: http://news.sys-con.com/node/4210801
+  domain: news.sys-con.com
+  image: ""
+- curated_id: vce0VvjLTTWZOvFqfgQLElgoghUlnuvvaSiHY2xPvLI=_160562d7768:3fe485f:7157a206
+  item_date: "2017-12-14 07:16:47"
+  title: XBRL International Certifies DataTracks' DMS
+  url: http://news.sys-con.com/node/4210800
   domain: news.sys-con.com
   image: ""
 - curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_1606e218541:219f4:98c4d03d
