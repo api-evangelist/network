@@ -2,7 +2,7 @@
 
 A comprehensive directory of all APIs.json files maintained across the API Evangelist organization.
 
-**Total APIs.json:** 1926
+**Total APIs.json:** 2451
 
 ## APIs
 
@@ -26,6 +26,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | acronis | [acronis](https://github.com/api-evangelist/acronis) |
 | Microsoft Active Directory | [active-directory](https://github.com/api-evangelist/active-directory) |
 | ActiveCampaign | [activecampaign](https://github.com/api-evangelist/activecampaign) |
+| Activepieces is an open-source, MIT-licensed business automation platform with 350+ integrations, positioned as a self-hostable alternative to Zapier. | [activepieces](https://github.com/api-evangelist/activepieces) |
 | Adaptigent | [adaptigent](https://github.com/api-evangelist/adaptigent) |
 | Administration for Community Living (ACL) | [administration-for-community-living-acl-](https://github.com/api-evangelist/administration-for-community-living-acl-) |
 | Administration for Native Americans (ANA) | [administration-for-native-americans-ana-](https://github.com/api-evangelist/administration-for-native-americans-ana-) |
@@ -37,7 +38,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Adobe Captivate | [adobe-captivate](https://github.com/api-evangelist/adobe-captivate) |
 | Adobe Creative Cloud | [adobe-creative-cloud](https://github.com/api-evangelist/adobe-creative-cloud) |
 | Adobe Creative Suite | [adobe-creative-suite](https://github.com/api-evangelist/adobe-creative-suite) |
+| A repository for managing adobe illustrator apis. | [adobe-illustrator](https://github.com/api-evangelist/adobe-illustrator) |
 | Adobe Launch (Adobe Experience Platform Tags) | [adobe-launch](https://github.com/api-evangelist/adobe-launch) |
+| This is for managing photoshop. | [adobe-photoshop](https://github.com/api-evangelist/adobe-photoshop) |
 | Adobe Premiere Pro API | [adobe-premiere](https://github.com/api-evangelist/adobe-premiere) |
 | Adobe Suite APIs | [adobe-suite](https://github.com/api-evangelist/adobe-suite) |
 | Advanced Excel API | [advanced-excel](https://github.com/api-evangelist/advanced-excel) |
@@ -69,6 +72,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Aladdin Studio | [aladdin-studio](https://github.com/api-evangelist/aladdin-studio) |
 | Alation | [alation](https://github.com/api-evangelist/alation) |
 | Albato | [albato](https://github.com/api-evangelist/albato) |
+| Albato A Single No Code Platform For All Automations | [albato-a-single-no-code-platform-for-all-automations](https://github.com/api-evangelist/albato-a-single-no-code-platform-for-all-automations) |
 | Alchemy | [alchemy](https://github.com/api-evangelist/alchemy) |
 | Alcohol and Tobacco Tax and Trade Bureau | [alcohol-and-tobacco-tax-and-trade-bureau](https://github.com/api-evangelist/alcohol-and-tobacco-tax-and-trade-bureau) |
 | Algolia | [algolia](https://github.com/api-evangelist/algolia) |
@@ -79,6 +83,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Allianz Future Cloud Platform | [allianz-future-cloud-platform](https://github.com/api-evangelist/allianz-future-cloud-platform) |
 | Allianz Technology Standards | [allianz-technology-standards](https://github.com/api-evangelist/allianz-technology-standards) |
 | Allianz Trade Online APIs | [allianz-trade-online](https://github.com/api-evangelist/allianz-trade-online) |
+| Alloy Automation is an embedded iPaaS and connectivity API platform focused on e-commerce and SaaS, enabling integrations with ERP, CRM, and commerce tools. | [alloy-automation](https://github.com/api-evangelist/alloy-automation) |
 | Alpha Vantage | [alpha-vantage](https://github.com/api-evangelist/alpha-vantage) |
 | Alteryx | [alteryx](https://github.com/api-evangelist/alteryx) |
 | AltexSoft | [altexsoft](https://github.com/api-evangelist/altexsoft) |
@@ -87,21 +92,226 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Amadeus Reservations API | [amadeus-reservations](https://github.com/api-evangelist/amadeus-reservations) |
 | Amadeus Solutions | [amadeus-solutions](https://github.com/api-evangelist/amadeus-solutions) |
 | Amadeus Traveler Media API | [amadeus-traveler-media](https://github.com/api-evangelist/amadeus-traveler-media) |
+| APIs | [amazon-amplify](https://github.com/api-evangelist/amazon-amplify) |
 | Amazon API Gateway | [amazon-api-gateway](https://github.com/api-evangelist/amazon-api-gateway) |
+| API artifacts for amazon-app-mesh | [amazon-app-mesh](https://github.com/api-evangelist/amazon-app-mesh) |
+| APIs | [amazon-app-runner](https://github.com/api-evangelist/amazon-app-runner) |
+| This is a repository for the Amazon app-studio API. | [amazon-app-studio](https://github.com/api-evangelist/amazon-app-studio) |
+| APIs | [amazon-appflow](https://github.com/api-evangelist/amazon-appflow) |
+| This is a repository for the Amazon application-discovery-service API. | [amazon-application-discovery-service](https://github.com/api-evangelist/amazon-application-discovery-service) |
+| This is a repository for the Amazon application-migration-service API. | [amazon-application-migration-service](https://github.com/api-evangelist/amazon-application-migration-service) |
+| APIs | [amazon-appsync](https://github.com/api-evangelist/amazon-appsync) |
+| APIs | [amazon-athena](https://github.com/api-evangelist/amazon-athena) |
+| This is a repository for the Amazon audit-manager API. | [amazon-audit-manager](https://github.com/api-evangelist/amazon-audit-manager) |
+| This is a repository for the Amazon augmented-ai API. | [amazon-augmented-ai](https://github.com/api-evangelist/amazon-augmented-ai) |
+| APIs | [amazon-aurora](https://github.com/api-evangelist/amazon-aurora) |
+| This is a repository for the Amazon aurora-dsql API. | [amazon-aurora-dsql](https://github.com/api-evangelist/amazon-aurora-dsql) |
+| This is a repository for the Amazon b2b-data-interchange API. | [amazon-b2b-data-interchange](https://github.com/api-evangelist/amazon-b2b-data-interchange) |
+| APIs | [amazon-backup](https://github.com/api-evangelist/amazon-backup) |
+| APIs | [amazon-batch](https://github.com/api-evangelist/amazon-batch) |
+| APIs for amazon uedrock | [amazon-bedrock](https://github.com/api-evangelist/amazon-bedrock) |
+| This is a repository for the Amazon billing-and-cost-management API. | [amazon-billing-and-cost-management](https://github.com/api-evangelist/amazon-billing-and-cost-management) |
+| This is a repository for the Amazon braket API. | [amazon-braket](https://github.com/api-evangelist/amazon-braket) |
+| APIs | [amazon-certificate-manager](https://github.com/api-evangelist/amazon-certificate-manager) |
+| This is a repository for the Amazon clean-rooms API. | [amazon-clean-rooms](https://github.com/api-evangelist/amazon-clean-rooms) |
+| This is a repository for the Amazon cloud-map API. | [amazon-cloud-map](https://github.com/api-evangelist/amazon-cloud-map) |
+| This is a repository for the Amazon cloud-wan API. | [amazon-cloud-wan](https://github.com/api-evangelist/amazon-cloud-wan) |
+| This is a repository for the Amazon cloud9 API. | [amazon-cloud9](https://github.com/api-evangelist/amazon-cloud9) |
+| APIs for amazon cloudformation | [amazon-cloudformation](https://github.com/api-evangelist/amazon-cloudformation) |
+| APIs for amazon cloudfront | [amazon-cloudfront](https://github.com/api-evangelist/amazon-cloudfront) |
+| This is a repository for the Amazon cloudhsm API. | [amazon-cloudhsm](https://github.com/api-evangelist/amazon-cloudhsm) |
+| APIs | [amazon-cloudsearch](https://github.com/api-evangelist/amazon-cloudsearch) |
+| This is a repository for the Amazon cloudshell API. | [amazon-cloudshell](https://github.com/api-evangelist/amazon-cloudshell) |
+| APIs | [amazon-cloudtrail](https://github.com/api-evangelist/amazon-cloudtrail) |
+| APIs for amazon cloudwatch | [amazon-cloudwatch](https://github.com/api-evangelist/amazon-cloudwatch) |
+| This is a repository for the Amazon codeartifact API. | [amazon-codeartifact](https://github.com/api-evangelist/amazon-codeartifact) |
+| APIs | [amazon-codebuild](https://github.com/api-evangelist/amazon-codebuild) |
+| This is a repository for the Amazon codecatalyst API. | [amazon-codecatalyst](https://github.com/api-evangelist/amazon-codecatalyst) |
+| APIs | [amazon-codedeploy](https://github.com/api-evangelist/amazon-codedeploy) |
+| This is a repository for the Amazon codeguru-profiler API. | [amazon-codeguru-profiler](https://github.com/api-evangelist/amazon-codeguru-profiler) |
+| This is a repository for the Amazon codeguru-reviewer API. | [amazon-codeguru-reviewer](https://github.com/api-evangelist/amazon-codeguru-reviewer) |
+| This is a repository for the Amazon codeguru-security API. | [amazon-codeguru-security](https://github.com/api-evangelist/amazon-codeguru-security) |
+| APIs | [amazon-codepipeline](https://github.com/api-evangelist/amazon-codepipeline) |
+| API artifacts for amazon-codestar | [amazon-codestar](https://github.com/api-evangelist/amazon-codestar) |
+| APIs for amazon cognito | [amazon-cognito](https://github.com/api-evangelist/amazon-cognito) |
+| APIs | [amazon-comprehend](https://github.com/api-evangelist/amazon-comprehend) |
+| This is a repository for the Amazon compute-optimizer API. | [amazon-compute-optimizer](https://github.com/api-evangelist/amazon-compute-optimizer) |
+| APIs | [amazon-config](https://github.com/api-evangelist/amazon-config) |
+| APIs | [amazon-connect](https://github.com/api-evangelist/amazon-connect) |
+| This is a repository for the Amazon control-tower API. | [amazon-control-tower](https://github.com/api-evangelist/amazon-control-tower) |
+| This is a repository for the Amazon data-exchange API. | [amazon-data-exchange](https://github.com/api-evangelist/amazon-data-exchange) |
+| This is a repository for the Amazon data-lifecycle-manager API. | [amazon-data-lifecycle-manager](https://github.com/api-evangelist/amazon-data-lifecycle-manager) |
+| API artifacts for amazon-data-pipeline | [amazon-data-pipeline](https://github.com/api-evangelist/amazon-data-pipeline) |
+| APIs | [amazon-datasync](https://github.com/api-evangelist/amazon-datasync) |
+| This is a repository for the Amazon datazone API. | [amazon-datazone](https://github.com/api-evangelist/amazon-datazone) |
+| This is a repository for the Amazon deadline-cloud API. | [amazon-deadline-cloud](https://github.com/api-evangelist/amazon-deadline-cloud) |
+| This is a repository for the Amazon deepracer API. | [amazon-deepracer](https://github.com/api-evangelist/amazon-deepracer) |
+| APIs | [amazon-detective](https://github.com/api-evangelist/amazon-detective) |
+| This is a repository for the Amazon device-farm API. | [amazon-device-farm](https://github.com/api-evangelist/amazon-device-farm) |
+| This is a repository for the Amazon devops-guru API. | [amazon-devops-guru](https://github.com/api-evangelist/amazon-devops-guru) |
+| APIs | [amazon-direct-connect](https://github.com/api-evangelist/amazon-direct-connect) |
+| This is a repository for the Amazon directory-service API. | [amazon-directory-service](https://github.com/api-evangelist/amazon-directory-service) |
+| APIs | [amazon-dms](https://github.com/api-evangelist/amazon-dms) |
+| APIs | [amazon-documentdb](https://github.com/api-evangelist/amazon-documentdb) |
+| APIs for amazon dynamodb | [amazon-dynamodb](https://github.com/api-evangelist/amazon-dynamodb) |
+| APIs | [amazon-ebs](https://github.com/api-evangelist/amazon-ebs) |
+| APIs for amazon ec2 | [amazon-ec2](https://github.com/api-evangelist/amazon-ec2) |
+| This is a repository for the Amazon ec2-auto-scaling API. | [amazon-ec2-auto-scaling](https://github.com/api-evangelist/amazon-ec2-auto-scaling) |
+| This is a repository for the Amazon ec2-image-builder API. | [amazon-ec2-image-builder](https://github.com/api-evangelist/amazon-ec2-image-builder) |
+| APIs | [amazon-ecr](https://github.com/api-evangelist/amazon-ecr) |
 | Amazon ECS | [amazon-ecs](https://github.com/api-evangelist/amazon-ecs) |
+| APIs | [amazon-efs](https://github.com/api-evangelist/amazon-efs) |
+| APIs for amazon eks | [amazon-eks](https://github.com/api-evangelist/amazon-eks) |
+| APIs | [amazon-elastic-beanstalk](https://github.com/api-evangelist/amazon-elastic-beanstalk) |
+| APIs for amazon elastic load ualancing | [amazon-elastic-load-balancing](https://github.com/api-evangelist/amazon-elastic-load-balancing) |
+| API artifacts for amazon-elastic-transcoder | [amazon-elastic-transcoder](https://github.com/api-evangelist/amazon-elastic-transcoder) |
+| APIs | [amazon-elasticache](https://github.com/api-evangelist/amazon-elasticache) |
+| APIs | [amazon-emr](https://github.com/api-evangelist/amazon-emr) |
+| This is a repository for the Amazon entity-resolution API. | [amazon-entity-resolution](https://github.com/api-evangelist/amazon-entity-resolution) |
+| APIs for amazon eventuridge | [amazon-eventbridge](https://github.com/api-evangelist/amazon-eventbridge) |
+| This is a repository for the Amazon eventbridge-pipes API. | [amazon-eventbridge-pipes](https://github.com/api-evangelist/amazon-eventbridge-pipes) |
+| This is a repository for the Amazon eventbridge-scheduler API. | [amazon-eventbridge-scheduler](https://github.com/api-evangelist/amazon-eventbridge-scheduler) |
+| APIs | [amazon-fargate](https://github.com/api-evangelist/amazon-fargate) |
+| This is a repository for the Amazon fault-injection-simulator API. | [amazon-fault-injection-simulator](https://github.com/api-evangelist/amazon-fault-injection-simulator) |
+| This is a repository for the Amazon finspace API. | [amazon-finspace](https://github.com/api-evangelist/amazon-finspace) |
+| This is a repository for the Amazon firewall-manager API. | [amazon-firewall-manager](https://github.com/api-evangelist/amazon-firewall-manager) |
+| This is a repository for the Amazon forecast API. | [amazon-forecast](https://github.com/api-evangelist/amazon-forecast) |
+| This is a repository for the Amazon fraud-detector API. | [amazon-fraud-detector](https://github.com/api-evangelist/amazon-fraud-detector) |
+| This is a repository for the Amazon freertos API. | [amazon-freertos](https://github.com/api-evangelist/amazon-freertos) |
+| APIs | [amazon-fsx](https://github.com/api-evangelist/amazon-fsx) |
+| This is a repository for the Amazon gamelift API. | [amazon-gamelift](https://github.com/api-evangelist/amazon-gamelift) |
+| APIs | [amazon-global-accelerator](https://github.com/api-evangelist/amazon-global-accelerator) |
+| APIs | [amazon-glue](https://github.com/api-evangelist/amazon-glue) |
+| This is a repository for the Amazon glue-databrew API. | [amazon-glue-databrew](https://github.com/api-evangelist/amazon-glue-databrew) |
+| This is a repository for the Amazon ground-station API. | [amazon-ground-station](https://github.com/api-evangelist/amazon-ground-station) |
+| APIs | [amazon-guardduty](https://github.com/api-evangelist/amazon-guardduty) |
+| This is a repository for the Amazon health-dashboard API. | [amazon-health-dashboard](https://github.com/api-evangelist/amazon-health-dashboard) |
+| This is a repository for the Amazon healthimaging API. | [amazon-healthimaging](https://github.com/api-evangelist/amazon-healthimaging) |
+| This is a repository for the Amazon healthlake API. | [amazon-healthlake](https://github.com/api-evangelist/amazon-healthlake) |
+| This is a repository for the Amazon healthomics API. | [amazon-healthomics](https://github.com/api-evangelist/amazon-healthomics) |
+| APIs for amazon iam | [amazon-iam](https://github.com/api-evangelist/amazon-iam) |
+| This is a repository for the Amazon iam-access-analyzer API. | [amazon-iam-access-analyzer](https://github.com/api-evangelist/amazon-iam-access-analyzer) |
+| This is a repository for the Amazon iam-identity-center API. | [amazon-iam-identity-center](https://github.com/api-evangelist/amazon-iam-identity-center) |
+| This is a repository for the Amazon incident-manager API. | [amazon-incident-manager](https://github.com/api-evangelist/amazon-incident-manager) |
+| APIs | [amazon-inspector](https://github.com/api-evangelist/amazon-inspector) |
+| This is a repository for the Amazon interactive-video-service API. | [amazon-interactive-video-service](https://github.com/api-evangelist/amazon-interactive-video-service) |
+| APIs | [amazon-iot-core](https://github.com/api-evangelist/amazon-iot-core) |
+| This is a repository for the Amazon iot-device-defender API. | [amazon-iot-device-defender](https://github.com/api-evangelist/amazon-iot-device-defender) |
+| This is a repository for the Amazon iot-device-management API. | [amazon-iot-device-management](https://github.com/api-evangelist/amazon-iot-device-management) |
+| This is a repository for the Amazon iot-events API. | [amazon-iot-events](https://github.com/api-evangelist/amazon-iot-events) |
+| This is a repository for the Amazon iot-fleetwise API. | [amazon-iot-fleetwise](https://github.com/api-evangelist/amazon-iot-fleetwise) |
+| This is a repository for the Amazon iot-greengrass API. | [amazon-iot-greengrass](https://github.com/api-evangelist/amazon-iot-greengrass) |
+| This is a repository for the Amazon iot-sitewise API. | [amazon-iot-sitewise](https://github.com/api-evangelist/amazon-iot-sitewise) |
+| This is a repository for the Amazon iot-twinmaker API. | [amazon-iot-twinmaker](https://github.com/api-evangelist/amazon-iot-twinmaker) |
+| APIs | [amazon-kendra](https://github.com/api-evangelist/amazon-kendra) |
+| APIs | [amazon-keyspaces](https://github.com/api-evangelist/amazon-keyspaces) |
 | Amazon Kinesis | [amazon-kinesis](https://github.com/api-evangelist/amazon-kinesis) |
+| API artifacts for amazon-kinesis-firehose | [amazon-kinesis-firehose](https://github.com/api-evangelist/amazon-kinesis-firehose) |
+| This is a repository for the Amazon kinesis-video-streams API. | [amazon-kinesis-video-streams](https://github.com/api-evangelist/amazon-kinesis-video-streams) |
+| APIs | [amazon-kms](https://github.com/api-evangelist/amazon-kms) |
+| APIs | [amazon-lake-formation](https://github.com/api-evangelist/amazon-lake-formation) |
+| API artifacts for amazon-lakeformation | [amazon-lakeformation](https://github.com/api-evangelist/amazon-lakeformation) |
+| APIs for amazon lamuda | [amazon-lambda](https://github.com/api-evangelist/amazon-lambda) |
+| This is a repository for the Amazon launch-wizard API. | [amazon-launch-wizard](https://github.com/api-evangelist/amazon-launch-wizard) |
+| APIs | [amazon-lex](https://github.com/api-evangelist/amazon-lex) |
+| This is a repository for the Amazon license-manager API. | [amazon-license-manager](https://github.com/api-evangelist/amazon-license-manager) |
+| APIs | [amazon-lightsail](https://github.com/api-evangelist/amazon-lightsail) |
+| APIs | [amazon-location-service](https://github.com/api-evangelist/amazon-location-service) |
+| This is a repository for the Amazon lookout-for-equipment API. | [amazon-lookout-for-equipment](https://github.com/api-evangelist/amazon-lookout-for-equipment) |
+| This is a repository for the Amazon lookout-for-metrics API. | [amazon-lookout-for-metrics](https://github.com/api-evangelist/amazon-lookout-for-metrics) |
+| This is a repository for the Amazon lookout-for-vision API. | [amazon-lookout-for-vision](https://github.com/api-evangelist/amazon-lookout-for-vision) |
+| APIs | [amazon-macie](https://github.com/api-evangelist/amazon-macie) |
+| This is a repository for the Amazon mainframe-modernization API. | [amazon-mainframe-modernization](https://github.com/api-evangelist/amazon-mainframe-modernization) |
+| This is a repository for the Amazon managed-apache-flink API. | [amazon-managed-apache-flink](https://github.com/api-evangelist/amazon-managed-apache-flink) |
+| API artifacts for amazon-managed-blockchain | [amazon-managed-blockchain](https://github.com/api-evangelist/amazon-managed-blockchain) |
+| This is a repository for the Amazon managed-grafana API. | [amazon-managed-grafana](https://github.com/api-evangelist/amazon-managed-grafana) |
+| This is a repository for the Amazon managed-prometheus API. | [amazon-managed-prometheus](https://github.com/api-evangelist/amazon-managed-prometheus) |
+| This is a repository for the Amazon marketplace API. | [amazon-marketplace](https://github.com/api-evangelist/amazon-marketplace) |
+| This is a repository for the Amazon mechanical-turk API. | [amazon-mechanical-turk](https://github.com/api-evangelist/amazon-mechanical-turk) |
+| This is a repository for the Amazon mediaconnect API. | [amazon-mediaconnect](https://github.com/api-evangelist/amazon-mediaconnect) |
+| This is a repository for the Amazon mediaconvert API. | [amazon-mediaconvert](https://github.com/api-evangelist/amazon-mediaconvert) |
+| This is a repository for the Amazon medialive API. | [amazon-medialive](https://github.com/api-evangelist/amazon-medialive) |
+| This is a repository for the Amazon mediapackage API. | [amazon-mediapackage](https://github.com/api-evangelist/amazon-mediapackage) |
+| This is a repository for the Amazon mediastore API. | [amazon-mediastore](https://github.com/api-evangelist/amazon-mediastore) |
+| This is a repository for the Amazon mediatailor API. | [amazon-mediatailor](https://github.com/api-evangelist/amazon-mediatailor) |
+| APIs | [amazon-memorydb](https://github.com/api-evangelist/amazon-memorydb) |
+| This is a repository for the Amazon migration-hub API. | [amazon-migration-hub](https://github.com/api-evangelist/amazon-migration-hub) |
+| This is a repository for the Amazon monitron API. | [amazon-monitron](https://github.com/api-evangelist/amazon-monitron) |
+| APIs | [amazon-mq](https://github.com/api-evangelist/amazon-mq) |
+| APIs | [amazon-msk](https://github.com/api-evangelist/amazon-msk) |
 | Amazon Neptune | [amazon-neptune](https://github.com/api-evangelist/amazon-neptune) |
+| This is a repository for the Amazon network-firewall API. | [amazon-network-firewall](https://github.com/api-evangelist/amazon-network-firewall) |
+| This is a repository for the Amazon nova API. | [amazon-nova](https://github.com/api-evangelist/amazon-nova) |
+| API artifacts for amazon-opensearch | [amazon-opensearch](https://github.com/api-evangelist/amazon-opensearch) |
+| APIs | [amazon-opensearch-service](https://github.com/api-evangelist/amazon-opensearch-service) |
+| APIs | [amazon-organizations](https://github.com/api-evangelist/amazon-organizations) |
+| This is a repository for the Amazon outposts API. | [amazon-outposts](https://github.com/api-evangelist/amazon-outposts) |
+| This is a repository for the Amazon panorama API. | [amazon-panorama](https://github.com/api-evangelist/amazon-panorama) |
+| This is a repository for the Amazon parallel-computing-service API. | [amazon-parallel-computing-service](https://github.com/api-evangelist/amazon-parallel-computing-service) |
+| This is a repository for the Amazon payment-cryptography API. | [amazon-payment-cryptography](https://github.com/api-evangelist/amazon-payment-cryptography) |
+| APIs | [amazon-personalize](https://github.com/api-evangelist/amazon-personalize) |
+| APIs | [amazon-pinpoint](https://github.com/api-evangelist/amazon-pinpoint) |
+| APIs | [amazon-polly](https://github.com/api-evangelist/amazon-polly) |
+| This is a repository for the Amazon private-ca API. | [amazon-private-ca](https://github.com/api-evangelist/amazon-private-ca) |
+| This is a repository for the Amazon privatelink API. | [amazon-privatelink](https://github.com/api-evangelist/amazon-privatelink) |
+| This is a repository for the Amazon proton API. | [amazon-proton](https://github.com/api-evangelist/amazon-proton) |
 | Amazon Q | [amazon-q](https://github.com/api-evangelist/amazon-q) |
+| API artifacts for amazon-qldb | [amazon-qldb](https://github.com/api-evangelist/amazon-qldb) |
+| APIs | [amazon-quicksight](https://github.com/api-evangelist/amazon-quicksight) |
+| APIs for amazon rds | [amazon-rds](https://github.com/api-evangelist/amazon-rds) |
 | Amazon Redshift | [amazon-redshift](https://github.com/api-evangelist/amazon-redshift) |
+| APIs | [amazon-rekognition](https://github.com/api-evangelist/amazon-rekognition) |
+| This is a repository for the Amazon resilience-hub API. | [amazon-resilience-hub](https://github.com/api-evangelist/amazon-resilience-hub) |
+| This is a repository for the Amazon resource-explorer API. | [amazon-resource-explorer](https://github.com/api-evangelist/amazon-resource-explorer) |
+| API artifacts for amazon-robomaker | [amazon-robomaker](https://github.com/api-evangelist/amazon-robomaker) |
+| APIs for amazon route 53 | [amazon-route-53](https://github.com/api-evangelist/amazon-route-53) |
+| API artifacts for amazon-route53-resolver | [amazon-route53-resolver](https://github.com/api-evangelist/amazon-route53-resolver) |
 | Amazon S3 API | [amazon-s3](https://github.com/api-evangelist/amazon-s3) |
+| APIs | [amazon-s3-glacier](https://github.com/api-evangelist/amazon-s3-glacier) |
+| APIs for amazon sagemaker | [amazon-sagemaker](https://github.com/api-evangelist/amazon-sagemaker) |
+| APIs for amazon secrets manager | [amazon-secrets-manager](https://github.com/api-evangelist/amazon-secrets-manager) |
+| APIs | [amazon-security-hub](https://github.com/api-evangelist/amazon-security-hub) |
+| This is a repository for the Amazon security-lake API. | [amazon-security-lake](https://github.com/api-evangelist/amazon-security-lake) |
+| This is a repository for the Amazon serverless-application-repository API. | [amazon-serverless-application-repository](https://github.com/api-evangelist/amazon-serverless-application-repository) |
+| This is a repository for the Amazon service-catalog API. | [amazon-service-catalog](https://github.com/api-evangelist/amazon-service-catalog) |
+| APIs | [amazon-ses](https://github.com/api-evangelist/amazon-ses) |
+| APIs | [amazon-shield](https://github.com/api-evangelist/amazon-shield) |
+| This is a repository for the Amazon signer API. | [amazon-signer](https://github.com/api-evangelist/amazon-signer) |
+| This is a repository for the Amazon simpledb API. | [amazon-simpledb](https://github.com/api-evangelist/amazon-simpledb) |
+| This is a repository for the Amazon simspace-weaver API. | [amazon-simspace-weaver](https://github.com/api-evangelist/amazon-simspace-weaver) |
+| This is a repository for the Amazon snow-family API. | [amazon-snow-family](https://github.com/api-evangelist/amazon-snow-family) |
 | Amazon Simple Notification Service (SNS) | [amazon-sns](https://github.com/api-evangelist/amazon-sns) |
 | Amazon Simple Queue Service (SQS) | [amazon-sqs](https://github.com/api-evangelist/amazon-sqs) |
+| APIs for amazon step functions | [amazon-step-functions](https://github.com/api-evangelist/amazon-step-functions) |
+| APIs | [amazon-storage-gateway](https://github.com/api-evangelist/amazon-storage-gateway) |
+| This is a repository for the Amazon supply-chain API. | [amazon-supply-chain](https://github.com/api-evangelist/amazon-supply-chain) |
+| This is a repository for the Amazon swf API. | [amazon-swf](https://github.com/api-evangelist/amazon-swf) |
+| APIs | [amazon-systems-manager](https://github.com/api-evangelist/amazon-systems-manager) |
+| APIs | [amazon-textract](https://github.com/api-evangelist/amazon-textract) |
+| APIs | [amazon-timestream](https://github.com/api-evangelist/amazon-timestream) |
+| APIs | [amazon-transcribe](https://github.com/api-evangelist/amazon-transcribe) |
+| This is a repository for the Amazon transfer-family API. | [amazon-transfer-family](https://github.com/api-evangelist/amazon-transfer-family) |
+| APIs | [amazon-transit-gateway](https://github.com/api-evangelist/amazon-transit-gateway) |
+| APIs | [amazon-translate](https://github.com/api-evangelist/amazon-translate) |
+| This is a repository for the Amazon trusted-advisor API. | [amazon-trusted-advisor](https://github.com/api-evangelist/amazon-trusted-advisor) |
+| This is a repository for the Amazon verified-access API. | [amazon-verified-access](https://github.com/api-evangelist/amazon-verified-access) |
+| This is a repository for the Amazon verified-permissions API. | [amazon-verified-permissions](https://github.com/api-evangelist/amazon-verified-permissions) |
+| APIs for amazon vpc | [amazon-vpc](https://github.com/api-evangelist/amazon-vpc) |
+| This is a repository for the Amazon vpc-lattice API. | [amazon-vpc-lattice](https://github.com/api-evangelist/amazon-vpc-lattice) |
+| This is a repository for the Amazon vpn API. | [amazon-vpn](https://github.com/api-evangelist/amazon-vpn) |
+| APIs | [amazon-waf](https://github.com/api-evangelist/amazon-waf) |
 | Amazon Web Services | [amazon-web-services](https://github.com/api-evangelist/amazon-web-services) |
 | Amazon Web Services (AWS) | [amazon-web-services-aws](https://github.com/api-evangelist/amazon-web-services-aws) |
+| This is a repository for the Amazon well-architected-tool API. | [amazon-well-architected-tool](https://github.com/api-evangelist/amazon-well-architected-tool) |
+| This is a repository for the Amazon workmail API. | [amazon-workmail](https://github.com/api-evangelist/amazon-workmail) |
+| API artifacts for amazon-workspaces | [amazon-workspaces](https://github.com/api-evangelist/amazon-workspaces) |
+| This is a repository for the Amazon workspaces-web API. | [amazon-workspaces-web](https://github.com/api-evangelist/amazon-workspaces-web) |
+| APIs | [amazon-xray](https://github.com/api-evangelist/amazon-xray) |
 | Ambassador | [ambassador](https://github.com/api-evangelist/ambassador) |
 | American Battle Monuments Commission | [american-battle-monuments-commission](https://github.com/api-evangelist/american-battle-monuments-commission) |
 | American Express | [american-express](https://github.com/api-evangelist/american-express) |
 | AmeriCorps | [americorps](https://github.com/api-evangelist/americorps) |
+| Ampersand is a developer-first embedded integration platform focused on deep, real-time bidirectional syncs for CRM and GTM tools. | [ampersand](https://github.com/api-evangelist/ampersand) |
 | Analytics API Collection | [analytics](https://github.com/api-evangelist/analytics) |
 | Android APIs | [android](https://github.com/api-evangelist/android) |
 | Angular | [angular](https://github.com/api-evangelist/angular) |
@@ -132,7 +342,6 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | API Insights | [api-insights](https://github.com/api-evangelist/api-insights) |
 | API League | [api-league](https://github.com/api-evangelist/api-league) |
 | API Pulse | [api-pulse](https://github.com/api-evangelist/api-pulse) |
-| The API Pulse | [api-pulse-api](https://github.com/api-evangelist/api-pulse-api) |
 | API-Sports | [api-sports](https://github.com/api-evangelist/api-sports) |
 | API Stack | [api-stack](https://github.com/api-evangelist/api-stack) |
 | API.Video | [api-video](https://github.com/api-evangelist/api-video) |
@@ -140,6 +349,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | APIContext | [apicontext](https://github.com/api-evangelist/apicontext) |
 | Apideck | [apideck](https://github.com/api-evangelist/apideck) |
 | Apidog | [apidog](https://github.com/api-evangelist/apidog) |
+| APIFuse is a developer-first embedded iPaaS with a white-labeled integration marketplace for SaaS companies. | [apifuse](https://github.com/api-evangelist/apifuse) |
 | Apigee | [apigee](https://github.com/api-evangelist/apigee) |
 | APIGen | [apigen](https://github.com/api-evangelist/apigen) |
 | APIGit | [apigit](https://github.com/api-evangelist/apigit) |
@@ -148,9 +358,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | APILayer | [apilayer](https://github.com/api-evangelist/apilayer) |
 | APIMatic | [apimatic](https://github.com/api-evangelist/apimatic) |
 | apinity.io | [apinity-io](https://github.com/api-evangelist/apinity-io) |
+| Apinizer is an API management platform offering an API gateway, API creator, API monitor, and API portal with no-code integration capabilities. | [apinizer](https://github.com/api-evangelist/apinizer) |
 | Products | [apiops-cycles-canvas](https://github.com/api-evangelist/apiops-cycles-canvas) |
 | APIPark | [apipark](https://github.com/api-evangelist/apipark) |
-| API Evangelist APIs | [apis](https://github.com/api-evangelist/apis) |
 | ApiShare | [apishare](https://github.com/api-evangelist/apishare) |
 | APIToolKit | [apitoolkit](https://github.com/api-evangelist/apitoolkit) |
 | Apivault | [apivault](https://github.com/api-evangelist/apivault) |
@@ -164,10 +374,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Apple Keynote API | [apple-keynote](https://github.com/api-evangelist/apple-keynote) |
 | Apple Pay API | [apple-pay](https://github.com/api-evangelist/apple-pay) |
 | Apple Safari | [apple-safari](https://github.com/api-evangelist/apple-safari) |
+| This is research across the specifications used to define applications. | [application-research](https://github.com/api-evangelist/application-research) |
 | Appmixer | [appmixer](https://github.com/api-evangelist/appmixer) |
+| Apptio Cloudability is an IBM-owned FinOps platform providing multi-cloud cost allocation, forecasting, and commitment optimization. | [apptio](https://github.com/api-evangelist/apptio) |
 | Appwrite | [appwrite](https://github.com/api-evangelist/appwrite) |
 | AppyWay | [appyway](https://github.com/api-evangelist/appyway) |
 | ApyHub | [apyhub](https://github.com/api-evangelist/apyhub) |
+| Archbee is a lightweight developer documentation tool for building product docs, API references, internal wikis, and changelogs. | [archbee](https://github.com/api-evangelist/archbee) |
 | ArchiMate | [archimate](https://github.com/api-evangelist/archimate) |
 | Architect of the Capitol | [architect-of-the-capitol](https://github.com/api-evangelist/architect-of-the-capitol) |
 | Argus | [argus](https://github.com/api-evangelist/argus) |
@@ -193,6 +406,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | AT&T Developer Hub | [at-t-developer-hub](https://github.com/api-evangelist/at-t-developer-hub) |
 | National Council on Disability | [ational-council-on-disability](https://github.com/api-evangelist/ational-council-on-disability) |
 | Atlassian | [atlassian](https://github.com/api-evangelist/atlassian) |
+| Atlassian Compass is a developer experience platform that integrates with Jira, Confluence, and Bitbucket for unified engineering component catalogs. | [atlassian-compass](https://github.com/api-evangelist/atlassian-compass) |
 | Atlassian Confluence API | [atlassian-confluence](https://github.com/api-evangelist/atlassian-confluence) |
 | Atlassian Jira | [atlassian-jira](https://github.com/api-evangelist/atlassian-jira) |
 | Audatex | [audatex](https://github.com/api-evangelist/audatex) |
@@ -215,38 +429,28 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Aviationstack | [aviationstack](https://github.com/api-evangelist/aviationstack) |
 | Aviyair | [aviyair](https://github.com/api-evangelist/aviyair) |
 | Amazon Web Services (AWS) | [aws](https://github.com/api-evangelist/aws) |
+| AWS App Mesh is a managed service mesh that standardizes microservice communication across ECS, EKS, EC2, and Fargate using Envoy proxy. | [aws-app-mesh](https://github.com/api-evangelist/aws-app-mesh) |
 | AWS Lambda | [aws-lambda](https://github.com/api-evangelist/aws-lambda) |
 | AWS Redshift API | [aws-redshift](https://github.com/api-evangelist/aws-redshift) |
 | Amazon S3 API | [aws-s3](https://github.com/api-evangelist/aws-s3) |
 | Axiom | [axiom](https://github.com/api-evangelist/axiom) |
 | Axiom Controller | [axiom-controller](https://github.com/api-evangelist/axiom-controller) |
+| Axway Amplify is an enterprise API management platform specializing in connecting legacy infrastructure to modern microservices through federated API management. | [axway](https://github.com/api-evangelist/axway) |
 | Microsoft Azure | [azure](https://github.com/api-evangelist/azure) |
-| Azure Active Directory | [azure-active-directory](https://github.com/api-evangelist/azure-active-directory) |
 | Azure Active Directory (Azure AD) | [azure-ad](https://github.com/api-evangelist/azure-ad) |
-| Azure Blob Storage | [azure-blob-storage](https://github.com/api-evangelist/azure-blob-storage) |
 | Microsoft Azure APIs | [azure-cloud](https://github.com/api-evangelist/azure-cloud) |
-| Azure Databricks | [azure-databricks](https://github.com/api-evangelist/azure-databricks) |
 | Azure DevOps APIs | [azure-dev-ops](https://github.com/api-evangelist/azure-dev-ops) |
-| Azure DevOps | [azure-devops](https://github.com/api-evangelist/azure-devops) |
-| Azure Event Hubs | [azure-event-hubs](https://github.com/api-evangelist/azure-event-hubs) |
 | Azure Function Apps API | [azure-function-apps](https://github.com/api-evangelist/azure-function-apps) |
 | Azure Functions | [azure-functions](https://github.com/api-evangelist/azure-functions) |
-| Azure Key Vault | [azure-key-vault](https://github.com/api-evangelist/azure-key-vault) |
-| Azure Kubernetes Service | [azure-kubernetes-service](https://github.com/api-evangelist/azure-kubernetes-service) |
 | Azure Log Analytics | [azure-log-analytics](https://github.com/api-evangelist/azure-log-analytics) |
-| Azure Monitor | [azure-monitor](https://github.com/api-evangelist/azure-monitor) |
-| Azure Networking APIs | [azure-networking](https://github.com/api-evangelist/azure-networking) |
 | Azure Networking Services | [azure-networking-services](https://github.com/api-evangelist/azure-networking-services) |
 | Azure Notebooks | [azure-notebooks](https://github.com/api-evangelist/azure-notebooks) |
-| Azure Pipelines API | [azure-pipelines](https://github.com/api-evangelist/azure-pipelines) |
-| Azure Repos | [azure-repo](https://github.com/api-evangelist/azure-repo) |
 | Azure Storage Account APIs | [azure-storage-account](https://github.com/api-evangelist/azure-storage-account) |
 | Azure Storage Accounts API | [azure-storage-accounts](https://github.com/api-evangelist/azure-storage-accounts) |
 | Azure Synapse Analytics | [azure-synapse](https://github.com/api-evangelist/azure-synapse) |
-| Azure Synapse Analytics | [azure-synapse-analytics](https://github.com/api-evangelist/azure-synapse-analytics) |
 | Azure DevTest Labs API | [azure-test-labs](https://github.com/api-evangelist/azure-test-labs) |
-| Azure Virtual Machines API | [azure-virtual-machines](https://github.com/api-evangelist/azure-virtual-machines) |
 | Backblaze | [backblaze](https://github.com/api-evangelist/backblaze) |
+| This is backstage. | [backstage](https://github.com/api-evangelist/backstage) |
 | Ballerina | [ballerina](https://github.com/api-evangelist/ballerina) |
 | Bancomat API | [bancomat](https://github.com/api-evangelist/bancomat) |
 | Bancontact | [bancontact](https://github.com/api-evangelist/bancontact) |
@@ -254,13 +458,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Banuba | [banuba](https://github.com/api-evangelist/banuba) |
 | Barclays | [barclays](https://github.com/api-evangelist/barclays) |
 | Barcode Scanner APIs | [barcode-scanners](https://github.com/api-evangelist/barcode-scanners) |
-| API Evangelist Conversations | [base-apis](https://github.com/api-evangelist/base-apis) |
-| API Evangelist Conversations | [base-changes](https://github.com/api-evangelist/base-changes) |
-| API Evangelist Conversations | [base-evangelism](https://github.com/api-evangelist/base-evangelism) |
-| API Evangelist Conversations | [base-governance](https://github.com/api-evangelist/base-governance) |
-| API Evangelist Conversations | [base-operations](https://github.com/api-evangelist/base-operations) |
-| API Evangelist Conversations | [base-schema](https://github.com/api-evangelist/base-schema) |
-| API Evangelist Bases | [bases](https://github.com/api-evangelist/bases) |
+| Barndoor | [barndoor](https://github.com/api-evangelist/barndoor) |
 | Basetrip | [basetrip](https://github.com/api-evangelist/basetrip) |
 | Bash Shell APIs | [bash](https://github.com/api-evangelist/bash) |
 | Battle.net | [battle-net](https://github.com/api-evangelist/battle-net) |
@@ -270,9 +468,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Benchmark Minerals | [benchmark-minerals](https://github.com/api-evangelist/benchmark-minerals) |
 | BetSolutions | [betsolutions](https://github.com/api-evangelist/betsolutions) |
 | Better Stack | [better-stack](https://github.com/api-evangelist/better-stack) |
+| BetterCloud is an end-to-end SaaS management platform for IT teams combining app discovery, automated user lifecycle management, and spend control. | [bettercloud](https://github.com/api-evangelist/bettercloud) |
 | BeyondTrust | [beyondtrust](https://github.com/api-evangelist/beyondtrust) |
+| Bifrost is a high-performance open-source AI gateway supporting 1,000+ models across 15+ providers with adaptive load balancing. | [bifrost](https://github.com/api-evangelist/bifrost) |
 | BigCommerce | [bigcommerce](https://github.com/api-evangelist/bigcommerce) |
 | BigPanda | [bigpanda](https://github.com/api-evangelist/bigpanda) |
+| Bindbee is a unified API purpose-built for HRIS, ATS, and payroll integrations. | [bindbee](https://github.com/api-evangelist/bindbee) |
 | Bitbucket | [bitbucket](https://github.com/api-evangelist/bitbucket) |
 | BizAPI | [bizapi](https://github.com/api-evangelist/bizapi) |
 | BlaBlaCar Bus API | [blablacar-bus-api](https://github.com/api-evangelist/blablacar-bus-api) |
@@ -316,7 +517,6 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Bloomberg TV | [bloomberg-tv](https://github.com/api-evangelist/bloomberg-tv) |
 | Bloomberg Valuation Service (BVAL) | [bloomberg-valuation-service-bval](https://github.com/api-evangelist/bloomberg-valuation-service-bval) |
 | Blubrry API - RESTful API for podcast publishing & statistics | [blubrry-api-restful-api-for-podcast-publishing-statistics](https://github.com/api-evangelist/blubrry-api-restful-api-for-podcast-publishing-statistics) |
-| API Evangelist Blueprints | [blueprints](https://github.com/api-evangelist/blueprints) |
 | Bluesky | [bluesky](https://github.com/api-evangelist/bluesky) |
 | BMW | [bmw](https://github.com/api-evangelist/bmw) |
 | BNP Paribas | [bnp-paribas](https://github.com/api-evangelist/bnp-paribas) |
@@ -342,7 +542,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Broadcom | [broadcom](https://github.com/api-evangelist/broadcom) |
 | Brocade | [brocade](https://github.com/api-evangelist/brocade) |
 | BrowserStack | [browserstack](https://github.com/api-evangelist/browserstack) |
+| Bruno is an open-source, offline-first API client that stores requests as plain files on disk, enabling native Git-based version control. | [bruno](https://github.com/api-evangelist/bruno) |
 | Bubbles | [bubbles](https://github.com/api-evangelist/bubbles) |
+| Bump.sh is a continuous API documentation platform that auto-generates reference docs from OpenAPI and AsyncAPI specs. | [bump-sh](https://github.com/api-evangelist/bump-sh) |
 | Bunq | [bunq](https://github.com/api-evangelist/bunq) |
 | Buoyant | [buoyant](https://github.com/api-evangelist/buoyant) |
 | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) | [bureau-of-alcohol-tobacco-firearms-and-explosives-atf-](https://github.com/api-evangelist/bureau-of-alcohol-tobacco-firearms-and-explosives-atf-) |
@@ -357,7 +559,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Bureau of Land Management | [bureau-of-land-management](https://github.com/api-evangelist/bureau-of-land-management) |
 | Bureau of Ocean Energy Management | [bureau-of-ocean-energy-management](https://github.com/api-evangelist/bureau-of-ocean-energy-management) |
 | Bureau of Reclamation | [bureau-of-reclamation](https://github.com/api-evangelist/bureau-of-reclamation) |
-|  Bureau of Safety and Environmental Enforcement | [bureau-of-safety-and-environmental-enforcement](https://github.com/api-evangelist/bureau-of-safety-and-environmental-enforcement) |
+| ' Bureau of Safety and Environmental Enforcement' | [bureau-of-safety-and-environmental-enforcement](https://github.com/api-evangelist/bureau-of-safety-and-environmental-enforcement) |
 | Bureau of Transportation Statistics | [bureau-of-transportation-statistics](https://github.com/api-evangelist/bureau-of-transportation-statistics) |
 | Business Software and Services Reviews | G2 | [business-software-and-services-reviews-g2](https://github.com/api-evangelist/business-software-and-services-reviews-g2) |
 | CalorieNinjas | [calorie-ninjas](https://github.com/api-evangelist/calorie-ninjas) |
@@ -366,12 +568,15 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Calypso Workstation | [calypso-workstation](https://github.com/api-evangelist/calypso-workstation) |
 | Campflare | [campflare](https://github.com/api-evangelist/campflare) |
 | Camtasia | [camtasia](https://github.com/api-evangelist/camtasia) |
+| Camunda | [camunda](https://github.com/api-evangelist/camunda) |
 | Swagger UI | [cancer-gov](https://github.com/api-evangelist/cancer-gov) |
 | Candid | [candid](https://github.com/api-evangelist/candid) |
+| Canonical | [canonical](https://github.com/api-evangelist/canonical) |
 | Property and Casualty Insurance API | Plaid for Insurance | Canopy Connect API | [canopy](https://github.com/api-evangelist/canopy) |
 | Cantaloupe Seed API | [cantaloupe-seed-api](https://github.com/api-evangelist/cantaloupe-seed-api) |
 | Canva APIs | [canva](https://github.com/api-evangelist/canva) |
 | Canvas | [canvas](https://github.com/api-evangelist/canvas) |
+| This is for managing capabilities. | [capabilities](https://github.com/api-evangelist/capabilities) |
 | Capital.com Public API | [capital-com-public-api](https://github.com/api-evangelist/capital-com-public-api) |
 | Capital One | [capital-one](https://github.com/api-evangelist/capital-one) |
 | Capitalist | [capitalist](https://github.com/api-evangelist/capitalist) |
@@ -387,6 +592,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | cat | [cat](https://github.com/api-evangelist/cat) |
 | CData | [cdata](https://github.com/api-evangelist/cdata) |
 | Celery | [celery](https://github.com/api-evangelist/celery) |
+| Celigo is a modern iPaaS purpose-built for SaaS-to-SaaS integration with pre-built Integration Apps and AI-assisted automation. | [celigo](https://github.com/api-evangelist/celigo) |
 | Center for Parent Information and Resources | [center-for-parent-information-and-resources](https://github.com/api-evangelist/center-for-parent-information-and-resources) |
 | Centers for Disease Control and Prevention | [centers-for-disease-control-and-prevention](https://github.com/api-evangelist/centers-for-disease-control-and-prevention) |
 | Centers for Medicare and Medicaid Services | [centers-for-medicare-and-medicaid-services](https://github.com/api-evangelist/centers-for-medicare-and-medicaid-services) |
@@ -411,6 +617,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Chief Human Capital Officers | [chief-human-capital-officers](https://github.com/api-evangelist/chief-human-capital-officers) |
 | Chief Information Officers Council | [chief-information-officers-council](https://github.com/api-evangelist/chief-information-officers-council) |
 | Choreo | [choreo](https://github.com/api-evangelist/choreo) |
+| Cilium is an eBPF-based networking, security, and observability platform providing service mesh capabilities without traditional sidecar proxies. | [cilium](https://github.com/api-evangelist/cilium) |
 | Circana | [circana](https://github.com/api-evangelist/circana) |
 | Circle | [circle](https://github.com/api-evangelist/circle) |
 | CircleCIs | [circlecis](https://github.com/api-evangelist/circlecis) |
@@ -432,6 +639,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Classif.io | [classif-io](https://github.com/api-evangelist/classif-io) |
 | Claude API | [claude](https://github.com/api-evangelist/claude) |
 | Clearstream | [clearstream](https://github.com/api-evangelist/clearstream) |
+| Cledara is a SaaS subscription management platform combining spend visibility and approval workflows with a dedicated purchase card. | [cledara](https://github.com/api-evangelist/cledara) |
 | Cleo | [cleo](https://github.com/api-evangelist/cleo) |
 | Clerk.io | [clerk-io](https://github.com/api-evangelist/clerk-io) |
 | CleverTap | [clevertap](https://github.com/api-evangelist/clevertap) |
@@ -441,9 +649,11 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | clockodo | [clockodo](https://github.com/api-evangelist/clockodo) |
 | Cloud | [cloud](https://github.com/api-evangelist/cloud) |
 | Cloudbees | [cloudbees](https://github.com/api-evangelist/cloudbees) |
+| CloudEagle is an AI-powered SaaS management and procurement platform for discovering unauthorized apps and automating onboarding workflows. | [cloudeagle](https://github.com/api-evangelist/cloudeagle) |
 | Cloudflare | [cloudflare](https://github.com/api-evangelist/cloudflare) |
 | AWS CloudFormation API | [cloudformation](https://github.com/api-evangelist/cloudformation) |
 | CloudGuard APIs | [cloudguard](https://github.com/api-evangelist/cloudguard) |
+| CloudHealth (VMware Aria Cost) is a multi-cloud governance and cost management platform with policy-driven cost allocation and budgeting. | [cloudhealth](https://github.com/api-evangelist/cloudhealth) |
 | Cloudinary | [cloudinary](https://github.com/api-evangelist/cloudinary) |
 | Cloudmersive | [cloudmersive](https://github.com/api-evangelist/cloudmersive) |
 | Swagger UI | [cloudrf](https://github.com/api-evangelist/cloudrf) |
@@ -452,20 +662,23 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | CNH | [cnh](https://github.com/api-evangelist/cnh) |
 | Cobalt | [cobalt](https://github.com/api-evangelist/cobalt) |
 | Cockroach Labs | [cockroach-labs](https://github.com/api-evangelist/cockroach-labs) |
+| Codat is a unified API platform focused on SMB financial data, connecting to 30+ accounting, ERP, banking, and payment platforms. | [codat](https://github.com/api-evangelist/codat) |
 | Codehooks | [codehooks](https://github.com/api-evangelist/codehooks) |
 | cohesity | [cohesity](https://github.com/api-evangelist/cohesity) |
 | CoinAPI | [coinapi](https://github.com/api-evangelist/coinapi) |
 | Comeet | [comeet](https://github.com/api-evangelist/comeet) |
+| Cometapi | [cometapi](https://github.com/api-evangelist/cometapi) |
 | Commission of Fine Arts | [commission-of-fine-arts](https://github.com/api-evangelist/commission-of-fine-arts) |
 | Committee on Foreign Investment in the United States | [committee-on-foreign-investment-in-the-united-states](https://github.com/api-evangelist/committee-on-foreign-investment-in-the-united-states) |
 | Commodity Futures Trading Commission | [commodity-futures-trading-commission](https://github.com/api-evangelist/commodity-futures-trading-commission) |
 | Common Sense Media | [common-sense-media](https://github.com/api-evangelist/common-sense-media) |
 | Commvault | [commvault](https://github.com/api-evangelist/commvault) |
 | CompleteDNS | [completedns](https://github.com/api-evangelist/completedns) |
+| Composio is a unified API and tooling platform for AI agents with 850+ pre-built connectors and managed OAuth. | [composio](https://github.com/api-evangelist/composio) |
 | Conductor | [conductor](https://github.com/api-evangelist/conductor) |
 | Conektto | [conektto](https://github.com/api-evangelist/conektto) |
 | Confido Legal | [confido-legal](https://github.com/api-evangelist/confido-legal) |
-| config | [config](https://github.com/api-evangelist/config) |
+| Configure8 is an internal developer portal with a universal catalog organizing sociotechnical knowledge about teams, applications, and services. | [configure8](https://github.com/api-evangelist/configure8) |
 | Confluence API | [confluence](https://github.com/api-evangelist/confluence) |
 | Confluence Unity API | [confluence-unity](https://github.com/api-evangelist/confluence-unity) |
 | Confluent | [confluent](https://github.com/api-evangelist/confluent) |
@@ -476,16 +689,17 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Construction Monitor | [construction-monitor](https://github.com/api-evangelist/construction-monitor) |
 | ConstructionOnline | [constructiononline](https://github.com/api-evangelist/constructiononline) |
 | HashiCorp Consul | [consul](https://github.com/api-evangelist/consul) |
-|  Consumer Financial Protection Bureau | [consumer-financial-protection-bureau](https://github.com/api-evangelist/consumer-financial-protection-bureau) |
+| ' Consumer Financial Protection Bureau' | [consumer-financial-protection-bureau](https://github.com/api-evangelist/consumer-financial-protection-bureau) |
 | Consumer Product Safety Commission (CPSC) | [consumer-product-safety-commission](https://github.com/api-evangelist/consumer-product-safety-commission) |
 | Contensis | [contensis](https://github.com/api-evangelist/contensis) |
 | Contentful | [contentful](https://github.com/api-evangelist/contentful) |
+| Context7 | [context7](https://github.com/api-evangelist/context7) |
 | Contify | [contify](https://github.com/api-evangelist/contify) |
-| API Evangelist Contracts | [contracts](https://github.com/api-evangelist/contracts) |
-| API Evangelist Conversations | [conversations](https://github.com/api-evangelist/conversations) |
 | copper | [copper](https://github.com/api-evangelist/copper) |
 | Coresignal | [coresignal](https://github.com/api-evangelist/coresignal) |
+| Corma is an access management and SaaS governance platform that centralizes apps, automates access reviews, and tracks software spend. | [corma](https://github.com/api-evangelist/corma) |
 | Corporate Bullshit Generator | [corporate-bullshit-generator-api](https://github.com/api-evangelist/corporate-bullshit-generator-api) |
+| Cortex is a managed internal developer portal with AI-powered service ownership scorecards and engineering standards enforcement. | [cortex](https://github.com/api-evangelist/cortex) |
 | Swagger UI | [corva-ai](https://github.com/api-evangelist/corva-ai) |
 | Council on Environmental Quality | [council-on-environmental-quality](https://github.com/api-evangelist/council-on-environmental-quality) |
 | Country.io | [country-io](https://github.com/api-evangelist/country-io) |
@@ -520,6 +734,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Cvent Social Tables | [cvent-social-tables](https://github.com/api-evangelist/cvent-social-tables) |
 | Cybersecurity and Infrastructure Security Agency | [cybersecurity-and-infrastructure-security-agency](https://github.com/api-evangelist/cybersecurity-and-infrastructure-security-agency) |
 | Cyclr | [cyclr](https://github.com/api-evangelist/cyclr) |
+| Dagster is a data orchestration platform centered on software-defined assets with strong observability and testing support. | [dagster](https://github.com/api-evangelist/dagster) |
 | Danish Meteorological Institutes | [danish-meteorological-institutes](https://github.com/api-evangelist/danish-meteorological-institutes) |
 | Dapr | [dapr](https://github.com/api-evangelist/dapr) |
 | Bureau of Justice Statistics | [data-analysis-tools-bureau-of-justice-statistics](https://github.com/api-evangelist/data-analysis-tools-bureau-of-justice-statistics) |
@@ -555,6 +770,8 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Demandbase | [demandbase](https://github.com/api-evangelist/demandbase) |
 | APIs.io Search API | [demo-openapi](https://github.com/api-evangelist/demo-openapi) |
 | Democracy Works | [democracy-works](https://github.com/api-evangelist/democracy-works) |
+| Denodo | [denodo](https://github.com/api-evangelist/denodo) |
+| Densify is a machine learning-based cloud resource optimization platform specializing in instance rightsizing and Kubernetes cluster efficiency. | [densify](https://github.com/api-evangelist/densify) |
 | Department of Education | [department-of-education](https://github.com/api-evangelist/department-of-education) |
 | Department of Energy | [department-of-energy](https://github.com/api-evangelist/department-of-energy) |
 | Department of Homeland Security | [department-of-homeland-security](https://github.com/api-evangelist/department-of-homeland-security) |
@@ -580,13 +797,14 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Postmark | [discord](https://github.com/api-evangelist/discord) |
 | Discourse | [discourse](https://github.com/api-evangelist/discourse) |
 | Discover | [discover](https://github.com/api-evangelist/discover) |
-| API Evangelist standards | [discovery](https://github.com/api-evangelist/discovery) |
 | distillersr-api | [distillersr-api](https://github.com/api-evangelist/distillersr-api) |
 | DNS Coffee | [dns-coffee](https://github.com/api-evangelist/dns-coffee) |
 | DNSimple | [dnsimple](https://github.com/api-evangelist/dnsimple) |
 | Docker | [docker](https://github.com/api-evangelist/docker) |
 | Doctave | [doctave](https://github.com/api-evangelist/doctave) |
 | Docubase | [docubase](https://github.com/api-evangelist/docubase) |
+| Document360 is a knowledge base and API documentation platform with OpenAPI import, interactive API references, and AI-assisted writing. | [document360](https://github.com/api-evangelist/document360) |
+| Docusaurus is an open-source static site generator by Meta widely used for hosting developer and API documentation. | [docusaurus](https://github.com/api-evangelist/docusaurus) |
 | Docusign | [docusign](https://github.com/api-evangelist/docusign) |
 | Dog API | [dog-api](https://github.com/api-evangelist/dog-api) |
 | Dolby | [dolby](https://github.com/api-evangelist/dolby) |
@@ -614,7 +832,6 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Eclipse RDF4J | [eclipse-rdf4j](https://github.com/api-evangelist/eclipse-rdf4j) |
 | Economic Development Agency | [economic-development-administration](https://github.com/api-evangelist/economic-development-administration) |
 | Economic Research Service (ERS) | [economic-research-service](https://github.com/api-evangelist/economic-research-service) |
-| Ecovadis | [ecovadis](https://github.com/api-evangelist/ecovadis) |
 | edamam | [edamam](https://github.com/api-evangelist/edamam) |
 | Eden AI | [eden-ai](https://github.com/api-evangelist/eden-ai) |
 | Edge Impulse | [edge-impulse](https://github.com/api-evangelist/edge-impulse) |
@@ -628,13 +845,14 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Elasticsearch API | [elasticsearch](https://github.com/api-evangelist/elasticsearch) |
 | Election Assistance Commission | [election-assistance-commission](https://github.com/api-evangelist/election-assistance-commission) |
 | Electricity Maps | [electricity-maps](https://github.com/api-evangelist/electricity-maps) |
-| Eligible: Insurance Billing APIs for healthcare businesses | [eligible](https://github.com/api-evangelist/eligible) |
+| 'Eligible: Insurance Billing APIs for healthcare businesses' | [eligible](https://github.com/api-evangelist/eligible) |
 | Eliq | [eliq](https://github.com/api-evangelist/eliq) |
 | Elk API | [elk](https://github.com/api-evangelist/elk) |
 | Elastic Stack (ELK Stack) | [elk-stack](https://github.com/api-evangelist/elk-stack) |
 | Oracle Eloqua | [eloqua](https://github.com/api-evangelist/eloqua) |
 | Elsevier | [elsevier](https://github.com/api-evangelist/elsevier) |
 | EmailEngine | [emailengine](https://github.com/api-evangelist/emailengine) |
+| Ember | [ember](https://github.com/api-evangelist/ember) |
 | Encompass Developer Connect | [encompass-developer-connect](https://github.com/api-evangelist/encompass-developer-connect) |
 | Encurate | [encurate](https://github.com/api-evangelist/encurate) |
 | Energy Charts API | [energy-charts-api](https://github.com/api-evangelist/energy-charts-api) |
@@ -648,6 +866,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Swagger UI | [epa-gov](https://github.com/api-evangelist/epa-gov) |
 | Equal Employment Opportunity Commission | [equal-employment-opportunity-commission](https://github.com/api-evangelist/equal-employment-opportunity-commission) |
 | Equifax | [equifax](https://github.com/api-evangelist/equifax) |
+| Equipmentwatch | [equipmentwatch](https://github.com/api-evangelist/equipmentwatch) |
 | Escape | [escape](https://github.com/api-evangelist/escape) |
 | Esri | [esri](https://github.com/api-evangelist/esri) |
 | Etherscan | [etherscan](https://github.com/api-evangelist/etherscan) |
@@ -655,12 +874,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Europeana | [europeana](https://github.com/api-evangelist/europeana) |
 | Everbridge | [everbridge](https://github.com/api-evangelist/everbridge) |
 | Every.org | [every-org](https://github.com/api-evangelist/every-org) |
-| API Evangelist standards | [evidence](https://github.com/api-evangelist/evidence) |
 | Excel Macros API | [excel-macros](https://github.com/api-evangelist/excel-macros) |
 | Exoscale | [exoscale](https://github.com/api-evangelist/exoscale) |
 | Expedia Group | [expedia-group](https://github.com/api-evangelist/expedia-group) |
-| API Evangelist Experiences | [experiences](https://github.com/api-evangelist/experiences) |
-| API Evangelist standards | [extensions](https://github.com/api-evangelist/extensions) |
 | F5 | [f5](https://github.com/api-evangelist/f5) |
 | F5 Load Balancer API | [f5-load-balancer](https://github.com/api-evangelist/f5-load-balancer) |
 | F5 Networks | [f5-networks](https://github.com/api-evangelist/f5-networks) |
@@ -677,7 +893,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Fannie Mae | [fannie-mae](https://github.com/api-evangelist/fannie-mae) |
 | AWS Fargate API | [fargate](https://github.com/api-evangelist/fargate) |
 | Farm Credit Administration | [farm-credit-administration](https://github.com/api-evangelist/farm-credit-administration) |
-|  Farm Machinery and Equipment API | [farm-machinery-and-equipment-api](https://github.com/api-evangelist/farm-machinery-and-equipment-api) |
+| ' Farm Machinery and Equipment API' | [farm-machinery-and-equipment-api](https://github.com/api-evangelist/farm-machinery-and-equipment-api) |
 | Farm Service Agency | [farm-service-agency](https://github.com/api-evangelist/farm-service-agency) |
 | Fashion AI | [fashion-ai](https://github.com/api-evangelist/fashion-ai) |
 | FASHN AI | [fashn](https://github.com/api-evangelist/fashn) |
@@ -710,6 +926,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Fast Healthcare Interoperability Resources (FHIR) | [fhir](https://github.com/api-evangelist/fhir) |
 | Figma | [figma](https://github.com/api-evangelist/figma) |
 | Financial Modeling Prep | [financial-modeling-prep](https://github.com/api-evangelist/financial-modeling-prep) |
+| Finch is a unified API for employment systems, connecting to 220+ HRIS and payroll platforms. | [finch](https://github.com/api-evangelist/finch) |
 | Finnhub | [finnhub](https://github.com/api-evangelist/finnhub) |
 | FinOps Foundation | [finops-foundation](https://github.com/api-evangelist/finops-foundation) |
 | Finout | [finout](https://github.com/api-evangelist/finout) |
@@ -719,13 +936,14 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Fiserv | [fiserv](https://github.com/api-evangelist/fiserv) |
 | Fish and Wildlife Service | [fish-and-wildlife-service](https://github.com/api-evangelist/fish-and-wildlife-service) |
 | FIWARE | [fiware](https://github.com/api-evangelist/fiware) |
+| Flatfile | [flatfile](https://github.com/api-evangelist/flatfile) |
 | Spot | [flexera](https://github.com/api-evangelist/flexera) |
 | FlightAware | [flightaware](https://github.com/api-evangelist/flightaware) |
 | Florist One | [florist-one](https://github.com/api-evangelist/florist-one) |
 | flowable-api | [flowable-api](https://github.com/api-evangelist/flowable-api) |
 | Flower Shop Network | [flower-shop-network](https://github.com/api-evangelist/flower-shop-network) |
 | Food and Drug Administration | [food-and-drug-administration](https://github.com/api-evangelist/food-and-drug-administration) |
-|  Food Safety and Inspection Service | [food-safety-and-inspection-service](https://github.com/api-evangelist/food-safety-and-inspection-service) |
+| ' Food Safety and Inspection Service' | [food-safety-and-inspection-service](https://github.com/api-evangelist/food-safety-and-inspection-service) |
 | Foodspark | [foodspark](https://github.com/api-evangelist/foodspark) |
 | Foodvisor | [foodvisor](https://github.com/api-evangelist/foodvisor) |
 | Ford | [ford](https://github.com/api-evangelist/ford) |
@@ -746,8 +964,10 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Freedom of Information Act (FOIA) | [freedom-of-information-act](https://github.com/api-evangelist/freedom-of-information-act) |
 | Freepik | [freepik](https://github.com/api-evangelist/freepik) |
 | FreeToGame | [freetogame](https://github.com/api-evangelist/freetogame) |
+| Frends is a European .NET-native iPaaS offering low-code workflow design and AI-augmented automation for cloud and hybrid environments. | [frends](https://github.com/api-evangelist/frends) |
 | Fulcrum | [fulcrum](https://github.com/api-evangelist/fulcrum) |
 | Furniture API | [furniture-api](https://github.com/api-evangelist/furniture-api) |
+| Fusio is a self-hosted open-source API management platform supporting API gateway, developer portal, monetization, and AI integration. | [fusio](https://github.com/api-evangelist/fusio) |
 | FusionAuth | [fusionauth](https://github.com/api-evangelist/fusionauth) |
 | FVAP.gov | [fvapgov](https://github.com/api-evangelist/fvapgov) |
 | Gainsight | [gainsight](https://github.com/api-evangelist/gainsight) |
@@ -776,72 +996,192 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Gluu | [gluu](https://github.com/api-evangelist/gluu) |
 | GNews | [gnews](https://github.com/api-evangelist/gnews) |
 | GoatCounter | [goatcounter](https://github.com/api-evangelist/goatcounter) |
+| Godaddy | [godaddy](https://github.com/api-evangelist/godaddy) |
 | GoGift | [gogift](https://github.com/api-evangelist/gogift) |
 | GoHarbor | [goharbor](https://github.com/api-evangelist/goharbor) |
 | Goldman Sachs | [goldman-sachs](https://github.com/api-evangelist/goldman-sachs) |
 | Gong | [gong](https://github.com/api-evangelist/gong) |
 | Google | [google](https://github.com/api-evangelist/google) |
+| This is a repository for the google-ad-manager API. | [google-ad-manager](https://github.com/api-evangelist/google-ad-manager) |
+| This is a repository for the google-admin-sdk API. | [google-admin-sdk](https://github.com/api-evangelist/google-admin-sdk) |
+| This is a repository for the google-admob API. | [google-admob](https://github.com/api-evangelist/google-admob) |
 | Google Ads API | [google-ads](https://github.com/api-evangelist/google-ads) |
+| This is a repository for the google-adsense API. | [google-adsense](https://github.com/api-evangelist/google-adsense) |
 | Google Analytics API | [google-analytics](https://github.com/api-evangelist/google-analytics) |
 | Google Analytics 4 API | [google-analytics-4](https://github.com/api-evangelist/google-analytics-4) |
 | Google Android | [google-android](https://github.com/api-evangelist/google-android) |
+| This is a repository for the google-anthos API. | [google-anthos](https://github.com/api-evangelist/google-anthos) |
+| This is a repository for the google-apigee API. | [google-apigee](https://github.com/api-evangelist/google-apigee) |
+| This is a repository for the google-apps-script API. | [google-apps-script](https://github.com/api-evangelist/google-apps-script) |
+| This is a repository for the google-appsheet API. | [google-appsheet](https://github.com/api-evangelist/google-appsheet) |
+| This is a repository for the google-assistant API. | [google-assistant](https://github.com/api-evangelist/google-assistant) |
+| This is a repository for the google-beyondcorp API. | [google-beyondcorp](https://github.com/api-evangelist/google-beyondcorp) |
+| This is a repository for the google-bigquery API. | [google-bigquery](https://github.com/api-evangelist/google-bigquery) |
+| This is a repository for the google-blogger API. | [google-blogger](https://github.com/api-evangelist/google-blogger) |
+| This is a repository for the google-books API. | [google-books](https://github.com/api-evangelist/google-books) |
+| This is a repository for the google-business-messages API. | [google-business-messages](https://github.com/api-evangelist/google-business-messages) |
+| This is a repository for the google-business-profile API. | [google-business-profile](https://github.com/api-evangelist/google-business-profile) |
+| This is a repository for the google-calendar API. | [google-calendar](https://github.com/api-evangelist/google-calendar) |
 | Google Campaign Manager API | [google-campaign-manager](https://github.com/api-evangelist/google-campaign-manager) |
+| This is a repository for the google-chat API. | [google-chat](https://github.com/api-evangelist/google-chat) |
 | Google Chrome APIs | [google-chrome](https://github.com/api-evangelist/google-chrome) |
+| This is a repository for the google-classroom API. | [google-classroom](https://github.com/api-evangelist/google-classroom) |
 | Google Cloud Platform | [google-cloud](https://github.com/api-evangelist/google-cloud) |
+| This is a repository for the google-cloud-api-gateway API. | [google-cloud-api-gateway](https://github.com/api-evangelist/google-cloud-api-gateway) |
+| This is a repository for the google-cloud-app-engine API. | [google-cloud-app-engine](https://github.com/api-evangelist/google-cloud-app-engine) |
+| This is a repository for the google-cloud-armor API. | [google-cloud-armor](https://github.com/api-evangelist/google-cloud-armor) |
+| This is a repository for the google-cloud-artifact-registry API. | [google-cloud-artifact-registry](https://github.com/api-evangelist/google-cloud-artifact-registry) |
+| This is a repository for the google-cloud-assured-workloads API. | [google-cloud-assured-workloads](https://github.com/api-evangelist/google-cloud-assured-workloads) |
+| This is a repository for the google-cloud-automl API. | [google-cloud-automl](https://github.com/api-evangelist/google-cloud-automl) |
+| This is a repository for the google-cloud-batch API. | [google-cloud-batch](https://github.com/api-evangelist/google-cloud-batch) |
+| This is a repository for the google-cloud-bigtable API. | [google-cloud-bigtable](https://github.com/api-evangelist/google-cloud-bigtable) |
+| This is a repository for the google-cloud-binary-authorization API. | [google-cloud-binary-authorization](https://github.com/api-evangelist/google-cloud-binary-authorization) |
+| This is a repository for the google-cloud-build API. | [google-cloud-build](https://github.com/api-evangelist/google-cloud-build) |
+| This is a repository for the google-cloud-cdn API. | [google-cloud-cdn](https://github.com/api-evangelist/google-cloud-cdn) |
+| This is a repository for the google-cloud-certificate-manager API. | [google-cloud-certificate-manager](https://github.com/api-evangelist/google-cloud-certificate-manager) |
+| This is a repository for the google-cloud-chronicle API. | [google-cloud-chronicle](https://github.com/api-evangelist/google-cloud-chronicle) |
+| This is a repository for the google-cloud-composer API. | [google-cloud-composer](https://github.com/api-evangelist/google-cloud-composer) |
+| This is a repository for the google-cloud-compute-engine API. | [google-cloud-compute-engine](https://github.com/api-evangelist/google-cloud-compute-engine) |
+| This is a repository for the google-cloud-contact-center-ai API. | [google-cloud-contact-center-ai](https://github.com/api-evangelist/google-cloud-contact-center-ai) |
+| This is a repository for the google-cloud-container-registry API. | [google-cloud-container-registry](https://github.com/api-evangelist/google-cloud-container-registry) |
+| This is a repository for the google-cloud-data-catalog API. | [google-cloud-data-catalog](https://github.com/api-evangelist/google-cloud-data-catalog) |
+| This is a repository for the google-cloud-data-fusion API. | [google-cloud-data-fusion](https://github.com/api-evangelist/google-cloud-data-fusion) |
 | Google Cloud Dataflow | [google-cloud-dataflow](https://github.com/api-evangelist/google-cloud-dataflow) |
+| This is a repository for the google-cloud-dataproc API. | [google-cloud-dataproc](https://github.com/api-evangelist/google-cloud-dataproc) |
+| This is a repository for the google-cloud-datastream API. | [google-cloud-datastream](https://github.com/api-evangelist/google-cloud-datastream) |
+| This is a repository for the google-cloud-deploy API. | [google-cloud-deploy](https://github.com/api-evangelist/google-cloud-deploy) |
+| This is a repository for the google-cloud-dialogflow-cx API. | [google-cloud-dialogflow-cx](https://github.com/api-evangelist/google-cloud-dialogflow-cx) |
+| This is a repository for the google-cloud-dns API. | [google-cloud-dns](https://github.com/api-evangelist/google-cloud-dns) |
+| This is a repository for the google-cloud-document-ai API. | [google-cloud-document-ai](https://github.com/api-evangelist/google-cloud-document-ai) |
+| This is a repository for the google-cloud-endpoints API. | [google-cloud-endpoints](https://github.com/api-evangelist/google-cloud-endpoints) |
+| This is a repository for the google-cloud-error-reporting API. | [google-cloud-error-reporting](https://github.com/api-evangelist/google-cloud-error-reporting) |
+| This is a repository for the google-cloud-eventarc API. | [google-cloud-eventarc](https://github.com/api-evangelist/google-cloud-eventarc) |
+| This is a repository for the google-cloud-firestore API. | [google-cloud-firestore](https://github.com/api-evangelist/google-cloud-firestore) |
+| This is a repository for the google-cloud-functions API. | [google-cloud-functions](https://github.com/api-evangelist/google-cloud-functions) |
+| This is a repository for the google-cloud-iam API. | [google-cloud-iam](https://github.com/api-evangelist/google-cloud-iam) |
+| This is a repository for the google-cloud-interconnect API. | [google-cloud-interconnect](https://github.com/api-evangelist/google-cloud-interconnect) |
+| This is a repository for the google-cloud-kms API. | [google-cloud-kms](https://github.com/api-evangelist/google-cloud-kms) |
+| This is a repository for the google-cloud-kubernetes-engine API. | [google-cloud-kubernetes-engine](https://github.com/api-evangelist/google-cloud-kubernetes-engine) |
+| This is a repository for the google-cloud-load-balancing API. | [google-cloud-load-balancing](https://github.com/api-evangelist/google-cloud-load-balancing) |
 | Google Cloud Logging | [google-cloud-logging](https://github.com/api-evangelist/google-cloud-logging) |
+| This is a repository for the google-cloud-memorystore API. | [google-cloud-memorystore](https://github.com/api-evangelist/google-cloud-memorystore) |
+| This is a repository for the google-cloud-migration-center API. | [google-cloud-migration-center](https://github.com/api-evangelist/google-cloud-migration-center) |
+| This is a repository for the google-cloud-monitoring API. | [google-cloud-monitoring](https://github.com/api-evangelist/google-cloud-monitoring) |
+| This is a repository for the google-cloud-natural-language API. | [google-cloud-natural-language](https://github.com/api-evangelist/google-cloud-natural-language) |
+| This is a repository for the google-cloud-operations-suite API. | [google-cloud-operations-suite](https://github.com/api-evangelist/google-cloud-operations-suite) |
 | Google Cloud Platform | [google-cloud-platform](https://github.com/api-evangelist/google-cloud-platform) |
 | Google Cloud Platform | [google-cloud-platform-gcp](https://github.com/api-evangelist/google-cloud-platform-gcp) |
+| This is a repository for the google-cloud-profiler API. | [google-cloud-profiler](https://github.com/api-evangelist/google-cloud-profiler) |
+| This is a repository for the google-cloud-pubsub API. | [google-cloud-pubsub](https://github.com/api-evangelist/google-cloud-pubsub) |
+| This is a repository for the google-cloud-recommendations-ai API. | [google-cloud-recommendations-ai](https://github.com/api-evangelist/google-cloud-recommendations-ai) |
+| This is a repository for the google-cloud-run API. | [google-cloud-run](https://github.com/api-evangelist/google-cloud-run) |
+| This is a repository for the google-cloud-scheduler API. | [google-cloud-scheduler](https://github.com/api-evangelist/google-cloud-scheduler) |
+| This is a repository for the google-cloud-secret-manager API. | [google-cloud-secret-manager](https://github.com/api-evangelist/google-cloud-secret-manager) |
+| This is a repository for the google-cloud-security-command-center API. | [google-cloud-security-command-center](https://github.com/api-evangelist/google-cloud-security-command-center) |
+| Google Cloud Service Mesh is a fully managed Istio-powered service mesh for traffic management, security, and observability across Kubernetes clusters. | [google-cloud-service-mesh](https://github.com/api-evangelist/google-cloud-service-mesh) |
+| This is a repository for the google-cloud-spanner API. | [google-cloud-spanner](https://github.com/api-evangelist/google-cloud-spanner) |
+| This is a repository for the google-cloud-speech-to-text API. | [google-cloud-speech-to-text](https://github.com/api-evangelist/google-cloud-speech-to-text) |
+| This is a repository for the google-cloud-sql API. | [google-cloud-sql](https://github.com/api-evangelist/google-cloud-sql) |
+| This is a repository for the google-cloud-storage API. | [google-cloud-storage](https://github.com/api-evangelist/google-cloud-storage) |
+| This is a repository for the google-cloud-talent-solution API. | [google-cloud-talent-solution](https://github.com/api-evangelist/google-cloud-talent-solution) |
+| This is a repository for the google-cloud-tasks API. | [google-cloud-tasks](https://github.com/api-evangelist/google-cloud-tasks) |
+| This is a repository for the google-cloud-text-to-speech API. | [google-cloud-text-to-speech](https://github.com/api-evangelist/google-cloud-text-to-speech) |
+| This is a repository for the google-cloud-trace API. | [google-cloud-trace](https://github.com/api-evangelist/google-cloud-trace) |
+| This is a repository for the google-cloud-transfer-service API. | [google-cloud-transfer-service](https://github.com/api-evangelist/google-cloud-transfer-service) |
+| This is a repository for the google-cloud-translation API. | [google-cloud-translation](https://github.com/api-evangelist/google-cloud-translation) |
+| This is a repository for the google-cloud-video-intelligence API. | [google-cloud-video-intelligence](https://github.com/api-evangelist/google-cloud-video-intelligence) |
+| This is a repository for the google-cloud-vision API. | [google-cloud-vision](https://github.com/api-evangelist/google-cloud-vision) |
+| This is a repository for the google-cloud-vmware-engine API. | [google-cloud-vmware-engine](https://github.com/api-evangelist/google-cloud-vmware-engine) |
+| This is a repository for the google-cloud-vpc API. | [google-cloud-vpc](https://github.com/api-evangelist/google-cloud-vpc) |
+| This is a repository for the google-cloud-workflows API. | [google-cloud-workflows](https://github.com/api-evangelist/google-cloud-workflows) |
+| This is a repository for the google-colab API. | [google-colab](https://github.com/api-evangelist/google-colab) |
+| This is a repository for the google-contacts API. | [google-contacts](https://github.com/api-evangelist/google-contacts) |
+| This is a repository for the google-custom-search API. | [google-custom-search](https://github.com/api-evangelist/google-custom-search) |
 | Google Data Studio | [google-data-studio](https://github.com/api-evangelist/google-data-studio) |
 | Google Dialogflow | [google-dialogflow](https://github.com/api-evangelist/google-dialogflow) |
+| This is a repository for the google-display-video-360 API. | [google-display-video-360](https://github.com/api-evangelist/google-display-video-360) |
+| This is a repository for the google-distributed-cloud API. | [google-distributed-cloud](https://github.com/api-evangelist/google-distributed-cloud) |
 | Google Docs API | [google-docs](https://github.com/api-evangelist/google-docs) |
 | Google Drive API | [google-drive](https://github.com/api-evangelist/google-drive) |
+| This is a repository for the google-earth-engine API. | [google-earth-engine](https://github.com/api-evangelist/google-earth-engine) |
+| This is a repository for the google-firebase API. | [google-firebase](https://github.com/api-evangelist/google-firebase) |
+| This is a repository for the google-fitness API. | [google-fitness](https://github.com/api-evangelist/google-fitness) |
+| This is a repository for the google-flutter API. | [google-flutter](https://github.com/api-evangelist/google-flutter) |
+| This is a repository for the google-fonts API. | [google-fonts](https://github.com/api-evangelist/google-fonts) |
 | Google Forms API | [google-forms](https://github.com/api-evangelist/google-forms) |
 | Google Gemini API | [google-gemini](https://github.com/api-evangelist/google-gemini) |
+| This is a repository for the google-gmail API. | [google-gmail](https://github.com/api-evangelist/google-gmail) |
+| This is a repository for the google-identity-platform API. | [google-identity-platform](https://github.com/api-evangelist/google-identity-platform) |
+| This is a repository for the google-indexing API. | [google-indexing](https://github.com/api-evangelist/google-indexing) |
+| This is a repository for the google-keep API. | [google-keep](https://github.com/api-evangelist/google-keep) |
+| This is a repository for the google-knowledge-graph API. | [google-knowledge-graph](https://github.com/api-evangelist/google-knowledge-graph) |
 | Google Looker APIs | [google-looker](https://github.com/api-evangelist/google-looker) |
 | Google Looker Studio APIs | [google-looker-studio](https://github.com/api-evangelist/google-looker-studio) |
 | Google Maps Platform | [google-maps](https://github.com/api-evangelist/google-maps) |
+| This is a repository for the google-marketing-platform API. | [google-marketing-platform](https://github.com/api-evangelist/google-marketing-platform) |
+| This is a repository for the google-meet API. | [google-meet](https://github.com/api-evangelist/google-meet) |
+| This is a repository for the google-merchant-center API. | [google-merchant-center](https://github.com/api-evangelist/google-merchant-center) |
+| This is a repository for the google-nest API. | [google-nest](https://github.com/api-evangelist/google-nest) |
+| This is a repository for the google-news API. | [google-news](https://github.com/api-evangelist/google-news) |
 | Google Optimize API | [google-optimize](https://github.com/api-evangelist/google-optimize) |
+| This is a repository for the google-pagespeed API. | [google-pagespeed](https://github.com/api-evangelist/google-pagespeed) |
 | Google Pay API | [google-pay](https://github.com/api-evangelist/google-pay) |
+| This is a repository for the google-people API. | [google-people](https://github.com/api-evangelist/google-people) |
+| This is a repository for the google-photos API. | [google-photos](https://github.com/api-evangelist/google-photos) |
+| This is a repository for the google-places API. | [google-places](https://github.com/api-evangelist/google-places) |
+| This is a repository for the google-play API. | [google-play](https://github.com/api-evangelist/google-play) |
+| This is a repository for the google-play-console API. | [google-play-console](https://github.com/api-evangelist/google-play-console) |
+| This is a repository for the google-recaptcha API. | [google-recaptcha](https://github.com/api-evangelist/google-recaptcha) |
+| This is a repository for the google-safe-browsing API. | [google-safe-browsing](https://github.com/api-evangelist/google-safe-browsing) |
+| This is a repository for the google-search-ads-360 API. | [google-search-ads-360](https://github.com/api-evangelist/google-search-ads-360) |
 | Google Search Console API | [google-search-console](https://github.com/api-evangelist/google-search-console) |
 | Google Sheets API | [google-sheets](https://github.com/api-evangelist/google-sheets) |
+| This is a repository for the google-shopping API. | [google-shopping](https://github.com/api-evangelist/google-shopping) |
 | Google Sites API | [google-sites](https://github.com/api-evangelist/google-sites) |
 | Google Slides API | [google-slides](https://github.com/api-evangelist/google-slides) |
 | Google Workspace (G Suite) | [google-suite](https://github.com/api-evangelist/google-suite) |
 | Google Workspace Suite APIs | [google-suite-docs-sheets-slides-gmail](https://github.com/api-evangelist/google-suite-docs-sheets-slides-gmail) |
 | Google Workspace APIs | [google-suites](https://github.com/api-evangelist/google-suites) |
 | Google Tag Manager | [google-tag-manager](https://github.com/api-evangelist/google-tag-manager) |
+| This is a repository for the google-tasks API. | [google-tasks](https://github.com/api-evangelist/google-tasks) |
+| This is a repository for the google-tensorflow API. | [google-tensorflow](https://github.com/api-evangelist/google-tensorflow) |
+| This is a repository for the google-translate API. | [google-translate](https://github.com/api-evangelist/google-translate) |
 | Google Vault APIs | [google-vault](https://github.com/api-evangelist/google-vault) |
+| This is a repository for the google-vertex-ai API. | [google-vertex-ai](https://github.com/api-evangelist/google-vertex-ai) |
+| This is a repository for the google-voice API. | [google-voice](https://github.com/api-evangelist/google-voice) |
+| This is a repository for the google-wallet API. | [google-wallet](https://github.com/api-evangelist/google-wallet) |
 | Google Workspace | [google-workspace](https://github.com/api-evangelist/google-workspace) |
+| This is a repository for the google-youtube API. | [google-youtube](https://github.com/api-evangelist/google-youtube) |
 | government-accountability-office | [government-accountability-office](https://github.com/api-evangelist/government-accountability-office) |
 | Govinfo | [govinfo](https://github.com/api-evangelist/govinfo) |
+| Gracenote | [gracenote](https://github.com/api-evangelist/gracenote) |
 | Grafana | [grafana](https://github.com/api-evangelist/grafana) |
 | Grapes Finance | [grapes-finance](https://github.com/api-evangelist/grapes-finance) |
-| Grapes Knowledge Base  | [grapes-knowledge-base](https://github.com/api-evangelist/grapes-knowledge-base) |
+| 'Grapes Knowledge Base ' | [grapes-knowledge-base](https://github.com/api-evangelist/grapes-knowledge-base) |
 | GraphQL API | [graphql](https://github.com/api-evangelist/graphql) |
 | Gravitee | [gravitee](https://github.com/api-evangelist/gravitee) |
+| Greatschools | [greatschools](https://github.com/api-evangelist/greatschools) |
 | Swagger UI | [green-screens-ai](https://github.com/api-evangelist/green-screens-ai) |
 | GreenChoice | [greenchoice](https://github.com/api-evangelist/greenchoice) |
 | Greenhouse | [greenhouse](https://github.com/api-evangelist/greenhouse) |
+| Greymatter is an enterprise service mesh and API management platform for hybrid and multi-cloud environments in regulated industries. | [greymatter](https://github.com/api-evangelist/greymatter) |
 | GridGain | [gridgain](https://github.com/api-evangelist/gridgain) |
 | Apache Groovy | [groovy](https://github.com/api-evangelist/groovy) |
 | grounded.tools | [grounded-tools](https://github.com/api-evangelist/grounded-tools) |
 | Guesty | [guesty](https://github.com/api-evangelist/guesty) |
-| API Evangelist Guidance | [guidance](https://github.com/api-evangelist/guidance) |
-| guidance-2 | [guidance-2](https://github.com/api-evangelist/guidance-2) |
 | GunTab | [guntab](https://github.com/api-evangelist/guntab) |
 | Habitat Lab | [habitat-lab](https://github.com/api-evangelist/habitat-lab) |
 | Apache Hadoop | [hadoop](https://github.com/api-evangelist/hadoop) |
 | Handwrite IO | [handwrite-io](https://github.com/api-evangelist/handwrite-io) |
+| HAProxy is a battle-tested open-source load balancer and proxy commonly used for high-throughput API routing and traffic shaping. | [haproxy](https://github.com/api-evangelist/haproxy) |
 | Harbor | [harbor](https://github.com/api-evangelist/harbor) |
 | Harbor Compliance | [harbor-compliance](https://github.com/api-evangelist/harbor-compliance) |
 | Harness | [harness](https://github.com/api-evangelist/harness) |
-|  Harris Ambulatory Care Enterprise | [harris-ambulatory-care-enterprise](https://github.com/api-evangelist/harris-ambulatory-care-enterprise) |
+| ' Harris Ambulatory Care Enterprise' | [harris-ambulatory-care-enterprise](https://github.com/api-evangelist/harris-ambulatory-care-enterprise) |
 | Hashicorp | [hashicorp](https://github.com/api-evangelist/hashicorp) |
 | HashiCorp Vault | [hashicorp-vault](https://github.com/api-evangelist/hashicorp-vault) |
 | Hasura | [hasura](https://github.com/api-evangelist/hasura) |
 | Hazelcast | [hazelcast](https://github.com/api-evangelist/hazelcast) |
-| API Evangelist standards | [headers](https://github.com/api-evangelist/headers) |
 | Health Resources and Services Administration | [health-resources-and-services-administration](https://github.com/api-evangelist/health-resources-and-services-administration) |
 | Helicone | [helicone](https://github.com/api-evangelist/helicone) |
 | Hello Retail | [hello-retail](https://github.com/api-evangelist/hello-retail) |
@@ -850,29 +1190,39 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Hetzner | [hetzner](https://github.com/api-evangelist/hetzner) |
 | Hey API | [hey-api](https://github.com/api-evangelist/hey-api) |
 | Hibernate ORM | [hibernate](https://github.com/api-evangelist/hibernate) |
+| High Mobility | [high-mobility](https://github.com/api-evangelist/high-mobility) |
+| Higress is Alibaba's open-source cloud-native API gateway built on Istio and Envoy with native AI gateway capabilities. | [higress](https://github.com/api-evangelist/higress) |
 | Hiphen Plant | [hiphen-plant](https://github.com/api-evangelist/hiphen-plant) |
 | Hitachi Construction Machinery | [hitachi-construction-machinery](https://github.com/api-evangelist/hitachi-construction-machinery) |
 | Hobart APIs | [hobart](https://github.com/api-evangelist/hobart) |
 | home-federal-maritime-commission | [home-federal-maritime-commission](https://github.com/api-evangelist/home-federal-maritime-commission) |
 | Honda | [honda](https://github.com/api-evangelist/honda) |
 | Hookdeck | [hookdeck](https://github.com/api-evangelist/hookdeck) |
+| Hoppscotch is a lightweight open-source browser-based API client supporting REST, GraphQL, WebSockets, SSE, and MQTT. | [hoppscotch](https://github.com/api-evangelist/hoppscotch) |
 | Horoscope API | [horoscope-api](https://github.com/api-evangelist/horoscope-api) |
 | HostBill | [hostbill](https://github.com/api-evangelist/hostbill) |
+| Hotglue is a developer-first embedded iPaaS for B2B SaaS companies with 200+ pre-built connectors. | [hotglue](https://github.com/api-evangelist/hotglue) |
 | HTTPie | [httpie](https://github.com/api-evangelist/httpie) |
 | httpstat | [httpstat](https://github.com/api-evangelist/httpstat) |
 | HubSpot | [hubspot](https://github.com/api-evangelist/hubspot) |
 | Hugging Face | [hugging-face](https://github.com/api-evangelist/hugging-face) |
 | Hugging Face Transformers | [hugging-face-transformers](https://github.com/api-evangelist/hugging-face-transformers) |
 | Humana | [humana](https://github.com/api-evangelist/humana) |
+| Humanitec is a platform orchestrator for dynamic infrastructure provisioning and environment management in internal developer platforms. | [humanitec](https://github.com/api-evangelist/humanitec) |
 | Hundsun Technologies | [hundsun](https://github.com/api-evangelist/hundsun) |
 | Hunter API | [hunter](https://github.com/api-evangelist/hunter) |
 | Huuray | [huuray](https://github.com/api-evangelist/huuray) |
 | HashiCorp Vault | [hvault](https://github.com/api-evangelist/hvault) |
 | Hyundai | [hyundai](https://github.com/api-evangelist/hyundai) |
+| I Flow | [i-flow](https://github.com/api-evangelist/i-flow) |
 | IATA | [iata](https://github.com/api-evangelist/iata) |
+| Ibisworld | [ibisworld](https://github.com/api-evangelist/ibisworld) |
 | IBM APIs | [ibm](https://github.com/api-evangelist/ibm) |
+| IBM API Connect is an enterprise API lifecycle management platform with a DataPower-backed gateway and developer portal. | [ibm-api-connect](https://github.com/api-evangelist/ibm-api-connect) |
+| IBM App Connect is a cloud-based iPaaS for connecting enterprise applications with AI-assisted data mapping and an API builder. | [ibm-app-connect](https://github.com/api-evangelist/ibm-app-connect) |
 | IBM MQ APIs | [ibm-mq](https://github.com/api-evangelist/ibm-mq) |
 | IBM Watson | [ibm-watson](https://github.com/api-evangelist/ibm-watson) |
+| Icao | [icao](https://github.com/api-evangelist/icao) |
 | ICE | [ice](https://github.com/api-evangelist/ice) |
 | iCIMS | [icims](https://github.com/api-evangelist/icims) |
 | iDenfy | [idenfy](https://github.com/api-evangelist/idenfy) |
@@ -890,13 +1240,16 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Informatica | [informatica](https://github.com/api-evangelist/informatica) |
 | Informatics API | [informatics](https://github.com/api-evangelist/informatics) |
 | Information Technology Infrastructure APIs | [information-technology-infrastructure](https://github.com/api-evangelist/information-technology-infrastructure) |
+| Infracost is an infrastructure-as-code cost estimation tool that surfaces cost impact of Terraform changes before deployment. | [infracost](https://github.com/api-evangelist/infracost) |
+| Inngest is a developer workflow platform for building event-driven, background job, and step-function workflows with retries and observability. | [inngest](https://github.com/api-evangelist/inngest) |
 | Insomnia | [insomnia](https://github.com/api-evangelist/insomnia) |
 | Instagram | [instagram](https://github.com/api-evangelist/instagram) |
-| instana/openapi: Contains the instana public api documentation for publish on gh-pages. | [instana](https://github.com/api-evangelist/instana) |
+| 'instana/openapi: Contains the instana public api documentation for publish on gh-pages.' | [instana](https://github.com/api-evangelist/instana) |
 | Institute of Museum and Library Services | [institute-of-museum-and-library-services](https://github.com/api-evangelist/institute-of-museum-and-library-services) |
 | Instrumental | [instrumental](https://github.com/api-evangelist/instrumental) |
 | Intellimatch API | [intellimatch](https://github.com/api-evangelist/intellimatch) |
 | intercom | [intercom](https://github.com/api-evangelist/intercom) |
+| This is research across the specifications used to define interfaces. | [interface-research](https://github.com/api-evangelist/interface-research) |
 | Intermedia | [intermedia](https://github.com/api-evangelist/intermedia) |
 | internal-revenue-service | [internal-revenue-service](https://github.com/api-evangelist/internal-revenue-service) |
 | International Development Finance Corporation | [international-development-finance-corporation](https://github.com/api-evangelist/international-development-finance-corporation) |
@@ -912,6 +1265,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Iress | [iress](https://github.com/api-evangelist/iress) |
 | Ironclad Clickwrap | [ironclad-clickwrap](https://github.com/api-evangelist/ironclad-clickwrap) |
 | Istio | [istio](https://github.com/api-evangelist/istio) |
+| Ixon | [ixon](https://github.com/api-evangelist/ixon) |
 | J-Quants | [j-quants](https://github.com/api-evangelist/j-quants) |
 | James Webb Space Telescope API | [james-webb-space-telescope-api](https://github.com/api-evangelist/james-webb-space-telescope-api) |
 | Jargon | [jargon](https://github.com/api-evangelist/jargon) |
@@ -927,6 +1281,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Jifiti | [jifiti](https://github.com/api-evangelist/jifiti) |
 | Jina AI | [jina-ai](https://github.com/api-evangelist/jina-ai) |
 | Jira API | [jira](https://github.com/api-evangelist/jira) |
+| Jitterbit Harmony is a versatile iPaaS known for fast time-to-value with visual API design and pre-built connectors. | [jitterbit](https://github.com/api-evangelist/jitterbit) |
 | JMock | [jmock](https://github.com/api-evangelist/jmock) |
 | job-corps | [job-corps](https://github.com/api-evangelist/job-corps) |
 | Joggr | [joggr](https://github.com/api-evangelist/joggr) |
@@ -948,6 +1303,8 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Kanban Tool API | [kanban](https://github.com/api-evangelist/kanban) |
 | Karrio | [karrio](https://github.com/api-evangelist/karrio) |
 | KeepTrack | [keeptrack](https://github.com/api-evangelist/keeptrack) |
+| Kestra is a declarative workflow orchestration platform where pipelines are defined in YAML, combining visual and code-first approaches. | [kestra](https://github.com/api-evangelist/kestra) |
+| Kevel | [kevel](https://github.com/api-evangelist/kevel) |
 | KeyRunner | [keyrunner](https://github.com/api-evangelist/keyrunner) |
 | Keystatic | [keystatic](https://github.com/api-evangelist/keystatic) |
 | kgateway | [kgateway](https://github.com/api-evangelist/kgateway) |
@@ -958,17 +1315,22 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Klarna | [klarna](https://github.com/api-evangelist/klarna) |
 | Klaviyo | [klaviyo](https://github.com/api-evangelist/klaviyo) |
 | Klaxoon | [klaxoon](https://github.com/api-evangelist/klaxoon) |
+| Knit is a zero-storage, fully event-driven unified API for B2B SaaS integrations across CRM, HRIS, and accounting tools. | [knit](https://github.com/api-evangelist/knit) |
+| Kombo is a unified API platform specialized in HRIS, ATS, and payroll integrations with particular depth in European HR platforms. | [kombo](https://github.com/api-evangelist/kombo) |
 | Kondor | [kondor](https://github.com/api-evangelist/kondor) |
+| Konfig uses LLMs to generate SDKs with intuitive natural-language method names from OpenAPI specs with CI/CD integration. | [konfig](https://github.com/api-evangelist/konfig) |
 | Kong | [kong](https://github.com/api-evangelist/kong) |
 | Kontent AI | [kontent-ai](https://github.com/api-evangelist/kontent-ai) |
 | Kotlin Programming Language APIs | [kotlin](https://github.com/api-evangelist/kotlin) |
 | Koyeb | [koyeb](https://github.com/api-evangelist/koyeb) |
 | KrakenD | [krakend](https://github.com/api-evangelist/krakend) |
+| Kreya is a desktop API client with support for REST and gRPC with a clean interface and scripting support. | [kreya](https://github.com/api-evangelist/kreya) |
 | Kroger | [kroger](https://github.com/api-evangelist/kroger) |
 | Kubecost | [kubecost](https://github.com/api-evangelist/kubecost) |
 | Kubeflow | [kubeflow](https://github.com/api-evangelist/kubeflow) |
 | Kubeflow Pipelines | [kubeflow-pipelines](https://github.com/api-evangelist/kubeflow-pipelines) |
 | Kubernetes | [kubernetes](https://github.com/api-evangelist/kubernetes) |
+| Kuma is an open-source universal service mesh built on Envoy supporting both Kubernetes and VM-based deployments in a multi-zone architecture. | [kuma](https://github.com/api-evangelist/kuma) |
 | KVdb | [kvdb](https://github.com/api-evangelist/kvdb) |
 | Label Studio | [label-studio](https://github.com/api-evangelist/label-studio) |
 | Lago | [lago](https://github.com/api-evangelist/lago) |
@@ -978,16 +1340,15 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | LangChain | [langchain](https://github.com/api-evangelist/langchain) |
 | LangGraph | [langgraph](https://github.com/api-evangelist/langgraph) |
 | LanguageTool | [languagetool](https://github.com/api-evangelist/languagetool) |
+| Latenode is an embedded iPaaS with a hybrid no-code/low-code environment and AI-assisted customization for SaaS companies. | [latenode](https://github.com/api-evangelist/latenode) |
 | Leaf Agriculture | [leaf-agriculture](https://github.com/api-evangelist/leaf-agriculture) |
 | lemon-squeezy | [lemon-squeezy](https://github.com/api-evangelist/lemon-squeezy) |
 | Lemonade | [lemonade](https://github.com/api-evangelist/lemonade) |
 | Lens | [lens](https://github.com/api-evangelist/lens) |
 | LexisNexis | [lexisnexis](https://github.com/api-evangelist/lexisnexis) |
-| libraries | [libraries](https://github.com/api-evangelist/libraries) |
+| liblab generates and publishes type-safe idiomatic SDKs in multiple languages from OpenAPI specs with CI/CD integration. | [liblab](https://github.com/api-evangelist/liblab) |
 | Library of Congress | [library-of-congress](https://github.com/api-evangelist/library-of-congress) |
 | LicensePlateData | [licenseplatedata](https://github.com/api-evangelist/licenseplatedata) |
-| API Evangelist Lifecycles | [lifecycle](https://github.com/api-evangelist/lifecycle) |
-| API Platform Builder | [lifecycle-builder](https://github.com/api-evangelist/lifecycle-builder) |
 | Liferay | [liferay](https://github.com/api-evangelist/liferay) |
 | LightBox | [lightbox](https://github.com/api-evangelist/lightbox) |
 | LightBox Zoning API | [lightbox-zoning-api](https://github.com/api-evangelist/lightbox-zoning-api) |
@@ -1002,10 +1363,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Linux | [linux](https://github.com/api-evangelist/linux) |
 | Linux Server API | [linux-server](https://github.com/api-evangelist/linux-server) |
 | Linux/Unix System APIs | [linuxunix](https://github.com/api-evangelist/linuxunix) |
+| LiteLLM is an open-source Python SDK and proxy server providing a unified OpenAI-compatible interface to 100+ LLM providers. | [litellm](https://github.com/api-evangelist/litellm) |
 | LivePerson | [liveperson](https://github.com/api-evangelist/liveperson) |
+| Liveramp | [liveramp](https://github.com/api-evangelist/liveramp) |
 | Llama API | [llama](https://github.com/api-evangelist/llama) |
 | Lob | [lob](https://github.com/api-evangelist/lob) |
 | Location Based Tracking APIs | [location-based-tracking](https://github.com/api-evangelist/location-based-tracking) |
+| Locoia is a German-based embedded iPaaS offering GDPR-compliant white-label integration portals with 200+ connectors. | [locoia](https://github.com/api-evangelist/locoia) |
 | Apache Log4j | [log4j](https://github.com/api-evangelist/log4j) |
 | LogMeal | [logmeal](https://github.com/api-evangelist/logmeal) |
 | London Stock Exchange Group | [london-stock-exchange-group](https://github.com/api-evangelist/london-stock-exchange-group) |
@@ -1014,19 +1378,24 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Looker Studio API | [looker-studio](https://github.com/api-evangelist/looker-studio) |
 | LucidWorks | [lucidworks](https://github.com/api-evangelist/lucidworks) |
 | Lufthansa | [lufthansa](https://github.com/api-evangelist/lufthansa) |
+| Lumos is a SaaS management and access governance platform focused on app visibility, automated provisioning, and license rightsizing. | [lumos](https://github.com/api-evangelist/lumos) |
 | Lunar.dev | [lunar-dev](https://github.com/api-evangelist/lunar-dev) |
+| Lura Project is a Linux Foundation-hosted ultra-high-performance Go library for building API gateways and proxies. | [lura-project](https://github.com/api-evangelist/lura-project) |
 | mabl | [mabl](https://github.com/api-evangelist/mabl) |
 | Macrostrat | [macrostrat](https://github.com/api-evangelist/macrostrat) |
 | Maestro | [maestro](https://github.com/api-evangelist/maestro) |
 | Mailchimp | [mailchimp](https://github.com/api-evangelist/mailchimp) |
 | Maileroo | [maileroo](https://github.com/api-evangelist/maileroo) |
+| Mailjet | [mailjet](https://github.com/api-evangelist/mailjet) |
 | Mailtrap | [mailtrap](https://github.com/api-evangelist/mailtrap) |
+| Make (formerly Integromat) is a visual scenario-based automation builder with advanced data transformation and routing logic. | [make](https://github.com/api-evangelist/make) |
 | Manifest Cyber | [manifest-cyber](https://github.com/api-evangelist/manifest-cyber) |
 | Mapbox | [mapbox](https://github.com/api-evangelist/mapbox) |
 | MapQuest | [mapquest](https://github.com/api-evangelist/mapquest) |
 | Marginalia Search | [marginalia-search](https://github.com/api-evangelist/marginalia-search) |
 | Marine Mammal Commission | [marine-mammal-commission](https://github.com/api-evangelist/marine-mammal-commission) |
 | Marketo | [marketo](https://github.com/api-evangelist/marketo) |
+| Marvel | [marvel](https://github.com/api-evangelist/marvel) |
 | Maryland Transit Administration | [maryland-transit-administration](https://github.com/api-evangelist/maryland-transit-administration) |
 | Mask API | [mask-api](https://github.com/api-evangelist/mask-api) |
 | Mastercard | [mastercard](https://github.com/api-evangelist/mastercard) |
@@ -1048,7 +1417,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | MealMe | [mealme](https://github.com/api-evangelist/mealme) |
 | MediaBeacon | [mediabeacon](https://github.com/api-evangelist/mediabeacon) |
 | Meilisearch | [meilisearch](https://github.com/api-evangelist/meilisearch) |
+| Membrane is an AI-first embedded integration platform where teams describe integration behavior in natural language. | [membrane](https://github.com/api-evangelist/membrane) |
 | Memco | [memco](https://github.com/api-evangelist/memco) |
+| Mention | [mention](https://github.com/api-evangelist/mention) |
 | Mercedes-Benz | [mercedes-benz](https://github.com/api-evangelist/mercedes-benz) |
 | Merge | [merge](https://github.com/api-evangelist/merge) |
 | Meridian | [meridian](https://github.com/api-evangelist/meridian) |
@@ -1068,11 +1439,78 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Microsoft 365 Copilot | [microsoft-365-copilot](https://github.com/api-evangelist/microsoft-365-copilot) |
 | Microsoft Access | [microsoft-access](https://github.com/api-evangelist/microsoft-access) |
 | Microsoft Active Directory | [microsoft-active-directory](https://github.com/api-evangelist/microsoft-active-directory) |
+| Microsoft advertising | [microsoft-advertising](https://github.com/api-evangelist/microsoft-advertising) |
 | Microsoft Applications APIs | [microsoft-applications](https://github.com/api-evangelist/microsoft-applications) |
 | Microsoft Azure | [microsoft-azure](https://github.com/api-evangelist/microsoft-azure) |
+| Microsoft Azure Active Directory | [microsoft-azure-active-directory](https://github.com/api-evangelist/microsoft-azure-active-directory) |
+| microsoft-azure-advisor | [microsoft-azure-advisor](https://github.com/api-evangelist/microsoft-azure-advisor) |
+| microsoft-azure-ai-foundry | [microsoft-azure-ai-foundry](https://github.com/api-evangelist/microsoft-azure-ai-foundry) |
+| Azure API Management is Microsoft's hybrid, multi-cloud API management platform supporting REST, GraphQL, WebSocket, and OData APIs. | [microsoft-azure-api-management](https://github.com/api-evangelist/microsoft-azure-api-management) |
+| microsoft-azure-app-service | [microsoft-azure-app-service](https://github.com/api-evangelist/microsoft-azure-app-service) |
+| microsoft-azure-application-gateway | [microsoft-azure-application-gateway](https://github.com/api-evangelist/microsoft-azure-application-gateway) |
+| microsoft-azure-arc | [microsoft-azure-arc](https://github.com/api-evangelist/microsoft-azure-arc) |
+| microsoft-azure-automation | [microsoft-azure-automation](https://github.com/api-evangelist/microsoft-azure-automation) |
+| microsoft-azure-backup | [microsoft-azure-backup](https://github.com/api-evangelist/microsoft-azure-backup) |
+| microsoft-azure-bastion | [microsoft-azure-bastion](https://github.com/api-evangelist/microsoft-azure-bastion) |
+| microsoft-azure-batch | [microsoft-azure-batch](https://github.com/api-evangelist/microsoft-azure-batch) |
+| Microsoft Azure Blob Storage | [microsoft-azure-blob-storage](https://github.com/api-evangelist/microsoft-azure-blob-storage) |
+| microsoft-azure-cache-for-redis | [microsoft-azure-cache-for-redis](https://github.com/api-evangelist/microsoft-azure-cache-for-redis) |
+| microsoft-azure-cdn | [microsoft-azure-cdn](https://github.com/api-evangelist/microsoft-azure-cdn) |
+| microsoft-azure-communication-services | [microsoft-azure-communication-services](https://github.com/api-evangelist/microsoft-azure-communication-services) |
+| microsoft-azure-container-instances | [microsoft-azure-container-instances](https://github.com/api-evangelist/microsoft-azure-container-instances) |
+| microsoft-azure-container-registry | [microsoft-azure-container-registry](https://github.com/api-evangelist/microsoft-azure-container-registry) |
+| microsoft-azure-cosmos-db | [microsoft-azure-cosmos-db](https://github.com/api-evangelist/microsoft-azure-cosmos-db) |
+| microsoft-azure-cost-management | [microsoft-azure-cost-management](https://github.com/api-evangelist/microsoft-azure-cost-management) |
+| microsoft-azure-data-factory | [microsoft-azure-data-factory](https://github.com/api-evangelist/microsoft-azure-data-factory) |
+| microsoft-azure-data-lake | [microsoft-azure-data-lake](https://github.com/api-evangelist/microsoft-azure-data-lake) |
+| Microsoft Azure Databricks | [microsoft-azure-databricks](https://github.com/api-evangelist/microsoft-azure-databricks) |
+| Microsoft Azure Devops | [microsoft-azure-devops](https://github.com/api-evangelist/microsoft-azure-devops) |
+| microsoft-azure-event-grid | [microsoft-azure-event-grid](https://github.com/api-evangelist/microsoft-azure-event-grid) |
+| Microsoft Azure Event Hubs | [microsoft-azure-event-hubs](https://github.com/api-evangelist/microsoft-azure-event-hubs) |
+| microsoft-azure-express-route | [microsoft-azure-express-route](https://github.com/api-evangelist/microsoft-azure-express-route) |
+| microsoft-azure-file-storage | [microsoft-azure-file-storage](https://github.com/api-evangelist/microsoft-azure-file-storage) |
+| microsoft-azure-firewall | [microsoft-azure-firewall](https://github.com/api-evangelist/microsoft-azure-firewall) |
+| microsoft-azure-front-door | [microsoft-azure-front-door](https://github.com/api-evangelist/microsoft-azure-front-door) |
+| microsoft-azure-functions | [microsoft-azure-functions](https://github.com/api-evangelist/microsoft-azure-functions) |
+| Azure Integration Services is a suite of cloud services including Logic Apps, API Management, Service Bus, Event Grid, and Data Factory for enterprise integration. | [microsoft-azure-integration-services](https://github.com/api-evangelist/microsoft-azure-integration-services) |
+| Microsoft Azure Key Vault | [microsoft-azure-key-vault](https://github.com/api-evangelist/microsoft-azure-key-vault) |
+| Microsoft Azure Kubernetes Service | [microsoft-azure-kubernetes-service](https://github.com/api-evangelist/microsoft-azure-kubernetes-service) |
+| microsoft-azure-load-balancer | [microsoft-azure-load-balancer](https://github.com/api-evangelist/microsoft-azure-load-balancer) |
+| microsoft-azure-logic-apps | [microsoft-azure-logic-apps](https://github.com/api-evangelist/microsoft-azure-logic-apps) |
+| microsoft-azure-machine-learning | [microsoft-azure-machine-learning](https://github.com/api-evangelist/microsoft-azure-machine-learning) |
+| microsoft-azure-maps | [microsoft-azure-maps](https://github.com/api-evangelist/microsoft-azure-maps) |
+| microsoft-azure-migrate | [microsoft-azure-migrate](https://github.com/api-evangelist/microsoft-azure-migrate) |
+| Microsoft Azure Monitor | [microsoft-azure-monitor](https://github.com/api-evangelist/microsoft-azure-monitor) |
+| microsoft-azure-mysql | [microsoft-azure-mysql](https://github.com/api-evangelist/microsoft-azure-mysql) |
+| Microsoft Azure Networking | [microsoft-azure-networking](https://github.com/api-evangelist/microsoft-azure-networking) |
+| microsoft-azure-notification-hubs | [microsoft-azure-notification-hubs](https://github.com/api-evangelist/microsoft-azure-notification-hubs) |
+| microsoft-azure-openai | [microsoft-azure-openai](https://github.com/api-evangelist/microsoft-azure-openai) |
+| Microsoft Azure Pipelines | [microsoft-azure-pipelines](https://github.com/api-evangelist/microsoft-azure-pipelines) |
+| microsoft-azure-policy | [microsoft-azure-policy](https://github.com/api-evangelist/microsoft-azure-policy) |
+| microsoft-azure-postgresql | [microsoft-azure-postgresql](https://github.com/api-evangelist/microsoft-azure-postgresql) |
+| microsoft-azure-private-link | [microsoft-azure-private-link](https://github.com/api-evangelist/microsoft-azure-private-link) |
+| microsoft-azure-queue-storage | [microsoft-azure-queue-storage](https://github.com/api-evangelist/microsoft-azure-queue-storage) |
+| Microsoft Azure Repo | [microsoft-azure-repo](https://github.com/api-evangelist/microsoft-azure-repo) |
+| microsoft-azure-search | [microsoft-azure-search](https://github.com/api-evangelist/microsoft-azure-search) |
+| microsoft-azure-service-bus | [microsoft-azure-service-bus](https://github.com/api-evangelist/microsoft-azure-service-bus) |
+| microsoft-azure-service-fabric | [microsoft-azure-service-fabric](https://github.com/api-evangelist/microsoft-azure-service-fabric) |
+| microsoft-azure-signalr | [microsoft-azure-signalr](https://github.com/api-evangelist/microsoft-azure-signalr) |
+| microsoft-azure-site-recovery | [microsoft-azure-site-recovery](https://github.com/api-evangelist/microsoft-azure-site-recovery) |
+| microsoft-azure-sql-database | [microsoft-azure-sql-database](https://github.com/api-evangelist/microsoft-azure-sql-database) |
+| microsoft-azure-stream-analytics | [microsoft-azure-stream-analytics](https://github.com/api-evangelist/microsoft-azure-stream-analytics) |
+| Microsoft Azure Synapse Analytics | [microsoft-azure-synapse-analytics](https://github.com/api-evangelist/microsoft-azure-synapse-analytics) |
+| microsoft-azure-traffic-manager | [microsoft-azure-traffic-manager](https://github.com/api-evangelist/microsoft-azure-traffic-manager) |
+| Microsoft Azure Virtual Machines | [microsoft-azure-virtual-machines](https://github.com/api-evangelist/microsoft-azure-virtual-machines) |
+| microsoft-azure-web-pubsub | [microsoft-azure-web-pubsub](https://github.com/api-evangelist/microsoft-azure-web-pubsub) |
 | Microsoft Bicep | [microsoft-bicep](https://github.com/api-evangelist/microsoft-bicep) |
+| Microsoft bing | [microsoft-bing](https://github.com/api-evangelist/microsoft-bing) |
+| Microsoft bookings | [microsoft-bookings](https://github.com/api-evangelist/microsoft-bookings) |
+| Microsoft bot-framework | [microsoft-bot-framework](https://github.com/api-evangelist/microsoft-bot-framework) |
+| Microsoft clarity | [microsoft-clarity](https://github.com/api-evangelist/microsoft-clarity) |
+| Microsoft cognitive-services | [microsoft-cognitive-services](https://github.com/api-evangelist/microsoft-cognitive-services) |
 | Microsoft Copilot | [microsoft-copilot](https://github.com/api-evangelist/microsoft-copilot) |
 | Microsoft Defender APIs | [microsoft-defender](https://github.com/api-evangelist/microsoft-defender) |
+| Microsoft dotnet | [microsoft-dotnet](https://github.com/api-evangelist/microsoft-dotnet) |
 | Microsoft Dynamics 365 | [microsoft-dynamics-365](https://github.com/api-evangelist/microsoft-dynamics-365) |
 | Microsoft Edge | [microsoft-edge](https://github.com/api-evangelist/microsoft-edge) |
 | Microsoft Endpoint Configuration Management | [microsoft-endpoint-configuration-management](https://github.com/api-evangelist/microsoft-endpoint-configuration-management) |
@@ -1082,31 +1520,56 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Microsoft Excel (Advanced) APIs | [microsoft-excel-advanced](https://github.com/api-evangelist/microsoft-excel-advanced) |
 | Microsoft Excel Macros API | [microsoft-excel-macros](https://github.com/api-evangelist/microsoft-excel-macros) |
 | Microsoft Exchange | [microsoft-exchange](https://github.com/api-evangelist/microsoft-exchange) |
+| Microsoft fabric | [microsoft-fabric](https://github.com/api-evangelist/microsoft-fabric) |
+| Microsoft forms | [microsoft-forms](https://github.com/api-evangelist/microsoft-forms) |
 | Microsoft Graph | [microsoft-graph](https://github.com/api-evangelist/microsoft-graph) |
 | Microsoft Intune | [microsoft-intune](https://github.com/api-evangelist/microsoft-intune) |
+| Microsoft linkedin | [microsoft-linkedin](https://github.com/api-evangelist/microsoft-linkedin) |
+| Microsoft loop | [microsoft-loop](https://github.com/api-evangelist/microsoft-loop) |
+| Microsoft nuget | [microsoft-nuget](https://github.com/api-evangelist/microsoft-nuget) |
 | Microsoft Office APIs | [microsoft-office](https://github.com/api-evangelist/microsoft-office) |
 | Microsoft Office 365 APIs | [microsoft-office-365](https://github.com/api-evangelist/microsoft-office-365) |
 | Microsoft Office Applications | [microsoft-office-applications](https://github.com/api-evangelist/microsoft-office-applications) |
 | Microsoft Office Pack | [microsoft-office-pack](https://github.com/api-evangelist/microsoft-office-pack) |
 | Microsoft Office Products | [microsoft-office-products](https://github.com/api-evangelist/microsoft-office-products) |
 | Microsoft Office Suite APIs | [microsoft-office-suite](https://github.com/api-evangelist/microsoft-office-suite) |
+| Microsoft onedrive | [microsoft-onedrive](https://github.com/api-evangelist/microsoft-onedrive) |
+| Microsoft onenote | [microsoft-onenote](https://github.com/api-evangelist/microsoft-onenote) |
 | Microsoft Outlook | [microsoft-outlook](https://github.com/api-evangelist/microsoft-outlook) |
 | Microsoft Package APIs | [microsoft-package](https://github.com/api-evangelist/microsoft-package) |
 | Microsoft Planner | [microsoft-planner](https://github.com/api-evangelist/microsoft-planner) |
+| Microsoft playwright | [microsoft-playwright](https://github.com/api-evangelist/microsoft-playwright) |
 | Microsoft Power Apps APIs | [microsoft-power-apps](https://github.com/api-evangelist/microsoft-power-apps) |
 | Microsoft Power Automate | [microsoft-power-automate](https://github.com/api-evangelist/microsoft-power-automate) |
+| Microsoft power-bi | [microsoft-power-bi](https://github.com/api-evangelist/microsoft-power-bi) |
+| Microsoft power-pages | [microsoft-power-pages](https://github.com/api-evangelist/microsoft-power-pages) |
+| Microsoft power-platform | [microsoft-power-platform](https://github.com/api-evangelist/microsoft-power-platform) |
+| Microsoft power-virtual-agents | [microsoft-power-virtual-agents](https://github.com/api-evangelist/microsoft-power-virtual-agents) |
 | Microsoft Products APIs | [microsoft-products](https://github.com/api-evangelist/microsoft-products) |
 | Microsoft Project | [microsoft-project](https://github.com/api-evangelist/microsoft-project) |
 | Microsoft Project APIs | [microsoft-projects](https://github.com/api-evangelist/microsoft-projects) |
 | Microsoft Purview | [microsoft-purview](https://github.com/api-evangelist/microsoft-purview) |
+| Microsoft sentinel | [microsoft-sentinel](https://github.com/api-evangelist/microsoft-sentinel) |
+| Microsoft sharepoint | [microsoft-sharepoint](https://github.com/api-evangelist/microsoft-sharepoint) |
+| Microsoft skype | [microsoft-skype](https://github.com/api-evangelist/microsoft-skype) |
 | Microsoft SQL Server | [microsoft-sql-server](https://github.com/api-evangelist/microsoft-sql-server) |
+| Microsoft stream | [microsoft-stream](https://github.com/api-evangelist/microsoft-stream) |
 | Microsoft Suite APIs | [microsoft-suite](https://github.com/api-evangelist/microsoft-suite) |
+| Microsoft surface | [microsoft-surface](https://github.com/api-evangelist/microsoft-surface) |
+| Microsoft sway | [microsoft-sway](https://github.com/api-evangelist/microsoft-sway) |
 | Microsoft Teams | [microsoft-teams](https://github.com/api-evangelist/microsoft-teams) |
+| Microsoft to-do | [microsoft-to-do](https://github.com/api-evangelist/microsoft-to-do) |
+| Microsoft typescript | [microsoft-typescript](https://github.com/api-evangelist/microsoft-typescript) |
 | Microsoft Visio | [microsoft-visio](https://github.com/api-evangelist/microsoft-visio) |
+| Microsoft visual-studio | [microsoft-visual-studio](https://github.com/api-evangelist/microsoft-visual-studio) |
+| Microsoft viva | [microsoft-viva](https://github.com/api-evangelist/microsoft-viva) |
+| Microsoft whiteboard | [microsoft-whiteboard](https://github.com/api-evangelist/microsoft-whiteboard) |
 | Microsoft Windows APIs | [microsoft-windows](https://github.com/api-evangelist/microsoft-windows) |
 | Microsoft Windows 10 APIs | [microsoft-windows-10](https://github.com/api-evangelist/microsoft-windows-10) |
 | Microsoft Windows Server | [microsoft-windows-server](https://github.com/api-evangelist/microsoft-windows-server) |
 | Microsoft Word API | [microsoft-word](https://github.com/api-evangelist/microsoft-word) |
+| Microsoft xbox | [microsoft-xbox](https://github.com/api-evangelist/microsoft-xbox) |
+| Microsoft yammer | [microsoft-yammer](https://github.com/api-evangelist/microsoft-yammer) |
 | MikMak | [mikmak](https://github.com/api-evangelist/mikmak) |
 | Mine Health and Safety Administration | [mine-health-and-safety-administration](https://github.com/api-evangelist/mine-health-and-safety-administration) |
 | minerstat | [minerstat](https://github.com/api-evangelist/minerstat) |
@@ -1163,6 +1626,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | National Credit Union Administration | [national-credit-union-administration](https://github.com/api-evangelist/national-credit-union-administration) |
 | National Endowment for the Arts | [national-endowment-for-the-arts](https://github.com/api-evangelist/national-endowment-for-the-arts) |
 | National Endowment for the Humanities | [national-endowment-for-the-humanities](https://github.com/api-evangelist/national-endowment-for-the-humanities) |
+| National Energy System Operator | [national-energy-system-operator](https://github.com/api-evangelist/national-energy-system-operator) |
 | national-gallery-of-art | [national-gallery-of-art](https://github.com/api-evangelist/national-gallery-of-art) |
 | national-geospatial-intelligence-agency | [national-geospatial-intelligence-agency](https://github.com/api-evangelist/national-geospatial-intelligence-agency) |
 | National Health Service | [national-health-service](https://github.com/api-evangelist/national-health-service) |
@@ -1196,10 +1660,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Neighbor | [neighbor](https://github.com/api-evangelist/neighbor) |
 | neighbortunes | [neighbortunes](https://github.com/api-evangelist/neighbortunes) |
 | Neobanks API Collection | [neobanks](https://github.com/api-evangelist/neobanks) |
+| Neocurrency | [neocurrency](https://github.com/api-evangelist/neocurrency) |
 | Neolink | [neolink](https://github.com/api-evangelist/neolink) |
 | NetApp APIs | [netapp](https://github.com/api-evangelist/netapp) |
 | NetBird | [netbird](https://github.com/api-evangelist/netbird) |
 | NetBox | [netbox](https://github.com/api-evangelist/netbox) |
+| Netflix Zuul is an open-source edge service and API gateway providing dynamic routing, monitoring, and security for JVM-based microservices. | [netflix-zuul](https://github.com/api-evangelist/netflix-zuul) |
 | NetFlow API | [netflow](https://github.com/api-evangelist/netflow) |
 | Netlify | [netlify](https://github.com/api-evangelist/netlify) |
 | Netreo | [netreo](https://github.com/api-evangelist/netreo) |
@@ -1216,7 +1682,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Nexus Repository Manager | [nexus](https://github.com/api-evangelist/nexus) |
 | NGINX API | [nginx](https://github.com/api-evangelist/nginx) |
 | Ngrok | [ngrok](https://github.com/api-evangelist/ngrok) |
+| Ngrok Ai | [ngrok-ai](https://github.com/api-evangelist/ngrok-ai) |
 | NHS England Digital | [nhs-england-digital](https://github.com/api-evangelist/nhs-england-digital) |
+| Nhtsa Crash Api | [nhtsa-crash-api](https://github.com/api-evangelist/nhtsa-crash-api) |
 | Nightfall AI | [nightfall-ai](https://github.com/api-evangelist/nightfall-ai) |
 | Nissan | [nissan](https://github.com/api-evangelist/nissan) |
 | National Institute of Standards and Technology (NIST) | [nist](https://github.com/api-evangelist/nist) |
@@ -1229,6 +1697,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | NovoPayment | [novopayment](https://github.com/api-evangelist/novopayment) |
 | NPR | [npr](https://github.com/api-evangelist/npr) |
 | Nubela | [nubela](https://github.com/api-evangelist/nubela) |
+| Nudge Security is a SaaS and AI security management platform that discovers all SaaS usage and engages end users for remediation. | [nudge-security](https://github.com/api-evangelist/nudge-security) |
 | NumPy | [numpy](https://github.com/api-evangelist/numpy) |
 | NUnit | [nunit](https://github.com/api-evangelist/nunit) |
 | Nutanix | [nutanix](https://github.com/api-evangelist/nutanix) |
@@ -1239,10 +1708,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Nylas | [nylas](https://github.com/api-evangelist/nylas) |
 | oak-ridge-national-laboratory | [oak-ridge-national-laboratory](https://github.com/api-evangelist/oak-ridge-national-laboratory) |
 | occupational-safety-and-health-administration | [occupational-safety-and-health-administration](https://github.com/api-evangelist/occupational-safety-and-health-administration) |
+| Ocelot is an open-source .NET-native API gateway offering routing, load balancing, and authentication for ASP.NET Core microservices. | [ocelot](https://github.com/api-evangelist/ocelot) |
 | OCLC | [oclc](https://github.com/api-evangelist/oclc) |
+| Ocra | [ocra](https://github.com/api-evangelist/ocra) |
 | Open Connectivity for Tours, Activities, and Attractions (OCTO) | [octo](https://github.com/api-evangelist/octo) |
 | Octoparse | [octoparse](https://github.com/api-evangelist/octoparse) |
 | OddsJam | [oddsjam](https://github.com/api-evangelist/oddsjam) |
+| Odoo | [odoo](https://github.com/api-evangelist/odoo) |
 | OECD | [oecd](https://github.com/api-evangelist/oecd) |
 | OffenderList | [offenderlist](https://github.com/api-evangelist/offenderlist) |
 | Offenders.io | [offenders-io](https://github.com/api-evangelist/offenders-io) |
@@ -1270,6 +1742,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Open Trivia DB | [open-trivia-db](https://github.com/api-evangelist/open-trivia-db) |
 | OpenAI | [openai](https://github.com/api-evangelist/openai) |
 | OpenAI APIs | [openai-apis](https://github.com/api-evangelist/openai-apis) |
+| OpenAPI Generator is an open-source tool that auto-generates API client libraries, server stubs, and documentation from OpenAPI specs across 50+ languages. | [openapi-generator](https://github.com/api-evangelist/openapi-generator) |
 | OpenAQ | [openaq](https://github.com/api-evangelist/openaq) |
 | OpenF1 | [openf1](https://github.com/api-evangelist/openf1) |
 | OpenFIGI | [openfigi](https://github.com/api-evangelist/openfigi) |
@@ -1283,6 +1756,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | OpenTopography API | [opentopography-api](https://github.com/api-evangelist/opentopography-api) |
 | OpenWeather | [openweather](https://github.com/api-evangelist/openweather) |
 | Operation Support Equipment API | [operation-support-equipment](https://github.com/api-evangelist/operation-support-equipment) |
+| OpsLevel is a prescriptive internal developer portal for cataloging, measuring, and scaffolding services according to engineering best practices. | [opslevel](https://github.com/api-evangelist/opslevel) |
 | Opterrix | [opterrix](https://github.com/api-evangelist/opterrix) |
 | OpticOdds | [opticodds](https://github.com/api-evangelist/opticodds) |
 | Oracle | [oracle](https://github.com/api-evangelist/oracle) |
@@ -1312,8 +1786,6 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Orbital | [orbital](https://github.com/api-evangelist/orbital) |
 | ORCID | [orcid](https://github.com/api-evangelist/orcid) |
 | Orders | [orders-api](https://github.com/api-evangelist/orders-api) |
-| API Evangelist standards | [organizations](https://github.com/api-evangelist/organizations) |
-| Organizations | [organizations-api](https://github.com/api-evangelist/organizations-api) |
 | Orion Health | [orion](https://github.com/api-evangelist/orion) |
 | Otreeba | [otreeba](https://github.com/api-evangelist/otreeba) |
 | OurPeople | [ourpeople](https://github.com/api-evangelist/ourpeople) |
@@ -1324,11 +1796,11 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Outils De Travail Digitaux | [outils-de-travail-digitaux](https://github.com/api-evangelist/outils-de-travail-digitaux) |
 | Outils Digitaux | [outils-digitaux](https://github.com/api-evangelist/outils-digitaux) |
 | Outscraper | [outscraper](https://github.com/api-evangelist/outscraper) |
-| API Evangelist standards | [overlays](https://github.com/api-evangelist/overlays) |
 | Overwolf | [overwolf](https://github.com/api-evangelist/overwolf) |
 | ovh-cloud | [ovh-cloud](https://github.com/api-evangelist/ovh-cloud) |
 | OWASP API Security Project | [owasp-api-security-project](https://github.com/api-evangelist/owasp-api-security-project) |
 | P&G | [p-g](https://github.com/api-evangelist/p-g) |
+| Pabbly Connect is a budget-focused automation platform with a one-time payment model for connecting SaaS apps. | [pabbly](https://github.com/api-evangelist/pabbly) |
 | PACER Case Locator (PCL) | [pacer-case-locator-pcl-](https://github.com/api-evangelist/pacer-case-locator-pcl-) |
 | Packmind | [packmind](https://github.com/api-evangelist/packmind) |
 | Datadog | [pagerduty](https://github.com/api-evangelist/pagerduty) |
@@ -1336,22 +1808,28 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Palo Alto Networks | [palo-alto-networks](https://github.com/api-evangelist/palo-alto-networks) |
 | Pandas | [pandas](https://github.com/api-evangelist/pandas) |
 | Pandium | [pandium](https://github.com/api-evangelist/pandium) |
+| Panora is an open-source unified API platform for adding integrations to SaaS products with a drop-in frontend widget. | [panora](https://github.com/api-evangelist/panora) |
 | Panorama APIs | [panorama](https://github.com/api-evangelist/panorama) |
 | Pantry | [pantry](https://github.com/api-evangelist/pantry) |
 | Paradox APIs | [paradox](https://github.com/api-evangelist/paradox) |
 | Paragon | [paragon](https://github.com/api-evangelist/paragon) |
-| API Evangelist standards | [parameters](https://github.com/api-evangelist/parameters) |
+| Parkhub | [parkhub](https://github.com/api-evangelist/parkhub) |
 | Parklio | [parklio](https://github.com/api-evangelist/parklio) |
 | Parkopedia | [parkopedia](https://github.com/api-evangelist/parkopedia) |
 | ParkPow | [parkpow](https://github.com/api-evangelist/parkpow) |
 | Apache Parquet APIs | [parquet](https://github.com/api-evangelist/parquet) |
-| API Evangelist Conversations | [partners](https://github.com/api-evangelist/partners) |
 | PartnerStack | [partnerstack](https://github.com/api-evangelist/partnerstack) |
 | Passbolt | [passbolt](https://github.com/api-evangelist/passbolt) |
+| Passports | [passports](https://github.com/api-evangelist/passports) |
+| Paw is a native macOS HTTP client with a polished UI for composing requests, inspecting responses, and generating client code. | [paw](https://github.com/api-evangelist/paw) |
 | Payload | [payload](https://github.com/api-evangelist/payload) |
+| This is a demo payments APIs. | [payments-api](https://github.com/api-evangelist/payments-api) |
 | Paypal | [paypal](https://github.com/api-evangelist/paypal) |
+| Paypro Global | [paypro-global](https://github.com/api-evangelist/paypro-global) |
 | peace-corps | [peace-corps](https://github.com/api-evangelist/peace-corps) |
 | Pebblely | [pebblely](https://github.com/api-evangelist/pebblely) |
+| Pebblely Ai | [pebblely-ai](https://github.com/api-evangelist/pebblely-ai) |
+| People Data Labs | [people-data-labs](https://github.com/api-evangelist/people-data-labs) |
 | PeopleForce | [peopleforce](https://github.com/api-evangelist/peopleforce) |
 | PeopleSoft APIs | [peoplesoft](https://github.com/api-evangelist/peoplesoft) |
 | PeopleSoft Financials APIs | [peoplesoft-financials](https://github.com/api-evangelist/peoplesoft-financials) |
@@ -1360,6 +1838,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Perforce | [perforce](https://github.com/api-evangelist/perforce) |
 | Permit.io | [permit-io](https://github.com/api-evangelist/permit-io) |
 | Perplexity | [perplexity](https://github.com/api-evangelist/perplexity) |
+| Persona | [persona](https://github.com/api-evangelist/persona) |
 | Persons | [persons-api](https://github.com/api-evangelist/persons-api) |
 | Pexels | [pexels](https://github.com/api-evangelist/pexels) |
 | Adobe Photoshop API | [photoshop](https://github.com/api-evangelist/photoshop) |
@@ -1369,15 +1848,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Pin Payments | [pin-payments](https://github.com/api-evangelist/pin-payments) |
 | pinecone | [pinecone](https://github.com/api-evangelist/pinecone) |
 | Ping Identity | [ping-identity](https://github.com/api-evangelist/ping-identity) |
-|  Pinnacle Sports Betting | [pinnacle](https://github.com/api-evangelist/pinnacle) |
+| ' Pinnacle Sports Betting' | [pinnacle](https://github.com/api-evangelist/pinnacle) |
 | Pinterest | [pinterest](https://github.com/api-evangelist/pinterest) |
-| API Platform Builder | [pipeline-builder](https://github.com/api-evangelist/pipeline-builder) |
+| Pipedream is a developer-centric integration platform allowing custom code and API connections embedded directly into production workflows. | [pipedream](https://github.com/api-evangelist/pipedream) |
 | piscesCSM | [piscescsm](https://github.com/api-evangelist/piscescsm) |
 | Pitney Bowes | [pitney-bowes](https://github.com/api-evangelist/pitney-bowes) |
 | Pixelixe | [pixelixe](https://github.com/api-evangelist/pixelixe) |
 | plaid | [plaid](https://github.com/api-evangelist/plaid) |
-| API Evangelist Utilities APIs | [platform](https://github.com/api-evangelist/platform) |
-| API Platform Builder | [platform-builder](https://github.com/api-evangelist/platform-builder) |
 | Platformable | [platformable](https://github.com/api-evangelist/platformable) |
 | Platzi Fake Store API | [platzi-fake-store-api](https://github.com/api-evangelist/platzi-fake-store-api) |
 | Playwright API | [playwright](https://github.com/api-evangelist/playwright) |
@@ -1386,9 +1863,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Podbean API | [podbean-api](https://github.com/api-evangelist/podbean-api) |
 | Podcast API | [podcast-api](https://github.com/api-evangelist/podcast-api) |
 | PodcastIndex | [podcastindex](https://github.com/api-evangelist/podcastindex) |
+| Podcastpage Api Podcastpage Io | [podcastpage-api-podcastpage-io](https://github.com/api-evangelist/podcastpage-api-podcastpage-io) |
 | Podchaser | [podchaser](https://github.com/api-evangelist/podchaser) |
 | Podman API | [podman](https://github.com/api-evangelist/podman) |
-| API Evangelist policies | [policies](https://github.com/api-evangelist/policies) |
 | PolyAPI | [polyapi](https://github.com/api-evangelist/polyapi) |
 | Porsche | [porsche](https://github.com/api-evangelist/porsche) |
 | Port | [port](https://github.com/api-evangelist/port) |
@@ -1396,17 +1873,19 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | PostgreSQL | [postgresql](https://github.com/api-evangelist/postgresql) |
 | Postman | [postman](https://github.com/api-evangelist/postman) |
 | Postmark | [postmark](https://github.com/api-evangelist/postmark) |
-| API Evangelist standards | [posts](https://github.com/api-evangelist/posts) |
 | Microsoft Power Apps | [power-apps](https://github.com/api-evangelist/power-apps) |
 | Power BI | [power-bi](https://github.com/api-evangelist/power-bi) |
 | Microsoft Power Platform APIs | [power-platform](https://github.com/api-evangelist/power-platform) |
 | Power Query API | [power-query](https://github.com/api-evangelist/power-query) |
 | Power Tools API | [power-tools](https://github.com/api-evangelist/power-tools) |
 | Microsoft PowerPoint API | [powerpoint](https://github.com/api-evangelist/powerpoint) |
+| Powerreviews | [powerreviews](https://github.com/api-evangelist/powerreviews) |
 | PowerShell | [powershell](https://github.com/api-evangelist/powershell) |
+| Precisely | [precisely](https://github.com/api-evangelist/precisely) |
 | precisely-apis | [precisely-apis](https://github.com/api-evangelist/precisely-apis) |
 | PredictHQ | [predicthq](https://github.com/api-evangelist/predicthq) |
 | Predictive Oncology Model and Data Clearinghouse (MoDaC) | [predictive-oncology-model-and-data-clearinghouse](https://github.com/api-evangelist/predictive-oncology-model-and-data-clearinghouse) |
+| Prefect is a Python-native workflow orchestration tool for building, scheduling, and monitoring data pipelines with fault tolerance. | [prefect](https://github.com/api-evangelist/prefect) |
 | Prestmit | [prestmit](https://github.com/api-evangelist/prestmit) |
 | Princess Beef Heavy Industries | [princess-beef-heavy-industries](https://github.com/api-evangelist/princess-beef-heavy-industries) |
 | Prisma | [prisma](https://github.com/api-evangelist/prisma) |
@@ -1419,9 +1898,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Prometheus | [prometheus](https://github.com/api-evangelist/prometheus) |
 | Pronovix | [pronovix](https://github.com/api-evangelist/pronovix) |
 | Proompty | [proompty](https://github.com/api-evangelist/proompty) |
-| API Evangelist standards | [properties](https://github.com/api-evangelist/properties) |
 | ProPublica Data Store | [propublica](https://github.com/api-evangelist/propublica) |
 | Prosci | [prosci](https://github.com/api-evangelist/prosci) |
+| ProsperOps is an autonomous AWS discount management platform that continuously optimizes Reserved Instance and Savings Plan portfolios. | [prosperops](https://github.com/api-evangelist/prosperops) |
 | Prudential Backstop APIs | [prudential-backstop](https://github.com/api-evangelist/prudential-backstop) |
 | Pulse API | [pulse](https://github.com/api-evangelist/pulse) |
 | Pulse API | [pulse-api](https://github.com/api-evangelist/pulse-api) |
@@ -1432,12 +1911,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Pulumi | [pulumi](https://github.com/api-evangelist/pulumi) |
 | Puppet | [puppet](https://github.com/api-evangelist/puppet) |
 | PuTTY | [putty](https://github.com/api-evangelist/putty) |
-| API Evangelist Conversations | [puzzle](https://github.com/api-evangelist/puzzle) |
 | Pynt | [pynt](https://github.com/api-evangelist/pynt) |
 | Apache PySpark | [pyspark](https://github.com/api-evangelist/pyspark) |
 | Python Standard Library and Popular APIs | [python](https://github.com/api-evangelist/python) |
 | PyTorch APIs | [pytorch](https://github.com/api-evangelist/pytorch) |
 | Qdrant | [qdrant](https://github.com/api-evangelist/qdrant) |
+| Qiwi | [qiwi](https://github.com/api-evangelist/qiwi) |
 | Qlik | [qlik](https://github.com/api-evangelist/qlik) |
 | Qlik Cloud APIs | [qlik-cloud](https://github.com/api-evangelist/qlik-cloud) |
 | Qlik Mashups API | [qlik-mashups](https://github.com/api-evangelist/qlik-mashups) |
@@ -1447,12 +1926,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | QlikView | [qlikview](https://github.com/api-evangelist/qlikview) |
 | IBM QRadar Security Intelligence Platform | [qradar](https://github.com/api-evangelist/qradar) |
 | Quadrant API | [quadrant-api](https://github.com/api-evangelist/quadrant-api) |
+| Qualified | [qualified](https://github.com/api-evangelist/qualified) |
 | Quant | [quant](https://github.com/api-evangelist/quant) |
 | QuantCDN | [quantcdn](https://github.com/api-evangelist/quantcdn) |
 | Quantexa | [quantexa](https://github.com/api-evangelist/quantexa) |
 | Qube APIs | [qube](https://github.com/api-evangelist/qube) |
 | Qube Horizon | [qube-horizon](https://github.com/api-evangelist/qube-horizon) |
-| API Evangelist questions | [questions](https://github.com/api-evangelist/questions) |
 | QuickNode | [quicknode](https://github.com/api-evangelist/quicknode) |
 | Quiver | [quiver](https://github.com/api-evangelist/quiver) |
 | Quiz API | [quiz-api](https://github.com/api-evangelist/quiz-api) |
@@ -1465,7 +1944,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Radio.co | [radio-co](https://github.com/api-evangelist/radio-co) |
 | Radio Cult | [radio-cult](https://github.com/api-evangelist/radio-cult) |
 | Radio Mast | [radio-mast](https://github.com/api-evangelist/radio-mast) |
+| Radio Station Pro | [radio-station-pro](https://github.com/api-evangelist/radio-station-pro) |
 | Rafay Product Documentation | [rafay-product-documentation](https://github.com/api-evangelist/rafay-product-documentation) |
+| Railinc | [railinc](https://github.com/api-evangelist/railinc) |
 | Railway | [railway](https://github.com/api-evangelist/railway) |
 | Rainbow | [rainbow](https://github.com/api-evangelist/rainbow) |
 | Rainbow.AI | [rainbow-ai](https://github.com/api-evangelist/rainbow-ai) |
@@ -1479,8 +1960,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | ReadMe | [readme](https://github.com/api-evangelist/readme) |
 | ReadSoft | [readsoft](https://github.com/api-evangelist/readsoft) |
 | ReadSpeaker | [readspeaker](https://github.com/api-evangelist/readspeaker) |
+| ReadyAPI is SmartBear's commercial API testing suite with deep support for SOAP, REST, and GraphQL including functional and security testing. | [readyapi](https://github.com/api-evangelist/readyapi) |
+| Realestateapi | [realestateapi](https://github.com/api-evangelist/realestateapi) |
+| Realtyna | [realtyna](https://github.com/api-evangelist/realtyna) |
 | Recreation.gov | [recreation-gov](https://github.com/api-evangelist/recreation-gov) |
 | Red Hat | [red-hat](https://github.com/api-evangelist/red-hat) |
+| Red Hat 3scale is an API management solution integrated with OpenShift for API traffic control, analytics, and developer portals. | [red-hat-3scale](https://github.com/api-evangelist/red-hat-3scale) |
 | Red Hat Enterprise Linux 8 | [red-hat-enterprise-linux-8](https://github.com/api-evangelist/red-hat-enterprise-linux-8) |
 | Red Hat Satellite | [red-hat-satellite](https://github.com/api-evangelist/red-hat-satellite) |
 | Redis | [redis](https://github.com/api-evangelist/redis) |
@@ -1490,30 +1975,33 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Refinitiv Eikon | [refinitiv-eikon](https://github.com/api-evangelist/refinitiv-eikon) |
 | Reflect | [reflect](https://github.com/api-evangelist/reflect) |
 | RelativityOne | [relativityone](https://github.com/api-evangelist/relativityone) |
+| Relay.app is a collaborative workflow automation tool combining human approval steps with automated actions across SaaS apps. | [relay-app](https://github.com/api-evangelist/relay-app) |
 | Reloadly | [reloadly](https://github.com/api-evangelist/reloadly) |
+| Render | [render](https://github.com/api-evangelist/render) |
 | RentCast | [rentcast](https://github.com/api-evangelist/rentcast) |
 | Replicate | [replicate](https://github.com/api-evangelist/replicate) |
 | Replit | [replit](https://github.com/api-evangelist/replit) |
 | RescueGroups.org | [rescuegroups-org](https://github.com/api-evangelist/rescuegroups-org) |
 | Resend | [resend](https://github.com/api-evangelist/resend) |
 | Resilinc | [resilinc](https://github.com/api-evangelist/resilinc) |
-| API Evangelist standards | [responses](https://github.com/api-evangelist/responses) |
 | Restack | [restack](https://github.com/api-evangelist/restack) |
 | Restream | [restream](https://github.com/api-evangelist/restream) |
 | Retool | [retool](https://github.com/api-evangelist/retool) |
 | Reuters | [reuters](https://github.com/api-evangelist/reuters) |
+| Revert is an open-source unified API for building product integrations across CRM, accounting, and ticketing systems. | [revert](https://github.com/api-evangelist/revert) |
 | revolutio | [revolutio](https://github.com/api-evangelist/revolutio) |
 | Red Hat Enterprise Linux (RHEL) APIs | [rhel](https://github.com/api-evangelist/rhel) |
 | Rightsline | [rightsline](https://github.com/api-evangelist/rightsline) |
 | Riot Games | [riot-games](https://github.com/api-evangelist/riot-games) |
 | Rithum | [rithum](https://github.com/api-evangelist/rithum) |
+| Riverside | [riverside](https://github.com/api-evangelist/riverside) |
 | Roblox Engine API | [roblox-engine-api](https://github.com/api-evangelist/roblox-engine-api) |
 | RouterOS | [routeros](https://github.com/api-evangelist/routeros) |
 | RSC | [rsc](https://github.com/api-evangelist/rsc) |
-| API Evangelist Rules | [rules](https://github.com/api-evangelist/rules) |
 | Runa | [runa](https://github.com/api-evangelist/runa) |
 | Rundeck | [rundeck](https://github.com/api-evangelist/rundeck) |
 | RunSignup | [runsignup](https://github.com/api-evangelist/runsignup) |
+| Rutter is a unified API for B2B financial products covering accounting, commerce, payments, and advertising platforms. | [rutter](https://github.com/api-evangelist/rutter) |
 | Sage | [sage](https://github.com/api-evangelist/sage) |
 | SailPoint | [sailpoint](https://github.com/api-evangelist/sailpoint) |
 | Salad Transcription API | [salad-transcription-api](https://github.com/api-evangelist/salad-transcription-api) |
@@ -1536,6 +2024,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | sandbox-banking | [sandbox-banking](https://github.com/api-evangelist/sandbox-banking) |
 | Sanity | [sanity](https://github.com/api-evangelist/sanity) |
 | SAP APIs | [sap](https://github.com/api-evangelist/sap) |
+| SAP API Management is part of SAP Integration Suite enabling API lifecycle management within the SAP ecosystem. | [sap-api-management](https://github.com/api-evangelist/sap-api-management) |
 | SAP Ariba | [sap-ariba](https://github.com/api-evangelist/sap-ariba) |
 | SAP Business Intelligence APIs | [sap-bi](https://github.com/api-evangelist/sap-bi) |
 | SAP BI Tools | [sap-bi-tools](https://github.com/api-evangelist/sap-bi-tools) |
@@ -1544,8 +2033,10 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | SAP Concur | [sap-concur](https://github.com/api-evangelist/sap-concur) |
 | SAP Concur Expense | [sap-concur-expense](https://github.com/api-evangelist/sap-concur-expense) |
 | SAP HANA | [sap-hana](https://github.com/api-evangelist/sap-hana) |
+| SAP Integration Suite provides pre-built integration content, event broker support, and API management for connecting SAP and non-SAP systems. | [sap-integration-suite](https://github.com/api-evangelist/sap-integration-suite) |
 | SAP S/4HANA APIs | [sap-s4hana](https://github.com/api-evangelist/sap-s4hana) |
 | SAP Sales and Distribution (SD) API | [sap-sales-and-distribution-sd](https://github.com/api-evangelist/sap-sales-and-distribution-sd) |
+| Sastrify is a SaaS procurement and management platform offering spend visibility and hands-on procurement support. | [sastrify](https://github.com/api-evangelist/sastrify) |
 | Scala Programming Language APIs | [scala](https://github.com/api-evangelist/scala) |
 | Scalability APIs | [scalability](https://github.com/api-evangelist/scalability) |
 | Scalability Testing API | [scalability-testing](https://github.com/api-evangelist/scalability-testing) |
@@ -1557,10 +2048,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Scalable Software And Systems | [scalable-software-and-systems](https://github.com/api-evangelist/scalable-software-and-systems) |
 | Scalable Systems | [scalable-systems](https://github.com/api-evangelist/scalable-systems) |
 | Scalar | [scalar](https://github.com/api-evangelist/scalar) |
-| API Evangelist standards | [schema](https://github.com/api-evangelist/schema) |
+| Scaleway | [scaleway](https://github.com/api-evangelist/scaleway) |
+| Schneider Electric Exchange | [schneider-electric-exchange](https://github.com/api-evangelist/schneider-electric-exchange) |
+| Science Museum Group | [science-museum-group](https://github.com/api-evangelist/science-museum-group) |
 | Scispot | [scispot](https://github.com/api-evangelist/scispot) |
 | Scrapfly | [scrapfly](https://github.com/api-evangelist/scrapfly) |
-| API Evangelist standards | [search](https://github.com/api-evangelist/search) |
+| Screenshotone | [screenshotone](https://github.com/api-evangelist/screenshotone) |
 | Seed API | [seed-platform](https://github.com/api-evangelist/seed-platform) |
 | Segmind | [segmind](https://github.com/api-evangelist/segmind) |
 | Seismic | [seismic](https://github.com/api-evangelist/seismic) |
@@ -1569,13 +2062,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Sendbird | [sendbird](https://github.com/api-evangelist/sendbird) |
 | SendGrid | [sendgrid](https://github.com/api-evangelist/sendgrid) |
 | Sentry | [sentry-system](https://github.com/api-evangelist/sentry-system) |
+| Seon Docs | [seon-docs](https://github.com/api-evangelist/seon-docs) |
 | Sepasoft | [sepasoft](https://github.com/api-evangelist/sepasoft) |
 | SerpApi | [serpapi](https://github.com/api-evangelist/serpapi) |
 | SerpWow | [serpwow](https://github.com/api-evangelist/serpwow) |
 | SERTICA | [sertica](https://github.com/api-evangelist/sertica) |
 | Salesforce Service Cloud APIs | [service-cloud](https://github.com/api-evangelist/service-cloud) |
 | ServiceNow | [servicenow](https://github.com/api-evangelist/servicenow) |
-| API Evangelist Conversations | [services](https://github.com/api-evangelist/services) |
 | Sex Offenders API | [sex-offenders-api](https://github.com/api-evangelist/sex-offenders-api) |
 | Microsoft SharePoint | [sharepoint](https://github.com/api-evangelist/sharepoint) |
 | Shell | [shell](https://github.com/api-evangelist/shell) |
@@ -1594,7 +2087,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Sisense | [sisense](https://github.com/api-evangelist/sisense) |
 | Sitefinity CMS | [sitefinity-cms](https://github.com/api-evangelist/sitefinity-cms) |
 | Slack | [slack](https://github.com/api-evangelist/slack) |
+| Smart Data | [smart-data](https://github.com/api-evangelist/smart-data) |
 | SmartBear | [smartbear](https://github.com/api-evangelist/smartbear) |
+| Smartcar | [smartcar](https://github.com/api-evangelist/smartcar) |
 | SmartRecruiters | [smartrecruiters](https://github.com/api-evangelist/smartrecruiters) |
 | Smithery | [smithery](https://github.com/api-evangelist/smithery) |
 | smithsonian-institution | [smithsonian-institution](https://github.com/api-evangelist/smithsonian-institution) |
@@ -1602,6 +2097,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Snowflake | [snowflake](https://github.com/api-evangelist/snowflake) |
 | SOAX | [soax](https://github.com/api-evangelist/soax) |
 | Social Security Administration | [social-security-administration](https://github.com/api-evangelist/social-security-administration) |
+| Software AG webMethods is an enterprise hybrid integration platform with strengths in API management, B2B connectivity, and IoT integration. | [software-ag](https://github.com/api-evangelist/software-ag) |
 | SoftwareOne | [softwareone](https://github.com/api-evangelist/softwareone) |
 | Solaris Zones API | [solaris-zones](https://github.com/api-evangelist/solaris-zones) |
 | SolarWinds APIs | [solarwinds](https://github.com/api-evangelist/solarwinds) |
@@ -1613,6 +2109,8 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Sonatype Nexus Repository Manager | [sonatype-nexus](https://github.com/api-evangelist/sonatype-nexus) |
 | Songstats | [songstats](https://github.com/api-evangelist/songstats) |
 | Sophos | [sophos](https://github.com/api-evangelist/sophos) |
+| Sorry | [sorry](https://github.com/api-evangelist/sorry) |
+| Sound Transit | [sound-transit](https://github.com/api-evangelist/sound-transit) |
 | SpaceAPI | [spaceapi](https://github.com/api-evangelist/spaceapi) |
 | Spaceflight News API | [spaceflight-news-api](https://github.com/api-evangelist/spaceflight-news-api) |
 | SpaceX API | [spacex-api](https://github.com/api-evangelist/spacex-api) |
@@ -1622,10 +2120,12 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | SpecFlow | [specflow](https://github.com/api-evangelist/specflow) |
 | SpecLynx | [speclynx](https://github.com/api-evangelist/speclynx) |
 | specmatic | [specmatic](https://github.com/api-evangelist/specmatic) |
+| Spendflo is a SaaS spend and procurement platform targeting high-growth companies with spend optimization and vendor negotiation support. | [spendflo](https://github.com/api-evangelist/spendflo) |
 | Spitab APIs | [spitab](https://github.com/api-evangelist/spitab) |
 | Splunk | [splunk](https://github.com/api-evangelist/splunk) |
 | sportradar | [sportradar](https://github.com/api-evangelist/sportradar) |
 | SportsAPI | [sportsapi](https://github.com/api-evangelist/sportsapi) |
+| Sportsbook Api | [sportsbook-api](https://github.com/api-evangelist/sportsbook-api) |
 | SportsDataIO | [sportsdataio](https://github.com/api-evangelist/sportsdataio) |
 | SportsGameOdds | [sportsgameodds](https://github.com/api-evangelist/sportsgameodds) |
 | SpotHero | [spothero](https://github.com/api-evangelist/spothero) |
@@ -1639,6 +2139,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Spring Boot 3 APIs | [spring-boot-3](https://github.com/api-evangelist/spring-boot-3) |
 | Spring Boot Admin Console | [spring-boot-admin-console](https://github.com/api-evangelist/spring-boot-admin-console) |
 | Spring Cloud APIs | [spring-cloud](https://github.com/api-evangelist/spring-cloud) |
+| Spring Cloud Gateway is a reactive non-blocking API gateway framework for Java and Spring Boot microservices ecosystems. | [spring-cloud-gateway](https://github.com/api-evangelist/spring-cloud-gateway) |
 | Spring Cloud Stream | [spring-cloud-stream](https://github.com/api-evangelist/spring-cloud-stream) |
 | Spring Data | [spring-data](https://github.com/api-evangelist/spring-data) |
 | Spring Framework | [spring-framework](https://github.com/api-evangelist/spring-framework) |
@@ -1652,16 +2153,14 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | StackOne | [stackone](https://github.com/api-evangelist/stackone) |
 | Stadia Maps | [stadia-maps](https://github.com/api-evangelist/stadia-maps) |
 | Stainless | [stainless](https://github.com/api-evangelist/stainless) |
-| API Evangelist standards | [standards](https://github.com/api-evangelist/standards) |
 | Statorium | [statorium](https://github.com/api-evangelist/statorium) |
 | Stats Perform | [stats-perform](https://github.com/api-evangelist/stats-perform) |
 | Stellar Cyber | [stellar-cyber](https://github.com/api-evangelist/stellar-cyber) |
+| StepZen is a developer-focused platform for composing backend data sources into a single GraphQL API using declarative configuration, now part of IBM. | [stepzen](https://github.com/api-evangelist/stepzen) |
 | StockData | [stockdata](https://github.com/api-evangelist/stockdata) |
-| store | [store](https://github.com/api-evangelist/store) |
-| API Evangelist Contracts | [stories](https://github.com/api-evangelist/stories) |
+| Stoplight is a design-first API documentation platform with a visual editor for OpenAPI specs, hosted docs, and style guides. | [stoplight](https://github.com/api-evangelist/stoplight) |
 | Stormglass | [stormglass](https://github.com/api-evangelist/stormglass) |
 | Storybook | [storybook](https://github.com/api-evangelist/storybook) |
-| API Evangelist Contracts | [strategies](https://github.com/api-evangelist/strategies) |
 | Strava | [strava](https://github.com/api-evangelist/strava) |
 | Streamlit | [streamlit](https://github.com/api-evangelist/streamlit) |
 | StreamYard | [streamyard](https://github.com/api-evangelist/streamyard) |
@@ -1672,6 +2171,8 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | SUMIF API | [sumif](https://github.com/api-evangelist/sumif) |
 | Sumo Logic | [sumo-logic](https://github.com/api-evangelist/sumo-logic) |
 | Subversion (SVN) | [svn](https://github.com/api-evangelist/svn) |
+| Swagger Codegen is SmartBear's original template-driven tool for generating API client SDKs and documentation from OpenAPI definitions. | [swagger-codegen](https://github.com/api-evangelist/swagger-codegen) |
+| SwaggerHub is SmartBear's enterprise collaborative API design and documentation platform built around the OpenAPI specification. | [swaggerhub](https://github.com/api-evangelist/swaggerhub) |
 | SWIFT | [swift](https://github.com/api-evangelist/swift) |
 | Sybase APIs | [sybase](https://github.com/api-evangelist/sybase) |
 | Symphony | [symphony](https://github.com/api-evangelist/symphony) |
@@ -1684,7 +2185,9 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Tableaux De Bord | [tableaux-de-bord](https://github.com/api-evangelist/tableaux-de-bord) |
 | Taddy API | [taddy-api](https://github.com/api-evangelist/taddy-api) |
 | Tagetik APIs | [tagetik](https://github.com/api-evangelist/tagetik) |
+| Talend (Qlik Talend Cloud) is a data-centric integration platform providing cloud-native data pipelines, quality, and governance. | [talend](https://github.com/api-evangelist/talend) |
 | Tallyman API | [tallyman](https://github.com/api-evangelist/tallyman) |
+| Tango | [tango](https://github.com/api-evangelist/tango) |
 | Tanium | [tanium](https://github.com/api-evangelist/tanium) |
 | Taxi - Describe how your APIs and Data relate | [taxi](https://github.com/api-evangelist/taxi) |
 | TeamCity | [teamcity](https://github.com/api-evangelist/teamcity) |
@@ -1699,9 +2202,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Telewerken APIs | [telewerken](https://github.com/api-evangelist/telewerken) |
 | Temenos APIs | [temenos](https://github.com/api-evangelist/temenos) |
 | Temenos Transact APIs | [temenos-transact](https://github.com/api-evangelist/temenos-transact) |
+| Temporal is an open-source durable execution platform for building reliable long-running distributed workflows and microservices. | [temporal](https://github.com/api-evangelist/temporal) |
 | TensorFlow | [tensorflow](https://github.com/api-evangelist/tensorflow) |
+| Ternary | [ternary](https://github.com/api-evangelist/ternary) |
 | Terraform | [terraform](https://github.com/api-evangelist/terraform) |
+| Terrain Discovery Environment Api | [terrain-discovery-environment-api](https://github.com/api-evangelist/terrain-discovery-environment-api) |
 | Tesla | [tesla](https://github.com/api-evangelist/tesla) |
+| Tetrate offers a hardened edge-to-workload application connectivity platform built on Istio for large-scale enterprise deployments. | [tetrate](https://github.com/api-evangelist/tetrate) |
 | The Administration for Children and Families | [the-administration-for-children-and-families](https://github.com/api-evangelist/the-administration-for-children-and-families) |
 | The Bureau of Economic Analysis | [the-bureau-of-economic-analysis](https://github.com/api-evangelist/the-bureau-of-economic-analysis) |
 | The Cat API | [the-cat-api](https://github.com/api-evangelist/the-cat-api) |
@@ -1721,8 +2228,10 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | TheSpaceDevs LL2 API | [thespacedevs-ll2-api](https://github.com/api-evangelist/thespacedevs-ll2-api) |
 | TheSports | [thesports](https://github.com/api-evangelist/thesports) |
 | TheSportsDB | [thesportsdb](https://github.com/api-evangelist/thesportsdb) |
+| Thomson Reuters | [thomson-reuters](https://github.com/api-evangelist/thomson-reuters) |
 | Thought Industries | [thought-industries](https://github.com/api-evangelist/thought-industries) |
 | Threads | [threads-api](https://github.com/api-evangelist/threads-api) |
+| Thunder Client is a lightweight REST API testing extension built directly into Visual Studio Code. | [thunder-client](https://github.com/api-evangelist/thunder-client) |
 | Thymeleaf | [thymeleaf](https://github.com/api-evangelist/thymeleaf) |
 | TIBCO | [tibco](https://github.com/api-evangelist/tibco) |
 | Ticketmaster | [ticketmaster](https://github.com/api-evangelist/ticketmaster) |
@@ -1736,10 +2245,10 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Todoist | [todoist](https://github.com/api-evangelist/todoist) |
 | Togai | [togai](https://github.com/api-evangelist/togai) |
 | TomTom | [tomtom](https://github.com/api-evangelist/tomtom) |
-| API Evangelist Tools | [toolz](https://github.com/api-evangelist/toolz) |
 | Toornament | [toornament](https://github.com/api-evangelist/toornament) |
 | Torii | [torii](https://github.com/api-evangelist/torii) |
 | Toyota | [toyota](https://github.com/api-evangelist/toyota) |
+| Trabex | [trabex](https://github.com/api-evangelist/trabex) |
 | Traceable | [traceable](https://github.com/api-evangelist/traceable) |
 | Tradeweb | [tradeweb](https://github.com/api-evangelist/tradeweb) |
 | Traefik Labs | [traefik-labs](https://github.com/api-evangelist/traefik-labs) |
@@ -1755,8 +2264,14 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Trimble Agriculture | [trimble-agriculture](https://github.com/api-evangelist/trimble-agriculture) |
 | Trino | [trino](https://github.com/api-evangelist/trino) |
 | Trioptima | [trioptima](https://github.com/api-evangelist/trioptima) |
+| Tripetto | [tripetto](https://github.com/api-evangelist/tripetto) |
 | Triton Inference Server | [triton](https://github.com/api-evangelist/triton) |
+| Tropic is an intelligent spend management platform covering SaaS procurement intake, contract renewal tracking, and vendor negotiation. | [tropic](https://github.com/api-evangelist/tropic) |
+| TrueFoundry AI Gateway is an enterprise-grade LLM gateway offering unified model access and governance. | [truefoundry](https://github.com/api-evangelist/truefoundry) |
+| Trustwell | [trustwell](https://github.com/api-evangelist/trustwell) |
+| Truto is a service-first unified API platform with 250+ integrations and customizable unified data models. | [truto](https://github.com/api-evangelist/truto) |
 | Tufin | [tufin](https://github.com/api-evangelist/tufin) |
+| Turbonomic is an IBM AI-driven application resource management platform that autonomously optimizes performance and cost across hybrid environments. | [turbonomic](https://github.com/api-evangelist/turbonomic) |
 | Tuya | [tuya](https://github.com/api-evangelist/tuya) |
 | Twilio | [twilio](https://github.com/api-evangelist/twilio) |
 | Twitch | [twitch](https://github.com/api-evangelist/twitch) |
@@ -1790,10 +2305,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | United Healthcare | [unitedhealthcare](https://github.com/api-evangelist/unitedhealthcare) |
 | Unity | [unity](https://github.com/api-evangelist/unity) |
 | UNIX System Call API | [unix](https://github.com/api-evangelist/unix) |
+| Unkey is an open-source developer platform for API key creation, rate limiting, usage analytics, and access control. | [unkey](https://github.com/api-evangelist/unkey) |
+| Unleash | [unleash](https://github.com/api-evangelist/unleash) |
 | Unpaywall | [unpaywall](https://github.com/api-evangelist/unpaywall) |
 | Unsplash | [unsplash](https://github.com/api-evangelist/unsplash) |
 | UpKeep | [upkeep](https://github.com/api-evangelist/upkeep) |
 | UPS | [ups](https://github.com/api-evangelist/ups) |
+| Upwork | [upwork](https://github.com/api-evangelist/upwork) |
 | US AbilityOne Commission | [us-abilityone-commission](https://github.com/api-evangelist/us-abilityone-commission) |
 | US African Development Foundation | [us-african-development-foundation](https://github.com/api-evangelist/us-african-development-foundation) |
 | US Air Force | [us-air-force](https://github.com/api-evangelist/us-air-force) |
@@ -1812,14 +2330,13 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | us-cyber-command | [us-cyber-command](https://github.com/api-evangelist/us-cyber-command) |
 | US Department of Commerce | [us-department-of-commerce](https://github.com/api-evangelist/us-department-of-commerce) |
 | US Department of Defense | [us-department-of-defense](https://github.com/api-evangelist/us-department-of-defense) |
-| US Geological Survey  | [us-geological-survey](https://github.com/api-evangelist/us-geological-survey) |
+| 'US Geological Survey ' | [us-geological-survey](https://github.com/api-evangelist/us-geological-survey) |
 | US House of Representatives | [us-house-of-representatives](https://github.com/api-evangelist/us-house-of-representatives) |
 | US Patent and Trademark Office | [us-patent-and-trademark-office](https://github.com/api-evangelist/us-patent-and-trademark-office) |
 | US Senate | [us-senate](https://github.com/api-evangelist/us-senate) |
 | US Space Command | [us-space-comman](https://github.com/api-evangelist/us-space-comman) |
 | USDA Agricultural Research Service (ARS) | [usda-agricultural-research-service-ars-](https://github.com/api-evangelist/usda-agricultural-research-service-ars-) |
 | USPTO Trademark Search API | [uspto-trademark-search-api](https://github.com/api-evangelist/uspto-trademark-search-api) |
-| API Evangelist Utilities | [utilities](https://github.com/api-evangelist/utilities) |
 | UtilityAPI | [utilityapi](https://github.com/api-evangelist/utilityapi) |
 | Vanta | [vanta](https://github.com/api-evangelist/vanta) |
 | Vantage | [vantage](https://github.com/api-evangelist/vantage) |
@@ -1827,6 +2344,8 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | HashiCorp Vault | [vault](https://github.com/api-evangelist/vault) |
 | Vehicle API | [vehicle-api](https://github.com/api-evangelist/vehicle-api) |
 | Vehicle Databases | [vehicle-databases](https://github.com/api-evangelist/vehicle-databases) |
+| Veli | [veli](https://github.com/api-evangelist/veli) |
+| Vendr is a SaaS procurement and contract management platform leveraging benchmarking data to negotiate better pricing. | [vendr](https://github.com/api-evangelist/vendr) |
 | Veracode | [veracode](https://github.com/api-evangelist/veracode) |
 | Vercel | [vercel](https://github.com/api-evangelist/vercel) |
 | Veritas Cluster Server APIs | [veritas-cluster](https://github.com/api-evangelist/veritas-cluster) |
@@ -1834,9 +2353,11 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Veritas NetBackup API | [veritas-netbackup](https://github.com/api-evangelist/veritas-netbackup) |
 | Veritas Volume Manager API | [veritas-volume-manager](https://github.com/api-evangelist/veritas-volume-manager) |
 | Verizon | [verizon](https://github.com/api-evangelist/verizon) |
+| Vertice is a SaaS and cloud cost optimization platform combining AI-enhanced procurement with global benchmarking data. | [vertice](https://github.com/api-evangelist/vertice) |
+| Veryfi | [veryfi](https://github.com/api-evangelist/veryfi) |
+| Vessel is a developer-first unified API for GTM tools providing a common data model across CRM, sales engagement, and marketing automation. | [vessel](https://github.com/api-evangelist/vessel) |
 | Vibes Platform | [vibes-platform](https://github.com/api-evangelist/vibes-platform) |
 | Videogesprek API | [videogesprek](https://github.com/api-evangelist/videogesprek) |
-| API Evangelist questions | [videos](https://github.com/api-evangelist/videos) |
 | Visa | [visa](https://github.com/api-evangelist/visa) |
 | Visa Acceptance | [visa-acceptance](https://github.com/api-evangelist/visa-acceptance) |
 | Microsoft Visio API | [visio](https://github.com/api-evangelist/visio) |
@@ -1847,7 +2368,6 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | VKS Integrations | [vks-integrations](https://github.com/api-evangelist/vks-integrations) |
 | vLex | [vlex](https://github.com/api-evangelist/vlex) |
 | VMware | [vmware](https://github.com/api-evangelist/vmware) |
-| API Evangelist Contracts | [vocabularies](https://github.com/api-evangelist/vocabularies) |
 | Voiden | [voiden](https://github.com/api-evangelist/voiden) |
 | Voiio | [voiio](https://github.com/api-evangelist/voiio) |
 | Volkswagen | [volkswagen](https://github.com/api-evangelist/volkswagen) |
@@ -1866,16 +2386,19 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Weaviate | [weaviate](https://github.com/api-evangelist/weaviate) |
 | Web of Science APIs | [web-of-science-apis](https://github.com/api-evangelist/web-of-science-apis) |
 | Webex | [webex](https://github.com/api-evangelist/webex) |
+| Webflow | [webflow](https://github.com/api-evangelist/webflow) |
+| Webflow Api And Documentation Webflow | [webflow-api-and-documentation-webflow](https://github.com/api-evangelist/webflow-api-and-documentation-webflow) |
 | Spring WebFlux APIs | [webflux](https://github.com/api-evangelist/webflux) |
 | Oracle WebLogic Server APIs | [weblogic](https://github.com/api-evangelist/weblogic) |
-| API Evangelist | [website](https://github.com/api-evangelist/website) |
 | IBM WebSphere | [websphere](https://github.com/api-evangelist/websphere) |
 | WegoWise | [wegowise](https://github.com/api-evangelist/wegowise) |
 | WhatsApp | [whatsapp](https://github.com/api-evangelist/whatsapp) |
 | Whisky Hunter | [whisky-hunter](https://github.com/api-evangelist/whisky-hunter) |
 | WHMCS | [whmcs](https://github.com/api-evangelist/whmcs) |
 | WildApricot | [wildapricot](https://github.com/api-evangelist/wildapricot) |
+| Windmill is an open-source developer platform and workflow engine for turning scripts into webhooks, workflows, and internal apps. | [windmill](https://github.com/api-evangelist/windmill) |
 | Wine-Searcher | [wine-searcher](https://github.com/api-evangelist/wine-searcher) |
+| Wine Vybe | [wine-vybe](https://github.com/api-evangelist/wine-vybe) |
 | WireMock | [wiremock](https://github.com/api-evangelist/wiremock) |
 | Wix | [wix](https://github.com/api-evangelist/wix) |
 | Wolfram|Alpha | [wolfram-alpha](https://github.com/api-evangelist/wolfram-alpha) |
@@ -1898,6 +2421,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Workday Tracking System | [workday-tracking-system](https://github.com/api-evangelist/workday-tracking-system) |
 | World News API | [world-news-api](https://github.com/api-evangelist/world-news-api) |
 | Wrike | [wrike](https://github.com/api-evangelist/wrike) |
+| WSO2 API Manager is an open-source API management platform supporting REST, SOAP, and GraphQL with flexible hybrid deployment. | [wso2](https://github.com/api-evangelist/wso2) |
 | WunderGraph | [wundergraph](https://github.com/api-evangelist/wundergraph) |
 | Wynsure APIs | [wynsure](https://github.com/api-evangelist/wynsure) |
 | X | [x](https://github.com/api-evangelist/x) |
@@ -1906,6 +2430,7 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Xiaomi | [xiaomi](https://github.com/api-evangelist/xiaomi) |
 | Ximilar | [ximilar](https://github.com/api-evangelist/ximilar) |
 | xweather | [xweather](https://github.com/api-evangelist/xweather) |
+| Yaak is an open-source local-first desktop API client supporting REST, GraphQL, WebSockets, SSE, and gRPC. | [yaak](https://github.com/api-evangelist/yaak) |
 | Yahoo | [yahoo](https://github.com/api-evangelist/yahoo) |
 | Yardi | [yardi](https://github.com/api-evangelist/yardi) |
 | Yardi Propware API | [yardi-propware](https://github.com/api-evangelist/yardi-propware) |
@@ -1934,9 +2459,3 @@ A comprehensive directory of all APIs.json files maintained across the API Evang
 | Zyla | [zyla](https://github.com/api-evangelist/zyla) |
 | Zylo | [zylo](https://github.com/api-evangelist/zylo) |
 | Zype | [zype](https://github.com/api-evangelist/zype) |
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** info@apievangelist.com
