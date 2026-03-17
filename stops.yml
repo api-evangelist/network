@@ -1,0 +1,92 @@
+name: API Evangelist Lifecycle Stops
+description: The 85 stops along the API lifecycle as defined by the API Evangelist.
+url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/stops.yml
+source: https://apievangelist.com/2017/08/16/the-85-stops-along-the-api-lifecycle-i-track-on/
+created: '2026-03-16'
+modified: '2026-03-16'
+total: 85
+stops:
+  - name: Accessibility
+  - name: Acquisitions
+  - name: Aggregation
+  - name: Algorithms
+  - name: Analysis
+  - name: Authentication
+  - name: Backups
+  - name: Bots
+  - name: Branding
+  - name: Breaches
+  - name: Browsers
+  - name: Caching
+  - name: Certification
+  - name: Change Log
+  - name: Client
+  - name: Command Line Interface
+  - name: Communications
+  - name: Containers
+  - name: Copyright
+  - name: Cybersecurity
+  - name: Database
+  - name: Definitions
+  - name: Deployment
+  - name: Design
+  - name: Discovery
+  - name: DNS
+  - name: Documentation
+  - name: Embeddable
+  - name: Encryption
+  - name: Evangelism
+  - name: Frequently Asked Questions
+  - name: Getting Started
+  - name: Hypermedia
+  - name: IDE
+  - name: Industrial
+  - name: Integrations
+  - name: Internet of Things
+  - name: Investment
+  - name: iPaaS
+  - name: Issues
+  - name: Licensing
+  - name: Logging
+  - name: Low Hanging Fruit
+  - name: Machine Learning
+  - name: Management
+  - name: Microservices
+  - name: Migration
+  - name: Monetization
+  - name: Monitoring
+  - name: Network
+  - name: Observability
+  - name: Orchestration
+  - name: Partners
+  - name: Patents
+  - name: Performance
+  - name: Plans
+  - name: Plugin
+  - name: Portal
+  - name: Privacy
+  - name: Proxy
+  - name: Real Time
+  - name: Reclaim
+  - name: Regulation
+  - name: Reliability
+  - name: Road Map
+  - name: Rogue
+  - name: SDK
+  - name: Scraping
+  - name: Search
+  - name: Security
+  - name: Serverless
+  - name: Showcase
+  - name: Spreadsheets
+  - name: Support
+  - name: Surveillance
+  - name: Terms of Service
+  - name: Testing
+  - name: Transparency
+  - name: Versioning
+  - name: Virtualization
+  - name: Visualization
+  - name: Voice
+  - name: Webhooks
+  - name: Deprecation

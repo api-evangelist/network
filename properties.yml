@@ -1,0 +1,182 @@
+name: API Evangelist Network Properties
+description: All properties employed across apis.yml files in the API Evangelist network, organized by level.
+url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/properties.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+
+topLevel:
+  description: Properties used at the root level of an apis.yml file.
+  properties:
+    - name: name
+      description: Title or name of the API project or collection.
+    - name: description
+      description: Full description of the API project or collection.
+    - name: url
+      description: Primary URL or repository URL for the project.
+    - name: baseURL
+      description: Base URL for API endpoints.
+    - name: humanURL
+      description: Human-readable documentation or landing page URL.
+    - name: image
+      description: Icon or logo image URL for the project.
+    - name: tags
+      description: Array of categorization tags applied to the project.
+    - name: created
+      description: Date the file was first created.
+    - name: modified
+      description: Date the file was last modified.
+    - name: specificationVersion
+      description: Version of the apis.json/apis.yml specification format.
+    - name: type
+      description: Type of specification (e.g. Index, Contract).
+    - name: aid
+      description: Unique API identifier for the project.
+    - name: access
+      description: Access level designation (e.g. 3rd-Party, Internal).
+    - name: apis
+      description: Array of individual API entries.
+    - name: common
+      description: Array of common properties shared across APIs in the project.
+    - name: properties
+      description: Array of property/resource links at the project level.
+    - name: maintainers
+      description: Array of maintainer contact entries.
+    - name: maintainer
+      description: Single maintainer contact entry.
+    - name: segments
+      description: Segments or categories for the project.
+    - name: jsonLdUrl
+      description: URL to a JSON-LD context file.
+    - name: position
+      description: Role or position descriptor (e.g. Consumer, Producer).
+
+apiLevel:
+  description: Properties used inside individual entries under the apis array.
+  properties:
+    - name: name
+      description: Name of the specific API.
+    - name: description
+      description: Description of the specific API.
+    - name: aid
+      description: Unique API identifier for this API entry.
+    - name: humanURL
+      description: Documentation or landing page URL for this API.
+    - name: baseURL
+      description: Base endpoint URL for this API.
+    - name: image
+      description: Icon or logo image URL for this API.
+    - name: tags
+      description: Array of tags applied to this API.
+    - name: properties
+      description: Array of property/resource links for this API.
+    - name: contact
+      description: Array of contact entries for this API.
+    - name: operations
+      description: Array of operations or endpoints for this API.
+    - name: method
+      description: HTTP method for an operation (e.g. GET, POST).
+    - name: endpoint
+      description: Path or endpoint URL for an operation.
+
+commonLevel:
+  description: Properties used inside entries under the common or commonProperties array.
+  properties:
+    - name: type
+      description: Type of the common resource (e.g. Documentation, Support, OpenAPI).
+    - name: url
+      description: URL to the common resource.
+    - name: title
+      description: Title of the common resource.
+    - name: name
+      description: Name of the common resource.
+    - name: description
+      description: Description of the common resource.
+    - name: data
+      description: Structured data payload for complex property types (e.g. Pricing, RateLimits, Features).
+
+propertyTypes:
+  description: Known values for the type field used in properties and common entries.
+  types:
+    - name: OpenAPI
+    - name: AsyncAPI
+    - name: JSONSchema
+    - name: JSONLD
+    - name: Documentation
+    - name: APIReference
+    - name: GettingStarted
+    - name: Quickstart
+    - name: Tutorials
+    - name: CodeExamples
+    - name: SDK
+    - name: CLI
+    - name: IDESupport
+    - name: Console
+    - name: Sandbox
+    - name: Authentication
+    - name: SignUp
+    - name: Login
+    - name: Pricing
+    - name: Plans
+    - name: Tiers
+    - name: RateLimits
+    - name: Features
+    - name: UseCases
+    - name: Integrations
+    - name: Marketplace
+    - name: Partners
+    - name: DeveloperPortal
+    - name: Portal
+    - name: Blog
+    - name: Newsletter
+    - name: YouTube
+    - name: Webinars
+    - name: Events
+    - name: Training
+    - name: Courses
+    - name: Academy
+    - name: Customers
+    - name: Showcase
+    - name: Support
+    - name: FAQ
+    - name: Troubleshooting
+    - name: Contact
+    - name: StatusPage
+    - name: ChangeLog
+    - name: ReleaseNotes
+    - name: Versioning
+    - name: Glossary
+    - name: BestPractices
+    - name: Errors
+    - name: Regions
+    - name: Models
+    - name: Security
+    - name: TermsOfService
+    - name: PrivacyPolicy
+    - name: Compliance
+    - name: Legal
+    - name: DataPrivacy
+    - name: TrustCenter
+    - name: Branding
+    - name: GitHubRepository
+    - name: GitHubOrganization
+    - name: StackOverflow
+    - name: X
+    - name: LinkedIn
+    - name: ProfessionalServices
+    - name: KnowledgeCenter
+    - name: Hub
+    - name: Resources
+
+contactProperties:
+  description: Properties used inside contact and maintainer entries.
+  properties:
+    - name: FN
+      description: Full name of the contact person or organization.
+    - name: name
+      description: Name of the contact person or organization.
+    - name: email
+      description: Email address for the contact.
+    - name: url
+      description: Website or profile URL for the contact.
+    - name: type
+      description: Type of contact role (e.g. Support).
