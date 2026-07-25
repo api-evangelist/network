@@ -1,7 +1,7 @@
 specification: API Evangelist Service Provider Index
 specificationVersion: '0.1'
 created: '2026-05-16'
-count: 4483
+count: 4481
 providers:
 - slug: 01-ai
   name: 01.AI
@@ -45463,19 +45463,6 @@ providers:
   - Ticketing
   repo_url: https://github.com/api-evangelist/salesforce-service-cloud
   api_count: 10
-- slug: salesforcecom
-  name: Salesforce
-  description: Salesforce is a global leader in customer relationship management (CRM) software and cloud-based applications. The Salesforce Platform provides a comprehensive suite of APIs for sales, service,
-    marketing, commerce, integration, analytics, and platform development including Agentforce AI capabilities.
-  tags:
-  - CRM
-  - Cloud
-  - Sales
-  - Marketing
-  - Automation
-  - AI
-  repo_url: https://github.com/api-evangelist/salesforcecom
-  api_count: 9
 - slug: salesloft
   name: Salesloft
   description: Salesloft is a sales engagement and revenue orchestration platform. APIs cover cadences, people, accounts, calls, emails, meetings, and webhooks.

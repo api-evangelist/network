@@ -50627,12 +50627,6 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
-  - name: salesforcecom
-    url: https://github.com/api-evangelist/salesforcecom
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 2
-    x-tier-reason: company-strong
   - name: salesloft
     url: https://github.com/api-evangelist/salesloft
     x-type: company

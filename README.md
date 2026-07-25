@@ -2,7 +2,7 @@
 
 A network index of all APIs.json files maintained by the API Evangelist organization, providing a comprehensive directory of API definitions across the network.
 
-- **Total repos:** 10210
+- **Total repos:** 10209
 - **Last updated:** 2026-07-02
 - **Specification version:** 0.19
 
@@ -7931,7 +7931,6 @@ is the front door for those.
 | salesforce-net-zero-cloud | https://github.com/api-evangelist/salesforce-net-zero-cloud |
 | salesforce-sales-cloud | https://github.com/api-evangelist/salesforce-sales-cloud |
 | salesforce-service-cloud | https://github.com/api-evangelist/salesforce-service-cloud |
-| salesforcecom | https://github.com/api-evangelist/salesforcecom |
 | salesloft | https://github.com/api-evangelist/salesloft |
 | salla | https://github.com/api-evangelist/salla |
 | sally-beauty-holdings | https://github.com/api-evangelist/sally-beauty-holdings |
