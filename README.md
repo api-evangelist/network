@@ -6720,7 +6720,6 @@ is the front door for those.
 | openprise | https://github.com/api-evangelist/openprise |
 | openproject | https://github.com/api-evangelist/openproject |
 | openprovider | https://github.com/api-evangelist/openprovider |
-| openregistry | https://github.com/api-evangelist/openregistry |
 | openreplay | https://github.com/api-evangelist/openreplay |
 | openrouter | https://github.com/api-evangelist/openrouter |
 | openrouteservice | https://github.com/api-evangelist/openrouteservice |

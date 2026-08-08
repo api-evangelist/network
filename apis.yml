@@ -42703,13 +42703,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: openregistry
-  url: https://github.com/api-evangelist/openregistry
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: openreplay
   url: https://github.com/api-evangelist/openreplay
   x-type: opensource
