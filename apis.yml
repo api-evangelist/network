@@ -5221,6 +5221,13 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
+- name: api-evangelist
+  url: https://github.com/api-evangelist/api-evangelist
+  x-profiled: '2026-08-10'
+  x-type: company
+  x-tier: 1
+  x-tier-reason: has-20-apis
+  x-first-party: true
 - name: api-fiddle
   url: https://github.com/api-evangelist/api-fiddle
   x-type: company
@@ -5517,9 +5524,10 @@ network:
 - name: apis-io
   url: https://github.com/api-evangelist/apis-io
   x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
+  x-profiled: '2026-08-10'
+  x-tier: 1
+  x-tier-reason: has-12-apis
+  x-first-party: true
 - name: apishare
   url: https://github.com/api-evangelist/apishare
   x-type: company
