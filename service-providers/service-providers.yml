@@ -50350,7 +50350,7 @@ providers:
     and metering capabilities. It enables engineering and product teams to manage feature flags, define subscription plans,
     track feature usage, and control customer entitlements without code changes. Schematic raised $6.5M in April 2026 and
     launched an official Stripe App for entitlement management as a first-class billing primitive. Customers include Plotly,
-    Automox, Florence, Blackcloak, Sema4.ai, and Pagos.
+    Automox, Florence, Sema4.ai, and Pagos.
   tags:
   - Billing
   - Entitlements
