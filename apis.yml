@@ -5,7 +5,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.j
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/apis.yml
 created: '2026-02-27'
 modified: '2026-07-02'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 kind: network
 tags:
 - Directory
