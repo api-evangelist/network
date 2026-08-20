@@ -1962,6 +1962,9 @@ network:
   x-type: company
   description: API documentation and developer resources for Allianz insurance and financial services.
   tags:
+  - Financial-Services
+  - Insurance
+  tags_raw:
   - Financial Services
   - Insurance
   x-profiled: 2026-05
@@ -1987,6 +1990,11 @@ network:
   description: APIs for the Allianz Future Cloud Platform providing insurance and financial services capabilities including
     policy management, claims processing, and customer management.
   tags:
+  - Cloud Platform
+  - Enterprise
+  - Financial-Services
+  - Insurance
+  tags_raw:
   - Cloud Platform
   - Enterprise
   - Financial Services
@@ -2044,6 +2052,13 @@ network:
     unified API, and connectivity API products that let companies launch native integrations, build workflows, and connect
     to 1000+ apps with a single endpoint.
   tags:
+  - Automation
+  - Embedded Integrations
+  - Integration
+  - iPaaS
+  - Unified-API
+  - Workflows
+  tags_raw:
   - Automation
   - Embedded Integrations
   - Integrations
@@ -2284,6 +2299,12 @@ network:
   tags:
   - Content
   - Hotels
+  - Image
+  - Media
+  - Travel
+  tags_raw:
+  - Content
+  - Hotels
   - Images
   - Media
   - Travel
@@ -2359,6 +2380,13 @@ network:
   tags:
   - AWS
   - Frontend
+  - Full-Stack
+  - Hosting
+  - Mobile Development
+  - Web Applications
+  tags_raw:
+  - AWS
+  - Frontend
   - Full Stack
   - Hosting
   - Mobile Development
@@ -2425,6 +2453,14 @@ network:
     applications like Salesforce, SAP, Zendesk, Slack, and ServiceNow, and AWS services like Amazon S3 and Amazon Redshift,
     in just a few clicks.
   tags:
+  - AWS
+  - Connectors
+  - Dataflows
+  - Data Transfer
+  - ETL
+  - Integration
+  - Software-as-a-Service
+  tags_raw:
   - AWS
   - Connectors
   - Data Flow
@@ -2567,6 +2603,13 @@ network:
     models for text generation, summarization, image generation, and conversational AI without managing infrastructure. Bedrock
     supports model customization, fine-tuning, and retrieval-augmented generation (RAG) to tailor models to specific use cases.
   tags:
+  - Artificial Intelligence
+  - AWS
+  - Foundation Models
+  - Generative AI
+  - LLM
+  - Machine-Learning
+  tags_raw:
   - AI
   - AWS
   - Foundation Models
@@ -2738,6 +2781,12 @@ network:
     produces ready-to-deploy software packages, eliminating the need to provision, manage, and scale your own build servers.
   tags:
   - AWS
+  - Builds
+  - CI/CD
+  - Continuous Integration
+  - DevOps
+  tags_raw:
+  - AWS
   - Build
   - CI/CD
   - Continuous Integration
@@ -2824,6 +2873,11 @@ network:
   - Authentication
   - AWS
   - Identity
+  - User Management
+  tags_raw:
+  - Authentication
+  - AWS
+  - Identity
   - OAuth
   - User Management
   x-profiled: 2026-05
@@ -2836,6 +2890,12 @@ network:
     in unstructured data. The service can identify critical elements in data, including references to language, people, and
     places.
   tags:
+  - AWS
+  - Machine-Learning
+  - Natural Language Processing
+  - NLP
+  - Text Analysis
+  tags_raw:
   - AWS
   - Machine Learning
   - Natural Language Processing
