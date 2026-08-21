@@ -41250,17 +41250,6 @@ providers:
   - Sales Automation
   repo_url: https://github.com/api-evangelist/nutshell
   api_count: 2
-- slug: nuxgame
-  name: NuxGame
-  description: NuxGame offers a one-stop casino platform to take any online gambling project to the next level. With 130 top
-    iGaming providers and 13,500 fan-favorite games, all you need is a single casino API integration.
-  tags:
-  - Casino
-  - Gambling
-  - iGaming
-  - Betting
-  repo_url: https://github.com/api-evangelist/nuxgame
-  api_count: 1
 - slug: nvd
   name: NVD
   description: The National Vulnerability Database (NVD) provides REST APIs for CVE (Common Vulnerabilities and Exposures)

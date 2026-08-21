@@ -40998,12 +40998,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: nuxgame
-  url: https://github.com/api-evangelist/nuxgame
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: nvd
   url: https://github.com/api-evangelist/nvd
   x-type: company

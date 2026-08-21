@@ -6442,7 +6442,6 @@ is the front door for those.
 | nutshell | https://github.com/api-evangelist/nutshell |
 | nuvei | https://github.com/api-evangelist/nuvei |
 | nuxeo | https://github.com/api-evangelist/nuxeo |
-| nuxgame | https://github.com/api-evangelist/nuxgame |
 | nvd | https://github.com/api-evangelist/nvd |
 | nvidia | https://github.com/api-evangelist/nvidia |
 | nvidia-nim | https://github.com/api-evangelist/nvidia-nim |
