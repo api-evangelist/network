@@ -2391,7 +2391,7 @@ network:
   tags:
   - AWS
   - Frontend
-  - Full-Stack
+  - Full Stack
   - Hosting
   - Mobile Development
   - Web Applications
@@ -2466,7 +2466,7 @@ network:
   tags:
   - AWS
   - Connectors
-  - Dataflows
+  - Data Flow
   - Data Transfer
   - ETL
   - Integration
