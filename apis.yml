@@ -4174,15 +4174,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: american-tower
-  url: https://github.com/api-evangelist/american-tower
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: american-water-works
   url: https://github.com/api-evangelist/american-water-works
   x-type: company

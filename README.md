@@ -662,7 +662,6 @@ is the front door for those.
 | american-international | https://github.com/api-evangelist/american-international |
 | american-national-insurance | https://github.com/api-evangelist/american-national-insurance |
 | american-tire-distributors-holdings | https://github.com/api-evangelist/american-tire-distributors-holdings |
-| american-tower | https://github.com/api-evangelist/american-tower |
 | american-water-works | https://github.com/api-evangelist/american-water-works |
 | american-woodmark | https://github.com/api-evangelist/american-woodmark |
 | americold-realty-trust | https://github.com/api-evangelist/americold-realty-trust |
